@@ -57,8 +57,9 @@ for dirname, dirnames, filenames in os.walk('.'):
                             standard_tags[id] = "{}{}".format(tag_type[tag.tag], tag_num[tag.tag])
                             tag_num[tag.tag] += 1
                         for tag in source_tags:
-                            for key in tag.keys():
-                                tag.set(key, standardize(tag.attrib[key], standard_tags))
+                            for key in ["id", "fromID", "toID"]:
+                                if key in tag.attrib:
+                                    tag.set(key, standard_tags[tag.attrib[key]])
                             tags.append(tag)
 
 text_segments.sort()
