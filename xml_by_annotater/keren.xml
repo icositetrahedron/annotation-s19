@@ -1,13 +1,13 @@
-<root><TemporalDirections><TEXT>9,GEORGE,"Are, are you sure this is decaf? Wheres the orange indicator?",1.0,S01E01,1.0
-10,CLAIRE,"Its missing, I have to do it in my head decaf left, regular right, decaf left, regular right...its very challenging work.",1.0,S01E01,1.0
-11,JERRY,"Can you relax, its a cup of coffee. Claire is a professional waitress.",1.0,S01E01,1.0
-12,CLAIRE,Trust me George. No one has any interest in seeing you on caffeine.,1.0,S01E01,1.0
-13,GEORGE,How come youre not doin the second show tomorrow?,1.0,S01E01,1.0
-14,JERRY,"Well, theres this uh, woman might be comin in.",1.0,S01E01,1.0
-15,GEORGE,"Wait a second, wait a second, what coming in, what woman is coming in?",1.0,S01E01,1.0
-16,JERRY,"I told you about Laura, the girl I met in Michigan?",1.0,S01E01,1.0
-17,GEORGE,"No, you didnt!",1.0,S01E01,1.0
-18,JERRY,"I thought I told you about it, yes, she teaches political science? I met her the night I did the show in Lansing...",1.0,S01E01,1.0
+<root><TemporalDirections><TEXT>,Character,Dialogue,EpisodeNo,SEID,Season
+0,JERRY,"Do you know what this is all about? Do you know, why were here? To be out, this is out...and out is one of the single most enjoyable experiences of life. People...did you ever hear people talking about We should go out? This is what theyre talking about...this whole thing, were all out now, no one is home. Not one person here is home, were all out! There are people tryin to find us, they dont know where we are. (on an imaginary phone) Did you ring?, I cant find him. Where did he go? He didnt tell me where he was going. He must have gone out. You wanna go out you get ready, you pick out the clothes, right? You take the shower, you get all ready, get the cash, get your friends, the car, the spot, the reservation...Then youre standing around, whatta you do? You go We gotta be getting back. Once youre out, you wanna get back! You wanna go to sleep, you wanna get up, you wanna go out again tomorrow, right? Where ever you are in life, its my feeling, youve gotta go.",1.0,S01E01,1.0
+1,JERRY,"(pointing at Georges shirt) See, to me, that button is in the worst possible spot. The second button literally makes or breaks the shirt, look at it. Its too high! Its in no-mans-land. You look like you live with your mother.",1.0,S01E01,1.0
+2,GEORGE,Are you through?,1.0,S01E01,1.0
+3,JERRY,"You do of course try on, when you buy?",1.0,S01E01,1.0
+4,GEORGE,"Yes, it was purple, I liked it, I dont actually recall considering the buttons.",1.0,S01E01,1.0
+5,JERRY,"Oh, you dont recall?",1.0,S01E01,1.0
+6,GEORGE,"(on an imaginary microphone) Uh, no, not at this time.",1.0,S01E01,1.0
+7,JERRY,"Well, senator, Id just like to know, what you knew and when you knew it.",1.0,S01E01,1.0
+8,CLAIRE,Mr. Seinfeld. Mr. Costanza.,1.0,S01E01,1.0
 9,GEORGE,"Are, are you sure this is decaf? Wheres the orange indicator?",1.0,S01E01,1.0
 10,CLAIRE,"Its missing, I have to do it in my head decaf left, regular right, decaf left, regular right...its very challenging work.",1.0,S01E01,1.0
 11,JERRY,"Can you relax, its a cup of coffee. Claire is a professional waitress.",1.0,S01E01,1.0
@@ -28,26 +28,6 @@
 26,JERRY,Yeah.,1.0,S01E01,1.0
 27,GEORGE,This is great!,1.0,S01E01,1.0
 28,JERRY,Yeah.,1.0,S01E01,1.0
-19,GEORGE,Ha.,1.0,S01E01,1.0
-20,JERRY,"(looks in the creamer) Theres no milk in here, what...",1.0,S01E01,1.0
-21,GEORGE,"Wait wait wait, what is she... (takes the milk can from Jerry and puts it on the table) What is she like?",1.0,S01E01,1.0
-22,JERRY,"Oh, shes really great. I mean, shes got like a real warmth about her and shes really bright and really pretty and uh... the conversation though, I mean, it was... talking with her is like talking with you, but, you know, obviously much better.",1.0,S01E01,1.0
-23,GEORGE,"(smiling) So, you know, what, what happened?",1.0,S01E01,1.0
-24,JERRY,"Oh, nothing happened, you know, but is was great.",1.0,S01E01,1.0
-25,GEORGE,"Oh, nothing happened, but it was...",1.0,S01E01,1.0
-26,JERRY,Yeah.,1.0,S01E01,1.0
-27,GEORGE,This is great!,1.0,S01E01,1.0
-28,JERRY,Yeah.,1.0,S01E01,1.0
-29,GEORGE,"So, you know, she calls and says she wants to go out with you tomorrow night? God bless! Devil you!",1.0,S01E01,1.0
-30,JERRY,"Yeah, well...not exactly. I mean, she said, you know, she called this morning and said she had to come in for a seminar and maybe well get together.",1.0,S01E01,1.0
-31,GEORGE,"(whistles disapprovingly) Ho ho ho, Had to? Had to come in?",1.0,S01E01,1.0
-32,JERRY,"Yeah, but...",1.0,S01E01,1.0
-33,GEORGE,Had to come in and maybe well get together? Had to and maybe?,1.0,S01E01,1.0
-34,JERRY,Yeah!,1.0,S01E01,1.0
-35,GEORGE,"No...no...no, I hate to tell you this. Youre not gonna see this woman.",1.0,S01E01,1.0
-36,JERRY,"What, are you serious...why, why did she call?",1.0,S01E01,1.0
-37,GEORGE,"How do I know, maybe, you know, maybe she wanted to be polite.",1.0,S01E01,1.0
-38,JERRY,To be polite? You are insane!,1.0,S01E01,1.0
 29,GEORGE,"So, you know, she calls and says she wants to go out with you tomorrow night? God bless! Devil you!",1.0,S01E01,1.0
 30,JERRY,"Yeah, well...not exactly. I mean, she said, you know, she called this morning and said she had to come in for a seminar and maybe well get together.",1.0,S01E01,1.0
 31,GEORGE,"(whistles disapprovingly) Ho ho ho, Had to? Had to come in?",1.0,S01E01,1.0
@@ -68,26 +48,6 @@
 46,GEORGE,"(to Claire) Now, a woman calls me, all right?",1.0,S01E01,1.0
 47,CLAIE,Uh huh.,1.0,S01E01,1.0
 48,GEORGE,She says she has to come to New York on business...,1.0,S01E01,1.0
-39,GEORGE,"All right, all right, I didnt want to tell you this. You wanna know why she called you?",1.0,S01E01,1.0
-40,JERRY,Yes!,1.0,S01E01,1.0
-41,GEORGE,"Youre a back-up, youre a second-line, a just-in-case, a B-plan, a contingency!",1.0,S01E01,1.0
-42,JERRY,"Oh, I get it, this is about the button.",1.0,S01E01,1.0
-43,GEORGE,"Claire, Claire, youre a woman, right?",1.0,S01E01,1.0
-44,CLAIRE,"What gave it away, George?",1.0,S01E01,1.0
-45,GEORGE,"Uhm...Id like to ask you...ask you to analyze a hypothetical phone call, you know, from a female point of view.",1.0,S01E01,1.0
-46,GEORGE,"(to Claire) Now, a woman calls me, all right?",1.0,S01E01,1.0
-47,CLAIE,Uh huh.,1.0,S01E01,1.0
-48,GEORGE,She says she has to come to New York on business...,1.0,S01E01,1.0
-49,JERRY,Oh you are beautiful!,1.0,S01E01,1.0
-50,GEORGE,"...and, and maybe shell see me when she gets there, does this woman intend to spend time with me?",1.0,S01E01,1.0
-51,CLAIRE,"Id have to say, uuhh, no.",1.0,S01E01,1.0
-52,(George shows his note-block to Jerry; it says very largely,NO.),1.0,S01E01,1.0
-53,CLAIRE,To be polite.,1.0,S01E01,1.0
-54,GEORGE,To be polite. I rest my case.,1.0,S01E01,1.0
-55,JERRY,"Good. Did you have fun? You have no idea, what youre talking about, now, come on, come with me. (stands up) I gotta go get my stuff out of the dryer anyway.",1.0,S01E01,1.0
-56,GEORGE,Im not gonna watch you do laundry.,1.0,S01E01,1.0
-57,JERRY,"Oh, come on, be a come-with guy.",1.0,S01E01,1.0
-58,GEORGE,"Come on, Im tired.",1.0,S01E01,1.0
 49,JERRY,Oh you are beautiful!,1.0,S01E01,1.0
 50,GEORGE,"...and, and maybe shell see me when she gets there, does this woman intend to spend time with me?",1.0,S01E01,1.0
 51,CLAIRE,"Id have to say, uuhh, no.",1.0,S01E01,1.0
@@ -108,26 +68,6 @@
 66,JERRY,Laura.,1.0,S01E01,1.0
 67,GEORGE,I cant believe- (falls on his knees) WE ALREADY DISCUSSED THIS!,1.0,S01E01,1.0
 68,JERRY,"Yeah, but how could you be so sure?",1.0,S01E01,1.0
-59,CLAIRE,"(to Jerry) Dont worry, I gave him a little caffeine. Hell perk up.",1.0,S01E01,1.0
-60,GEORGE,"(panicking) Right, I knew I felt something!",1.0,S01E01,1.0
-61,GEORGE,Jerry? I have to tell you something. This is the dullest moment Ive ever experienced.,1.0,S01E01,1.0
-62,JERRY,"Well, look at this guy. Look, hes got everything, hes got detergents, sprays, fabric softeners.  This is not his first load.",1.0,S01E01,1.0
-63,GEORGE,"I need a break, Jerry, you know. I gotta get out of the city. I feel so cramped...",1.0,S01E01,1.0
-64,JERRY,And you didnt even hear how she sounded.,1.0,S01E01,1.0
-65,GEORGE,What?!,1.0,S01E01,1.0
-66,JERRY,Laura.,1.0,S01E01,1.0
-67,GEORGE,I cant believe- (falls on his knees) WE ALREADY DISCUSSED THIS!,1.0,S01E01,1.0
-68,JERRY,"Yeah, but how could you be so sure?",1.0,S01E01,1.0
-69,GEORGE,"Cause its signals, Jerry, its signals! (snapping his fingers) Dont you- all right. Did she even ask you, what you were doin tomorrow night, if you were busy?",1.0,S01E01,1.0
-70,JERRY,No.,1.0,S01E01,1.0
-71,GEORGE,She calls you today and she doesnt make a plan for tomorrow? What is that? Its Saturday night!,1.0,S01E01,1.0
-72,JERRY,Yeah.,1.0,S01E01,1.0
-73,GEORGE,"What is that? Its ridiculous! You dont even know what hotel shes staying at, you cant call her. Thats a signal, Jerry, thats a signal! (snaps his fingers) Signal!",1.0,S01E01,1.0
-74,JERRY,Maybe youre right.,1.0,S01E01,1.0
-75,GEORGE,Maybe Im right? Of course Im right.,1.0,S01E01,1.0
-76,JERRY,"This is insane. You know, I dont even know where shes staying! She, shes not gonna call me, this is unbelievable.",1.0,S01E01,1.0
-77,GEORGE,"I know, I know. Listen, your stuff has to be done by now, why dont you just see if its dry?",1.0,S01E01,1.0
-78,JERRY,"No no no, dont interrupt the cycle. The machine is working, it, it knows what its doing. Just let it finish.",1.0,S01E01,1.0
 69,GEORGE,"Cause its signals, Jerry, its signals! (snapping his fingers) Dont you- all right. Did she even ask you, what you were doin tomorrow night, if you were busy?",1.0,S01E01,1.0
 70,JERRY,No.,1.0,S01E01,1.0
 71,GEORGE,She calls you today and she doesnt make a plan for tomorrow? What is that? Its Saturday night!,1.0,S01E01,1.0
@@ -148,26 +88,6 @@
 86,JERRY,"Laundry day is the only exciting day in the life of clothes. It is...yknow, think about it. The washing machine is the nightclub of clothes. You know, its dark, theres bubbles happening, theyre all kinda dancing around in there- shirt grabs the underwear, Cmon babe, lets go. You come by, you open up the lid and theyll- (stiffens up, as the clothes) Socks are the most amazing article of clothing. They hate their lives, theyre in the shoes with stinky feet, the boring drawers. The dryer is their only chance to escape and they all know it. They knew a escape from the dryer. They plan it in the hamper the night before, Tomorrow, the dryer, Im goin. You wait here! The dryer door swings open and the sock is waiting up against the side wall. He hopes you dont see him and then he goes down the road. They get buttons sewn on their faces, join a puppet show. So theyre showing me on television the detergent for getting out bloodstains. Is this a violent image to anybody? Bloodstains? I mean, come on, you got a T-shirt with bloodstains all over it, maybe laundry isnt your biggest problem right now. You gotta get the harpoon out your chest first.",1.0,S01E01,1.0
 87,JERRY,"(answering, quickly) If you know what happened in the Met game, dont say anything, I taped it, hello. Yeah, no, Im sorry, you have the wrong number. Yeah, no",1.0,S01E01,1.0
 88,JERRY,(to the door) Yeah?,1.0,S01E01,1.0
-79,GEORGE,Youre gonna overdry it.,1.0,S01E01,1.0
-80,JERRY,"You, you cant overdry.",1.0,S01E01,1.0
-81,GEORGE,Why not?,1.0,S01E01,1.0
-82,JERRY,"Same as you cant overwet. You see, once something is wet, its wet. Same thing with death. Like once you die youre dead, right? Lets say you drop dead and I shoot you. Youre not gonna die again, youre already dead. You cant overdie, you cant overdry.",1.0,S01E01,1.0
-83,GEORGE,(to the other laundry patrons) Any questions?,1.0,S01E01,1.0
-84,JERRY,How could she not tell me where she was staying?,1.0,S01E01,1.0
-85,GEORGE,Look at that. Theyre done!,1.0,S01E01,1.0
-86,JERRY,"Laundry day is the only exciting day in the life of clothes. It is...yknow, think about it. The washing machine is the nightclub of clothes. You know, its dark, theres bubbles happening, theyre all kinda dancing around in there- shirt grabs the underwear, Cmon babe, lets go. You come by, you open up the lid and theyll- (stiffens up, as the clothes) Socks are the most amazing article of clothing. They hate their lives, theyre in the shoes with stinky feet, the boring drawers. The dryer is their only chance to escape and they all know it. They knew a escape from the dryer. They plan it in the hamper the night before, Tomorrow, the dryer, Im goin. You wait here! The dryer door swings open and the sock is waiting up against the side wall. He hopes you dont see him and then he goes down the road. They get buttons sewn on their faces, join a puppet show. So theyre showing me on television the detergent for getting out bloodstains. Is this a violent image to anybody? Bloodstains? I mean, come on, you got a T-shirt with bloodstains all over it, maybe laundry isnt your biggest problem right now. You gotta get the harpoon out your chest first.",1.0,S01E01,1.0
-87,JERRY,"(answering, quickly) If you know what happened in the Met game, dont say anything, I taped it, hello. Yeah, no, Im sorry, you have the wrong number. Yeah, no",1.0,S01E01,1.0
-88,JERRY,(to the door) Yeah?,1.0,S01E01,1.0
-89,KESSLER,Are you up?,1.0,S01E01,1.0
-90,JERRY,"(to Kessler) Yeah. (to the phone) Yeah, people do move. Have you ever seen the big trucks out on the street? Yeah, no problem.",1.0,S01E01,1.0
-91,KESSLER,"Boy, the Mets blew it tonight, huh?",1.0,S01E01,1.0
-92,JERRY,"(upset) Ohhhh, what are you doing? Kessler, its a tape! I taped the game, its one oclock in the morning! I avoided human contact all night to watch this.",1.0,S01E01,1.0
-93,KESSLER,"Hey, Im sorry, I- you know, I, I thought you knew. (takes two loaves of bread out of his pockets, and holds them out to Jerry.) You got any meat?",1.0,S01E01,1.0
-94,JERRY,"Meat? I dont, I dont know, go... hunt! (Kessler opens the refrigerator and sticks his head in.) Well what happened in the game anyway?",1.0,S01E01,1.0
-95,KESSLER,"(from the refrigerator) What happened? Well, they STUNK, thats what happened!",1.0,S01E01,1.0
-96,KESSLER,"You know, I almost wound up going to that game.",1.0,S01E01,1.0
-97,JERRY,(cynical) Yeah you almost went to the game. You havent been out of the building in ten years!,1.0,S01E01,1.0
-98,KESSLER,"Yeah. (Jerry sits down on the couch. Kessler walks over with his sandwich and looks at Jerry and uses expressions to ask Jerry to move the newspapers on the other side of the couch so he could site down. Kessler sits down next to him and starts turning over the pages of a magazine. Suddenly he spots an article he likes and tears it out. Jerry gives him a look as if to say, Do you mind?) Are you done with this?",1.0,S01E01,1.0
 89,KESSLER,Are you up?,1.0,S01E01,1.0
 90,JERRY,"(to Kessler) Yeah. (to the phone) Yeah, people do move. Have you ever seen the big trucks out on the street? Yeah, no problem.",1.0,S01E01,1.0
 91,KESSLER,"Boy, the Mets blew it tonight, huh?",1.0,S01E01,1.0
@@ -188,26 +108,6 @@
 106,KESSLER,"Oh, I can be very persuasive. Do you know that I was almost... a lawyer.",1.0,S01E01,1.0
 107,JERRY,"That close, huh?",1.0,S01E01,1.0
 108,KESSLER,You better believe it.,1.0,S01E01,1.0
-99,JERRY,No.,1.0,S01E01,1.0
-100,KESSLER,"When youre done, let me know.",1.0,S01E01,1.0
-101,JERRY,"Yeah, yeah...you can have it tomorrow.",1.0,S01E01,1.0
-102,KESSLER,I thought I wasnt allowed to be in here this weekend.,1.0,S01E01,1.0
-103,JERRY,"No, its okay now, that, that girl is not comin. Uh, I misread the whole thing.",1.0,S01E01,1.0
-104,KESSLER,You want me to talk to her?,1.0,S01E01,1.0
-105,JERRY,I dont think so.,1.0,S01E01,1.0
-106,KESSLER,"Oh, I can be very persuasive. Do you know that I was almost... a lawyer.",1.0,S01E01,1.0
-107,JERRY,"That close, huh?",1.0,S01E01,1.0
-108,KESSLER,You better believe it.,1.0,S01E01,1.0
-109,JERRY,"Hello...Oh, hi, Laura.",1.0,S01E01,1.0
-110,KESSLER,"Oh, give me it...let me talk to her.",1.0,S01E01,1.0
-111,JERRY,"(to the phone) No believe me, Im always up at this hour. How are you?... Great... Sure... What time does the plane get in?... I got my friend George to take me...",1.0,S01E01,1.0
-112,KESSLER,(to the TV) SLIDE! Wow!,1.0,S01E01,1.0
-113,JERRY,"No, its, its just my neighbour... Um... Yeah, I got it. (Jerry takes a pencil and a cereal box to write on.) Ten-fifteen... No, dont be silly, go ahead and ask... Yeah, sure... Okay, great, no no, its no trouble at all... Ill see you tomorrow... Great, bye. (He hangs up the phone; to Kessler) I dont believe it. That was her. She wants to stay here!",1.0,S01E01,1.0
-114,JERRY,"If my father was moving this hed had to have a cigarette in his mouth the whole way. (as his father) 'Have you got your end?...Your ends got to come down first, easy now, drop it down...drop it down, your ends got to come down.'",1.0,S01E01,1.0
-115,GEORGE,"You know, I cant believe youre bringin in an extra bed for woman that wants to sleep with you. Why dont you bring in an extra guy too?",1.0,S01E01,1.0
-116,JERRY,"Look, its a very awkward situation. I dont wanna be presumptuous.",1.0,S01E01,1.0
-117,GEORGE,"All right, all right, one more time, one more time! What was the exact phrasing of the request?",1.0,S01E01,1.0
-118,JERRY,"All right, she said she couldnt find a decent hotel room...",1.0,S01E01,1.0
 109,JERRY,"Hello...Oh, hi, Laura.",1.0,S01E01,1.0
 110,KESSLER,"Oh, give me it...let me talk to her.",1.0,S01E01,1.0
 111,JERRY,"(to the phone) No believe me, Im always up at this hour. How are you?... Great... Sure... What time does the plane get in?... I got my friend George to take me...",1.0,S01E01,1.0
@@ -228,26 +128,6 @@
 126,GEORGE,"Well, thats flattering.",1.0,S01E01,1.0
 127,KESSLER,"Oh, hes gettin a drink of water. (pointing to the mattress) Is this for that girl?",1.0,S01E01,1.0
 128,JERRY,Yeah.,1.0,S01E01,1.0
-119,GEORGE,A decent hotel-room...,1.0,S01E01,1.0
-120,JERRY,"Yeah, a decent hotel-room, would it be terribly inconvenient if she stayed at my place.",1.0,S01E01,1.0
-121,GEORGE,"You cant be serious. This is New York city. There must be eleven million decent hotel rooms! Whatta you need? A flag? (waving his handkerchief) This is the signal, Jerry, this is the signal!",1.0,S01E01,1.0
-122,JERRY,"(cynical) This is the signal? Thank you, Mr. Signal. Where were you yesterday?",1.0,S01E01,1.0
-123,GEORGE,I think I was affected by the caffeine.,1.0,S01E01,1.0
-124,GEORGE,"Ho, ho, ho, good dog, good dog...",1.0,S01E01,1.0
-125,KESSLER,"Hey, he really likes you, George.",1.0,S01E01,1.0
-126,GEORGE,"Well, thats flattering.",1.0,S01E01,1.0
-127,KESSLER,"Oh, hes gettin a drink of water. (pointing to the mattress) Is this for that girl?",1.0,S01E01,1.0
-128,JERRY,Yeah.,1.0,S01E01,1.0
-129,KESSLER,Why even give her an option?,1.0,S01E01,1.0
-130,JERRY,"This is a person I like, its not How to score on spring break.",1.0,S01E01,1.0
-131,GEORGE,"Right, can we go? Cause Im double-parked, Im gonna get a ticket.",1.0,S01E01,1.0
-132,JERRY,"Yeah, okay. Oh, wait a second. Oh, I forgot to clean the bathroom.",1.0,S01E01,1.0
-133,GEORGE,So what? Thats good.,1.0,S01E01,1.0
-134,JERRY,"Now, how could that be good?",1.0,S01E01,1.0
-135,GEORGE,"Because filth is good. Whaddaya think, rock stars have sponges and ammonia lyin around the bathroom? They, have a woman comin over, Ive gotta tidy up? Yeah right, in these matters you never do what your instincts tell you. Always, ALWAYS do the opposite.",1.0,S01E01,1.0
-136,JERRY,This is how you operate?,1.0,S01E01,1.0
-137,GEORGE,"Yeah, I wish.",1.0,S01E01,1.0
-138,JERRY,Let me just wipe the sink.,1.0,S01E01,1.0
 129,KESSLER,Why even give her an option?,1.0,S01E01,1.0
 130,JERRY,"This is a person I like, its not How to score on spring break.",1.0,S01E01,1.0
 131,GEORGE,"Right, can we go? Cause Im double-parked, Im gonna get a ticket.",1.0,S01E01,1.0
@@ -268,26 +148,6 @@
 146,KESSLER,(slaps George on the arm) You keep me posted!,1.0,S01E01,1.0
 147,GEORGE,"Im aware of you. (to Jerry) All right, lets go (opens the bathroom door) Lets go!",1.0,S01E01,1.0
 148,JERRY,"The dating world is not a fun world...its a pressure world, its a world of tension, its a world of pain...and you know, if a woman comes over to my house, I gotta get that bathroom ready, cause she needs things. Women need equipment. I dont know what they need. I know I dont have it, I know that- You know what they need, women seem to need a lot of cotton-balls. This is the one Im- always has been one of the amazing things to me...I have no cotton-balls, were all human beings, what is the story? Ive never had one...I never bought one, I never needed one, Ive never been in a situation, when I thought to myself I could use a cotton-ball right now. I can certainly get out of this mess. Women need them and they dont need one or two, they need thousands of them, they need bags, theyre like peat moss bags, have you ever seen these giant bags? Theyre huge and two days later, theyre out, theyre gone, the, the bag is empty, where are the cotton-balls, ladies? What are you doin with them? The only time I ever see em is in the bottom of your little waste basket, theres two or three, that look like theyve been through some horrible experience... tortured, interrogated, I dont know what happened to them. I once went out with a girl whos left a little zip-lock-baggy of cotton-balls over at my house. I dont know what to do with them, I took them out, I put them on my kitchen floor like little tumbleweeds. I thought maybe the cockroaches would see it, figure this is a dead town. Lets move on. The dating world is a world of pressure. Lets face it a date is a job interview that lasts all night. The only difference between a date and a job interview is not many job interviews is there a chance youll end up naked at the end of it. You know? Well, Bill, the boss thinks youre the man for the position, why dont you strip down and meet some of the people youll be workin with?",1.0,S01E01,1.0
-139,KESSLER,Why even give her an option for?,1.0,S01E01,1.0
-140,KESSLER,"(to George, pointing at the mattress) Its unbelievable.",1.0,S01E01,1.0
-141,GEORGE,Yeah.,1.0,S01E01,1.0
-142,KESSLER,Hows the real estate-business?,1.0,S01E01,1.0
-143,GEORGE,"(feeling awkward) Its uh, not bad, its comin along. Why? Did you need something.",1.0,S01E01,1.0
-144,KRAMER,Do you handle any of that commercial...real estate?,1.0,S01E01,1.0
-145,GEORGE,"Well, I might be getting into that.",1.0,S01E01,1.0
-146,KESSLER,(slaps George on the arm) You keep me posted!,1.0,S01E01,1.0
-147,GEORGE,"Im aware of you. (to Jerry) All right, lets go (opens the bathroom door) Lets go!",1.0,S01E01,1.0
-148,JERRY,"The dating world is not a fun world...its a pressure world, its a world of tension, its a world of pain...and you know, if a woman comes over to my house, I gotta get that bathroom ready, cause she needs things. Women need equipment. I dont know what they need. I know I dont have it, I know that- You know what they need, women seem to need a lot of cotton-balls. This is the one Im- always has been one of the amazing things to me...I have no cotton-balls, were all human beings, what is the story? Ive never had one...I never bought one, I never needed one, Ive never been in a situation, when I thought to myself I could use a cotton-ball right now. I can certainly get out of this mess. Women need them and they dont need one or two, they need thousands of them, they need bags, theyre like peat moss bags, have you ever seen these giant bags? Theyre huge and two days later, theyre out, theyre gone, the, the bag is empty, where are the cotton-balls, ladies? What are you doin with them? The only time I ever see em is in the bottom of your little waste basket, theres two or three, that look like theyve been through some horrible experience... tortured, interrogated, I dont know what happened to them. I once went out with a girl whos left a little zip-lock-baggy of cotton-balls over at my house. I dont know what to do with them, I took them out, I put them on my kitchen floor like little tumbleweeds. I thought maybe the cockroaches would see it, figure this is a dead town. Lets move on. The dating world is a world of pressure. Lets face it a date is a job interview that lasts all night. The only difference between a date and a job interview is not many job interviews is there a chance youll end up naked at the end of it. You know? Well, Bill, the boss thinks youre the man for the position, why dont you strip down and meet some of the people youll be workin with?",1.0,S01E01,1.0
-149,JERRY,Wouldnt it be great if you could ask a woman what shes thinking?,1.0,S01E01,1.0
-150,GEORGE,"What a world that would be, if you just could ask a woman what shes thinkin.",1.0,S01E01,1.0
-151,JERRY,"You know, instead, Im like a detective. I gotta pick up clues, the whole thing is a murder investigation.",1.0,S01E01,1.0
-152,GEORGE,"Listen, listen, dont get worked up, cause youre gonna know the whole story the minute she steps off the plane.",1.0,S01E01,1.0
-153,JERRY,Really? How?,1.0,S01E01,1.0
-154,GEORGE,Cause its all in the greeting.,1.0,S01E01,1.0
-155,JERRY,Uh-huh.,1.0,S01E01,1.0
-156,GEORGE,"All right, if she puts the bags down before she greets you, thats a good sign.",1.0,S01E01,1.0
-157,JERRY,Right.,1.0,S01E01,1.0
-158,GEORGE,"You know, anything in the, in the lip area is good.",1.0,S01E01,1.0
 149,JERRY,Wouldnt it be great if you could ask a woman what shes thinking?,1.0,S01E01,1.0
 150,GEORGE,"What a world that would be, if you just could ask a woman what shes thinkin.",1.0,S01E01,1.0
 151,JERRY,"You know, instead, Im like a detective. I gotta pick up clues, the whole thing is a murder investigation.",1.0,S01E01,1.0
@@ -308,26 +168,6 @@
 166,GEORGE,"Thats why, you know, a shake is bad.",1.0,S01E01,1.0
 167,JERRY,"Shake is bad, but what if its the two-hander? The hand on the bottom, the hand on the top, the warm look in the eyes?",1.0,S01E01,1.0
 168,GEORGE,Hand sandwich.,1.0,S01E01,1.0
-159,JERRY,Lip area.,1.0,S01E01,1.0
-160,GEORGE,You know a hug definitely good.,1.0,S01E01,1.0
-161,JERRY,Hug is definitely good.,1.0,S01E01,1.0
-162,GEORGE,Sure.,1.0,S01E01,1.0
-163,JERRY,"Although what if its one of those hugs where the shoulders are touching, the hips are eight feet apart?",1.0,S01E01,1.0
-164,GEORGE,"Thats so brutal, I hate that.",1.0,S01E01,1.0
-165,JERRY,You know how they do that?,1.0,S01E01,1.0
-166,GEORGE,"Thats why, you know, a shake is bad.",1.0,S01E01,1.0
-167,JERRY,"Shake is bad, but what if its the two-hander? The hand on the bottom, the hand on the top, the warm look in the eyes?",1.0,S01E01,1.0
-168,GEORGE,Hand sandwich.,1.0,S01E01,1.0
-169,JERRY,Right.,1.0,S01E01,1.0
-170,GEORGE,"I see, well, thats open to interpretation. Because so much depends on the layering and the quality of the wetness in the eyes.",1.0,S01E01,1.0
-171,LAURA,Guess who?,1.0,S01E01,1.0
-172,JERRY,"Hey, hey.",1.0,S01E01,1.0
-173,LAURA &amp; JERRY,Heeeey!,1.0,S01E01,1.0
-174,JERRY,Its good to see you.,1.0,S01E01,1.0
-175,LAURA,Hi.,1.0,S01E01,1.0
-176,JERRY,This is my friend George.,1.0,S01E01,1.0
-177,LAURA,"Hi, how nice to meet you.",1.0,S01E01,1.0
-178,GEORGE,"Hi, how are you?",1.0,S01E01,1.0
 169,JERRY,Right.,1.0,S01E01,1.0
 170,GEORGE,"I see, well, thats open to interpretation. Because so much depends on the layering and the quality of the wetness in the eyes.",1.0,S01E01,1.0
 171,LAURA,Guess who?,1.0,S01E01,1.0
@@ -348,26 +188,6 @@
 186,JERRY,"So uh, what do you think?",1.0,S01E01,1.0
 187,LAURA,"Ooohhh, wow! This place isnt so bad.",1.0,S01E01,1.0
 188,JERRY,"Yeah, it kind a motivates me to work on the road. So uh, make yourself at home. (Laura sits down on the couch, takes off her shoes and opens some buttons of her shirt.) So uh, can I get you anything? Uuhhh, bread, water...salad-dressing?",1.0,S01E01,1.0
-179,JERRY,This is Laura.,1.0,S01E01,1.0
-180,GEORGE,"Laura, sure.",1.0,S01E01,1.0
-181,JERRY,(to Laura) I cant believe youre here.,1.0,S01E01,1.0
-182,GEORGE &amp; JERRY,"Ooh yeah, the bags, sure.",1.0,S01E01,1.0
-183,LAURA,"Oh, thank you.",1.0,S01E01,1.0
-184,JERRY,"(aside, to George) Now that was an interesting greeting, did you notice that, George?",1.0,S01E01,1.0
-185,GEORGE,"Yes, the surprise blindfold greeting. That wasnt in the manual, I dont know.",1.0,S01E01,1.0
-186,JERRY,"So uh, what do you think?",1.0,S01E01,1.0
-187,LAURA,"Ooohhh, wow! This place isnt so bad.",1.0,S01E01,1.0
-188,JERRY,"Yeah, it kind a motivates me to work on the road. So uh, make yourself at home. (Laura sits down on the couch, takes off her shoes and opens some buttons of her shirt.) So uh, can I get you anything? Uuhhh, bread, water...salad-dressing?",1.0,S01E01,1.0
-189,LAURA,"(laughs) Actually, um, do you have any wine?",1.0,S01E01,1.0
-190,JERRY,"Uh, yeah, I think I do.",1.0,S01E01,1.0
-191,LAURA,"(referring to a lamp) Oh, do you mind if I turn this down?",1.0,S01E01,1.0
-192,JERRY,"Uh, no, yeah, go right ahead.",1.0,S01E01,1.0
-193,LAURA,"Uh, Jerry, uh, I was wandering, would it be possible  and if its not, fine  for me to stay here tomorrow night too?",1.0,S01E01,1.0
-194,JERRY,"Uh, yeah, yeah, sure, why dont you stay? Yeah, uhm...What is your, what is your schedule for tomorrow? Are you, are you doin anything?",1.0,S01E01,1.0
-195,LAURA,"No, Id love to do something. Uh, I have my seminar in the morning, then after that Im right open.",1.0,S01E01,1.0
-196,JERRY,Really? What would you like to do?,1.0,S01E01,1.0
-197,LAURA,"Well... now I know this sounds touristy, but Id just love to go on one of those five-hour boat rides around Manhattan.",1.0,S01E01,1.0
-198,JERRY,"(unenthusiastic) Yeah, we could do that...why not, why not. (pouring the wine) Im just, Im really glad youre here.",1.0,S01E01,1.0
 189,LAURA,"(laughs) Actually, um, do you have any wine?",1.0,S01E01,1.0
 190,JERRY,"Uh, yeah, I think I do.",1.0,S01E01,1.0
 191,LAURA,"(referring to a lamp) Oh, do you mind if I turn this down?",1.0,S01E01,1.0
@@ -388,26 +208,6 @@
 206,LAURA,"Yeah, yeah, hes a great guy...",1.0,S01E01,1.0
 207,JERRY,Yeah.,1.0,S01E01,1.0
 208,LAURA,"Youd really like him, you know, I cant wait to get on that boat.",1.0,S01E01,1.0
-199,JERRY,"(answering) Yeah, hello...yes...yes, she is, hold on. (to Laura) Um, its for you.",1.0,S01E01,1.0
-200,LAURA,"(to the phone) Hello?... Hi!... No no it was great, right on time... No, I, Im gonna stay here tomorrow...yes, yes its fine... No, were goin on a boat ride... Dont be silly... Im not gonna have this conversation... Look, Ill call you tomorrow... Okay, bye. (She hangs up the phone.) Never get engaged.",1.0,S01E01,1.0
-201,JERRY,(not excited) Youre engaged?,1.0,S01E01,1.0
-202,LAURA,"You, you really have no idea what its like until you actually do it. And Im on this emotional roller coaster.",1.0,S01E01,1.0
-203,JERRY,Youre engaged?,1.0,S01E01,1.0
-204,LAURA,"You know, I cant believe it myself sometimes. You have to start thinking in terms of we. Ugh, its a very stressful situation.",1.0,S01E01,1.0
-205,JERRY,(matter-of-factly) Youre engaged.,1.0,S01E01,1.0
-206,LAURA,"Yeah, yeah, hes a great guy...",1.0,S01E01,1.0
-207,JERRY,Yeah.,1.0,S01E01,1.0
-208,LAURA,"Youd really like him, you know, I cant wait to get on that boat.",1.0,S01E01,1.0
-209,JERRY,Me too!,1.0,S01E01,1.0
-210,JERRY,"I swear, I have absolutely no idea what women are thinking. I dont get it, okay? I, I, I admit, I, Im not getting the signals. I am not getting it! Women, theyre so subtle, their little...everything they do is subtle. Men are not subtle, we are obvious. Women know what men want, men know what men want, what do we want? We want women, thats it! Its the only thing we know for sure, it really is. We want women. How do we get them? Oh, we dont know bout that, we dont know. The next step after that we have no idea. This is why you see men honking car-horns, yelling from construction sites. These are the best ideas weve had so far. The car-horn honk, is that a beauty? Have you seen men doing this? What is this? The man is in the car, the woman walks by the front of the car, he honks. E-eeehh, eehhh, eehhh! This man is out of ideas. How does it...? E-e-e-eeeehhhh! I dont think she likes me. The amazing thing is, that we still get women, dont we? Men, I mean, men are with women. You see men with women. How are men getting women, many people wonder. Let me tell you a little bit about our organization. Wherever women are, we have a man working on the situation right now. Now, he may not be our best man, okay, we have a lot of areas to cover, but someone from our staff is on the scene. Thats why, I think, men get frustrated, when we see women reading articles, like Where to meet men? Were here, we are everywhere. Were honking our horns to serve you better.",1.0,S01E01,1.0
-211,JERRY,"So, Im on line at the supermarket. Two women in front of me. One of them, her total was eight dollars, the other three dollars. They both of course choose to pay by the use of the...",1.0,S01E01,1.0
-212,AUDIENCE,Cheque.,1.0,S01E01,1.0
-213,JERRY,"Cheque. Now, the fact is, if its a woman in front of you thats writing the cheque, you will not be waiting long. I have noticed that women are very fast with cheques, yknow, cause they write out so many cheques. The keys, they can never find in their purse, they dont know where that is, but the cheque book they got that. They never fumble for the cheque book. The cheque book comes out of a holster (Jerry draws imaginary book from a holster.) Who do I make it out to? Theres my ID. Theres something about a cheque that, to a man, is not masculine. I dont know exactly what it is. I think to a man, a cheque is like a note from your mother that says, I dont have any money, but if youll contact these people, Im sure theyll stick up for me... If you just trust me this one time- I dont have any money but I have these. I wrote on these. Is this of any value at all?",1.0,S01E01,1.0
-214,JERRY,Whats that one?,1.0,S01E01,1.0
-215,ELAINE,Coccoon II The Return. I guess they didnt like it up there.,1.0,S01E01,1.0
-216,JERRY,"Maybe they came back for Chinese food. Yknow Maureen Stapleton, if she gets a craving, shes probably screamin at those aliens, I gotta have a lo mein!",1.0,S01E01,1.0
-217,ELAINE,"Okay, whatre we doing here? I have seen everything.",1.0,S01E01,1.0
-218,JERRY,Oh yeah? I dont believe youve seen... this.,1.0,S01E01,1.0
 209,JERRY,Me too!,1.0,S01E01,1.0
 210,JERRY,"I swear, I have absolutely no idea what women are thinking. I dont get it, okay? I, I, I admit, I, Im not getting the signals. I am not getting it! Women, theyre so subtle, their little...everything they do is subtle. Men are not subtle, we are obvious. Women know what men want, men know what men want, what do we want? We want women, thats it! Its the only thing we know for sure, it really is. We want women. How do we get them? Oh, we dont know bout that, we dont know. The next step after that we have no idea. This is why you see men honking car-horns, yelling from construction sites. These are the best ideas weve had so far. The car-horn honk, is that a beauty? Have you seen men doing this? What is this? The man is in the car, the woman walks by the front of the car, he honks. E-eeehh, eehhh, eehhh! This man is out of ideas. How does it...? E-e-e-eeeehhhh! I dont think she likes me. The amazing thing is, that we still get women, dont we? Men, I mean, men are with women. You see men with women. How are men getting women, many people wonder. Let me tell you a little bit about our organization. Wherever women are, we have a man working on the situation right now. Now, he may not be our best man, okay, we have a lot of areas to cover, but someone from our staff is on the scene. Thats why, I think, men get frustrated, when we see women reading articles, like Where to meet men? Were here, we are everywhere. Were honking our horns to serve you better.",1.0,S01E01,1.0
 211,JERRY,"So, Im on line at the supermarket. Two women in front of me. One of them, her total was eight dollars, the other three dollars. They both of course choose to pay by the use of the...",1.0,S01E01,1.0
@@ -428,26 +228,6 @@
 226,JERRY,"Oh yeah, right...",1.0,S01E01,1.0
 227,ELAINE,"You have no idea who Im talking about, do you?",1.0,S01E01,1.0
 228,JERRY,(quickly) No.,1.0,S01E01,1.0
-219,ELAINE,"Oh, lovely.",1.0,S01E01,1.0
-220,JERRY,Yeah.,1.0,S01E01,1.0
-221,ELAINE,What do you think their parents think?,1.0,S01E01,1.0
-222,JERRY,"So, uh, whats your son doing now, Dr. Stevens? Oh, hes a public fornicator. Yes, hes a fine boy...",1.0,S01E01,1.0
-223,ELAINE,Yknow what? This would be a really funny gift for Pamelas birthday.,1.0,S01E01,1.0
-224,JERRY,Pamela? Do I know her?,1.0,S01E01,1.0
-225,ELAINE,"Yeah, you met her when we were going out.",1.0,S01E01,1.0
-226,JERRY,"Oh yeah, right...",1.0,S01E01,1.0
-227,ELAINE,"You have no idea who Im talking about, do you?",1.0,S01E01,1.0
-228,JERRY,(quickly) No.,1.0,S01E01,1.0
-229,ELAINE,"Blonde hair, remember? Glasses? (pause) Have you totally blocked out the entire time we were a couple?",1.0,S01E01,1.0
-230,JERRY,(a lightbulb goes on in his head) Riverside Drive.,1.0,S01E01,1.0
-231,ELAINE,"Right! In fact... No, never mind...",1.0,S01E01,1.0
-232,JERRY,"Well, what is it?",1.0,S01E01,1.0
-233,ELAINE,"Well, a bunch of people are getting together tomorrow night at some bar for her birthday, but... (Jerry turns in disgust) you dont want to go to... that... no.",1.0,S01E01,1.0
-234,JERRY,"Wait a second, wait a second. We could work out a little deal here.",1.0,S01E01,1.0
-235,ELAINE,What little deal?,1.0,S01E01,1.0
-236,JERRY,"I will go to that, if you go with me to a little family wedding I have on Saturday.",1.0,S01E01,1.0
-237,ELAINE,"A wedding? Have you lost it, man?",1.0,S01E01,1.0
-238,JERRY,"Yknow, my parents are coming in for this...",1.0,S01E01,1.0
 229,ELAINE,"Blonde hair, remember? Glasses? (pause) Have you totally blocked out the entire time we were a couple?",1.0,S01E01,1.0
 230,JERRY,(a lightbulb goes on in his head) Riverside Drive.,1.0,S01E01,1.0
 231,ELAINE,"Right! In fact... No, never mind...",1.0,S01E01,1.0
@@ -468,26 +248,6 @@
 246,JERRY,Theres a lot of people to mock...,1.0,S01E01,1.0
 247,ELAINE,"All right, what the hell.",1.0,S01E01,1.0
 248,JERRY,Great!,1.0,S01E01,1.0
-239,ELAINE,Theyre coming in?,1.0,S01E01,1.0
-240,JERRY,"Yeah, tomorrow.",1.0,S01E01,1.0
-241,ELAINE,"Hey, did your father ever get that hair weave?",1.0,S01E01,1.0
-242,JERRY,"No, no. Still doin the big sweep across.",1.0,S01E01,1.0
-243,ELAINE,Why does he do that?,1.0,S01E01,1.0
-244,JERRY,"Doesnt think anyone can tell. So cmon, do we have a deal?",1.0,S01E01,1.0
-245,ELAINE,A wedding?,1.0,S01E01,1.0
-246,JERRY,Theres a lot of people to mock...,1.0,S01E01,1.0
-247,ELAINE,"All right, what the hell.",1.0,S01E01,1.0
-248,JERRY,Great!,1.0,S01E01,1.0
-249,WOMAN,"When youre dead, youre dead. Thats it. Youre not goin anywhere...",1.0,S01E01,1.0
-250,ELAINE,Cmon lets go...,1.0,S01E01,1.0
-251,JERRY,Was I supposed to bring something?,1.0,S01E01,1.0
-252,ELAINE,You could have.,1.0,S01E01,1.0
-253,JERRY,I met her one time...,1.0,S01E01,1.0
-254,ELAINE,It is not necessary.,1.0,S01E01,1.0
-255,JERRY,What did you say then?,1.0,S01E01,1.0
-256,ELAINE,Sssshhhhhh!!!,1.0,S01E01,1.0
-257,PAMELA,Hi,1.0,S01E01,1.0
-258,ELAINE,"Hi, Pamela, you remember Jerry.",1.0,S01E01,1.0
 249,WOMAN,"When youre dead, youre dead. Thats it. Youre not goin anywhere...",1.0,S01E01,1.0
 250,ELAINE,Cmon lets go...,1.0,S01E01,1.0
 251,JERRY,Was I supposed to bring something?,1.0,S01E01,1.0
@@ -758,523 +518,335 @@
 516,ELAINE,Okay.,1.0,S01E01,1.0
 517,ARTIE,"Jerry, were you goin with us?",1.0,S01E01,1.0
 518,JERRY,"No, Im gonna take my car.",1.0,S01E01,1.0
-</TEXT><TAGS><DIRECTION action="no" description="addressee" id="D0" spans="419~447" text="to the other laundry patrons" />
-<DIRECTION action="yes" description="none" id="D1" spans="1793~1802" text="answering" />
-<DIRECTION action="no" description="manner" id="D2" spans="1804~1811" text="quickly" />
-<DIRECTION action="no" description="addressee" id="D3" spans="1976~1987" text="to the door" />
-<DIALOGUE id="DI0" spans="449~462" text="Any questions" />
-<DIALOGUE id="DI1" spans="1813~1892" text="If you know what happened in the Met game, dont say anything, I taped it, hello" />
-<DIALOGUE id="DI2" spans="1989~1993" text="Yeah" />
-<RELATION fromID="D0" fromText="to the other laundry patrons" id="R0" relationship="occurs-while" toID="DI0" toText="Any questions" />
-<RELATION fromID="D1" fromText="answering" id="R1" relationship="occurs-while" toID="DI1" toText="If you know what happened in the Met game, dont say anything, I taped it, hello" />
-<RELATION fromID="D2" fromText="quickly" id="R2" relationship="occurs-while" toID="DI1" toText="If you know what happened in the Met game, dont say anything, I taped it, hello" />
-<RELATION fromID="D3" fromText="to the door" id="R3" relationship="occurs-while" toID="DI2" toText="Yeah" />
-<DIRECTION action="yes" description="manner" id="D4" spans="51~71" text="snapping his fingers" />
-<DIRECTION action="yes" description="manner" id="D5" spans="510~527" text="snaps his fingers" />
-<DIALOGUE id="DI5" spans="11~48" text="Cause its signals, Jerry, its signals" />
-<DIALOGUE id="DI4" spans="470~507" text="Thats a signal, Jerry, thats a signal" />
-<DIALOGUE id="DI5" spans="529~535" text="Signal" />
-<RELATION fromID="D4" fromText="snapping his fingers" id="R4" relationship="occurs-while" toID="DI5" toText="Cause its signals, Jerry, its signals" />
-<RELATION fromID="D5" fromText="snaps his fingers" id="R5" relationship="occurs-while" toID="DI4" toText="Thats a signal, Jerry, thats a signal" />
-<RELATION fromID="D5" fromText="snaps his fingers" id="R6" relationship="occurs-while" toID="DI5" toText="Signal" />
-<DIRECTION action="no" description="addressee" id="D12" spans="49~59" text="to Kessler" />
-<DIRECTION action="no" description="addressee" id="D13" spans="68~80" text="to the phone" />
-<DIRECTION action="no" description="manner" id="D8" spans="266~271" text="upset" />
-<DIRECTION action="yes" description="none" id="D9" spans="499~572" text="takes two loaves of bread out of his pockets, and holds them out to Jerry" />
-<DIRECTION action="yes" description="none" id="D10" spans="659~712" text="Kessler opens the refrigerator and sticks his head in" />
-<DIRECTION action="no" description="none" id="D11" spans="783~804" text="from the refrigerator" />
-<DIRECTION action="yes" description="manner" id="D12" spans="962~969" text="cynical" />
-<DIRECTION action="yes" description="none" id="D13" spans="1089~1470" text="Jerry sits down on the couch. Kessler walks over with his sandwich and looks at Jerry and uses expressions to ask Jerry to move the newspapers on the other side of the couch so he could site down. Kessler sits down next to him and starts turning over the pages of a magazine. Suddenly he spots an article he likes and tears it out. Jerry gives him a look as if to say, Do you mind?" />
-<DIALOGUE id="DI12" spans="61~65" text="Yeah" />
-<DIALOGUE id="DI13" spans="82~102" text="Yeah, people do move" />
-<DIALOGUE id="DI8" spans="273~298" text="Ohhhh, what are you doing" />
-<DIALOGUE id="DI9" spans="575~591" text="You got any meat" />
-<DIALOGUE id="DI10" spans="715~752" text="Well what happened in the game anyway" />
-<DIALOGUE id="DI11" spans="806~819" text="What happened" />
-<DIALOGUE id="DI12" spans="971~1003" text="Yeah you almost went to the game" />
-<DIALOGUE id="DI13" spans="1472~1494" text="Are you done with this" />
-<RELATION fromID="D12" fromText="to Kessler" id="R14" relationship="occurs-while" toID="DI12" toText="Yeah" />
-<RELATION fromID="D13" fromText="to the phone" id="R8" relationship="occurs-while" toID="DI13" toText="Yeah, people do move" />
-<RELATION fromID="D8" fromText="upset" id="R9" relationship="occurs-while" toID="DI8" toText="Ohhhh, what are you doing" />
-<RELATION fromID="D9" fromText="takes two loaves of bread out of his pockets, and holds them out to Jerry" id="R10" relationship="occurs-while" toID="DI9" toText="You got any meat" />
-<RELATION fromID="D10" fromText="Kessler opens the refrigerator and sticks his head in" id="R11" relationship="occurs-while" toID="DI10" toText="Well what happened in the game anyway" />
-<RELATION fromID="D11" fromText="from the refrigerator" id="R12" relationship="occurs-while" toID="DI11" toText="What happened" />
-<RELATION fromID="D12" fromText="cynical" id="R13" relationship="occurs-while" toID="DI12" toText="Yeah you almost went to the game" />
-<RELATION fromID="D13" fromText="Jerry sits down on the couch. Kessler walks over with his sandwich and looks at Jerry and uses expressions to ask Jerry to move the newspapers on the other side of the couch so he could site down. Kessler sits down next to him and starts turning over the pages of a magazine. Suddenly he spots an article he likes and tears it out. Jerry gives him a look as if to say, Do you mind?" id="R14" relationship="next-dialogue" toID="DI13" toText="Are you done with this" />
-<DIRECTION action="no" description="addressee" id="D154" spans="74~83" text="to George" />
-<DIRECTION action="yes" description="reference" id="D15" spans="85~109" text="pointing at the mattress" />
-<DIRECTION action="no" description="manner" id="D16" spans="248~263" text="feeling awkward" />
-<DIRECTION action="yes" description="none" id="D17" spans="499~522" text="slaps George on the arm" />
-<DIRECTION action="no" description="addressee" id="D18" spans="589~597" text="to Jerry" />
-<DIRECTION action="yes" description="none" id="D19" spans="619~642" text="opens the bathroom door" />
-<DIALOGUE id="DI154" spans="111~127" text="Its unbelievable" />
-<DIALOGUE id="DI15" spans="265~297" text="Its uh, not bad, its comin along" />
-<DIALOGUE id="DI16" spans="524~542" text="You keep me posted" />
-<DIALOGUE id="DI17" spans="599~617" text="All right, lets go" />
-<DIALOGUE id="DI18" spans="644~651" text="Lets go" />
-<RELATION fromID="D154" fromText="to George" id="R165" relationship="occurs-while" toID="DI154" toText="Its unbelievable" />
-<RELATION fromID="D15" fromText="pointing at the mattress" id="R16" relationship="occurs-while" toID="DI154" toText="Its unbelievable" />
-<RELATION fromID="D16" fromText="feeling awkward" id="R17" relationship="occurs-while" toID="DI15" toText="Its uh, not bad, its comin along" />
-<RELATION fromID="D17" fromText="slaps George on the arm" id="R18" relationship="occurs-while" toID="DI16" toText="You keep me posted" />
-<RELATION fromID="D18" fromText="to Jerry" id="R19" relationship="occurs-while" toID="DI17" toText="All right, lets go" />
-<RELATION fromID="D19" fromText="opens the bathroom door" id="R20" relationship="occurs-while" toID="DI18" toText="Lets go" />
-<DIRECTION action="yes" description="none" id="D220" spans="45~50" text="pause" />
-<DIRECTION action="no" description="none" id="D221" spans="142~173" text="a lightbulb goes on in his head" />
-<DIRECTION action="yes" description="manner" id="D22" spans="426~448" text="Jerry turns in disgust" />
-<DIALOGUE id="DI2109" spans="35~42" text="Glasses" />
-<DIALOGUE id="DI210" spans="175~190" text="Riverside Drive" />
-<DIALOGUE id="DI21" spans="450~486" text="you dont want to go to... that... no" />
-<DIALOGUE id="DI22" spans="328~424" text="Well, a bunch of people are getting together tomorrow night at some bar for her birthday, but..." />
-<RELATION fromID="D220" fromText="pause" id="R231" relationship="next-dialogue" toID="DI2109" toText="Glasses" />
-<RELATION fromID="D221" fromText="a lightbulb goes on in his head" id="R232" relationship="next-dialogue" toID="DI210" toText="Riverside Drive" />
-<RELATION fromID="D22" fromText="Jerry turns in disgust" id="R23" relationship="occurs-while" toID="DI21" toText="you dont want to go to... that... no" />
-<RELATION fromID="D22" fromText="Jerry turns in disgust" id="R24" relationship="occurs-while" toID="DI22" toText="Well, a bunch of people are getting together tomorrow night at some bar for her birthday, but..." />
-<DIRECTION action="no" description="addressee" id="D253" spans="128~140" text="to the phone" />
-<DIRECTION action="no" description="reference" id="D254" spans="319~328" text="to the TV" />
-<DIRECTION action="yes" description="none" id="D25" spans="425~474" text="Jerry takes a pencil and a cereal box to write on" />
-<DIRECTION action="yes" description="none" id="D26" spans="627~648" text="He hangs up the phone" />
-<DIRECTION action="no" description="addressee" id="D27" spans="650~660" text="to Kessler" />
-<DIRECTION action="no" description="manner" id="D28" spans="832~845" text="as his father" />
-<DIALOGUE id="DI253" spans="142~289" text="No believe me, Im always up at this hour. How are you?... Great... Sure... What time does the plane get in?... I got my friend George to take me..." />
-<DIALOGUE id="DI254" spans="330~341" text="SLIDE! Wow!" />
-<DIALOGUE id="DI25" spans="408~422" text="Yeah, I got it" />
-<DIALOGUE id="DI26" spans="477~488" text="Ten-fifteen" />
-<DIALOGUE id="DI27" spans="614~624" text="Great, bye" />
-<DIALOGUE id="DI28" spans="662~679" text="I dont believe it" />
-<DIALOGUE id="DI29" spans="746~829" text="If my father was moving this hed had to have a cigarette in his mouth the whole way" />
-<RELATION fromID="D253" fromText="to the phone" id="R275" relationship="occurs-while" toID="DI253" toText="No believe me, Im always up at this hour. How are you?... Great... Sure... What time does the plane get in?... I got my friend George to take me..." />
-<RELATION fromID="D254" fromText="to the TV" id="R276" relationship="occurs-while" toID="DI254" toText="SLIDE! Wow!" />
-<RELATION fromID="D25" fromText="Jerry takes a pencil and a cereal box to write on" id="R27" relationship="occurs-while" toID="DI25" toText="Yeah, I got it" />
-<RELATION fromID="D25" fromText="Jerry takes a pencil and a cereal box to write on" id="R28" relationship="occurs-while" toID="DI26" toText="Ten-fifteen" />
-<RELATION fromID="D26" fromText="He hangs up the phone" id="R29" relationship="next-dialogue" toID="DI27" toText="Great, bye" />
-<RELATION fromID="D27" fromText="to Kessler" id="R30" relationship="occurs-while" toID="DI28" toText="I dont believe it" />
-<RELATION fromID="D28" fromText="as his father" id="R31" relationship="occurs-while" toID="DI29" toText="If my father was moving this hed had to have a cigarette in his mouth the whole way" />
-<DIRECTION action="yes" description="none" id="D319" spans="295~318" text="waving his handkerchief" />
-<DIRECTION action="no" description="manner" id="D30" spans="395~402" text="cynical" />
-<DIRECTION action="yes" description="reference" id="D31" spans="779~803" text="pointing to the mattress" />
-<DIALOGUE id="DI30" spans="286~292" text="A flag" />
-<DIALOGUE id="DI31" spans="404~422" text="This is the signal" />
-<DIALOGUE id="DI32" spans="805~826" text="Is this for that girl" />
-<RELATION fromID="D319" fromText="waving his handkerchief" id="R32" relationship="occurs-while" toID="DI30" toText="A flag" />
-<RELATION fromID="D30" fromText="cynical" id="R33" relationship="occurs-while" toID="DI31" toText="This is the signal" />
-<RELATION fromID="D31" fromText="pointing to the mattress" id="R34" relationship="occurs-while" toID="DI32" toText="Is this for that girl" />
-<DIRECTION action="no" description="manner" id="D32" spans="605~612" text="quickly" />
-<DIALOGUE id="DI33" spans="614~616" text="No" />
-<RELATION fromID="D32" fromText="quickly" id="R35" relationship="occurs-while" toID="DI33" toText="No" />
-<DIRECTION action="yes" description="none" id="D33" spans="2189~2230" text="Jerry draws imaginary book from a holster" />
-<DIALOGUE id="DI34" spans="2149~2187" text="The cheque book comes out of a holster" />
-<RELATION fromID="D33" fromText="Jerry draws imaginary book from a holster" id="R36" relationship="occurs-while" toID="DI34" toText="The cheque book comes out of a holster" />
-<DIRECTION action="yes" description="manner" id="D34" spans="467~488" text="on an imaginary phone" />
-<DIRECTION action="yes" description="reference" id="D35" spans="1052~1077" text="pointing at Georges shirt" />
-<DIRECTION action="yes" description="manner" id="D36" spans="1561~1587" text="on an imaginary microphone" />
-<DIALOGUE id="DI35" spans="490~502" text="Did you ring" />
-<DIALOGUE id="DI36" spans="1079~1132" text="See, to me, that button is in the worst possible spot" />
-<DIALOGUE id="DI37" spans="1589~1613" text="Uh, no, not at this time" />
-<RELATION fromID="D34" fromText="on an imaginary phone" id="R37" relationship="occurs-while" toID="DI35" toText="Did you ring" />
-<RELATION fromID="D35" fromText="pointing at Georges shirt" id="R38" relationship="occurs-while" toID="DI36" toText="See, to me, that button is in the worst possible spot" />
-<RELATION fromID="D36" fromText="on an imaginary microphone" id="R39" relationship="occurs-while" toID="DI37" toText="Uh, no, not at this time" />
-<DIRECTION action="yes" description="reference" id="D37" spans="40~60" text="looks in the creamer" />
-<DIRECTION action="yes" description="none" id="D38" spans="153~207" text="takes the milk can from Jerry and puts it on the table" />
-<DIRECTION action="no" description="manner" id="D39" spans="525~532" text="smiling" />
-<DIALOGUE id="DI418" spans="62~93" text="Theres no milk in here, what..." />
-<DIALOGUE id="DI419" spans="121~151" text="Wait wait wait, what is she..." />
-<DIALOGUE id="DI40" spans="209~225" text="What is she like" />
-<DIALOGUE id="DI41" spans="534~567" text="So, you know, what, what happened" />
-<RELATION fromID="D37" fromText="looks in the creamer" id="R40" relationship="occurs-while" toID="DI418" toText="Theres no milk in here, what..." />
-<RELATION fromID="D38" fromText="takes the milk can from Jerry and puts it on the table" id="R41" relationship="occurs-while" toID="DI419" toText="Wait wait wait, what is she..." />
-<RELATION fromID="D38" fromText="takes the milk can from Jerry and puts it on the table" id="R42" relationship="occurs-while" toID="DI40" toText="What is she like" />
-<RELATION fromID="D39" fromText="smiling" id="R43" relationship="occurs-while" toID="DI41" toText="So, you know, what, what happened" />
-<DIRECTION action="yes" description="none" id="D40" spans="12~18" text="laughs" />
-<DIRECTION action="yes" description="reference" id="D41" spans="135~154" text="referring to a lamp" />
-<DIRECTION action="no" description="manner" id="D42" spans="914~928" text="unenthusiastic" />
-<DIRECTION action="yes" description="none" id="D43" spans="974~990" text="pouring the wine" />
-<DIALOGUE id="DI42" spans="20~54" text="Actually, um, do you have any wine" />
-<DIALOGUE id="DI43" spans="156~191" text="Oh, do you mind if I turn this down" />
-<DIALOGUE id="DI44" spans="930~952" text="Yeah, we could do that" />
-<DIALOGUE id="DI45" spans="992~1026" text="Im just, Im really glad youre here" />
-<RELATION fromID="D40" fromText="laughs" id="R44" relationship="next-dialogue" toID="DI42" toText="Actually, um, do you have any wine" />
-<RELATION fromID="D41" fromText="referring to a lamp" id="R45" relationship="occurs-while" toID="DI43" toText="Oh, do you mind if I turn this down" />
-<RELATION fromID="D42" fromText="unenthusiastic" id="R46" relationship="occurs-while" toID="DI44" toText="Yeah, we could do that" />
-<RELATION fromID="D43" fromText="pouring the wine" id="R47" relationship="occurs-while" toID="DI45" toText="Im just, Im really glad youre here" />
-<DIRECTION action="yes" description="manner" id="D484" spans="12~21" text="answering" />
-<DIRECTION action="no" description="addressee" id="D485" spans="66~74" text="to Laura" />
-<DIRECTION action="no" description="addressee" id="D486" spans="121~133" text="to the phone" />
-<DIRECTION action="yes" description="none" id="D487" spans="378~400" text="She hangs up the phone" />
-<DIRECTION action="no" description="manner" id="D48" spans="449~460" text="not excited" />
-<DIRECTION action="no" description="manner" id="D49" spans="833~849" text="matter-of-factly" />
-<DIALOGUE id="DI5106" spans="23~63" text="Yeah, hello...yes...yes, she is, hold on" />
-<DIALOGUE id="DI5107" spans="76~91" text="Um, its for you" />
-<DIALOGUE id="DI5108" spans="135~375" text="Hello?... Hi!... No no it was great, right on time... No, I, Im gonna stay here tomorrow...yes, yes its fine... No, were goin on a boat ride... Dont be silly... Im not gonna have this conversation... Look, Ill call you tomorrow... Okay, bye" />
-<DIALOGUE id="DI5109" spans="403~420" text="Never get engaged" />
-<DIALOGUE id="DI510" spans="462~475" text="Youre engaged" />
-<DIALOGUE id="DI51" spans="851~864" text="Youre engaged" />
-<RELATION fromID="D484" fromText="answering" id="R5328" relationship="occurs-while" toID="DI5106" toText="Yeah, hello...yes...yes, she is, hold on" />
-<RELATION fromID="D485" fromText="to Laura" id="R5329" relationship="occurs-while" toID="DI5107" toText="Um, its for you" />
-<RELATION fromID="D486" fromText="to the phone" id="R530" relationship="occurs-while" toID="DI5108" toText="Hello?... Hi!... No no it was great, right on time... No, I, Im gonna stay here tomorrow...yes, yes its fine... No, were goin on a boat ride... Dont be silly... Im not gonna have this conversation... Look, Ill call you tomorrow... Okay, bye" />
-<RELATION fromID="D487" fromText="She hangs up the phone" id="R531" relationship="next-dialogue" toID="DI5109" toText="Never get engaged" />
-<RELATION fromID="D48" fromText="not excited" id="R532" relationship="occurs-while" toID="DI510" toText="Youre engaged" />
-<RELATION fromID="D49" fromText="matter-of-factly" id="R53" relationship="occurs-while" toID="DI51" toText="Youre engaged" />
-<DIRECTION action="yes" description="reference" id="D50" spans="228~290" text="George shows his note-block to Jerry; it says very largely,NO." />
-<DIRECTION action="yes" description="none" id="D51" spans="508~517" text="stands up" />
-<DIALOGUE id="DI52" spans="182~206" text="Id have to say, uuhh, no" />
-<DIALOGUE id="DI53" spans="518~566" text=" I gotta go get my stuff out of the dryer anyway" />
-<RELATION fromID="D50" fromText="George shows his note-block to Jerry; it says very largely,NO." id="R54" relationship="occurs-while" toID="DI52" toText="Id have to say, uuhh, no" />
-<RELATION fromID="D51" fromText="stands up" id="R55" relationship="occurs-while" toID="DI53" toText=" I gotta go get my stuff out of the dryer anyway" />
-<DIRECTION action="no" description="addressee" id="D52" spans="12~20" text="to Jerry" />
-<DIRECTION action="no" description="manner" id="D53" spans="106~115" text="panicking" />
-<DIRECTION action="yes" description="none" id="D54" spans="692~710" text="falls on his knees" />
-<DIALOGUE id="DI54" spans="22~62" text="Dont worry, I gave him a little caffeine" />
-<DIALOGUE id="DI55" spans="117~147" text="Right, I knew I felt something" />
-<DIALOGUE id="DI56" spans="712~737" text="WE ALREADY DISCUSSED THIS" />
-<RELATION fromID="D52" fromText="to Jerry" id="R56" relationship="occurs-while" toID="DI54" toText="Dont worry, I gave him a little caffeine" />
-<RELATION fromID="D53" fromText="panicking" id="R57" relationship="occurs-while" toID="DI55" toText="Right, I knew I felt something" />
-<RELATION fromID="D54" fromText="falls on his knees" id="R58" relationship="occurs-while" toID="DI56" toText="WE ALREADY DISCUSSED THIS" />
-<DIRECTION action="no" description="addressee" id="D55" spans="586~595" text="to Claire" />
-<DIALOGUE id="DI57" spans="597~629" text="Now, a woman calls me, all right" />
-<RELATION fromID="D55" fromText="to Claire" id="R59" relationship="occurs-while" toID="DI57" toText="Now, a woman calls me, all right" />
-<DIRECTION action="yes" description="none" id="D56" spans="314~337" text="whistles disapprovingly" />
-<DIALOGUE id="DI58" spans="339~355" text="Ho ho ho, Had to" />
-<RELATION fromID="D56" fromText="whistles disapprovingly" id="R60" relationship="next-dialogue" toID="DI58" toText="Ho ho ho, Had to" />
-<DIRECTION action="no" description="addressee" id="D57" spans="92~100" text="to Laura" />
-<DIRECTION action="no" description="manner" id="D58" spans="260~265" text="aside" />
-<DIRECTION action="no" description="addressee" id="D59" spans="267~276" text="to George" />
-<DIRECTION action="yes" description="none" id="D60" spans="675~760" text="Laura sits down on the couch, takes off her shoes and opens some buttons of her shirt" />
-<DIALOGUE id="DI59" spans="102~127" text="I cant believe youre here" />
-<DIALOGUE id="DI60" spans="278~343" text="Now that was an interesting greeting, did you notice that, George" />
-<DIALOGUE id="DI61" spans="763~792" text="So uh, can I get you anything" />
-<RELATION fromID="D57" fromText="to Laura" id="R61" relationship="occurs-while" toID="DI59" toText="I cant believe youre here" />
-<RELATION fromID="D58" fromText="aside" id="R62" relationship="occurs-while" toID="DI60" toText="Now that was an interesting greeting, did you notice that, George" />
-<RELATION fromID="D59" fromText="to George" id="R63" relationship="occurs-while" toID="DI60" toText="Now that was an interesting greeting, did you notice that, George" />
-<RELATION fromID="D60" fromText="Laura sits down on the couch, takes off her shoes and opens some buttons of her shirt" id="R64" relationship="occurs-while" toID="DI61" toText="So uh, can I get you anything" />
-<DIRECTION action="no" description="none" id="D61" spans="100~108" text="thinking" />
-<DIRECTION action="no" description="manner" id="D62" spans="110~117" text="quickly" />
-<DIRECTION action="no" description="none" id="D63" spans="334~342" text="thinking" />
-<DIALOGUE id="DI62" spans="119~208" text="Sagman, Bennet, Robbins, Oppenheim and Taft. Sagman, Bennet, Robbins, Oppenheim and Taft." />
-<DIALOGUE id="DI63" spans="344~362" text="I cant believe it." />
-<RELATION fromID="D61" fromText="thinking" id="R65" relationship="occurs-while" toID="DI62" toText="Sagman, Bennet, Robbins, Oppenheim and Taft. Sagman, Bennet, Robbins, Oppenheim and Taft." />
-<RELATION fromID="D62" fromText="quickly" id="R66" relationship="occurs-while" toID="DI62" toText="Sagman, Bennet, Robbins, Oppenheim and Taft. Sagman, Bennet, Robbins, Oppenheim and Taft." />
-<RELATION fromID="D63" fromText="thinking" id="R67" relationship="occurs-while" toID="DI63" toText="I cant believe it." />
-<DIRECTION action="yes" description="none" id="D64" spans="411~432" text="turning to each other" />
-<DIALOGUE id="DI64" spans="434~463" text="I dont know. Hes an importer." />
-<RELATION fromID="D64" fromText="turning to each other" id="R68" relationship="occurs-while" toID="DI64" toText="I dont know. Hes an importer." />
-<DIRECTION action="yes" description="none" id="D65" spans="13~30" text="clears his throat" />
-<DIRECTION action="yes" description="none" id="D66" spans="473~531" text="walking in front of George so he gets the picture to leave" />
-<DIALOGUE id="DI65" spans="32~56" text="Im, uh, Im an architect." />
-<DIALOGUE id="DI66" spans="442~471" text="Oh, that guy was your cousin!" />
-<RELATION fromID="D66" fromText="walking in front of George so he gets the picture to leave" id="R69" relationship="occurs-while" toID="DI66" toText="Oh, that guy was your cousin!" />
-<RELATION fromID="D65" fromText="clears his throat" id="R70" relationship="next-dialogue" toID="DI65" toText="Im, uh, Im an architect." />
-<DIRECTION action="no" description="none" id="D7437" spans="34~58" text="tries to turn away again" />
-<DIRECTION action="no" description="none" id="D7438" spans="60~68" text="thinking" />
-<DIRECTION action="no" description="none" id="D7439" spans="157~193" text="noticing Jerry not wanting to listen" />
-<DIRECTION action="no" description="manner" id="D740" spans="195~202" text="annoyed" />
-<DIRECTION action="no" description="none" id="D741" spans="407~415" text="thinking" />
-<DIRECTION action="yes" description="addressee" id="D742" spans="437~461" text="turns to talk to Vanessa" />
-<DIRECTION action="no" description="addressee" id="D743" spans="463~473" text="to Vanessa" />
-<DIRECTION action="no" description="none" id="D74" spans="599~607" text="thinking" />
-<DIRECTION action="no" description="addressee" id="D75" spans="702~712" text="to Vanessa" />
-<DIALOGUE id="DI737" spans="11~32" text="How do you like that?" />
-<DIALOGUE id="DI738" spans="69~98" text="Can I turn now? Is this over?" />
-<DIALOGUE id="DI739" spans="204~235" text="Jerry? Are you listening to me?" />
-<DIALOGUE id="DI70" spans="417~435" text="Thank you, Pamela!" />
-<DIALOGUE id="DI71" spans="475~496" text="So, youre a lawyer..." />
-<DIALOGUE id="DI72" spans="609~700" text="Sagman, Bennet, Robbins, Oppenheim and Taft. Sagman, Bennet, Robbins, Oppenheim and Taft..." />
-<DIALOGUE id="DI73" spans="714~764" text="Of course, they handled my tattoo removal lawsuit." />
-<RELATION fromID="D7437" fromText="tries to turn away again" id="R781" relationship="occurs-while" toID="DI737" toText="How do you like that?" />
-<RELATION fromID="D7438" fromText="thinking" id="R782" relationship="occurs-while" toID="DI738" toText="Can I turn now? Is this over?" />
-<RELATION fromID="D7439" fromText="noticing Jerry not wanting to listen" id="R783" relationship="next-dialogue" toID="DI739" toText="Jerry? Are you listening to me?" />
-<RELATION fromID="D740" fromText="annoyed" id="R784" relationship="occurs-while" toID="DI739" toText="Jerry? Are you listening to me?" />
-<RELATION fromID="D741" fromText="thinking" id="R785" relationship="occurs-while" toID="DI70" toText="Thank you, Pamela!" />
-<RELATION fromID="D742" fromText="turns to talk to Vanessa" id="R786" relationship="next-dialogue" toID="DI71" toText="So, youre a lawyer..." />
-<RELATION fromID="D743" fromText="to Vanessa" id="R787" relationship="occurs-while" toID="DI71" toText="So, youre a lawyer..." />
-<RELATION fromID="D74" fromText="thinking" id="R78" relationship="occurs-while" toID="DI72" toText="Sagman, Bennet, Robbins, Oppenheim and Taft. Sagman, Bennet, Robbins, Oppenheim and Taft..." />
-<RELATION fromID="D75" fromText="to Vanessa" id="R79" relationship="occurs-while" toID="DI73" toText="Of course, they handled my tattoo removal lawsuit." />
-<DIRECTION action="yes" description="manner" id="D76" spans="534~546" text="annoyed sigh" />
-<DIALOGUE id="DI74" spans="512~532" text="So nothing! Nothing." />
-<RELATION fromID="D76" fromText="annoyed sigh" id="R80" relationship="next-dialogue" toID="DI74" toText="So nothing! Nothing." />
-<DIRECTION action="no" description="none" id="D77" spans="18~42" text="The elevator door opens." />
-<DIRECTION action="no" description="manner" id="D78" spans="111~118" text="anxious" />
-<DIRECTION action="no" description="none" id="D79" spans="536~556" text="reaches for her name" />
-<DIALOGUE id="DI75" spans="44~82" text="Wait a second. Thats her. On the right" />
-<DIALOGUE id="DI76" spans="120~149" text="I forgot who I am! Who am I?!" />
-<DIALOGUE id="DI77" spans="558~569" text="Im sorry..." />
-<RELATION fromID="D79" fromText="reaches for her name" id="R81" relationship="next-dialogue" toID="DI77" toText="Im sorry..." />
-<RELATION fromID="D78" fromText="anxious" id="R82" relationship="occurs-while" toID="DI76" toText="I forgot who I am! Who am I?!" />
-<RELATION fromID="D77" fromText="The elevator door opens." id="R83" relationship="next-dialogue" toID="DI75" toText="Wait a second. Thats her. On the right" />
-<DIRECTION action="no" description="manner" id="D80" spans="307~314" text="annoyed" />
-<DIRECTION action="yes" description="none" id="D81" spans="349~353" text="beat" />
-<DIALOGUE id="DI78" spans="316~347" text="Hes an importer/exporter, okay?" />
-<DIALOGUE id="DI79" spans="355~381" text="Elaine ever call you back?" />
-<RELATION fromID="D81" fromText="beat" id="R84" relationship="occurs-while" toID="DI79" toText="Elaine ever call you back?" />
-<RELATION fromID="D80" fromText="annoyed" id="R85" relationship="next-dialogue" toID="DI78" toText="Hes an importer/exporter, okay?" />
-<DIRECTION action="no" description="manner" id="D82" spans="266~273" text="annoyed" />
-<DIALOGUE id="DI80" spans="275~299" text="Ma, will you go already?" />
-<RELATION fromID="D82" fromText="annoyed" id="R86" relationship="occurs-while" toID="DI80" toText="Ma, will you go already?" />
-<DIRECTION action="yes" description="none" id="D83" spans="72~105" text="interrupting Jerry's conversation" />
-<DIRECTION action="yes" description="none" id="D84" spans="146~163" text="turning to Elaine" />
-<DIRECTION action="no" description="none" id="D85" spans="165~173" text="thinking" />
-<DIRECTION action="no" description="none" id="D86" spans="304~356" text="tries turning away in the hopes Elaine gets the hint" />
-<DIRECTION action="no" description="none" id="D87" spans="358~366" text="thinking" />
-<DIRECTION action="no" description="none" id="D88" spans="506~514" text="thinking" />
-<DIRECTION action="no" description="none" id="D89" spans="735~743" text="thinking" />
-<DIALOGUE id="DI81" spans="107~117" text="Oh, Jerry!" />
-<DIALOGUE id="DI82" spans="175~190" text="Oh no, not now." />
-<DIALOGUE id="DI83" spans="292~302" text="Oh really?" />
-<DIALOGUE id="DI84" spans="368~400" text="Oh God, I gotta get out of this." />
-<DIALOGUE id="DI85" spans="516~538" text="Why is this happening?" />
-<DIALOGUE id="DI86" spans="745~760" text="This is brutal." />
-<RELATION fromID="D83" fromText="interrupting Jerry's conversation" id="R87" relationship="occurs-while" toID="DI81" toText="Oh, Jerry!" />
-<RELATION fromID="D84" fromText="turning to Elaine" id="R88" relationship="occurs-while" toID="DI81" toText="Oh, Jerry!" />
-<RELATION fromID="D85" fromText="thinking" id="R89" relationship="occurs-while" toID="DI82" toText="Oh no, not now." />
-<RELATION fromID="D86" fromText="tries turning away in the hopes Elaine gets the hint" id="R90" relationship="occurs-while" toID="DI83" toText="Oh really?" />
-<RELATION fromID="D87" fromText="thinking" id="R91" relationship="occurs-while" toID="DI84" toText="Oh God, I gotta get out of this." />
-<RELATION fromID="D88" fromText="thinking" id="R92" relationship="occurs-while" toID="DI85" toText="Why is this happening?" />
-<RELATION fromID="D89" fromText="thinking" id="R93" relationship="occurs-while" toID="DI86" toText="This is brutal." />
-<DIRECTION action="no" description="none" id="D90" spans="11~19" text="thinking" />
-<DIRECTION action="yes" description="none" id="D91" spans="334~348" text="Vanessa smiles" />
-<DIRECTION action="no" description="none" id="D92" spans="350~358" text="thinking" />
-<DIRECTION action="no" description="addressee" id="D93" spans="407~417" text="to Vanessa" />
-<DIRECTION action="no" description="none" id="D94" spans="547~555" text="thinking" />
-<DIRECTION action="no" description="addressee" id="D95" spans="728~736" text="to Jerry" />
-<DIALOGUE id="DI87" spans="21~26" text="Uh-oh" />
-<DIALOGUE id="DI88" spans="268~331" text="Plus Im wearing short sleeves, I dont want to expose my tattoos" />
-<DIALOGUE id="DI89" spans="360~377" text="Shes unbelievable" />
-<DIALOGUE id="DI90" spans="419~454" text="Hey, this guy says he knows Bricker" />
-<DIALOGUE id="DI91" spans="557~576" text="Whats going on here" />
-<DIALOGUE id="DI92" spans="738~760" text="How do you know Pamela" />
-<RELATION fromID="D90" fromText="thinking" id="R94" relationship="occurs-while" toID="DI87" toText="Uh-oh" />
-<RELATION fromID="D91" fromText="Vanessa smiles" id="R95" relationship="occurs-while" toID="DI88" toText="Plus Im wearing short sleeves, I dont want to expose my tattoos" />
-<RELATION fromID="D92" fromText="thinking" id="R96" relationship="occurs-while" toID="DI89" toText="Shes unbelievable" />
-<RELATION fromID="D93" fromText="to Vanessa" id="R97" relationship="occurs-while" toID="DI90" toText="Hey, this guy says he knows Bricker" />
-<RELATION fromID="D94" fromText="thinking" id="R98" relationship="occurs-while" toID="DI91" toText="Whats going on here" />
-<RELATION fromID="D95" fromText="to Jerry" id="R99" relationship="occurs-while" toID="DI92" toText="How do you know Pamela" />
-<DIRECTION action="yes" description="none" id="D96" spans="41~59" text="cleaning his shoes" />
-<DIRECTION action="no" description="addressee" id="D97" spans="126~134" text="to Jerry" />
-<DIRECTION action="no" description="addressee" id="D98" spans="382~390" text="to Morty" />
-<DIRECTION action="no" description="addressee" id="D99" spans="488~496" text="to Jerry" />
-<DIALOGUE id="DI93" spans="61~86" text="Good evening, Mr. Kramer!" />
-<DIALOGUE id="DI94" spans="136~151" text="Salad dressing?" />
-<DIALOGUE id="DI95" spans="392~411" text="Dad, shes cheating!" />
-<DIALOGUE id="DI96" spans="498~522" text="Youre such a stickler..." />
-<RELATION fromID="D99" fromText="to Jerry" id="R10100" relationship="occurs-while" toID="DI96" toText="Youre such a stickler..." />
-<RELATION fromID="D98" fromText="to Morty" id="R101" relationship="occurs-while" toID="DI95" toText="Dad, shes cheating!" />
-<RELATION fromID="D97" fromText="to Jerry" id="R102" relationship="occurs-while" toID="DI94" toText="Salad dressing?" />
-<RELATION fromID="D96" fromText="cleaning his shoes" id="R103" relationship="occurs-while" toID="DI93" toText="Good evening, Mr. Kramer!" />
-<DIRECTION action="no" description="addressee" id="D100" spans="86~94" text="to Helen" />
-<DIALOGUE id="DI97" spans="96~131" text="What else did she say on the phone?" />
-<RELATION fromID="D100" fromText="to Helen" id="R104" relationship="occurs-while" toID="DI97" toText="What else did she say on the phone?" />
-<DIRECTION action="yes" description="none" id="D10201" spans="13~32" text="shakes Jerry's hand" />
-<DIRECTION action="yes" description="none" id="D102" spans="362~384" text="turns to rest of table" />
-<DIALOGUE id="DI98" spans="34~45" text="Yes, we met" />
-<DIALOGUE id="DI99" spans="386~438" text="Im sorry, I didnt know what to bring, nobody told me" />
-<RELATION fromID="D10201" fromText="shakes Jerry's hand" id="R10605" relationship="occurs-while" toID="DI98" toText="Yes, we met" />
-<RELATION fromID="D102" fromText="turns to rest of table" id="R106" relationship="occurs-while" toID="DI99" toText="Im sorry, I didnt know what to bring, nobody told me" />
-<DIRECTION action="yes" description="manner" id="D103" spans="134~153" text="introducing himself" />
-<DIALOGUE id="DI100" spans="155~173" text="Uh, Jerry Seinfeld" />
-<RELATION fromID="D103" fromText="introducing himself" id="R107" relationship="occurs-while" toID="DI100" toText="Uh, Jerry Seinfeld" />
-<DIRECTION action="no" description="addressee" id="D104" spans="533~542" text="to Kramer" />
-<DIALOGUE id="DI101" spans="544~578" text="Why did you make me put that down?" />
-<RELATION fromID="D104" fromText="to Kramer" id="R108" relationship="occurs-while" toID="DI101" toText="Why did you make me put that down?" />
-<DIRECTION action="no" description="manner" id="D105" spans="77~93" text="somewhat annoyed" />
-<DIALOGUE id="DI102" spans="95~131" text="I suppose you could be an architect." />
-<RELATION fromID="D105" fromText="somewhat annoyed" id="R109" relationship="occurs-while" toID="DI102" toText="I suppose you could be an architect." />
-<DIRECTION action="yes" description="none" id="D10706" spans="250~258" text="chuckles" />
-<DIRECTION action="yes" description="manner" id="D107" spans="61~66" text="pause" />
-<DIALOGUE id="DI10403" spans="173~248" text="I was showing a condo on 48th street. Besides, you think I wanna miss this?" />
-<DIALOGUE id="DI104" spans="68~115" text="Hey listen, thanks again for running over here." />
-<RELATION fromID="D107" fromText="pause" id="R11110" relationship="next-dialogue" toID="DI104" toText="Hey listen, thanks again for running over here." />
-<RELATION fromID="D10706" fromText="chuckles" id="R111" relationship="next-dialogue" toID="DI10403" toText="I was showing a condo on 48th street. Besides, you think I wanna miss this?" />
-<DIRECTION action="yes" description="none" id="D108" spans="615~625" text="hits Morty" />
-<DIRECTION action="no" description="addressee" id="D109" spans="635~643" text="to Jerry" />
-<DIALOGUE id="DI10605" spans="627~632" text="Idiot" />
-<DIALOGUE id="DI106" spans="645~684" text="So whore you looking for, Sophia Loren?" />
-<RELATION fromID="D109" fromText="to Jerry" id="R11312" relationship="occurs-while" toID="DI106" toText="So whore you looking for, Sophia Loren?" />
-<RELATION fromID="D108" fromText="hits Morty" id="R113" relationship="occurs-while" toID="DI10605" toText="Idiot" />
-<DIRECTION action="no" description="addressee" id="D11110" spans="419~447" text="to the other laundry patrons" />
-<DIRECTION action="yes" description="none" id="D111" spans="1793~1802" text="answering" />
-<DIRECTION action="no" description="manner" id="D112" spans="1804~1811" text="quickly" />
-<DIRECTION action="no" description="addressee" id="D113" spans="1976~1987" text="to the door" />
-<DIALOGUE id="DI10807" spans="449~462" text="Any questions" />
-<DIALOGUE id="DI108" spans="1813~1892" text="If you know what happened in the Met game, dont say anything, I taped it, hello" />
-<DIALOGUE id="DI109" spans="1989~1993" text="Yeah" />
-<RELATION fromID="D11110" fromText="to the other laundry patrons" id="R11514" relationship="occurs-while" toID="DI10807" toText="Any questions" />
-<RELATION fromID="D111" fromText="answering" id="R115" relationship="occurs-while" toID="DI108" toText="If you know what happened in the Met game, dont say anything, I taped it, hello" />
-<RELATION fromID="D112" fromText="quickly" id="R116" relationship="occurs-while" toID="DI108" toText="If you know what happened in the Met game, dont say anything, I taped it, hello" />
-<RELATION fromID="D113" fromText="to the door" id="R117" relationship="occurs-while" toID="DI109" toText="Yeah" />
-<DIRECTION action="yes" description="manner" id="D11514" spans="51~71" text="snapping his fingers" />
-<DIRECTION action="yes" description="manner" id="D115" spans="510~527" text="snaps his fingers" />
-<DIALOGUE id="DI110" spans="11~48" text="Cause its signals, Jerry, its signals" />
-<DIALOGUE id="DI111" spans="470~507" text="Thats a signal, Jerry, thats a signal" />
-<DIALOGUE id="DI112" spans="529~535" text="Signal" />
-<RELATION fromID="D11514" fromText="snapping his fingers" id="R11918" relationship="occurs-while" toID="DI110" toText="Cause its signals, Jerry, its signals" />
-<RELATION fromID="D115" fromText="snaps his fingers" id="R119" relationship="occurs-while" toID="DI111" toText="Thats a signal, Jerry, thats a signal" />
-<RELATION fromID="D115" fromText="snaps his fingers" id="R120" relationship="occurs-while" toID="DI112" toText="Signal" />
-<DIRECTION action="no" description="addressee" id="D11716" spans="49~59" text="to Kessler" />
-<DIRECTION action="no" description="addressee" id="D117" spans="68~80" text="to the phone" />
-<DIRECTION action="no" description="manner" id="D118" spans="266~271" text="upset" />
-<DIRECTION action="yes" description="none" id="D119" spans="499~572" text="takes two loaves of bread out of his pockets, and holds them out to Jerry" />
-<DIRECTION action="yes" description="none" id="D120" spans="659~712" text="Kessler opens the refrigerator and sticks his head in" />
-<DIRECTION action="no" description="none" id="D121" spans="783~804" text="from the refrigerator" />
-<DIRECTION action="yes" description="manner" id="D122" spans="962~969" text="cynical" />
-<DIRECTION action="yes" description="none" id="D123" spans="1089~1470" text="Jerry sits down on the couch. Kessler walks over with his sandwich and looks at Jerry and uses expressions to ask Jerry to move the newspapers on the other side of the couch so he could site down. Kessler sits down next to him and starts turning over the pages of a magazine. Suddenly he spots an article he likes and tears it out. Jerry gives him a look as if to say, Do you mind?" />
-<DIALOGUE id="DI11413" spans="61~65" text="Yeah" />
-<DIALOGUE id="DI114" spans="82~102" text="Yeah, people do move" />
-<DIALOGUE id="DI115" spans="273~298" text="Ohhhh, what are you doing" />
-<DIALOGUE id="DI116" spans="575~591" text="You got any meat" />
-<DIALOGUE id="DI117" spans="715~752" text="Well what happened in the game anyway" />
-<DIALOGUE id="DI118" spans="806~819" text="What happened" />
-<DIALOGUE id="DI119" spans="971~1003" text="Yeah you almost went to the game" />
-<DIALOGUE id="DI120" spans="1472~1494" text="Are you done with this" />
-<RELATION fromID="D11716" fromText="to Kessler" id="R12221" relationship="occurs-while" toID="DI11413" toText="Yeah" />
-<RELATION fromID="D117" fromText="to the phone" id="R122" relationship="occurs-while" toID="DI114" toText="Yeah, people do move" />
-<RELATION fromID="D118" fromText="upset" id="R123" relationship="occurs-while" toID="DI115" toText="Ohhhh, what are you doing" />
-<RELATION fromID="D119" fromText="takes two loaves of bread out of his pockets, and holds them out to Jerry" id="R124" relationship="occurs-while" toID="DI116" toText="You got any meat" />
-<RELATION fromID="D120" fromText="Kessler opens the refrigerator and sticks his head in" id="R125" relationship="occurs-while" toID="DI117" toText="Well what happened in the game anyway" />
-<RELATION fromID="D121" fromText="from the refrigerator" id="R126" relationship="occurs-while" toID="DI118" toText="What happened" />
-<RELATION fromID="D122" fromText="cynical" id="R127" relationship="occurs-while" toID="DI119" toText="Yeah you almost went to the game" />
-<RELATION fromID="D123" fromText="Jerry sits down on the couch. Kessler walks over with his sandwich and looks at Jerry and uses expressions to ask Jerry to move the newspapers on the other side of the couch so he could site down. Kessler sits down next to him and starts turning over the pages of a magazine. Suddenly he spots an article he likes and tears it out. Jerry gives him a look as if to say, Do you mind?" id="R128" relationship="next-dialogue" toID="DI120" toText="Are you done with this" />
-<DIRECTION action="no" description="addressee" id="D12524" spans="74~83" text="to George" />
-<DIRECTION action="yes" description="reference" id="D125" spans="85~109" text="pointing at the mattress" />
-<DIRECTION action="no" description="manner" id="D126" spans="248~263" text="feeling awkward" />
-<DIRECTION action="yes" description="none" id="D127" spans="499~522" text="slaps George on the arm" />
-<DIRECTION action="no" description="addressee" id="D128" spans="589~597" text="to Jerry" />
-<DIRECTION action="yes" description="none" id="D129" spans="619~642" text="opens the bathroom door" />
-<DIALOGUE id="DI12221" spans="111~127" text="Its unbelievable" />
-<DIALOGUE id="DI122" spans="265~297" text="Its uh, not bad, its comin along" />
-<DIALOGUE id="DI123" spans="524~542" text="You keep me posted" />
-<DIALOGUE id="DI124" spans="599~617" text="All right, lets go" />
-<DIALOGUE id="DI125" spans="644~651" text="Lets go" />
-<RELATION fromID="D12524" fromText="to George" id="R13029" relationship="occurs-while" toID="DI12221" toText="Its unbelievable" />
-<RELATION fromID="D125" fromText="pointing at the mattress" id="R130" relationship="occurs-while" toID="DI12221" toText="Its unbelievable" />
-<RELATION fromID="D126" fromText="feeling awkward" id="R131" relationship="occurs-while" toID="DI122" toText="Its uh, not bad, its comin along" />
-<RELATION fromID="D127" fromText="slaps George on the arm" id="R132" relationship="occurs-while" toID="DI123" toText="You keep me posted" />
-<RELATION fromID="D128" fromText="to Jerry" id="R133" relationship="occurs-while" toID="DI124" toText="All right, lets go" />
-<RELATION fromID="D129" fromText="opens the bathroom door" id="R134" relationship="occurs-while" toID="DI125" toText="Lets go" />
-<DIRECTION action="yes" description="none" id="D13130" spans="45~50" text="pause" />
-<DIRECTION action="no" description="none" id="D131" spans="142~173" text="a lightbulb goes on in his head" />
-<DIRECTION action="yes" description="manner" id="D132" spans="426~448" text="Jerry turns in disgust" />
-<DIALOGUE id="DI12726" spans="35~42" text="Glasses" />
-<DIALOGUE id="DI127" spans="175~190" text="Riverside Drive" />
-<DIALOGUE id="DI128" spans="450~486" text="you dont want to go to... that... no" />
-<DIALOGUE id="DI129" spans="328~424" text="Well, a bunch of people are getting together tomorrow night at some bar for her birthday, but..." />
-<RELATION fromID="D13130" fromText="pause" id="R13635" relationship="next-dialogue" toID="DI12726" toText="Glasses" />
-<RELATION fromID="D131" fromText="a lightbulb goes on in his head" id="R136" relationship="next-dialogue" toID="DI127" toText="Riverside Drive" />
-<RELATION fromID="D132" fromText="Jerry turns in disgust" id="R137" relationship="occurs-while" toID="DI128" toText="you dont want to go to... that... no" />
-<RELATION fromID="D132" fromText="Jerry turns in disgust" id="R138" relationship="occurs-while" toID="DI129" toText="Well, a bunch of people are getting together tomorrow night at some bar for her birthday, but..." />
-<DIRECTION action="no" description="addressee" id="D13433" spans="128~140" text="to the phone" />
-<DIRECTION action="no" description="reference" id="D134" spans="319~328" text="to the TV" />
-<DIRECTION action="yes" description="none" id="D135" spans="425~474" text="Jerry takes a pencil and a cereal box to write on" />
-<DIRECTION action="yes" description="none" id="D136" spans="627~648" text="He hangs up the phone" />
-<DIRECTION action="no" description="addressee" id="D137" spans="650~660" text="to Kessler" />
-<DIRECTION action="no" description="manner" id="D138" spans="832~845" text="as his father" />
-<DIALOGUE id="DI13130" spans="142~289" text="No believe me, Im always up at this hour. How are you?... Great... Sure... What time does the plane get in?... I got my friend George to take me..." />
-<DIALOGUE id="DI131" spans="330~341" text="SLIDE! Wow!" />
-<DIALOGUE id="DI132" spans="408~422" text="Yeah, I got it" />
-<DIALOGUE id="DI133" spans="477~488" text="Ten-fifteen" />
-<DIALOGUE id="DI134" spans="614~624" text="Great, bye" />
-<DIALOGUE id="DI135" spans="662~679" text="I dont believe it" />
-<DIALOGUE id="DI136" spans="746~829" text="If my father was moving this hed had to have a cigarette in his mouth the whole way" />
-<RELATION fromID="D13433" fromText="to the phone" id="R14039" relationship="occurs-while" toID="DI13130" toText="No believe me, Im always up at this hour. How are you?... Great... Sure... What time does the plane get in?... I got my friend George to take me..." />
-<RELATION fromID="D134" fromText="to the TV" id="R140" relationship="occurs-while" toID="DI131" toText="SLIDE! Wow!" />
-<RELATION fromID="D135" fromText="Jerry takes a pencil and a cereal box to write on" id="R141" relationship="occurs-while" toID="DI132" toText="Yeah, I got it" />
-<RELATION fromID="D135" fromText="Jerry takes a pencil and a cereal box to write on" id="R142" relationship="occurs-while" toID="DI133" toText="Ten-fifteen" />
-<RELATION fromID="D136" fromText="He hangs up the phone" id="R143" relationship="next-dialogue" toID="DI134" toText="Great, bye" />
-<RELATION fromID="D137" fromText="to Kessler" id="R144" relationship="occurs-while" toID="DI135" toText="I dont believe it" />
-<RELATION fromID="D138" fromText="as his father" id="R145" relationship="occurs-while" toID="DI136" toText="If my father was moving this hed had to have a cigarette in his mouth the whole way" />
-<DIRECTION action="yes" description="none" id="D14039" spans="295~318" text="waving his handkerchief" />
-<DIRECTION action="no" description="manner" id="D140" spans="395~402" text="cynical" />
-<DIRECTION action="yes" description="reference" id="D141" spans="779~803" text="pointing to the mattress" />
-<DIALOGUE id="DI13837" spans="286~292" text="A flag" />
-<DIALOGUE id="DI138" spans="404~422" text="This is the signal" />
-<DIALOGUE id="DI139" spans="805~826" text="Is this for that girl" />
-<RELATION fromID="D14039" fromText="waving his handkerchief" id="R14746" relationship="occurs-while" toID="DI13837" toText="A flag" />
-<RELATION fromID="D140" fromText="cynical" id="R147" relationship="occurs-while" toID="DI138" toText="This is the signal" />
-<RELATION fromID="D141" fromText="pointing to the mattress" id="R148" relationship="occurs-while" toID="DI139" toText="Is this for that girl" />
-<DIRECTION action="no" description="manner" id="D142" spans="605~612" text="quickly" />
-<DIALOGUE id="DI140" spans="614~616" text="No" />
-<RELATION fromID="D142" fromText="quickly" id="R149" relationship="occurs-while" toID="DI140" toText="No" />
-<DIRECTION action="yes" description="none" id="D143" spans="2189~2230" text="Jerry draws imaginary book from a holster" />
-<DIALOGUE id="DI141" spans="2149~2187" text="The cheque book comes out of a holster" />
-<RELATION fromID="D143" fromText="Jerry draws imaginary book from a holster" id="R150" relationship="occurs-while" toID="DI141" toText="The cheque book comes out of a holster" />
-<DIRECTION action="yes" description="manner" id="D14544" spans="467~488" text="on an imaginary phone" />
-<DIRECTION action="yes" description="reference" id="D145" spans="1052~1077" text="pointing at Georges shirt" />
-<DIRECTION action="yes" description="manner" id="D146" spans="1561~1587" text="on an imaginary microphone" />
-<DIALOGUE id="DI14342" spans="490~502" text="Did you ring" />
-<DIALOGUE id="DI143" spans="1079~1132" text="See, to me, that button is in the worst possible spot" />
-<DIALOGUE id="DI144" spans="1589~1613" text="Uh, no, not at this time" />
-<RELATION fromID="D14544" fromText="on an imaginary phone" id="R15251" relationship="occurs-while" toID="DI14342" toText="Did you ring" />
-<RELATION fromID="D145" fromText="pointing at Georges shirt" id="R152" relationship="occurs-while" toID="DI143" toText="See, to me, that button is in the worst possible spot" />
-<RELATION fromID="D146" fromText="on an imaginary microphone" id="R153" relationship="occurs-while" toID="DI144" toText="Uh, no, not at this time" />
-<DIRECTION action="yes" description="reference" id="D14847" spans="40~60" text="looks in the creamer" />
-<DIRECTION action="yes" description="none" id="D148" spans="153~207" text="takes the milk can from Jerry and puts it on the table" />
-<DIRECTION action="no" description="manner" id="D149" spans="525~532" text="smiling" />
-<DIALOGUE id="DI14645" spans="62~93" text="Theres no milk in here, what..." />
-<DIALOGUE id="DI146" spans="121~151" text="Wait wait wait, what is she..." />
-<DIALOGUE id="DI147" spans="209~225" text="What is she like" />
-<DIALOGUE id="DI148" spans="534~567" text="So, you know, what, what happened" />
-<RELATION fromID="D14847" fromText="looks in the creamer" id="R15554" relationship="occurs-while" toID="DI14645" toText="Theres no milk in here, what..." />
-<RELATION fromID="D148" fromText="takes the milk can from Jerry and puts it on the table" id="R155" relationship="occurs-while" toID="DI146" toText="Wait wait wait, what is she..." />
-<RELATION fromID="D148" fromText="takes the milk can from Jerry and puts it on the table" id="R156" relationship="occurs-while" toID="DI147" toText="What is she like" />
-<RELATION fromID="D149" fromText="smiling" id="R157" relationship="occurs-while" toID="DI148" toText="So, you know, what, what happened" />
-<DIRECTION action="yes" description="none" id="D15150" spans="12~18" text="laughs" />
-<DIRECTION action="yes" description="reference" id="D151" spans="135~154" text="referring to a lamp" />
-<DIRECTION action="no" description="manner" id="D152" spans="914~928" text="unenthusiastic" />
-<DIRECTION action="yes" description="none" id="D153" spans="974~990" text="pouring the wine" />
-<DIALOGUE id="DI15049" spans="20~54" text="Actually, um, do you have any wine" />
-<DIALOGUE id="DI150" spans="156~191" text="Oh, do you mind if I turn this down" />
-<DIALOGUE id="DI151" spans="930~952" text="Yeah, we could do that" />
-<DIALOGUE id="DI152" spans="992~1026" text="Im just, Im really glad youre here" />
-<RELATION fromID="D15150" fromText="laughs" id="R15958" relationship="next-dialogue" toID="DI15049" toText="Actually, um, do you have any wine" />
-<RELATION fromID="D151" fromText="referring to a lamp" id="R159" relationship="occurs-while" toID="DI150" toText="Oh, do you mind if I turn this down" />
-<RELATION fromID="D152" fromText="unenthusiastic" id="R160" relationship="occurs-while" toID="DI151" toText="Yeah, we could do that" />
-<RELATION fromID="D153" fromText="pouring the wine" id="R161" relationship="occurs-while" toID="DI152" toText="Im just, Im really glad youre here" />
-<DIRECTION action="yes" description="manner" id="D15554" spans="12~21" text="answering" />
-<DIRECTION action="no" description="addressee" id="D155" spans="66~74" text="to Laura" />
-<DIRECTION action="no" description="addressee" id="D156" spans="121~133" text="to the phone" />
-<DIRECTION action="yes" description="none" id="D157" spans="378~400" text="She hangs up the phone" />
-<DIRECTION action="no" description="manner" id="D158" spans="449~460" text="not excited" />
-<DIRECTION action="no" description="manner" id="D159" spans="833~849" text="matter-of-factly" />
-<DIALOGUE id="DI15453" spans="23~63" text="Yeah, hello...yes...yes, she is, hold on" />
-<DIALOGUE id="DI154" spans="76~91" text="Um, its for you" />
-<DIALOGUE id="DI155" spans="135~375" text="Hello?... Hi!... No no it was great, right on time... No, I, Im gonna stay here tomorrow...yes, yes its fine... No, were goin on a boat ride... Dont be silly... Im not gonna have this conversation... Look, Ill call you tomorrow... Okay, bye" />
-<DIALOGUE id="DI156" spans="403~420" text="Never get engaged" />
-<DIALOGUE id="DI157" spans="462~475" text="Youre engaged" />
-<DIALOGUE id="DI158" spans="851~864" text="Youre engaged" />
-<RELATION fromID="D15554" fromText="answering" id="R16362" relationship="occurs-while" toID="DI15453" toText="Yeah, hello...yes...yes, she is, hold on" />
-<RELATION fromID="D155" fromText="to Laura" id="R163" relationship="occurs-while" toID="DI154" toText="Um, its for you" />
-<RELATION fromID="D156" fromText="to the phone" id="R164" relationship="occurs-while" toID="DI155" toText="Hello?... Hi!... No no it was great, right on time... No, I, Im gonna stay here tomorrow...yes, yes its fine... No, were goin on a boat ride... Dont be silly... Im not gonna have this conversation... Look, Ill call you tomorrow... Okay, bye" />
-<RELATION fromID="D157" fromText="She hangs up the phone" id="R165" relationship="next-dialogue" toID="DI156" toText="Never get engaged" />
-<RELATION fromID="D158" fromText="not excited" id="R166" relationship="occurs-while" toID="DI157" toText="Youre engaged" />
-<RELATION fromID="D159" fromText="matter-of-factly" id="R167" relationship="occurs-while" toID="DI158" toText="Youre engaged" />
-<DIRECTION action="yes" description="reference" id="D16160" spans="228~290" text="George shows his note-block to Jerry; it says very largely,NO." />
-<DIRECTION action="yes" description="none" id="D161" spans="508~517" text="stands up" />
-<DIALOGUE id="DI16059" spans="182~206" text="Id have to say, uuhh, no" />
-<DIALOGUE id="DI160" spans="518~566" text=" I gotta go get my stuff out of the dryer anyway" />
-<RELATION fromID="D16160" fromText="George shows his note-block to Jerry; it says very largely,NO." id="R16968" relationship="occurs-while" toID="DI16059" toText="Id have to say, uuhh, no" />
-<RELATION fromID="D161" fromText="stands up" id="R169" relationship="occurs-while" toID="DI160" toText=" I gotta go get my stuff out of the dryer anyway" />
-<DIRECTION action="no" description="addressee" id="D16362" spans="12~20" text="to Jerry" />
-<DIRECTION action="no" description="manner" id="D163" spans="106~115" text="panicking" />
-<DIRECTION action="yes" description="none" id="D164" spans="692~710" text="falls on his knees" />
-<DIALOGUE id="DI16261" spans="22~62" text="Dont worry, I gave him a little caffeine" />
-<DIALOGUE id="DI162" spans="117~147" text="Right, I knew I felt something" />
-<DIALOGUE id="DI163" spans="712~737" text="WE ALREADY DISCUSSED THIS" />
-<RELATION fromID="D16362" fromText="to Jerry" id="R17170" relationship="occurs-while" toID="DI16261" toText="Dont worry, I gave him a little caffeine" />
-<RELATION fromID="D163" fromText="panicking" id="R171" relationship="occurs-while" toID="DI162" toText="Right, I knew I felt something" />
-<RELATION fromID="D164" fromText="falls on his knees" id="R172" relationship="occurs-while" toID="DI163" toText="WE ALREADY DISCUSSED THIS" />
-<DIRECTION action="no" description="addressee" id="D165" spans="586~595" text="to Claire" />
-<DIALOGUE id="DI164" spans="597~629" text="Now, a woman calls me, all right" />
-<RELATION fromID="D165" fromText="to Claire" id="R173" relationship="occurs-while" toID="DI164" toText="Now, a woman calls me, all right" />
-<DIRECTION action="yes" description="none" id="D166" spans="314~337" text="whistles disapprovingly" />
-<DIALOGUE id="DI165" spans="339~355" text="Ho ho ho, Had to" />
-<RELATION fromID="D166" fromText="whistles disapprovingly" id="R174" relationship="next-dialogue" toID="DI165" toText="Ho ho ho, Had to" />
-<DIRECTION action="no" description="addressee" id="D16867" spans="92~100" text="to Laura" />
-<DIRECTION action="no" description="manner" id="D168" spans="260~265" text="aside" />
-<DIRECTION action="no" description="addressee" id="D169" spans="267~276" text="to George" />
-<DIRECTION action="yes" description="none" id="D170" spans="675~760" text="Laura sits down on the couch, takes off her shoes and opens some buttons of her shirt" />
-<DIALOGUE id="DI16766" spans="102~127" text="I cant believe youre here" />
-<DIALOGUE id="DI167" spans="278~343" text="Now that was an interesting greeting, did you notice that, George" />
-<DIALOGUE id="DI168" spans="763~792" text="So uh, can I get you anything" />
-<RELATION fromID="D16867" fromText="to Laura" id="R17675" relationship="occurs-while" toID="DI16766" toText="I cant believe youre here" />
-<RELATION fromID="D168" fromText="aside" id="R176" relationship="occurs-while" toID="DI167" toText="Now that was an interesting greeting, did you notice that, George" />
-<RELATION fromID="D169" fromText="to George" id="R177" relationship="occurs-while" toID="DI167" toText="Now that was an interesting greeting, did you notice that, George" />
-<RELATION fromID="D170" fromText="Laura sits down on the couch, takes off her shoes and opens some buttons of her shirt" id="R178" relationship="occurs-while" toID="DI168" toText="So uh, can I get you anything" />
+</TEXT><TAGS><DIRECTION action="no" description="none" id="D0" span_end_char="20" span_end_line="301" span_start_char="12" span_start_line="301" spans="100~108" text="thinking" />
+<DIRECTION action="no" description="manner" id="D1" span_end_char="29" span_end_line="301" span_start_char="22" span_start_line="301" spans="110~117" text="quickly" />
+<DIRECTION action="no" description="none" id="D2" span_end_char="20" span_end_line="304" span_start_char="12" span_start_line="304" spans="334~342" text="thinking" />
+<DIALOGUE id="DI0" span_end_char="120" span_end_line="301" span_start_char="31" span_start_line="301" spans="119~208" text="Sagman, Bennet, Robbins, Oppenheim and Taft. Sagman, Bennet, Robbins, Oppenheim and Taft." />
+<DIALOGUE id="DI1" span_end_char="40" span_end_line="304" span_start_char="22" span_start_line="304" spans="344~362" text="I cant believe it." />
+<RELATION fromID="D0" fromText="thinking" id="R0" relationship="occurs-while" toID="DI0" toText="Sagman, Bennet, Robbins, Oppenheim and Taft. Sagman, Bennet, Robbins, Oppenheim and Taft." />
+<RELATION fromID="D1" fromText="quickly" id="R1" relationship="occurs-while" toID="DI0" toText="Sagman, Bennet, Robbins, Oppenheim and Taft. Sagman, Bennet, Robbins, Oppenheim and Taft." />
+<RELATION fromID="D2" fromText="thinking" id="R2" relationship="occurs-while" toID="DI1" toText="I cant believe it." />
+<DIRECTION action="yes" description="none" id="D3" span_end_char="41" span_end_line="435" span_start_char="20" span_start_line="435" spans="411~432" text="turning to each other" />
+<DIALOGUE id="DI2" span_end_char="72" span_end_line="435" span_start_char="43" span_start_line="435" spans="434~463" text="I dont know. Hes an importer." />
+<RELATION fromID="D3" fromText="turning to each other" id="R3" relationship="occurs-while" toID="DI2" toText="I dont know. Hes an importer." />
+<DIRECTION action="yes" description="none" id="D4" span_end_char="30" span_end_line="439" span_start_char="13" span_start_line="439" spans="13~30" text="clears his throat" />
+<DIRECTION action="yes" description="none" id="D5" span_end_char="100" span_end_line="446" span_start_char="42" span_start_line="446" spans="473~531" text="walking in front of George so he gets the picture to leave" />
+<DIALOGUE id="DI3" span_end_char="56" span_end_line="439" span_start_char="32" span_start_line="439" spans="32~56" text="Im, uh, Im an architect." />
+<DIALOGUE id="DI4" span_end_char="40" span_end_line="446" span_start_char="11" span_start_line="446" spans="442~471" text="Oh, that guy was your cousin!" />
+<RELATION fromID="D5" fromText="walking in front of George so he gets the picture to leave" id="R4" relationship="occurs-while" toID="DI4" toText="Oh, that guy was your cousin!" />
+<RELATION fromID="D4" fromText="clears his throat" id="R5" relationship="next-dialogue" toID="DI3" toText="Im, uh, Im an architect." />
+<DIRECTION action="no" description="none" id="D12" span_end_char="58" span_end_line="289" span_start_char="34" span_start_line="289" spans="34~58" text="tries to turn away again" />
+<DIRECTION action="no" description="none" id="D13" span_end_char="68" span_end_line="289" span_start_char="60" span_start_line="289" spans="60~68" text="thinking" />
+<DIRECTION action="no" description="none" id="D14" span_end_char="48" span_end_line="290" span_start_char="12" span_start_line="290" spans="157~193" text="noticing Jerry not wanting to listen" />
+<DIRECTION action="no" description="manner" id="D9" span_end_char="57" span_end_line="290" span_start_char="50" span_start_line="290" spans="195~202" text="annoyed" />
+<DIRECTION action="no" description="none" id="D10" span_end_char="20" span_end_line="293" span_start_char="12" span_start_line="293" spans="407~415" text="thinking" />
+<DIRECTION action="yes" description="addressee" id="D11" span_end_char="66" span_end_line="293" span_start_char="42" span_start_line="293" spans="437~461" text="turns to talk to Vanessa" />
+<DIRECTION action="no" description="addressee" id="D12" span_end_char="78" span_end_line="293" span_start_char="68" span_start_line="293" spans="463~473" text="to Vanessa" />
+<DIRECTION action="no" description="none" id="D13" span_end_char="20" span_end_line="295" span_start_char="12" span_start_line="295" spans="599~607" text="thinking" />
+<DIRECTION action="no" description="addressee" id="D14" span_end_char="125" span_end_line="295" span_start_char="115" span_start_line="295" spans="702~712" text="to Vanessa" />
+<DIALOGUE id="DI10" span_end_char="32" span_end_line="289" span_start_char="11" span_start_line="289" spans="11~32" text="How do you like that?" />
+<DIALOGUE id="DI11" span_end_char="98" span_end_line="289" span_start_char="69" span_start_line="289" spans="69~98" text="Can I turn now? Is this over?" />
+<DIALOGUE id="DI7" span_end_char="90" span_end_line="290" span_start_char="59" span_start_line="290" spans="204~235" text="Jerry? Are you listening to me?" />
+<DIALOGUE id="DI8" span_end_char="40" span_end_line="293" span_start_char="22" span_start_line="293" spans="417~435" text="Thank you, Pamela!" />
+<DIALOGUE id="DI9" span_end_char="101" span_end_line="293" span_start_char="80" span_start_line="293" spans="475~496" text="So, youre a lawyer..." />
+<DIALOGUE id="DI10" span_end_char="113" span_end_line="295" span_start_char="22" span_start_line="295" spans="609~700" text="Sagman, Bennet, Robbins, Oppenheim and Taft. Sagman, Bennet, Robbins, Oppenheim and Taft..." />
+<DIALOGUE id="DI11" span_end_char="177" span_end_line="295" span_start_char="127" span_start_line="295" spans="714~764" text="Of course, they handled my tattoo removal lawsuit." />
+<RELATION fromID="D12" fromText="tries to turn away again" id="R12" relationship="occurs-while" toID="DI10" toText="How do you like that?" />
+<RELATION fromID="D13" fromText="thinking" id="R13" relationship="occurs-while" toID="DI11" toText="Can I turn now? Is this over?" />
+<RELATION fromID="D14" fromText="noticing Jerry not wanting to listen" id="R14" relationship="next-dialogue" toID="DI7" toText="Jerry? Are you listening to me?" />
+<RELATION fromID="D9" fromText="annoyed" id="R9" relationship="occurs-while" toID="DI7" toText="Jerry? Are you listening to me?" />
+<RELATION fromID="D10" fromText="thinking" id="R10" relationship="occurs-while" toID="DI8" toText="Thank you, Pamela!" />
+<RELATION fromID="D11" fromText="turns to talk to Vanessa" id="R11" relationship="next-dialogue" toID="DI9" toText="So, youre a lawyer..." />
+<RELATION fromID="D12" fromText="to Vanessa" id="R12" relationship="occurs-while" toID="DI9" toText="So, youre a lawyer..." />
+<RELATION fromID="D13" fromText="thinking" id="R13" relationship="occurs-while" toID="DI10" toText="Sagman, Bennet, Robbins, Oppenheim and Taft. Sagman, Bennet, Robbins, Oppenheim and Taft..." />
+<RELATION fromID="D14" fromText="to Vanessa" id="R14" relationship="occurs-while" toID="DI11" toText="Of course, they handled my tattoo removal lawsuit." />
+<DIRECTION action="yes" description="manner" id="D15" span_end_char="45" span_end_line="316" span_start_char="33" span_start_line="316" spans="534~546" text="annoyed sigh" />
+<DIALOGUE id="DI12" span_end_char="31" span_end_line="316" span_start_char="11" span_start_line="316" spans="512~532" text="So nothing! Nothing." />
+<RELATION fromID="D15" fromText="annoyed sigh" id="R15" relationship="next-dialogue" toID="DI12" toText="So nothing! Nothing." />
+<DIRECTION action="no" description="none" id="D176" span_end_char="42" span_end_line="419" span_start_char="18" span_start_line="419" spans="18~42" text="The elevator door opens." />
+<DIRECTION action="no" description="manner" id="D17" span_end_char="19" span_end_line="420" span_start_char="12" span_start_line="420" spans="111~118" text="anxious" />
+<DIRECTION action="no" description="none" id="D18" span_end_char="52" span_end_line="427" span_start_char="32" span_start_line="427" spans="536~556" text="reaches for her name" />
+<DIALOGUE id="DI143" span_end_char="82" span_end_line="419" span_start_char="44" span_start_line="419" spans="44~82" text="Wait a second. Thats her. On the right" />
+<DIALOGUE id="DI14" span_end_char="50" span_end_line="420" span_start_char="21" span_start_line="420" spans="120~149" text="I forgot who I am! Who am I?!" />
+<DIALOGUE id="DI15" span_end_char="65" span_end_line="427" span_start_char="54" span_start_line="427" spans="558~569" text="Im sorry..." />
+<RELATION fromID="D18" fromText="reaches for her name" id="R176" relationship="next-dialogue" toID="DI15" toText="Im sorry..." />
+<RELATION fromID="D17" fromText="anxious" id="R17" relationship="occurs-while" toID="DI14" toText="I forgot who I am! Who am I?!" />
+<RELATION fromID="D176" fromText="The elevator door opens." id="R18" relationship="next-dialogue" toID="DI143" toText="Wait a second. Thats her. On the right" />
+<DIRECTION action="no" description="manner" id="D209" span_end_char="20" span_end_line="416" span_start_char="13" span_start_line="416" spans="307~314" text="annoyed" />
+<DIRECTION action="yes" description="none" id="D20" span_end_char="59" span_end_line="416" span_start_char="55" span_start_line="416" spans="349~353" text="beat" />
+<DIALOGUE id="DI16" span_end_char="53" span_end_line="416" span_start_char="22" span_start_line="416" spans="316~347" text="Hes an importer/exporter, okay?" />
+<DIALOGUE id="DI17" span_end_char="87" span_end_line="416" span_start_char="61" span_start_line="416" spans="355~381" text="Elaine ever call you back?" />
+<RELATION fromID="D20" fromText="beat" id="R209" relationship="occurs-while" toID="DI17" toText="Elaine ever call you back?" />
+<RELATION fromID="D209" fromText="annoyed" id="R20" relationship="next-dialogue" toID="DI16" toText="Hes an importer/exporter, okay?" />
+<DIRECTION action="no" description="manner" id="D21" span_end_char="19" span_end_line="453" span_start_char="12" span_start_line="453" spans="266~273" text="annoyed" />
+<DIALOGUE id="DI18" span_end_char="45" span_end_line="453" span_start_char="21" span_start_line="453" spans="275~299" text="Ma, will you go already?" />
+<RELATION fromID="D21" fromText="annoyed" id="R21" relationship="occurs-while" toID="DI18" toText="Ma, will you go already?" />
+<DIRECTION action="yes" description="none" id="D242" span_end_char="46" span_end_line="280" span_start_char="13" span_start_line="280" spans="72~105" text="interrupting Jerry's conversation" />
+<DIRECTION action="yes" description="none" id="D243" span_end_char="29" span_end_line="281" span_start_char="12" span_start_line="281" spans="146~163" text="turning to Elaine" />
+<DIRECTION action="no" description="none" id="D24" span_end_char="39" span_end_line="281" span_start_char="31" span_start_line="281" spans="165~173" text="thinking" />
+<DIRECTION action="no" description="none" id="D25" span_end_char="75" span_end_line="283" span_start_char="23" span_start_line="283" spans="304~356" text="tries turning away in the hopes Elaine gets the hint" />
+<DIRECTION action="no" description="none" id="D26" span_end_char="85" span_end_line="283" span_start_char="77" span_start_line="283" spans="358~366" text="thinking" />
+<DIRECTION action="no" description="none" id="D27" span_end_char="32" span_end_line="285" span_start_char="24" span_start_line="285" spans="506~514" text="thinking" />
+<DIRECTION action="no" description="none" id="D28" span_end_char="19" span_end_line="287" span_start_char="11" span_start_line="287" spans="735~743" text="thinking" />
+<DIALOGUE id="DI2109" span_end_char="58" span_end_line="280" span_start_char="48" span_start_line="280" spans="107~117" text="Oh, Jerry!" />
+<DIALOGUE id="DI210" span_end_char="56" span_end_line="281" span_start_char="41" span_start_line="281" spans="175~190" text="Oh no, not now." />
+<DIALOGUE id="DI21" span_end_char="21" span_end_line="283" span_start_char="11" span_start_line="283" spans="292~302" text="Oh really?" />
+<DIALOGUE id="DI22" span_end_char="119" span_end_line="283" span_start_char="87" span_start_line="283" spans="368~400" text="Oh God, I gotta get out of this." />
+<DIALOGUE id="DI23" span_end_char="56" span_end_line="285" span_start_char="34" span_start_line="285" spans="516~538" text="Why is this happening?" />
+<DIALOGUE id="DI24" span_end_char="36" span_end_line="287" span_start_char="21" span_start_line="287" spans="745~760" text="This is brutal." />
+<RELATION fromID="D242" fromText="interrupting Jerry's conversation" id="R242" relationship="occurs-while" toID="DI2109" toText="Oh, Jerry!" />
+<RELATION fromID="D243" fromText="turning to Elaine" id="R243" relationship="occurs-while" toID="DI2109" toText="Oh, Jerry!" />
+<RELATION fromID="D24" fromText="thinking" id="R24" relationship="occurs-while" toID="DI210" toText="Oh no, not now." />
+<RELATION fromID="D25" fromText="tries turning away in the hopes Elaine gets the hint" id="R25" relationship="occurs-while" toID="DI21" toText="Oh really?" />
+<RELATION fromID="D26" fromText="thinking" id="R26" relationship="occurs-while" toID="DI22" toText="Oh God, I gotta get out of this." />
+<RELATION fromID="D27" fromText="thinking" id="R27" relationship="occurs-while" toID="DI23" toText="Why is this happening?" />
+<RELATION fromID="D28" fromText="thinking" id="R28" relationship="occurs-while" toID="DI24" toText="This is brutal." />
+<DIRECTION action="no" description="none" id="D3219" span_end_char="19" span_end_line="269" span_start_char="11" span_start_line="269" spans="11~19" text="thinking" />
+<DIRECTION action="yes" description="none" id="D320" span_end_char="91" span_end_line="273" span_start_char="77" span_start_line="273" spans="334~348" text="Vanessa smiles" />
+<DIRECTION action="no" description="none" id="D321" span_end_char="101" span_end_line="273" span_start_char="93" span_start_line="273" spans="350~358" text="thinking" />
+<DIRECTION action="no" description="addressee" id="D32" span_end_char="22" span_end_line="274" span_start_char="12" span_start_line="274" spans="407~417" text="to Vanessa" />
+<DIRECTION action="no" description="none" id="D33" span_end_char="20" span_end_line="276" span_start_char="12" span_start_line="276" spans="547~555" text="thinking" />
+<DIRECTION action="no" description="addressee" id="D34" span_end_char="21" span_end_line="277" span_start_char="13" span_start_line="277" spans="728~736" text="to Jerry" />
+<DIALOGUE id="DI275" span_end_char="26" span_end_line="269" span_start_char="21" span_start_line="269" spans="21~26" text="Uh-oh" />
+<DIALOGUE id="DI276" span_end_char="74" span_end_line="273" span_start_char="11" span_start_line="273" spans="268~331" text="Plus Im wearing short sleeves, I dont want to expose my tattoos" />
+<DIALOGUE id="DI27" span_end_char="120" span_end_line="273" span_start_char="103" span_start_line="273" spans="360~377" text="Shes unbelievable" />
+<DIALOGUE id="DI28" span_end_char="59" span_end_line="274" span_start_char="24" span_start_line="274" spans="419~454" text="Hey, this guy says he knows Bricker" />
+<DIALOGUE id="DI29" span_end_char="41" span_end_line="276" span_start_char="22" span_start_line="276" spans="557~576" text="Whats going on here" />
+<DIALOGUE id="DI30" span_end_char="45" span_end_line="277" span_start_char="23" span_start_line="277" spans="738~760" text="How do you know Pamela" />
+<RELATION fromID="D3219" fromText="thinking" id="R3219" relationship="occurs-while" toID="DI275" toText="Uh-oh" />
+<RELATION fromID="D320" fromText="Vanessa smiles" id="R320" relationship="occurs-while" toID="DI276" toText="Plus Im wearing short sleeves, I dont want to expose my tattoos" />
+<RELATION fromID="D321" fromText="thinking" id="R321" relationship="occurs-while" toID="DI27" toText="Shes unbelievable" />
+<RELATION fromID="D32" fromText="to Vanessa" id="R32" relationship="occurs-while" toID="DI28" toText="Hey, this guy says he knows Bricker" />
+<RELATION fromID="D33" fromText="thinking" id="R33" relationship="occurs-while" toID="DI29" toText="Whats going on here" />
+<RELATION fromID="D34" fromText="to Jerry" id="R34" relationship="occurs-while" toID="DI30" toText="How do you know Pamela" />
+<DIRECTION action="yes" description="none" id="D385" span_end_char="30" span_end_line="460" span_start_char="12" span_start_line="460" spans="41~59" text="cleaning his shoes" />
+<DIRECTION action="no" description="addressee" id="D386" span_end_char="31" span_end_line="461" span_start_char="23" span_start_line="461" spans="126~134" text="to Jerry" />
+<DIRECTION action="no" description="addressee" id="D387" span_end_char="66" span_end_line="466" span_start_char="58" span_start_line="466" spans="382~390" text="to Morty" />
+<DIRECTION action="no" description="addressee" id="D38" span_end_char="19" span_end_line="468" span_start_char="11" span_start_line="468" spans="488~496" text="to Jerry" />
+<DIALOGUE id="DI341" span_end_char="57" span_end_line="460" span_start_char="32" span_start_line="460" spans="61~86" text="Good evening, Mr. Kramer!" />
+<DIALOGUE id="DI342" span_end_char="48" span_end_line="461" span_start_char="33" span_start_line="461" spans="136~151" text="Salad dressing?" />
+<DIALOGUE id="DI343" span_end_char="87" span_end_line="466" span_start_char="68" span_start_line="466" spans="392~411" text="Dad, shes cheating!" />
+<DIALOGUE id="DI34" span_end_char="45" span_end_line="468" span_start_char="21" span_start_line="468" spans="498~522" text="Youre such a stickler..." />
+<RELATION fromID="D38" fromText="to Jerry" id="R385" relationship="occurs-while" toID="DI34" toText="Youre such a stickler..." />
+<RELATION fromID="D387" fromText="to Morty" id="R386" relationship="occurs-while" toID="DI343" toText="Dad, shes cheating!" />
+<RELATION fromID="D386" fromText="to Jerry" id="R387" relationship="occurs-while" toID="DI342" toText="Salad dressing?" />
+<RELATION fromID="D385" fromText="cleaning his shoes" id="R38" relationship="occurs-while" toID="DI341" toText="Good evening, Mr. Kramer!" />
+<DIRECTION action="no" description="addressee" id="D39" span_end_char="34" span_end_line="480" span_start_char="26" span_start_line="480" spans="86~94" text="to Helen" />
+<DIALOGUE id="DI35" span_end_char="71" span_end_line="480" span_start_char="36" span_start_line="480" spans="96~131" text="What else did she say on the phone?" />
+<RELATION fromID="D39" fromText="to Helen" id="R39" relationship="occurs-while" toID="DI35" toText="What else did she say on the phone?" />
+<DIRECTION action="yes" description="none" id="D40" span_end_char="32" span_end_line="259" span_start_char="13" span_start_line="259" spans="13~32" text="shakes Jerry's hand" />
+<DIRECTION action="yes" description="none" id="D41" span_end_char="43" span_end_line="265" span_start_char="21" span_start_line="265" spans="362~384" text="turns to rest of table" />
+<DIALOGUE id="DI36" span_end_char="45" span_end_line="259" span_start_char="34" span_start_line="259" spans="34~45" text="Yes, we met" />
+<DIALOGUE id="DI37" span_end_char="97" span_end_line="265" span_start_char="45" span_start_line="265" spans="386~438" text="Im sorry, I didnt know what to bring, nobody told me" />
+<RELATION fromID="D40" fromText="shakes Jerry's hand" id="R40" relationship="occurs-while" toID="DI36" toText="Yes, we met" />
+<RELATION fromID="D41" fromText="turns to rest of table" id="R41" relationship="occurs-while" toID="DI37" toText="Im sorry, I didnt know what to bring, nobody told me" />
+<DIRECTION action="yes" description="manner" id="D42" span_end_char="46" span_end_line="511" span_start_char="27" span_start_line="511" spans="134~153" text="introducing himself" />
+<DIALOGUE id="DI38" span_end_char="66" span_end_line="511" span_start_char="48" span_start_line="511" spans="155~173" text="Uh, Jerry Seinfeld" />
+<RELATION fromID="D42" fromText="introducing himself" id="R42" relationship="occurs-while" toID="DI38" toText="Uh, Jerry Seinfeld" />
+<DIRECTION action="no" description="addressee" id="D43" span_end_char="20" span_end_line="498" span_start_char="11" span_start_line="498" spans="533~542" text="to Kramer" />
+<DIALOGUE id="DI39" span_end_char="56" span_end_line="498" span_start_char="22" span_start_line="498" spans="544~578" text="Why did you make me put that down?" />
+<RELATION fromID="D43" fromText="to Kramer" id="R43" relationship="occurs-while" toID="DI39" toText="Why did you make me put that down?" />
+<DIRECTION action="no" description="manner" id="D44" span_end_char="28" span_end_line="400" span_start_char="12" span_start_line="400" spans="77~93" text="somewhat annoyed" />
+<DIALOGUE id="DI40" span_end_char="66" span_end_line="400" span_start_char="30" span_start_line="400" spans="95~131" text="I suppose you could be an architect." />
+<RELATION fromID="D44" fromText="somewhat annoyed" id="R44" relationship="occurs-while" toID="DI40" toText="I suppose you could be an architect." />
+<DIRECTION action="yes" description="none" id="D45" span_end_char="109" span_end_line="390" span_start_char="101" span_start_line="390" spans="250~258" text="chuckles" />
+<DIRECTION action="yes" description="manner" id="D46" span_end_char="66" span_end_line="389" span_start_char="61" span_start_line="389" spans="61~66" text="pause" />
+<DIALOGUE id="DI41" span_end_char="99" span_end_line="390" span_start_char="24" span_start_line="390" spans="173~248" text="I was showing a condo on 48th street. Besides, you think I wanna miss this?" />
+<DIALOGUE id="DI42" span_end_char="115" span_end_line="389" span_start_char="68" span_start_line="389" spans="68~115" text="Hey listen, thanks again for running over here." />
+<RELATION fromID="D46" fromText="pause" id="R45" relationship="next-dialogue" toID="DI42" toText="Hey listen, thanks again for running over here." />
+<RELATION fromID="D45" fromText="chuckles" id="R46" relationship="next-dialogue" toID="DI41" toText="I was showing a condo on 48th street. Besides, you think I wanna miss this?" />
+<DIRECTION action="yes" description="none" id="D47" span_end_char="22" span_end_line="358" span_start_char="12" span_start_line="358" spans="615~625" text="hits Morty" />
+<DIRECTION action="no" description="addressee" id="D48" span_end_char="40" span_end_line="358" span_start_char="32" span_start_line="358" spans="635~643" text="to Jerry" />
+<DIALOGUE id="DI43" span_end_char="29" span_end_line="358" span_start_char="24" span_start_line="358" spans="627~632" text="Idiot" />
+<DIALOGUE id="DI44" span_end_char="81" span_end_line="358" span_start_char="42" span_start_line="358" spans="645~684" text="So whore you looking for, Sophia Loren?" />
+<RELATION fromID="D48" fromText="to Jerry" id="R47" relationship="occurs-while" toID="DI44" toText="So whore you looking for, Sophia Loren?" />
+<RELATION fromID="D47" fromText="hits Morty" id="R48" relationship="occurs-while" toID="DI43" toText="Idiot" />
+<DIRECTION action="no" description="addressee" id="D49" span_end_char="39" span_end_line="83" span_start_char="11" span_start_line="83" spans="419~447" text="to the other laundry patrons" />
+<DIRECTION action="yes" description="none" id="D50" span_end_char="20" span_end_line="87" span_start_char="11" span_start_line="87" spans="1793~1802" text="answering" />
+<DIRECTION action="no" description="manner" id="D51" span_end_char="29" span_end_line="87" span_start_char="22" span_start_line="87" spans="1804~1811" text="quickly" />
+<DIRECTION action="no" description="addressee" id="D52" span_end_char="21" span_end_line="88" span_start_char="10" span_start_line="88" spans="1976~1987" text="to the door" />
+<DIALOGUE id="DI45" span_end_char="54" span_end_line="83" span_start_char="41" span_start_line="83" spans="449~462" text="Any questions" />
+<DIALOGUE id="DI46" span_end_char="110" span_end_line="87" span_start_char="31" span_start_line="87" spans="1813~1892" text="If you know what happened in the Met game, dont say anything, I taped it, hello" />
+<DIALOGUE id="DI47" span_end_char="27" span_end_line="88" span_start_char="23" span_start_line="88" spans="1989~1993" text="Yeah" />
+<RELATION fromID="D49" fromText="to the other laundry patrons" id="R49" relationship="occurs-while" toID="DI45" toText="Any questions" />
+<RELATION fromID="D50" fromText="answering" id="R50" relationship="occurs-while" toID="DI46" toText="If you know what happened in the Met game, dont say anything, I taped it, hello" />
+<RELATION fromID="D51" fromText="quickly" id="R51" relationship="occurs-while" toID="DI46" toText="If you know what happened in the Met game, dont say anything, I taped it, hello" />
+<RELATION fromID="D52" fromText="to the door" id="R52" relationship="occurs-while" toID="DI47" toText="Yeah" />
+<DIRECTION action="yes" description="manner" id="D53" span_end_char="71" span_end_line="69" span_start_char="51" span_start_line="69" spans="51~71" text="snapping his fingers" />
+<DIRECTION action="yes" description="manner" id="D54" span_end_char="164" span_end_line="73" span_start_char="147" span_start_line="73" spans="510~527" text="snaps his fingers" />
+<DIALOGUE id="DI48" span_end_char="48" span_end_line="69" span_start_char="11" span_start_line="69" spans="11~48" text="Cause its signals, Jerry, its signals" />
+<DIALOGUE id="DI49" span_end_char="144" span_end_line="73" span_start_char="107" span_start_line="73" spans="470~507" text="Thats a signal, Jerry, thats a signal" />
+<DIALOGUE id="DI50" span_end_char="172" span_end_line="73" span_start_char="166" span_start_line="73" spans="529~535" text="Signal" />
+<RELATION fromID="D53" fromText="snapping his fingers" id="R53" relationship="occurs-while" toID="DI48" toText="Cause its signals, Jerry, its signals" />
+<RELATION fromID="D54" fromText="snaps his fingers" id="R54" relationship="occurs-while" toID="DI49" toText="Thats a signal, Jerry, thats a signal" />
+<RELATION fromID="D54" fromText="snaps his fingers" id="R55" relationship="occurs-while" toID="DI50" toText="Signal" />
+<DIRECTION action="no" description="addressee" id="D6105" span_end_char="21" span_end_line="90" span_start_char="11" span_start_line="90" spans="49~59" text="to Kessler" />
+<DIRECTION action="no" description="addressee" id="D6106" span_end_char="42" span_end_line="90" span_start_char="30" span_start_line="90" spans="68~80" text="to the phone" />
+<DIRECTION action="no" description="manner" id="D6107" span_end_char="16" span_end_line="92" span_start_char="11" span_start_line="92" spans="266~271" text="upset" />
+<DIRECTION action="yes" description="none" id="D6108" span_end_char="137" span_end_line="93" span_start_char="64" span_start_line="93" spans="499~572" text="takes two loaves of bread out of his pockets, and holds them out to Jerry" />
+<DIRECTION action="yes" description="none" id="D6109" span_end_char="103" span_end_line="94" span_start_char="50" span_start_line="94" spans="659~712" text="Kessler opens the refrigerator and sticks his head in" />
+<DIRECTION action="no" description="none" id="D610" span_end_char="34" span_end_line="95" span_start_char="13" span_start_line="95" spans="783~804" text="from the refrigerator" />
+<DIRECTION action="yes" description="manner" id="D61" span_end_char="17" span_end_line="97" span_start_char="10" span_start_line="97" spans="962~969" text="cynical" />
+<DIRECTION action="yes" description="none" id="D62" span_end_char="400" span_end_line="98" span_start_char="19" span_start_line="98" spans="1089~1470" text="Jerry sits down on the couch. Kessler walks over with his sandwich and looks at Jerry and uses expressions to ask Jerry to move the newspapers on the other side of the couch so he could site down. Kessler sits down next to him and starts turning over the pages of a magazine. Suddenly he spots an article he likes and tears it out. Jerry gives him a look as if to say, Do you mind?" />
+<DIALOGUE id="DI561" span_end_char="27" span_end_line="90" span_start_char="23" span_start_line="90" spans="61~65" text="Yeah" />
+<DIALOGUE id="DI562" span_end_char="64" span_end_line="90" span_start_char="44" span_start_line="90" spans="82~102" text="Yeah, people do move" />
+<DIALOGUE id="DI563" span_end_char="43" span_end_line="92" span_start_char="18" span_start_line="92" spans="273~298" text="Ohhhh, what are you doing" />
+<DIALOGUE id="DI564" span_end_char="156" span_end_line="93" span_start_char="140" span_start_line="93" spans="575~591" text="You got any meat" />
+<DIALOGUE id="DI565" span_end_char="143" span_end_line="94" span_start_char="106" span_start_line="94" spans="715~752" text="Well what happened in the game anyway" />
+<DIALOGUE id="DI56" span_end_char="49" span_end_line="95" span_start_char="36" span_start_line="95" spans="806~819" text="What happened" />
+<DIALOGUE id="DI57" span_end_char="51" span_end_line="97" span_start_char="19" span_start_line="97" spans="971~1003" text="Yeah you almost went to the game" />
+<DIALOGUE id="DI58" span_end_char="424" span_end_line="98" span_start_char="402" span_start_line="98" spans="1472~1494" text="Are you done with this" />
+<RELATION fromID="D6105" fromText="to Kessler" id="R6216" relationship="occurs-while" toID="DI561" toText="Yeah" />
+<RELATION fromID="D6106" fromText="to the phone" id="R6217" relationship="occurs-while" toID="DI562" toText="Yeah, people do move" />
+<RELATION fromID="D6107" fromText="upset" id="R6218" relationship="occurs-while" toID="DI563" toText="Ohhhh, what are you doing" />
+<RELATION fromID="D6108" fromText="takes two loaves of bread out of his pockets, and holds them out to Jerry" id="R6219" relationship="occurs-while" toID="DI564" toText="You got any meat" />
+<RELATION fromID="D6109" fromText="Kessler opens the refrigerator and sticks his head in" id="R620" relationship="occurs-while" toID="DI565" toText="Well what happened in the game anyway" />
+<RELATION fromID="D610" fromText="from the refrigerator" id="R621" relationship="occurs-while" toID="DI56" toText="What happened" />
+<RELATION fromID="D61" fromText="cynical" id="R62" relationship="occurs-while" toID="DI57" toText="Yeah you almost went to the game" />
+<RELATION fromID="D62" fromText="Jerry sits down on the couch. Kessler walks over with his sandwich and looks at Jerry and uses expressions to ask Jerry to move the newspapers on the other side of the couch so he could site down. Kessler sits down next to him and starts turning over the pages of a magazine. Suddenly he spots an article he likes and tears it out. Jerry gives him a look as if to say, Do you mind?" id="R63" relationship="next-dialogue" toID="DI58" toText="Are you done with this" />
+<DIRECTION action="no" description="addressee" id="D63" span_end_char="23" span_end_line="140" span_start_char="14" span_start_line="140" spans="74~83" text="to George" />
+<DIRECTION action="yes" description="reference" id="D64" span_end_char="49" span_end_line="140" span_start_char="25" span_start_line="140" spans="85~109" text="pointing at the mattress" />
+<DIRECTION action="no" description="manner" id="D65" span_end_char="28" span_end_line="143" span_start_char="13" span_start_line="143" spans="248~263" text="feeling awkward" />
+<DIRECTION action="yes" description="none" id="D66" span_end_char="36" span_end_line="146" span_start_char="13" span_start_line="146" spans="499~522" text="slaps George on the arm" />
+<DIRECTION action="no" description="addressee" id="D67" span_end_char="38" span_end_line="147" span_start_char="30" span_start_line="147" spans="589~597" text="to Jerry" />
+<DIRECTION action="yes" description="none" id="D68" span_end_char="83" span_end_line="147" span_start_char="60" span_start_line="147" spans="619~642" text="opens the bathroom door" />
+<DIALOGUE id="DI59" span_end_char="67" span_end_line="140" span_start_char="51" span_start_line="140" spans="111~127" text="Its unbelievable" />
+<DIALOGUE id="DI60" span_end_char="62" span_end_line="143" span_start_char="30" span_start_line="143" spans="265~297" text="Its uh, not bad, its comin along" />
+<DIALOGUE id="DI61" span_end_char="56" span_end_line="146" span_start_char="38" span_start_line="146" spans="524~542" text="You keep me posted" />
+<DIALOGUE id="DI62" span_end_char="58" span_end_line="147" span_start_char="40" span_start_line="147" spans="599~617" text="All right, lets go" />
+<DIALOGUE id="DI63" span_end_char="92" span_end_line="147" span_start_char="85" span_start_line="147" spans="644~651" text="Lets go" />
+<RELATION fromID="D63" fromText="to George" id="R64" relationship="occurs-while" toID="DI59" toText="Its unbelievable" />
+<RELATION fromID="D64" fromText="pointing at the mattress" id="R65" relationship="occurs-while" toID="DI59" toText="Its unbelievable" />
+<RELATION fromID="D65" fromText="feeling awkward" id="R66" relationship="occurs-while" toID="DI60" toText="Its uh, not bad, its comin along" />
+<RELATION fromID="D66" fromText="slaps George on the arm" id="R67" relationship="occurs-while" toID="DI61" toText="You keep me posted" />
+<RELATION fromID="D67" fromText="to Jerry" id="R68" relationship="occurs-while" toID="DI62" toText="All right, lets go" />
+<RELATION fromID="D68" fromText="opens the bathroom door" id="R69" relationship="occurs-while" toID="DI63" toText="Lets go" />
+<DIRECTION action="yes" description="none" id="D69" span_end_char="50" span_end_line="229" span_start_char="45" span_start_line="229" spans="45~50" text="pause" />
+<DIRECTION action="no" description="none" id="D70" span_end_char="42" span_end_line="230" span_start_char="11" span_start_line="230" spans="142~173" text="a lightbulb goes on in his head" />
+<DIRECTION action="yes" description="manner" id="D71" span_end_char="132" span_end_line="233" span_start_char="110" span_start_line="233" spans="426~448" text="Jerry turns in disgust" />
+<DIALOGUE id="DI64" span_end_char="42" span_end_line="229" span_start_char="35" span_start_line="229" spans="35~42" text="Glasses" />
+<DIALOGUE id="DI65" span_end_char="59" span_end_line="230" span_start_char="44" span_start_line="230" spans="175~190" text="Riverside Drive" />
+<DIALOGUE id="DI66" span_end_char="170" span_end_line="233" span_start_char="134" span_start_line="233" spans="450~486" text="you dont want to go to... that... no" />
+<DIALOGUE id="DI67" span_end_char="108" span_end_line="233" span_start_char="12" span_start_line="233" spans="328~424" text="Well, a bunch of people are getting together tomorrow night at some bar for her birthday, but..." />
+<RELATION fromID="D69" fromText="pause" id="R70" relationship="next-dialogue" toID="DI64" toText="Glasses" />
+<RELATION fromID="D70" fromText="a lightbulb goes on in his head" id="R71" relationship="next-dialogue" toID="DI65" toText="Riverside Drive" />
+<RELATION fromID="D71" fromText="Jerry turns in disgust" id="R72" relationship="occurs-while" toID="DI66" toText="you dont want to go to... that... no" />
+<RELATION fromID="D71" fromText="Jerry turns in disgust" id="R73" relationship="occurs-while" toID="DI67" toText="Well, a bunch of people are getting together tomorrow night at some bar for her birthday, but..." />
+<DIRECTION action="no" description="addressee" id="D72" span_end_char="24" span_end_line="111" span_start_char="12" span_start_line="111" spans="128~140" text="to the phone" />
+<DIRECTION action="no" description="reference" id="D73" span_end_char="22" span_end_line="112" span_start_char="13" span_start_line="112" spans="319~328" text="to the TV" />
+<DIRECTION action="yes" description="none" id="D74" span_end_char="117" span_end_line="113" span_start_char="68" span_start_line="113" spans="425~474" text="Jerry takes a pencil and a cereal box to write on" />
+<DIRECTION action="yes" description="none" id="D75" span_end_char="291" span_end_line="113" span_start_char="270" span_start_line="113" spans="627~648" text="He hangs up the phone" />
+<DIRECTION action="no" description="addressee" id="D76" span_end_char="303" span_end_line="113" span_start_char="293" span_start_line="113" spans="650~660" text="to Kessler" />
+<DIRECTION action="no" description="manner" id="D77" span_end_char="110" span_end_line="114" span_start_char="97" span_start_line="114" spans="832~845" text="as his father" />
+<DIALOGUE id="DI748" span_end_char="173" span_end_line="111" span_start_char="26" span_start_line="111" spans="142~289" text="No believe me, Im always up at this hour. How are you?... Great... Sure... What time does the plane get in?... I got my friend George to take me..." />
+<DIALOGUE id="DI749" span_end_char="35" span_end_line="112" span_start_char="24" span_start_line="112" spans="330~341" text="SLIDE! Wow!" />
+<DIALOGUE id="DI70" span_end_char="65" span_end_line="113" span_start_char="51" span_start_line="113" spans="408~422" text="Yeah, I got it" />
+<DIALOGUE id="DI71" span_end_char="131" span_end_line="113" span_start_char="120" span_start_line="113" spans="477~488" text="Ten-fifteen" />
+<DIALOGUE id="DI72" span_end_char="267" span_end_line="113" span_start_char="257" span_start_line="113" spans="614~624" text="Great, bye" />
+<DIALOGUE id="DI73" span_end_char="322" span_end_line="113" span_start_char="305" span_start_line="113" spans="662~679" text="I dont believe it" />
+<DIALOGUE id="DI74" span_end_char="94" span_end_line="114" span_start_char="11" span_start_line="114" spans="746~829" text="If my father was moving this hed had to have a cigarette in his mouth the whole way" />
+<RELATION fromID="D72" fromText="to the phone" id="R74" relationship="occurs-while" toID="DI748" toText="No believe me, Im always up at this hour. How are you?... Great... Sure... What time does the plane get in?... I got my friend George to take me..." />
+<RELATION fromID="D73" fromText="to the TV" id="R75" relationship="occurs-while" toID="DI749" toText="SLIDE! Wow!" />
+<RELATION fromID="D74" fromText="Jerry takes a pencil and a cereal box to write on" id="R76" relationship="occurs-while" toID="DI70" toText="Yeah, I got it" />
+<RELATION fromID="D74" fromText="Jerry takes a pencil and a cereal box to write on" id="R77" relationship="occurs-while" toID="DI71" toText="Ten-fifteen" />
+<RELATION fromID="D75" fromText="He hangs up the phone" id="R78" relationship="next-dialogue" toID="DI72" toText="Great, bye" />
+<RELATION fromID="D76" fromText="to Kessler" id="R79" relationship="occurs-while" toID="DI73" toText="I dont believe it" />
+<RELATION fromID="D77" fromText="as his father" id="R80" relationship="occurs-while" toID="DI74" toText="If my father was moving this hed had to have a cigarette in his mouth the whole way" />
+<DIRECTION action="yes" description="none" id="D78" span_end_char="154" span_end_line="121" span_start_char="131" span_start_line="121" spans="295~318" text="waving his handkerchief" />
+<DIRECTION action="no" description="manner" id="D79" span_end_char="19" span_end_line="122" span_start_char="12" span_start_line="122" spans="395~402" text="cynical" />
+<DIRECTION action="yes" description="reference" id="D80" span_end_char="71" span_end_line="127" span_start_char="47" span_start_line="127" spans="779~803" text="pointing to the mattress" />
+<DIALOGUE id="DI75" span_end_char="128" span_end_line="121" span_start_char="122" span_start_line="121" spans="286~292" text="A flag" />
+<DIALOGUE id="DI76" span_end_char="39" span_end_line="122" span_start_char="21" span_start_line="122" spans="404~422" text="This is the signal" />
+<DIALOGUE id="DI77" span_end_char="94" span_end_line="127" span_start_char="73" span_start_line="127" spans="805~826" text="Is this for that girl" />
+<RELATION fromID="D78" fromText="waving his handkerchief" id="R81" relationship="occurs-while" toID="DI75" toText="A flag" />
+<RELATION fromID="D79" fromText="cynical" id="R82" relationship="occurs-while" toID="DI76" toText="This is the signal" />
+<RELATION fromID="D80" fromText="pointing to the mattress" id="R83" relationship="occurs-while" toID="DI77" toText="Is this for that girl" />
+<DIRECTION action="no" description="manner" id="D81" span_end_char="18" span_end_line="228" span_start_char="11" span_start_line="228" spans="605~612" text="quickly" />
+<DIALOGUE id="DI78" span_end_char="22" span_end_line="228" span_start_char="20" span_start_line="228" spans="614~616" text="No" />
+<RELATION fromID="D81" fromText="quickly" id="R84" relationship="occurs-while" toID="DI78" toText="No" />
+<DIRECTION action="yes" description="none" id="D82" span_end_char="454" span_end_line="213" span_start_char="413" span_start_line="213" spans="2189~2230" text="Jerry draws imaginary book from a holster" />
+<DIALOGUE id="DI79" span_end_char="411" span_end_line="213" span_start_char="373" span_start_line="213" spans="2149~2187" text="The cheque book comes out of a holster" />
+<RELATION fromID="D82" fromText="Jerry draws imaginary book from a holster" id="R85" relationship="occurs-while" toID="DI79" toText="The cheque book comes out of a holster" />
+<DIRECTION action="yes" description="manner" id="D83" span_end_char="446" span_end_line="0" span_start_char="425" span_start_line="0" spans="467~488" text="on an imaginary phone" />
+<DIRECTION action="yes" description="reference" id="D84" span_end_char="35" span_end_line="1" span_start_char="10" span_start_line="1" spans="1052~1077" text="pointing at Georges shirt" />
+<DIRECTION action="yes" description="manner" id="D85" span_end_char="37" span_end_line="6" span_start_char="11" span_start_line="6" spans="1561~1587" text="on an imaginary microphone" />
+<DIALOGUE id="DI80" span_end_char="460" span_end_line="0" span_start_char="448" span_start_line="0" spans="490~502" text="Did you ring" />
+<DIALOGUE id="DI81" span_end_char="90" span_end_line="1" span_start_char="37" span_start_line="1" spans="1079~1132" text="See, to me, that button is in the worst possible spot" />
+<DIALOGUE id="DI82" span_end_char="63" span_end_line="6" span_start_char="39" span_start_line="6" spans="1589~1613" text="Uh, no, not at this time" />
+<RELATION fromID="D83" fromText="on an imaginary phone" id="R86" relationship="occurs-while" toID="DI80" toText="Did you ring" />
+<RELATION fromID="D84" fromText="pointing at Georges shirt" id="R87" relationship="occurs-while" toID="DI81" toText="See, to me, that button is in the worst possible spot" />
+<RELATION fromID="D85" fromText="on an imaginary microphone" id="R88" relationship="occurs-while" toID="DI82" toText="Uh, no, not at this time" />
+<DIRECTION action="yes" description="reference" id="D86" span_end_char="31" span_end_line="20" span_start_char="11" span_start_line="20" spans="40~60" text="looks in the creamer" />
+<DIRECTION action="yes" description="none" id="D87" span_end_char="97" span_end_line="21" span_start_char="43" span_start_line="21" spans="153~207" text="takes the milk can from Jerry and puts it on the table" />
+<DIRECTION action="no" description="manner" id="D88" span_end_char="19" span_end_line="23" span_start_char="12" span_start_line="23" spans="525~532" text="smiling" />
+<DIALOGUE id="DI83" span_end_char="64" span_end_line="20" span_start_char="33" span_start_line="20" spans="62~93" text="Theres no milk in here, what..." />
+<DIALOGUE id="DI84" span_end_char="41" span_end_line="21" span_start_char="11" span_start_line="21" spans="121~151" text="Wait wait wait, what is she..." />
+<DIALOGUE id="DI85" span_end_char="115" span_end_line="21" span_start_char="99" span_start_line="21" spans="209~225" text="What is she like" />
+<DIALOGUE id="DI86" span_end_char="54" span_end_line="23" span_start_char="21" span_start_line="23" spans="534~567" text="So, you know, what, what happened" />
+<RELATION fromID="D86" fromText="looks in the creamer" id="R89" relationship="occurs-while" toID="DI83" toText="Theres no milk in here, what..." />
+<RELATION fromID="D87" fromText="takes the milk can from Jerry and puts it on the table" id="R90" relationship="occurs-while" toID="DI84" toText="Wait wait wait, what is she..." />
+<RELATION fromID="D87" fromText="takes the milk can from Jerry and puts it on the table" id="R91" relationship="occurs-while" toID="DI85" toText="What is she like" />
+<RELATION fromID="D88" fromText="smiling" id="R92" relationship="occurs-while" toID="DI86" toText="So, you know, what, what happened" />
+<DIRECTION action="yes" description="none" id="D89" span_end_char="18" span_end_line="189" span_start_char="12" span_start_line="189" spans="12~18" text="laughs" />
+<DIRECTION action="yes" description="reference" id="D90" span_end_char="31" span_end_line="191" span_start_char="12" span_start_line="191" spans="135~154" text="referring to a lamp" />
+<DIRECTION action="no" description="manner" id="D91" span_end_char="26" span_end_line="198" span_start_char="12" span_start_line="198" spans="914~928" text="unenthusiastic" />
+<DIRECTION action="yes" description="none" id="D92" span_end_char="88" span_end_line="198" span_start_char="72" span_start_line="198" spans="974~990" text="pouring the wine" />
+<DIALOGUE id="DI87" span_end_char="54" span_end_line="189" span_start_char="20" span_start_line="189" spans="20~54" text="Actually, um, do you have any wine" />
+<DIALOGUE id="DI88" span_end_char="68" span_end_line="191" span_start_char="33" span_start_line="191" spans="156~191" text="Oh, do you mind if I turn this down" />
+<DIALOGUE id="DI89" span_end_char="50" span_end_line="198" span_start_char="28" span_start_line="198" spans="930~952" text="Yeah, we could do that" />
+<DIALOGUE id="DI90" span_end_char="124" span_end_line="198" span_start_char="90" span_start_line="198" spans="992~1026" text="Im just, Im really glad youre here" />
+<RELATION fromID="D89" fromText="laughs" id="R93" relationship="next-dialogue" toID="DI87" toText="Actually, um, do you have any wine" />
+<RELATION fromID="D90" fromText="referring to a lamp" id="R94" relationship="occurs-while" toID="DI88" toText="Oh, do you mind if I turn this down" />
+<RELATION fromID="D91" fromText="unenthusiastic" id="R95" relationship="occurs-while" toID="DI89" toText="Yeah, we could do that" />
+<RELATION fromID="D92" fromText="pouring the wine" id="R96" relationship="occurs-while" toID="DI90" toText="Im just, Im really glad youre here" />
+<DIRECTION action="yes" description="manner" id="D93" span_end_char="21" span_end_line="199" span_start_char="12" span_start_line="199" spans="12~21" text="answering" />
+<DIRECTION action="no" description="addressee" id="D94" span_end_char="74" span_end_line="199" span_start_char="66" span_start_line="199" spans="66~74" text="to Laura" />
+<DIRECTION action="no" description="addressee" id="D95" span_end_char="24" span_end_line="200" span_start_char="12" span_start_line="200" spans="121~133" text="to the phone" />
+<DIRECTION action="yes" description="none" id="D96" span_end_char="291" span_end_line="200" span_start_char="269" span_start_line="200" spans="378~400" text="She hangs up the phone" />
+<DIRECTION action="no" description="manner" id="D97" span_end_char="22" span_end_line="201" span_start_char="11" span_start_line="201" spans="449~460" text="not excited" />
+<DIRECTION action="no" description="manner" id="D98" span_end_char="27" span_end_line="205" span_start_char="11" span_start_line="205" spans="833~849" text="matter-of-factly" />
+<DIALOGUE id="DI91" span_end_char="63" span_end_line="199" span_start_char="23" span_start_line="199" spans="23~63" text="Yeah, hello...yes...yes, she is, hold on" />
+<DIALOGUE id="DI92" span_end_char="91" span_end_line="199" span_start_char="76" span_start_line="199" spans="76~91" text="Um, its for you" />
+<DIALOGUE id="DI93" span_end_char="266" span_end_line="200" span_start_char="26" span_start_line="200" spans="135~375" text="Hello?... Hi!... No no it was great, right on time... No, I, Im gonna stay here tomorrow...yes, yes its fine... No, were goin on a boat ride... Dont be silly... Im not gonna have this conversation... Look, Ill call you tomorrow... Okay, bye" />
+<DIALOGUE id="DI94" span_end_char="311" span_end_line="200" span_start_char="294" span_start_line="200" spans="403~420" text="Never get engaged" />
+<DIALOGUE id="DI95" span_end_char="37" span_end_line="201" span_start_char="24" span_start_line="201" spans="462~475" text="Youre engaged" />
+<DIALOGUE id="DI96" span_end_char="42" span_end_line="205" span_start_char="29" span_start_line="205" spans="851~864" text="Youre engaged" />
+<RELATION fromID="D93" fromText="answering" id="R97" relationship="occurs-while" toID="DI91" toText="Yeah, hello...yes...yes, she is, hold on" />
+<RELATION fromID="D94" fromText="to Laura" id="R98" relationship="occurs-while" toID="DI92" toText="Um, its for you" />
+<RELATION fromID="D95" fromText="to the phone" id="R99" relationship="occurs-while" toID="DI93" toText="Hello?... Hi!... No no it was great, right on time... No, I, Im gonna stay here tomorrow...yes, yes its fine... No, were goin on a boat ride... Dont be silly... Im not gonna have this conversation... Look, Ill call you tomorrow... Okay, bye" />
+<RELATION fromID="D96" fromText="She hangs up the phone" id="R100" relationship="next-dialogue" toID="DI94" toText="Never get engaged" />
+<RELATION fromID="D97" fromText="not excited" id="R101" relationship="occurs-while" toID="DI95" toText="Youre engaged" />
+<RELATION fromID="D98" fromText="matter-of-factly" id="R102" relationship="occurs-while" toID="DI96" toText="Youre engaged" />
+<DIRECTION action="yes" description="reference" id="D99" span_end_char="66" span_end_line="52" span_start_char="4" span_start_line="52" spans="228~290" text="George shows his note-block to Jerry; it says very largely,NO." />
+<DIRECTION action="yes" description="none" id="D100" span_end_char="116" span_end_line="55" span_start_char="107" span_start_line="55" spans="508~517" text="stands up" />
+<DIALOGUE id="DI97" span_end_char="35" span_end_line="51" span_start_char="11" span_start_line="51" spans="182~206" text="Id have to say, uuhh, no" />
+<DIALOGUE id="DI98" span_end_char="165" span_end_line="55" span_start_char="117" span_start_line="55" spans="518~566" text=" I gotta go get my stuff out of the dryer anyway" />
+<RELATION fromID="D99" fromText="George shows his note-block to Jerry; it says very largely,NO." id="R10403" relationship="occurs-while" toID="DI97" toText="Id have to say, uuhh, no" />
+<RELATION fromID="D100" fromText="stands up" id="R104" relationship="occurs-while" toID="DI98" toText=" I gotta go get my stuff out of the dryer anyway" />
+<DIRECTION action="no" description="addressee" id="D10201" span_end_char="20" span_end_line="59" span_start_char="12" span_start_line="59" spans="12~20" text="to Jerry" />
+<DIRECTION action="no" description="manner" id="D102" span_end_char="21" span_end_line="60" span_start_char="12" span_start_line="60" spans="106~115" text="panicking" />
+<DIRECTION action="yes" description="none" id="D103" span_end_char="45" span_end_line="67" span_start_char="27" span_start_line="67" spans="692~710" text="falls on his knees" />
+<DIALOGUE id="DI99" span_end_char="62" span_end_line="59" span_start_char="22" span_start_line="59" spans="22~62" text="Dont worry, I gave him a little caffeine" />
+<DIALOGUE id="DI100" span_end_char="53" span_end_line="60" span_start_char="23" span_start_line="60" spans="117~147" text="Right, I knew I felt something" />
+<DIALOGUE id="DI101" span_end_char="72" span_end_line="67" span_start_char="47" span_start_line="67" spans="712~737" text="WE ALREADY DISCUSSED THIS" />
+<RELATION fromID="D10201" fromText="to Jerry" id="R10605" relationship="occurs-while" toID="DI99" toText="Dont worry, I gave him a little caffeine" />
+<RELATION fromID="D102" fromText="panicking" id="R106" relationship="occurs-while" toID="DI100" toText="Right, I knew I felt something" />
+<RELATION fromID="D103" fromText="falls on his knees" id="R107" relationship="occurs-while" toID="DI101" toText="WE ALREADY DISCUSSED THIS" />
+<DIRECTION action="no" description="addressee" id="D104" span_end_char="21" span_end_line="46" span_start_char="12" span_start_line="46" spans="586~595" text="to Claire" />
+<DIALOGUE id="DI102" span_end_char="55" span_end_line="46" span_start_char="23" span_start_line="46" spans="597~629" text="Now, a woman calls me, all right" />
+<RELATION fromID="D104" fromText="to Claire" id="R108" relationship="occurs-while" toID="DI102" toText="Now, a woman calls me, all right" />
+<DIRECTION action="yes" description="none" id="D105" span_end_char="35" span_end_line="31" span_start_char="12" span_start_line="31" spans="314~337" text="whistles disapprovingly" />
+<DIALOGUE id="DI103" span_end_char="53" span_end_line="31" span_start_char="37" span_start_line="31" spans="339~355" text="Ho ho ho, Had to" />
+<RELATION fromID="D105" fromText="whistles disapprovingly" id="R109" relationship="next-dialogue" toID="DI103" toText="Ho ho ho, Had to" />
+<DIRECTION action="no" description="addressee" id="D10706" span_end_char="19" span_end_line="181" span_start_char="11" span_start_line="181" spans="92~100" text="to Laura" />
+<DIRECTION action="no" description="manner" id="D107" span_end_char="17" span_end_line="184" span_start_char="12" span_start_line="184" spans="260~265" text="aside" />
+<DIRECTION action="no" description="addressee" id="D108" span_end_char="28" span_end_line="184" span_start_char="19" span_start_line="184" spans="267~276" text="to George" />
+<DIRECTION action="yes" description="none" id="D109" span_end_char="177" span_end_line="188" span_start_char="92" span_start_line="188" spans="675~760" text="Laura sits down on the couch, takes off her shoes and opens some buttons of her shirt" />
+<DIALOGUE id="DI10504" span_end_char="46" span_end_line="181" span_start_char="21" span_start_line="181" spans="102~127" text="I cant believe youre here" />
+<DIALOGUE id="DI105" span_end_char="95" span_end_line="184" span_start_char="30" span_start_line="184" spans="278~343" text="Now that was an interesting greeting, did you notice that, George" />
+<DIALOGUE id="DI106" span_end_char="209" span_end_line="188" span_start_char="180" span_start_line="188" spans="763~792" text="So uh, can I get you anything" />
+<RELATION fromID="D10706" fromText="to Laura" id="R11110" relationship="occurs-while" toID="DI10504" toText="I cant believe youre here" />
+<RELATION fromID="D107" fromText="aside" id="R111" relationship="occurs-while" toID="DI105" toText="Now that was an interesting greeting, did you notice that, George" />
+<RELATION fromID="D108" fromText="to George" id="R112" relationship="occurs-while" toID="DI105" toText="Now that was an interesting greeting, did you notice that, George" />
+<RELATION fromID="D109" fromText="Laura sits down on the couch, takes off her shoes and opens some buttons of her shirt" id="R113" relationship="occurs-while" toID="DI106" toText="So uh, can I get you anything" />
 </TAGS></TemporalDirections></root>

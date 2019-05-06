@@ -16,6 +16,11 @@ def standardize(s, standard_tags):
         s = s.replace(id, standard_tags[id])
     return s
 
+def get_char_line_number(text, char_num):
+    line = text[:int(char_num)].split("\n")[-1]
+    line_number = line.split(",")[0]
+    return (str(line_number), str(len(line)))
+
 for dirname, dirnames, filenames in os.walk('.'):
     for filename in filenames:
         if filename[0] != "." and filename.endswith(".xml"):
@@ -41,8 +46,12 @@ for dirname, dirnames, filenames in os.walk('.'):
                         for tag in source_tags:
                             if tag.tag != "RELATION":
                                 spans = tag.attrib["spans"].split("~")
-                                start = int(spans[0])
-                                end = int(spans[1])
+                                start = get_char_line_number(text, spans[0])
+                                end = get_char_line_number(text, spans[1])
+                                tag.set("span_start_line", start[0])
+                                tag.set("span_start_char", start[1])
+                                tag.set("span_end_line", end[0])
+                                tag.set("span_end_char", end[1])
                                 #print(text_segments[-1][1][start:end], "***", tag.attrib["text"])
                             id = tag.attrib["id"]
                             standard_tags[id] = "{}{}".format(tag_type[tag.tag], tag_num[tag.tag])
