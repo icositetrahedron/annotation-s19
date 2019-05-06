@@ -2148,18 +2148,18 @@
 <RELATION fromID="D11" fromText="Grabs a female employee, and starts dancing with her. The crowd is impressed" id="R11" relationship="next-dialogue" toID="DI11" toText="No one? Alright, I'll just have to get things started." />
 <RELATION fromID="D12" fromText="They both laugh" id="R12" relationship="next-dialogue" toID="DI12" toText="Hi, I'm miserable." />
 <RELATION fromID="D13" fromText="Acting innocent" id="R13" relationship="occurs-while" toID="DI13" toText="I'm all set." />
-<DIRECTION action="no" description="addressee" id="D154" span_end_char="30" span_end_line="53203" span_start_char="21" span_start_line="53203" spans="279~288" text="to George" />
+<DIRECTION action="no" description="addressee" id="D14" span_end_char="30" span_end_line="53203" span_start_char="21" span_start_line="53203" spans="279~288" text="to George" />
 <DIRECTION action="no" description="addressee" id="D15" span_end_char="22" span_end_line="53204" span_start_char="14" span_start_line="53204" spans="342~350" text="to Jerry" />
 <DIRECTION action="no" description="addressee" id="D16" span_end_char="24" span_end_line="53223" span_start_char="13" span_start_line="53223" spans="1922~1933" text="to waitress" />
 <DIRECTION action="yes" description="manner" id="D17" span_end_char="24" span_end_line="53241" span_start_char="14" span_start_line="53241" spans="3231~3241" text="whispering" />
-<DIALOGUE id="DI154" span_end_char="53" span_end_line="53203" span_start_char="32" span_start_line="53203" spans="290~311" text="You owe me a quarter." />
+<DIALOGUE id="DI14" span_end_char="53" span_end_line="53203" span_start_char="32" span_start_line="53203" spans="290~311" text="You owe me a quarter." />
 <DIALOGUE id="DI15" span_end_char="57" span_end_line="53204" span_start_char="25" span_start_line="53204" spans="353~385" text="Slippery Pete. Kramer, hurry up!" />
 <DIALOGUE id="DI16" span_end_char="48" span_end_line="53223" span_start_char="26" span_start_line="53223" spans="1935~1957" text="Cup of tea with lemon." />
 <DIALOGUE id="DI17" span_end_char="49" span_end_line="53241" span_start_char="26" span_start_line="53241" spans="3243~3266" text="Why did you get a maid?" />
-<RELATION fromID="D17" fromText="whispering" id="R154" relationship="occurs-while" toID="DI17" toText="Why did you get a maid?" />
+<RELATION fromID="D17" fromText="whispering" id="R14" relationship="occurs-while" toID="DI17" toText="Why did you get a maid?" />
 <RELATION fromID="D16" fromText="to waitress" id="R15" relationship="occurs-while" toID="DI16" toText="Cup of tea with lemon." />
 <RELATION fromID="D15" fromText="to Jerry" id="R16" relationship="occurs-while" toID="DI15" toText="Slippery Pete. Kramer, hurry up!" />
-<RELATION fromID="D154" fromText="to George" id="R17" relationship="occurs-while" toID="DI154" toText="You owe me a quarter." />
+<RELATION fromID="D14" fromText="to George" id="R17" relationship="occurs-while" toID="DI14" toText="You owe me a quarter." />
 <DIRECTION action="yes" description="none" id="D18" span_end_char="21" span_end_line="53678" span_start_char="14" span_start_line="53678" spans="2046~2053" text="yelling" />
 <DIALOGUE id="DI18" span_end_char="53" span_end_line="53678" span_start_char="23" span_start_line="53678" spans="2055~2085" text="Hey! Fold your dog's ear back!" />
 <RELATION fromID="D18" fromText="yelling" id="R18" relationship="occurs-while" toID="DI18" toText="Hey! Fold your dog's ear back!" />
@@ -2169,16 +2169,16 @@
 <DIRECTION action="yes" description="none" id="D20" span_end_char="25" span_end_line="54493" span_start_char="18" span_start_line="54493" spans="3249~3256" text="Mumbles" />
 <DIALOGUE id="DI20" span_end_char="21" span_end_line="54494" span_start_char="11" span_start_line="54494" spans="3285~3295" text="Excuse me?" />
 <RELATION fromID="D20" fromText="Mumbles" id="R20" relationship="next-dialogue" toID="DI20" toText="Excuse me?" />
-<DIRECTION action="no" description="addressee" id="D231" span_end_char="22" span_end_line="52556" span_start_char="14" span_start_line="52556" spans="990~998" text="to Jerry" />
-<DIRECTION action="yes" description="none" id="D232" span_end_char="61" span_end_line="52581" span_start_char="15" span_start_line="52581" spans="2870~2916" text="pulling a liquor bottle from his jacket pocket" />
+<DIRECTION action="no" description="addressee" id="D21" span_end_char="22" span_end_line="52556" span_start_char="14" span_start_line="52556" spans="990~998" text="to Jerry" />
+<DIRECTION action="yes" description="none" id="D22" span_end_char="61" span_end_line="52581" span_start_char="15" span_start_line="52581" spans="2870~2916" text="pulling a liquor bottle from his jacket pocket" />
 <DIRECTION action="yes" description="none" id="D23" span_end_char="83" span_end_line="52582" span_start_char="68" span_start_line="52582" spans="3123~3138" text="he jumps Kramer" />
 <DIRECTION action="yes" description="none" id="D24" span_end_char="88" span_end_line="52599" span_start_char="14" span_start_line="52599" spans="4599~4673" text="putting his finger to Sophie's lips, then to his own, then back to Sopie's" />
-<DIALOGUE id="DI231" span_end_char="70" span_end_line="52556" span_start_char="24" span_start_line="52556" spans="1000~1046" text="Huh-ho! Have you ever seen anything like this?" />
-<DIALOGUE id="DI232" span_end_char="182" span_end_line="52581" span_start_char="63" span_start_line="52581" spans="2918~3037" text="Well, I guess it started about twenty years ago when I got back from Viet Nam, and this was the only friend I had left." />
+<DIALOGUE id="DI21" span_end_char="70" span_end_line="52556" span_start_char="24" span_start_line="52556" spans="1000~1046" text="Huh-ho! Have you ever seen anything like this?" />
+<DIALOGUE id="DI22" span_end_char="182" span_end_line="52581" span_start_char="63" span_start_line="52581" spans="2918~3037" text="Well, I guess it started about twenty years ago when I got back from Viet Nam, and this was the only friend I had left." />
 <DIALOGUE id="DI23" span_end_char="123" span_end_line="52582" span_start_char="85" span_start_line="52582" spans="3140~3178" text="You wanna be sick? I'll make you sick." />
 <DIALOGUE id="DI24" span_end_char="104" span_end_line="52599" span_start_char="90" span_start_line="52599" spans="4675~4689" text="Shh. Shh. Shh." />
-<RELATION fromID="D231" fromText="to Jerry" id="R231" relationship="occurs-while" toID="DI231" toText="Huh-ho! Have you ever seen anything like this?" />
-<RELATION fromID="D232" fromText="pulling a liquor bottle from his jacket pocket" id="R232" relationship="occurs-while" toID="DI232" toText="Well, I guess it started about twenty years ago when I got back from Viet Nam, and this was the only friend I had left." />
+<RELATION fromID="D21" fromText="to Jerry" id="R21" relationship="occurs-while" toID="DI21" toText="Huh-ho! Have you ever seen anything like this?" />
+<RELATION fromID="D22" fromText="pulling a liquor bottle from his jacket pocket" id="R22" relationship="occurs-while" toID="DI22" toText="Well, I guess it started about twenty years ago when I got back from Viet Nam, and this was the only friend I had left." />
 <RELATION fromID="D23" fromText="he jumps Kramer" id="R23" relationship="occurs-while" toID="DI23" toText="You wanna be sick? I'll make you sick." />
 <RELATION fromID="D24" fromText="putting his finger to Sophie's lips, then to his own, then back to Sopie's" id="R24" relationship="next-dialogue" toID="DI24" toText="Shh. Shh. Shh." />
 <DIRECTION action="no" description="addressee" id="D25" span_end_char="55" span_end_line="53273" span_start_char="47" span_start_line="53273" spans="1701~1709" text="to Jerry" />
@@ -2187,17 +2187,17 @@
 <DIALOGUE id="DI26" span_end_char="84" span_end_line="53289" span_start_char="21" span_start_line="53289" spans="2669~2732" text="T-bone! T-bone! T-bone! T-bone! T-bone! T-bone! T-bone! T-bone!" />
 <RELATION fromID="D26" fromText="chanting" id="R25" relationship="occurs-while" toID="DI26" toText="T-bone! T-bone! T-bone! T-bone! T-bone! T-bone! T-bone! T-bone!" />
 <RELATION fromID="D25" fromText="to Jerry" id="R26" relationship="occurs-while" toID="DI25" toText="See? This is why you should get a fax and a Xerox." />
-<DIRECTION action="no" description="manner" id="D297" span_end_char="24" span_end_line="53762" span_start_char="13" span_start_line="53762" spans="1090~1101" text="exasperated" />
-<DIRECTION action="yes" description="manner" id="D298" span_end_char="24" span_end_line="53796" span_start_char="14" span_start_line="53796" spans="3648~3658" text="whispering" />
+<DIRECTION action="no" description="manner" id="D27" span_end_char="24" span_end_line="53762" span_start_char="13" span_start_line="53762" spans="1090~1101" text="exasperated" />
+<DIRECTION action="yes" description="manner" id="D28" span_end_char="24" span_end_line="53796" span_start_char="14" span_start_line="53796" spans="3648~3658" text="whispering" />
 <DIRECTION action="yes" description="none" id="D29" span_end_char="284" span_end_line="53783" span_start_char="271" span_start_line="53783" spans="2765~2778" text="sniffing wall" />
-<DIALOGUE id="DI297" span_end_char="36" span_end_line="53762" span_start_char="26" span_start_line="53762" spans="1103~1113" text="All right!" />
-<DIALOGUE id="DI298" span_end_char="305" span_end_line="53783" span_start_char="286" span_start_line="53783" spans="2780~2799" text="Mmm. Mombassa, hmm?" />
+<DIALOGUE id="DI27" span_end_char="36" span_end_line="53762" span_start_char="26" span_start_line="53762" spans="1103~1113" text="All right!" />
+<DIALOGUE id="DI28" span_end_char="305" span_end_line="53783" span_start_char="286" span_start_line="53783" spans="2780~2799" text="Mmm. Mombassa, hmm?" />
 <DIALOGUE id="DI29" span_end_char="55" span_end_line="53796" span_start_char="26" span_start_line="53796" spans="3660~3689" text="Hey! Guess who's not married." />
-<RELATION fromID="D29" fromText="sniffing wall" id="R297" relationship="next-dialogue" toID="DI298" toText="Mmm. Mombassa, hmm?" />
-<RELATION fromID="D298" fromText="whispering" id="R298" relationship="occurs-while" toID="DI29" toText="Hey! Guess who's not married." />
-<RELATION fromID="D297" fromText="exasperated" id="R29" relationship="occurs-while" toID="DI297" toText="All right!" />
-<DIRECTION action="no" description="manner" id="D320" span_end_char="20" span_end_line="52900" span_start_char="15" span_start_line="52900" spans="57~62" text="Tired" />
-<DIRECTION action="yes" description="none" id="D321" span_end_char="102" span_end_line="52900" span_start_char="64" span_start_line="52900" spans="106~144" text="Sets the rickshaw down - taking a rest" />
+<RELATION fromID="D29" fromText="sniffing wall" id="R27" relationship="next-dialogue" toID="DI28" toText="Mmm. Mombassa, hmm?" />
+<RELATION fromID="D28" fromText="whispering" id="R28" relationship="occurs-while" toID="DI29" toText="Hey! Guess who's not married." />
+<RELATION fromID="D27" fromText="exasperated" id="R29" relationship="occurs-while" toID="DI27" toText="All right!" />
+<DIRECTION action="no" description="manner" id="D30" span_end_char="20" span_end_line="52900" span_start_char="15" span_start_line="52900" spans="57~62" text="Tired" />
+<DIRECTION action="yes" description="none" id="D31" span_end_char="102" span_end_line="52900" span_start_char="64" span_start_line="52900" spans="106~144" text="Sets the rickshaw down - taking a rest" />
 <DIRECTION action="yes" description="none" id="D32" span_end_char="24" span_end_line="52902" span_start_char="14" span_start_line="52902" spans="257~267" text="Stretching" />
 <DIRECTION action="no" description="manner" id="D33" span_end_char="20" span_end_line="52903" span_start_char="14" span_start_line="52903" spans="304~310" text="Scared" />
 <DIRECTION action="no" description="manner" id="D34" span_end_char="23" span_end_line="52906" span_start_char="13" span_start_line="52906" spans="446~456" text="Optimistic" />
@@ -2205,9 +2205,9 @@
 <DIRECTION action="no" description="none" id="D36" span_end_char="45" span_end_line="52913" span_start_char="14" span_start_line="52913" spans="936~967" text="Trying to straighten things out" />
 <DIRECTION action="yes" description="manner" id="D37" span_end_char="22" span_end_line="52918" span_start_char="14" span_start_line="52918" spans="1407~1415" text="Pleading" />
 <DIRECTION action="yes" description="none" id="D38" span_end_char="18" span_end_line="52924" span_start_char="11" span_start_line="52924" spans="1970~1977" text="singing" />
-<DIRECTION action="yes" description="none" id="D3210" span_end_char="30" span_end_line="52938" span_start_char="12" span_start_line="52938" spans="2878~2896" text="singing, competing" />
-<DIALOGUE id="DI320" span_end_char="40" span_end_line="52900" span_start_char="22" span_start_line="52900" spans="64~82" text="Oh, I can't go on." />
-<DIALOGUE id="DI321" span_end_char="62" span_end_line="52900" span_start_char="41" span_start_line="52900" spans="83~104" text="I gotta take a break." />
+<DIRECTION action="yes" description="none" id="D39" span_end_char="30" span_end_line="52938" span_start_char="12" span_start_line="52938" spans="2878~2896" text="singing, competing" />
+<DIALOGUE id="DI30" span_end_char="40" span_end_line="52900" span_start_char="22" span_start_line="52900" spans="64~82" text="Oh, I can't go on." />
+<DIALOGUE id="DI31" span_end_char="62" span_end_line="52900" span_start_char="41" span_start_line="52900" spans="83~104" text="I gotta take a break." />
 <DIALOGUE id="DI32" span_end_char="30" span_end_line="52902" span_start_char="26" span_start_line="52902" spans="269~273" text="Oh.." />
 <DIALOGUE id="DI33" span_end_char="40" span_end_line="52903" span_start_char="22" span_start_line="52903" spans="312~330" text="Boy.. Boy. Kramer!" />
 <DIALOGUE id="DI34" span_end_char="76" span_end_line="52906" span_start_char="25" span_start_line="52906" spans="458~509" text="Well, this is the first day of the rest of my life!" />
@@ -2215,17 +2215,17 @@
 <DIALOGUE id="DI36" span_end_char="132" span_end_line="52913" span_start_char="47" span_start_line="52913" spans="969~1054" text="You defile one book, steal another, ask for your money back - and to you that's even?" />
 <DIALOGUE id="DI37" span_end_char="86" span_end_line="52918" span_start_char="24" span_start_line="52918" spans="1417~1479" text="Oh, come on. He's just a lonely old man. All old people steal." />
 <DIALOGUE id="DI38" span_end_char="42" span_end_line="52924" span_start_char="20" span_start_line="52924" spans="1979~2001" text="Happy birthday to you." />
-<DIALOGUE id="DI3200" span_end_char="158" span_end_line="52938" span_start_char="33" span_start_line="52938" spans="2899~3024" text="For he's a jolly good fellow...happy birthday to you...for he's a jolly good fellow...birthday to you...which nobody can deny" />
-<RELATION fromID="D320" fromText="Tired" id="R330" relationship="occurs-while" toID="DI320" toText="Oh, I can't go on." />
-<RELATION fromID="D321" fromText="Sets the rickshaw down - taking a rest" id="R331" relationship="next-dialogue" toID="DI321" toText="I gotta take a break." />
-<RELATION fromID="D32" fromText="Stretching" id="R332" relationship="occurs-while" toID="DI32" toText="Oh.." />
+<DIALOGUE id="DI39" span_end_char="158" span_end_line="52938" span_start_char="33" span_start_line="52938" spans="2899~3024" text="For he's a jolly good fellow...happy birthday to you...for he's a jolly good fellow...birthday to you...which nobody can deny" />
+<RELATION fromID="D30" fromText="Tired" id="R30" relationship="occurs-while" toID="DI30" toText="Oh, I can't go on." />
+<RELATION fromID="D31" fromText="Sets the rickshaw down - taking a rest" id="R31" relationship="next-dialogue" toID="DI31" toText="I gotta take a break." />
+<RELATION fromID="D32" fromText="Stretching" id="R32" relationship="occurs-while" toID="DI32" toText="Oh.." />
 <RELATION fromID="D33" fromText="Scared" id="R33" relationship="occurs-while" toID="DI33" toText="Boy.. Boy. Kramer!" />
 <RELATION fromID="D34" fromText="Optimistic" id="R34" relationship="occurs-while" toID="DI34" toText="Well, this is the first day of the rest of my life!" />
 <RELATION fromID="D35" fromText="Sarcasticly joking" id="R35" relationship="occurs-while" toID="DI35" toText="It certainly has." />
 <RELATION fromID="D36" fromText="Trying to straighten things out" id="R36" relationship="occurs-while" toID="DI36" toText="You defile one book, steal another, ask for your money back - and to you that's even?" />
 <RELATION fromID="D37" fromText="Pleading" id="R37" relationship="occurs-while" toID="DI37" toText="Oh, come on. He's just a lonely old man. All old people steal." />
 <RELATION fromID="D38" fromText="singing" id="R38" relationship="occurs-while" toID="DI38" toText="Happy birthday to you." />
-<RELATION fromID="D3210" fromText="singing, competing" id="R39" relationship="occurs-while" toID="DI3200" toText="For he's a jolly good fellow...happy birthday to you...for he's a jolly good fellow...birthday to you...which nobody can deny" />
+<RELATION fromID="D39" fromText="singing, competing" id="R39" relationship="occurs-while" toID="DI39" toText="For he's a jolly good fellow...happy birthday to you...for he's a jolly good fellow...birthday to you...which nobody can deny" />
 <DIRECTION action="no" description="manner" id="D40" span_end_char="26" span_end_line="53806" span_start_char="13" span_start_line="53806" spans="446~459" text="sarcastically" />
 <DIALOGUE id="DI40" span_end_char="34" span_end_line="53806" span_start_char="28" span_start_line="53806" spans="461~467" text="Ho ho!" />
 <RELATION fromID="D40" fromText="sarcastically" id="R40" relationship="occurs-while" toID="DI40" toText="Ho ho!" />
@@ -2238,66 +2238,66 @@
 <DIRECTION action="yes" description="none" id="D43" span_end_char="68" span_end_line="54129" span_start_char="60" span_start_line="54129" spans="2082~2090" text="NBC tune" />
 <DIALOGUE id="DI43" span_end_char="58" span_end_line="54129" span_start_char="18" span_start_line="54129" spans="2040~2080" text="NBC limo is downstairs - beep beep beep." />
 <RELATION fromID="D43" fromText="NBC tune" id="R43" relationship="occurs-while" toID="DI43" toText="NBC limo is downstairs - beep beep beep." />
-<DIRECTION action="no" description="none" id="D484" span_end_char="35" span_end_line="52851" span_start_char="14" span_start_line="52851" spans="101~122" text="From outside the room" />
-<DIRECTION action="yes" description="none" id="D485" span_end_char="76" span_end_line="52851" span_start_char="54" span_start_line="52851" spans="141~163" text="Enters Jerry's bedroom" />
-<DIRECTION action="yes" description="none" id="D486" span_end_char="45" span_end_line="52857" span_start_char="14" span_start_line="52857" spans="511~542" text="Exiting the bedroom with Newman" />
-<DIRECTION action="no" description="addressee" id="D487" span_end_char="22" span_end_line="52858" span_start_char="14" span_start_line="52858" spans="627~635" text="To Jerry" />
+<DIRECTION action="no" description="none" id="D44" span_end_char="35" span_end_line="52851" span_start_char="14" span_start_line="52851" spans="101~122" text="From outside the room" />
+<DIRECTION action="yes" description="none" id="D45" span_end_char="76" span_end_line="52851" span_start_char="54" span_start_line="52851" spans="141~163" text="Enters Jerry's bedroom" />
+<DIRECTION action="yes" description="none" id="D46" span_end_char="45" span_end_line="52857" span_start_char="14" span_start_line="52857" spans="511~542" text="Exiting the bedroom with Newman" />
+<DIRECTION action="no" description="addressee" id="D47" span_end_char="22" span_end_line="52858" span_start_char="14" span_start_line="52858" spans="627~635" text="To Jerry" />
 <DIRECTION action="no" description="manner" id="D48" span_end_char="20" span_end_line="52859" span_start_char="14" span_start_line="52859" spans="679~685" text="Bitter" />
 <DIRECTION action="no" description="manner" id="D49" span_end_char="24" span_end_line="52864" span_start_char="15" span_start_line="52864" spans="925~934" text="Sarcastic" />
 <DIRECTION action="yes" description="none" id="D50" span_end_char="94" span_end_line="52864" span_start_char="62" span_start_line="52864" spans="972~1004" text="Pulling the rickshaw with Newman" />
 <DIRECTION action="yes" description="none" id="D51" span_end_char="139" span_end_line="52870" span_start_char="58" span_start_line="52870" spans="1472~1553" text="Starts pointing back and forth between Newman and him with each word of the rhyme" />
 <DIRECTION action="no" description="none" id="D52" span_end_char="30" span_end_line="52871" span_start_char="14" span_start_line="52871" spans="1709~1725" text="Realizing he won" />
-<DIRECTION action="yes" description="none" id="D4850" span_end_char="77" span_end_line="52872" span_start_char="38" span_start_line="52872" spans="1787~1826" text="Starts the pointing and the rhyme again" />
-<DIRECTION action="yes" description="reference" id="D4851" span_end_char="40" span_end_line="52875" span_start_char="16" span_start_line="52875" spans="2024~2048" text="Gesturing tward the book" />
-<DIRECTION action="no" description="manner" id="D4852" span_end_char="32" span_end_line="52879" span_start_char="15" span_start_line="52879" spans="2337~2354" text="Correcting. Stern" />
-<DIRECTION action="yes" description="none" id="D4853" span_end_char="43" span_end_line="52881" span_start_char="16" span_start_line="52881" spans="2454~2481" text="Opens the cover of the book" />
-<DIRECTION action="no" description="manner" id="D4854" span_end_char="72" span_end_line="52881" span_start_char="65" span_start_line="52881" spans="2503~2510" text="Certain" />
-<DIRECTION action="no" description="manner" id="D4855" span_end_char="21" span_end_line="52882" span_start_char="14" span_start_line="52882" spans="2579~2586" text="Nervous" />
-<DIRECTION action="no" description="manner" id="D4856" span_end_char="47" span_end_line="52884" span_start_char="15" span_start_line="52884" spans="2900~2932" text="Desperate to get rid of the book" />
-<DIRECTION action="yes" description="none" id="D4857" span_end_char="37" span_end_line="52887" span_start_char="15" span_start_line="52887" spans="3240~3262" text="Threatening to hit him" />
-<DIRECTION action="no" description="addressee" id="D4858" span_end_char="23" span_end_line="52892" span_start_char="14" span_start_line="52892" spans="3511~3520" text="To Elaine" />
-<DIRECTION action="yes" description="none" id="D4859" span_end_char="27" span_end_line="52896" span_start_char="14" span_start_line="52896" spans="3860~3873" text="Leaving Jerry" />
-<DIRECTION action="no" description="addressee" id="D4860" span_end_char="24" span_end_line="52897" span_start_char="14" span_start_line="52897" spans="3913~3923" text="To cashier" />
-<DIALOGUE id="DI484" span_end_char="52" span_end_line="52851" span_start_char="37" span_start_line="52851" spans="124~139" text="Kramer? Kramer?" />
-<DIALOGUE id="DI485" span_end_char="92" span_end_line="52851" span_start_char="78" span_start_line="52851" spans="165~179" text="There you are." />
-<DIALOGUE id="DI486" span_end_char="77" span_end_line="52857" span_start_char="47" span_start_line="52857" spans="544~574" text="Let's talk in Jerry's kitchen." />
-<DIALOGUE id="DI487" span_end_char="35" span_end_line="52858" span_start_char="24" span_start_line="52858" spans="637~648" text="Good night." />
+<DIRECTION action="yes" description="none" id="D53" span_end_char="77" span_end_line="52872" span_start_char="38" span_start_line="52872" spans="1787~1826" text="Starts the pointing and the rhyme again" />
+<DIRECTION action="yes" description="reference" id="D54" span_end_char="40" span_end_line="52875" span_start_char="16" span_start_line="52875" spans="2024~2048" text="Gesturing tward the book" />
+<DIRECTION action="no" description="manner" id="D55" span_end_char="32" span_end_line="52879" span_start_char="15" span_start_line="52879" spans="2337~2354" text="Correcting. Stern" />
+<DIRECTION action="yes" description="none" id="D56" span_end_char="43" span_end_line="52881" span_start_char="16" span_start_line="52881" spans="2454~2481" text="Opens the cover of the book" />
+<DIRECTION action="no" description="manner" id="D57" span_end_char="72" span_end_line="52881" span_start_char="65" span_start_line="52881" spans="2503~2510" text="Certain" />
+<DIRECTION action="no" description="manner" id="D58" span_end_char="21" span_end_line="52882" span_start_char="14" span_start_line="52882" spans="2579~2586" text="Nervous" />
+<DIRECTION action="no" description="manner" id="D59" span_end_char="47" span_end_line="52884" span_start_char="15" span_start_line="52884" spans="2900~2932" text="Desperate to get rid of the book" />
+<DIRECTION action="yes" description="none" id="D60" span_end_char="37" span_end_line="52887" span_start_char="15" span_start_line="52887" spans="3240~3262" text="Threatening to hit him" />
+<DIRECTION action="no" description="addressee" id="D61" span_end_char="23" span_end_line="52892" span_start_char="14" span_start_line="52892" spans="3511~3520" text="To Elaine" />
+<DIRECTION action="yes" description="none" id="D62" span_end_char="27" span_end_line="52896" span_start_char="14" span_start_line="52896" spans="3860~3873" text="Leaving Jerry" />
+<DIRECTION action="no" description="addressee" id="D63" span_end_char="24" span_end_line="52897" span_start_char="14" span_start_line="52897" spans="3913~3923" text="To cashier" />
+<DIALOGUE id="DI44" span_end_char="52" span_end_line="52851" span_start_char="37" span_start_line="52851" spans="124~139" text="Kramer? Kramer?" />
+<DIALOGUE id="DI45" span_end_char="92" span_end_line="52851" span_start_char="78" span_start_line="52851" spans="165~179" text="There you are." />
+<DIALOGUE id="DI46" span_end_char="77" span_end_line="52857" span_start_char="47" span_start_line="52857" spans="544~574" text="Let's talk in Jerry's kitchen." />
+<DIALOGUE id="DI47" span_end_char="35" span_end_line="52858" span_start_char="24" span_start_line="52858" spans="637~648" text="Good night." />
 <DIALOGUE id="DI48" span_end_char="41" span_end_line="52859" span_start_char="22" span_start_line="52859" spans="687~706" text="Good night, Newman." />
 <DIALOGUE id="DI49" span_end_char="37" span_end_line="52864" span_start_char="26" span_start_line="52864" spans="936~947" text="Yeah, yeah." />
 <DIALOGUE id="DI50" span_end_char="121" span_end_line="52864" span_start_char="96" span_start_line="52864" spans="1006~1031" text="Let's get this baby home." />
 <DIALOGUE id="DI51" span_end_char="263" span_end_line="52870" span_start_char="141" span_start_line="52870" spans="1555~1677" text="One spot, two spot, zig, zag, tear, pop-die, pennygot, tennyum, tear, harum, scare 'em, rip 'em, tear 'em, tay, taw, toe.." />
 <DIALOGUE id="DI52" span_end_char="37" span_end_line="52871" span_start_char="32" span_start_line="52871" spans="1727~1732" text="Yeah." />
 <DIALOGUE id="DI53" span_end_char="99" span_end_line="52872" span_start_char="78" span_start_line="52872" spans="1827~1848" text=" One spot, two spot.." />
-<DIALOGUE id="DI4850" span_end_char="81" span_end_line="52875" span_start_char="42" span_start_line="52875" spans="2050~2089" text="So, you want to donate this to charity?" />
-<DIALOGUE id="DI4851" span_end_char="66" span_end_line="52879" span_start_char="34" span_start_line="52879" spans="2356~2388" text="It's DeMornay. Rebecca DeMornay." />
-<DIALOGUE id="DI4852" span_end_char="63" span_end_line="52881" span_start_char="45" span_start_line="52881" spans="2483~2501" text="Oh, wait a second." />
-<DIALOGUE id="DI4853" span_end_char="109" span_end_line="52881" span_start_char="74" span_start_line="52881" spans="2512~2547" text="This book has been in the bathroom." />
-<DIALOGUE id="DI4854" span_end_char="79" span_end_line="52882" span_start_char="23" span_start_line="52882" spans="2588~2644" text="Wh-what are you talking about? That - that's rediculous." />
-<DIALOGUE id="DI4855" span_end_char="82" span_end_line="52884" span_start_char="49" span_start_line="52884" spans="2934~2967" text="Alright, I, I'll just take fifty." />
-<DIALOGUE id="DI4856" span_end_char="52" span_end_line="52887" span_start_char="39" span_start_line="52887" spans="3264~3277" text="Here I come.." />
-<DIALOGUE id="DI4857" span_end_char="47" span_end_line="52892" span_start_char="25" span_start_line="52892" spans="3522~3544" text="So, the worst is over?" />
-<DIALOGUE id="DI4858" span_end_char="36" span_end_line="52896" span_start_char="29" span_start_line="52896" spans="3875~3882" text="See ya." />
-<DIALOGUE id="DI4859" span_end_char="69" span_end_line="52897" span_start_char="26" span_start_line="52897" spans="3925~3968" text="I'd like to speak with the manager, please." />
-<RELATION fromID="D484" fromText="From outside the room" id="R484" relationship="occurs-while" toID="DI484" toText="Kramer? Kramer?" />
-<RELATION fromID="D485" fromText="Enters Jerry's bedroom" id="R485" relationship="next-dialogue" toID="DI485" toText="There you are." />
-<RELATION fromID="D486" fromText="Exiting the bedroom with Newman" id="R486" relationship="occurs-while" toID="DI486" toText="Let's talk in Jerry's kitchen." />
-<RELATION fromID="D487" fromText="To Jerry" id="R487" relationship="occurs-while" toID="DI487" toText="Good night." />
+<DIALOGUE id="DI54" span_end_char="81" span_end_line="52875" span_start_char="42" span_start_line="52875" spans="2050~2089" text="So, you want to donate this to charity?" />
+<DIALOGUE id="DI55" span_end_char="66" span_end_line="52879" span_start_char="34" span_start_line="52879" spans="2356~2388" text="It's DeMornay. Rebecca DeMornay." />
+<DIALOGUE id="DI56" span_end_char="63" span_end_line="52881" span_start_char="45" span_start_line="52881" spans="2483~2501" text="Oh, wait a second." />
+<DIALOGUE id="DI57" span_end_char="109" span_end_line="52881" span_start_char="74" span_start_line="52881" spans="2512~2547" text="This book has been in the bathroom." />
+<DIALOGUE id="DI58" span_end_char="79" span_end_line="52882" span_start_char="23" span_start_line="52882" spans="2588~2644" text="Wh-what are you talking about? That - that's rediculous." />
+<DIALOGUE id="DI59" span_end_char="82" span_end_line="52884" span_start_char="49" span_start_line="52884" spans="2934~2967" text="Alright, I, I'll just take fifty." />
+<DIALOGUE id="DI60" span_end_char="52" span_end_line="52887" span_start_char="39" span_start_line="52887" spans="3264~3277" text="Here I come.." />
+<DIALOGUE id="DI61" span_end_char="47" span_end_line="52892" span_start_char="25" span_start_line="52892" spans="3522~3544" text="So, the worst is over?" />
+<DIALOGUE id="DI62" span_end_char="36" span_end_line="52896" span_start_char="29" span_start_line="52896" spans="3875~3882" text="See ya." />
+<DIALOGUE id="DI63" span_end_char="69" span_end_line="52897" span_start_char="26" span_start_line="52897" spans="3925~3968" text="I'd like to speak with the manager, please." />
+<RELATION fromID="D44" fromText="From outside the room" id="R44" relationship="occurs-while" toID="DI44" toText="Kramer? Kramer?" />
+<RELATION fromID="D45" fromText="Enters Jerry's bedroom" id="R45" relationship="next-dialogue" toID="DI45" toText="There you are." />
+<RELATION fromID="D46" fromText="Exiting the bedroom with Newman" id="R46" relationship="occurs-while" toID="DI46" toText="Let's talk in Jerry's kitchen." />
+<RELATION fromID="D47" fromText="To Jerry" id="R47" relationship="occurs-while" toID="DI47" toText="Good night." />
 <RELATION fromID="D48" fromText="Bitter" id="R48" relationship="occurs-while" toID="DI48" toText="Good night, Newman." />
 <RELATION fromID="D49" fromText="Sarcastic" id="R49" relationship="occurs-while" toID="DI49" toText="Yeah, yeah." />
 <RELATION fromID="D50" fromText="Pulling the rickshaw with Newman" id="R50" relationship="occurs-while" toID="DI50" toText="Let's get this baby home." />
 <RELATION fromID="D51" fromText="Starts pointing back and forth between Newman and him with each word of the rhyme" id="R51" relationship="occurs-while" toID="DI51" toText="One spot, two spot, zig, zag, tear, pop-die, pennygot, tennyum, tear, harum, scare 'em, rip 'em, tear 'em, tay, taw, toe.." />
 <RELATION fromID="D52" fromText="Realizing he won" id="R52" relationship="next-dialogue" toID="DI52" toText="Yeah." />
-<RELATION fromID="D4850" fromText="Starts the pointing and the rhyme again" id="R53" relationship="occurs-while" toID="DI53" toText=" One spot, two spot.." />
-<RELATION fromID="D4851" fromText="Gesturing tward the book" id="R4850" relationship="occurs-while" toID="DI4850" toText="So, you want to donate this to charity?" />
-<RELATION fromID="D4852" fromText="Correcting. Stern" id="R4851" relationship="occurs-while" toID="DI4851" toText="It's DeMornay. Rebecca DeMornay." />
-<RELATION fromID="D4853" fromText="Opens the cover of the book" id="R4852" relationship="next-dialogue" toID="DI4852" toText="Oh, wait a second." />
-<RELATION fromID="D4854" fromText="Certain" id="R4853" relationship="occurs-while" toID="DI4853" toText="This book has been in the bathroom." />
-<RELATION fromID="D4855" fromText="Nervous" id="R4854" relationship="occurs-while" toID="DI4854" toText="Wh-what are you talking about? That - that's rediculous." />
-<RELATION fromID="D4856" fromText="Desperate to get rid of the book" id="R4855" relationship="occurs-while" toID="DI4855" toText="Alright, I, I'll just take fifty." />
-<RELATION fromID="D4857" fromText="Threatening to hit him" id="R4856" relationship="occurs-while" toID="DI4856" toText="Here I come.." />
-<RELATION fromID="D4858" fromText="To Elaine" id="R4857" relationship="occurs-while" toID="DI4857" toText="So, the worst is over?" />
-<RELATION fromID="D4859" fromText="Leaving Jerry" id="R4858" relationship="occurs-while" toID="DI4858" toText="See ya." />
-<RELATION fromID="D4860" fromText="To cashier" id="R4859" relationship="occurs-while" toID="DI4859" toText="I'd like to speak with the manager, please." />
+<RELATION fromID="D53" fromText="Starts the pointing and the rhyme again" id="R53" relationship="occurs-while" toID="DI53" toText=" One spot, two spot.." />
+<RELATION fromID="D54" fromText="Gesturing tward the book" id="R54" relationship="occurs-while" toID="DI54" toText="So, you want to donate this to charity?" />
+<RELATION fromID="D55" fromText="Correcting. Stern" id="R55" relationship="occurs-while" toID="DI55" toText="It's DeMornay. Rebecca DeMornay." />
+<RELATION fromID="D56" fromText="Opens the cover of the book" id="R56" relationship="next-dialogue" toID="DI56" toText="Oh, wait a second." />
+<RELATION fromID="D57" fromText="Certain" id="R57" relationship="occurs-while" toID="DI57" toText="This book has been in the bathroom." />
+<RELATION fromID="D58" fromText="Nervous" id="R58" relationship="occurs-while" toID="DI58" toText="Wh-what are you talking about? That - that's rediculous." />
+<RELATION fromID="D59" fromText="Desperate to get rid of the book" id="R59" relationship="occurs-while" toID="DI59" toText="Alright, I, I'll just take fifty." />
+<RELATION fromID="D60" fromText="Threatening to hit him" id="R60" relationship="occurs-while" toID="DI60" toText="Here I come.." />
+<RELATION fromID="D61" fromText="To Elaine" id="R61" relationship="occurs-while" toID="DI61" toText="So, the worst is over?" />
+<RELATION fromID="D62" fromText="Leaving Jerry" id="R62" relationship="occurs-while" toID="DI62" toText="See ya." />
+<RELATION fromID="D63" fromText="To cashier" id="R63" relationship="occurs-while" toID="DI63" toText="I'd like to speak with the manager, please." />
 <DIRECTION action="yes" description="addressee" id="D64" span_end_char="42" span_end_line="53073" span_start_char="14" span_start_line="53073" spans="1788~1816" text="nudges Elaine with his elbow" />
 <DIRECTION action="yes" description="addressee" id="D65" span_end_char="42" span_end_line="53074" span_start_char="14" span_start_line="53074" spans="1889~1917" text="nudges George with her elbow" />
 <DIRECTION action="no" description="none" id="D66" span_end_char="22" span_end_line="53088" span_start_char="14" span_start_line="53088" spans="3136~3144" text="thinking" />
@@ -2310,331 +2310,331 @@
 <DIRECTION action="yes" description="manner" id="D67" span_end_char="19" span_end_line="53585" span_start_char="11" span_start_line="53585" spans="2274~2282" text="chanting" />
 <DIALOGUE id="DI67" span_end_char="69" span_end_line="53585" span_start_char="21" span_start_line="53585" spans="2284~2332" text="Gammy! Gammy! Gammy! Gammy! Gammy! Gammy! Gammy!" />
 <RELATION fromID="D67" fromText="chanting" id="R67" relationship="occurs-while" toID="DI67" toText="Gammy! Gammy! Gammy! Gammy! Gammy! Gammy! Gammy!" />
-<DIRECTION action="yes" description="reference" id="D7548" span_end_char="23" span_end_line="52650" span_start_char="15" span_start_line="52650" spans="57~65" text="Pointing" />
-<DIRECTION action="no" description="none" id="D7549" span_end_char="48" span_end_line="52651" span_start_char="14" span_start_line="52651" spans="148~182" text="Not sure what the answer should be" />
-<DIRECTION action="yes" description="reference" id="D750" span_end_char="94" span_end_line="52653" span_start_char="73" span_start_line="52653" spans="347~368" text="Gesturing to the book" />
-<DIRECTION action="no" description="manner" id="D751" span_end_char="22" span_end_line="52654" span_start_char="13" span_start_line="52654" spans="490~499" text="Sarcastic" />
-<DIRECTION action="yes" description="none" id="D752" span_end_char="67" span_end_line="52656" span_start_char="13" span_start_line="52656" spans="724~778" text="Reading the cover of the book George was forced to buy" />
-<DIRECTION action="yes" description="none" id="D753" span_end_char="28" span_end_line="52658" span_start_char="13" span_start_line="52658" spans="922~937" text="Cutting him off" />
-<DIRECTION action="no" description="none" id="D754" span_end_char="25" span_end_line="52664" span_start_char="14" span_start_line="52664" spans="1430~1441" text="Remembering" />
+<DIRECTION action="yes" description="reference" id="D68" span_end_char="23" span_end_line="52650" span_start_char="15" span_start_line="52650" spans="57~65" text="Pointing" />
+<DIRECTION action="no" description="none" id="D69" span_end_char="48" span_end_line="52651" span_start_char="14" span_start_line="52651" spans="148~182" text="Not sure what the answer should be" />
+<DIRECTION action="yes" description="reference" id="D70" span_end_char="94" span_end_line="52653" span_start_char="73" span_start_line="52653" spans="347~368" text="Gesturing to the book" />
+<DIRECTION action="no" description="manner" id="D71" span_end_char="22" span_end_line="52654" span_start_char="13" span_start_line="52654" spans="490~499" text="Sarcastic" />
+<DIRECTION action="yes" description="none" id="D72" span_end_char="67" span_end_line="52656" span_start_char="13" span_start_line="52656" spans="724~778" text="Reading the cover of the book George was forced to buy" />
+<DIRECTION action="yes" description="none" id="D73" span_end_char="28" span_end_line="52658" span_start_char="13" span_start_line="52658" spans="922~937" text="Cutting him off" />
+<DIRECTION action="no" description="none" id="D74" span_end_char="25" span_end_line="52664" span_start_char="14" span_start_line="52664" spans="1430~1441" text="Remembering" />
 <DIRECTION action="no" description="manner" id="D75" span_end_char="22" span_end_line="52666" span_start_char="15" span_start_line="52666" spans="1571~1578" text="Angered" />
 <DIRECTION action="yes" description="none" id="D76" span_end_char="27" span_end_line="52669" span_start_char="14" span_start_line="52669" spans="1850~1863" text="Rubbing it in" />
 <DIRECTION action="yes" description="none" id="D77" span_end_char="32" span_end_line="52670" span_start_char="14" span_start_line="52670" spans="1975~1993" text="Gives Jerry a look" />
-<DIRECTION action="no" description="manner" id="D75490" span_end_char="21" span_end_line="52671" span_start_char="13" span_start_line="52671" spans="2088~2096" text="Confused" />
-<DIRECTION action="no" description="none" id="D75491" span_end_char="30" span_end_line="52677" span_start_char="15" span_start_line="52677" spans="2450~2465" text="Liking the idea" />
-<DIRECTION action="no" description="manner" id="D75492" span_end_char="24" span_end_line="52679" span_start_char="15" span_start_line="52679" spans="2711~2720" text="Sarcastic" />
-<DIRECTION action="no" description="manner" id="D75493" span_end_char="23" span_end_line="52681" span_start_char="14" span_start_line="52681" spans="2814~2823" text="Sarcastic" />
-<DIRECTION action="no" description="none" id="D75494" span_end_char="41" span_end_line="52682" span_start_char="15" span_start_line="52682" spans="2915~2941" text="Taking his offer seriously" />
-<DIRECTION action="yes" description="reference" id="D75495" span_end_char="61" span_end_line="52683" span_start_char="14" span_start_line="52683" spans="2999~3046" text="Gesturing to dishes and silverware on the table" />
-<DIRECTION action="yes" description="reference" id="D75496" span_end_char="74" span_end_line="52684" span_start_char="38" span_start_line="52684" spans="3155~3191" text="Pointing at some papers on the table" />
-<DIRECTION action="no" description="manner" id="D75497" span_end_char="45" span_end_line="52685" span_start_char="14" span_start_line="52685" spans="3304~3335" text="Jokingly trying to be skeptical" />
-<DIRECTION action="no" description="manner" id="D75498" span_end_char="29" span_end_line="52687" span_start_char="14" span_start_line="52687" spans="3469~3484" text="Still skeptical" />
-<DIRECTION action="no" description="addressee" id="D75499" span_end_char="24" span_end_line="52693" span_start_char="15" span_start_line="52693" spans="3940~3949" text="To Newman" />
-<DIRECTION action="no" description="none" id="D7500" span_end_char="34" span_end_line="52695" span_start_char="14" span_start_line="52695" spans="4065~4085" text="Stopping his thought" />
-<DIRECTION action="no" description="manner" id="D7501" span_end_char="63" span_end_line="52696" span_start_char="14" span_start_line="52696" spans="4133~4182" text="Extremely happy about Kramer and Newman's dilemma" />
-<DIRECTION action="no" description="none" id="D7502" span_end_char="27" span_end_line="52697" span_start_char="14" span_start_line="52697" spans="4249~4262" text="Brainstorming" />
-<DIRECTION action="no" description="none" id="D7503" span_end_char="24" span_end_line="52699" span_start_char="14" span_start_line="52699" spans="4381~4391" text="Explaining" />
-<DIALOGUE id="DI7548" span_end_char="75" span_end_line="52650" span_start_char="24" span_start_line="52650" spans="66~117" text=" Did you take that book with you into the bathroom?" />
-<DIALOGUE id="DI7549" span_end_char="75" span_end_line="52651" span_start_char="50" span_start_line="52651" spans="184~209" text="What do you want to hear?" />
-<DIALOGUE id="DI750" span_end_char="111" span_end_line="52653" span_start_char="96" span_start_line="52653" spans="370~385" text="How dare they?!" />
-<DIALOGUE id="DI751" span_end_char="91" span_end_line="52654" span_start_char="24" span_start_line="52654" spans="501~568" text="Yeah. I understand Guttenberg used to spend a lot of time in there." />
-<DIALOGUE id="DI752" span_end_char="102" span_end_line="52656" span_start_char="69" span_start_line="52656" spans="780~813" text="'French Impressionist Paintings'?" />
-<DIALOGUE id="DI753" span_end_char="50" span_end_line="52658" span_start_char="30" span_start_line="52658" spans="939~959" text="Thank you very much." />
-<DIALOGUE id="DI754" span_end_char="53" span_end_line="52664" span_start_char="27" span_start_line="52664" spans="1443~1469" text="Oh, right. The big party.." />
+<DIRECTION action="no" description="manner" id="D78" span_end_char="21" span_end_line="52671" span_start_char="13" span_start_line="52671" spans="2088~2096" text="Confused" />
+<DIRECTION action="no" description="none" id="D79" span_end_char="30" span_end_line="52677" span_start_char="15" span_start_line="52677" spans="2450~2465" text="Liking the idea" />
+<DIRECTION action="no" description="manner" id="D80" span_end_char="24" span_end_line="52679" span_start_char="15" span_start_line="52679" spans="2711~2720" text="Sarcastic" />
+<DIRECTION action="no" description="manner" id="D81" span_end_char="23" span_end_line="52681" span_start_char="14" span_start_line="52681" spans="2814~2823" text="Sarcastic" />
+<DIRECTION action="no" description="none" id="D82" span_end_char="41" span_end_line="52682" span_start_char="15" span_start_line="52682" spans="2915~2941" text="Taking his offer seriously" />
+<DIRECTION action="yes" description="reference" id="D83" span_end_char="61" span_end_line="52683" span_start_char="14" span_start_line="52683" spans="2999~3046" text="Gesturing to dishes and silverware on the table" />
+<DIRECTION action="yes" description="reference" id="D84" span_end_char="74" span_end_line="52684" span_start_char="38" span_start_line="52684" spans="3155~3191" text="Pointing at some papers on the table" />
+<DIRECTION action="no" description="manner" id="D85" span_end_char="45" span_end_line="52685" span_start_char="14" span_start_line="52685" spans="3304~3335" text="Jokingly trying to be skeptical" />
+<DIRECTION action="no" description="manner" id="D86" span_end_char="29" span_end_line="52687" span_start_char="14" span_start_line="52687" spans="3469~3484" text="Still skeptical" />
+<DIRECTION action="no" description="addressee" id="D87" span_end_char="24" span_end_line="52693" span_start_char="15" span_start_line="52693" spans="3940~3949" text="To Newman" />
+<DIRECTION action="no" description="none" id="D88" span_end_char="34" span_end_line="52695" span_start_char="14" span_start_line="52695" spans="4065~4085" text="Stopping his thought" />
+<DIRECTION action="no" description="manner" id="D89" span_end_char="63" span_end_line="52696" span_start_char="14" span_start_line="52696" spans="4133~4182" text="Extremely happy about Kramer and Newman's dilemma" />
+<DIRECTION action="no" description="none" id="D90" span_end_char="27" span_end_line="52697" span_start_char="14" span_start_line="52697" spans="4249~4262" text="Brainstorming" />
+<DIRECTION action="no" description="none" id="D91" span_end_char="24" span_end_line="52699" span_start_char="14" span_start_line="52699" spans="4381~4391" text="Explaining" />
+<DIALOGUE id="DI68" span_end_char="75" span_end_line="52650" span_start_char="24" span_start_line="52650" spans="66~117" text=" Did you take that book with you into the bathroom?" />
+<DIALOGUE id="DI69" span_end_char="75" span_end_line="52651" span_start_char="50" span_start_line="52651" spans="184~209" text="What do you want to hear?" />
+<DIALOGUE id="DI70" span_end_char="111" span_end_line="52653" span_start_char="96" span_start_line="52653" spans="370~385" text="How dare they?!" />
+<DIALOGUE id="DI71" span_end_char="91" span_end_line="52654" span_start_char="24" span_start_line="52654" spans="501~568" text="Yeah. I understand Guttenberg used to spend a lot of time in there." />
+<DIALOGUE id="DI72" span_end_char="102" span_end_line="52656" span_start_char="69" span_start_line="52656" spans="780~813" text="'French Impressionist Paintings'?" />
+<DIALOGUE id="DI73" span_end_char="50" span_end_line="52658" span_start_char="30" span_start_line="52658" spans="939~959" text="Thank you very much." />
+<DIALOGUE id="DI74" span_end_char="53" span_end_line="52664" span_start_char="27" span_start_line="52664" spans="1443~1469" text="Oh, right. The big party.." />
 <DIALOGUE id="DI75" span_end_char="69" span_end_line="52666" span_start_char="24" span_start_line="52666" spans="1580~1625" text="No, I found a better way to humiliate myself." />
 <DIALOGUE id="DI76" span_end_char="54" span_end_line="52669" span_start_char="29" span_start_line="52669" spans="1865~1890" text="Ah, the drunken make-out." />
 <DIALOGUE id="DI77" span_end_char="97" span_end_line="52670" span_start_char="34" span_start_line="52670" spans="1995~2058" text="Do you know how embarrassing this is to someone in my position?" />
-<DIALOGUE id="DI75490" span_end_char="44" span_end_line="52671" span_start_char="23" span_start_line="52671" spans="2098~2119" text="What's your position?" />
-<DIALOGUE id="DI75491" span_end_char="44" span_end_line="52677" span_start_char="32" span_start_line="52677" spans="2467~2479" text="Ohh.. right." />
-<DIALOGUE id="DI75492" span_end_char="36" span_end_line="52679" span_start_char="26" span_start_line="52679" spans="2722~2732" text="Oh, bravo." />
-<DIALOGUE id="DI75493" span_end_char="82" span_end_line="52681" span_start_char="25" span_start_line="52681" spans="2825~2882" text="Oh, hey. Can I fix you fellas some drinks and sandwiches?" />
-<DIALOGUE id="DI75494" span_end_char="67" span_end_line="52682" span_start_char="43" span_start_line="52682" spans="2943~2967" text="No, we've already eaten." />
-<DIALOGUE id="DI75495" span_end_char="115" span_end_line="52683" span_start_char="63" span_start_line="52683" spans="3048~3100" text="But you can clear some of this stuff out of the way." />
-<DIALOGUE id="DI75496" span_end_char="35" span_end_line="52684" span_start_char="14" span_start_line="52684" spans="3131~3152" text="Jerry, check this out" />
-<DIALOGUE id="DI75497" span_end_char="62" span_end_line="52685" span_start_char="47" span_start_line="52685" spans="3337~3352" text="No, you're not." />
-<DIALOGUE id="DI75498" span_end_char="46" span_end_line="52687" span_start_char="31" span_start_line="52687" spans="3486~3501" text="No, he doesn't." />
-<DIALOGUE id="DI75499" span_end_char="57" span_end_line="52693" span_start_char="26" span_start_line="52693" spans="3951~3982" text="Well, I just assumed you would." />
-<DIALOGUE id="DI7500" span_end_char="51" span_end_line="52695" span_start_char="36" span_start_line="52695" spans="4087~4102" text="Da-da-da-da no." />
-<DIALOGUE id="DI7501" span_end_char="98" span_end_line="52696" span_start_char="65" span_start_line="52696" spans="4184~4217" text="My, isn't this an awkward moment?" />
-<DIALOGUE id="DI7502" span_end_char="53" span_end_line="52697" span_start_char="29" span_start_line="52697" spans="4264~4288" text="What about the homeless?" />
-<DIALOGUE id="DI7503" span_end_char="47" span_end_line="52699" span_start_char="26" span_start_line="52699" spans="4393~4414" text="To pull the rickshaw." />
-<RELATION fromID="D7548" fromText="Pointing" id="R7548" relationship="occurs-while" toID="DI7548" toText=" Did you take that book with you into the bathroom?" />
-<RELATION fromID="D7549" fromText="Not sure what the answer should be" id="R7549" relationship="occurs-while" toID="DI7549" toText="What do you want to hear?" />
-<RELATION fromID="D750" fromText="Gesturing to the book" id="R750" relationship="occurs-while" toID="DI750" toText="How dare they?!" />
-<RELATION fromID="D751" fromText="Sarcastic" id="R751" relationship="occurs-while" toID="DI751" toText="Yeah. I understand Guttenberg used to spend a lot of time in there." />
-<RELATION fromID="D752" fromText="Reading the cover of the book George was forced to buy" id="R752" relationship="occurs-while" toID="DI752" toText="'French Impressionist Paintings'?" />
-<RELATION fromID="D753" fromText="Cutting him off" id="R753" relationship="occurs-while" toID="DI753" toText="Thank you very much." />
-<RELATION fromID="D754" fromText="Remembering" id="R754" relationship="occurs-while" toID="DI754" toText="Oh, right. The big party.." />
+<DIALOGUE id="DI78" span_end_char="44" span_end_line="52671" span_start_char="23" span_start_line="52671" spans="2098~2119" text="What's your position?" />
+<DIALOGUE id="DI79" span_end_char="44" span_end_line="52677" span_start_char="32" span_start_line="52677" spans="2467~2479" text="Ohh.. right." />
+<DIALOGUE id="DI80" span_end_char="36" span_end_line="52679" span_start_char="26" span_start_line="52679" spans="2722~2732" text="Oh, bravo." />
+<DIALOGUE id="DI81" span_end_char="82" span_end_line="52681" span_start_char="25" span_start_line="52681" spans="2825~2882" text="Oh, hey. Can I fix you fellas some drinks and sandwiches?" />
+<DIALOGUE id="DI82" span_end_char="67" span_end_line="52682" span_start_char="43" span_start_line="52682" spans="2943~2967" text="No, we've already eaten." />
+<DIALOGUE id="DI83" span_end_char="115" span_end_line="52683" span_start_char="63" span_start_line="52683" spans="3048~3100" text="But you can clear some of this stuff out of the way." />
+<DIALOGUE id="DI84" span_end_char="35" span_end_line="52684" span_start_char="14" span_start_line="52684" spans="3131~3152" text="Jerry, check this out" />
+<DIALOGUE id="DI85" span_end_char="62" span_end_line="52685" span_start_char="47" span_start_line="52685" spans="3337~3352" text="No, you're not." />
+<DIALOGUE id="DI86" span_end_char="46" span_end_line="52687" span_start_char="31" span_start_line="52687" spans="3486~3501" text="No, he doesn't." />
+<DIALOGUE id="DI87" span_end_char="57" span_end_line="52693" span_start_char="26" span_start_line="52693" spans="3951~3982" text="Well, I just assumed you would." />
+<DIALOGUE id="DI88" span_end_char="51" span_end_line="52695" span_start_char="36" span_start_line="52695" spans="4087~4102" text="Da-da-da-da no." />
+<DIALOGUE id="DI89" span_end_char="98" span_end_line="52696" span_start_char="65" span_start_line="52696" spans="4184~4217" text="My, isn't this an awkward moment?" />
+<DIALOGUE id="DI90" span_end_char="53" span_end_line="52697" span_start_char="29" span_start_line="52697" spans="4264~4288" text="What about the homeless?" />
+<DIALOGUE id="DI91" span_end_char="47" span_end_line="52699" span_start_char="26" span_start_line="52699" spans="4393~4414" text="To pull the rickshaw." />
+<RELATION fromID="D68" fromText="Pointing" id="R68" relationship="occurs-while" toID="DI68" toText=" Did you take that book with you into the bathroom?" />
+<RELATION fromID="D69" fromText="Not sure what the answer should be" id="R69" relationship="occurs-while" toID="DI69" toText="What do you want to hear?" />
+<RELATION fromID="D70" fromText="Gesturing to the book" id="R70" relationship="occurs-while" toID="DI70" toText="How dare they?!" />
+<RELATION fromID="D71" fromText="Sarcastic" id="R71" relationship="occurs-while" toID="DI71" toText="Yeah. I understand Guttenberg used to spend a lot of time in there." />
+<RELATION fromID="D72" fromText="Reading the cover of the book George was forced to buy" id="R72" relationship="occurs-while" toID="DI72" toText="'French Impressionist Paintings'?" />
+<RELATION fromID="D73" fromText="Cutting him off" id="R73" relationship="occurs-while" toID="DI73" toText="Thank you very much." />
+<RELATION fromID="D74" fromText="Remembering" id="R74" relationship="occurs-while" toID="DI74" toText="Oh, right. The big party.." />
 <RELATION fromID="D75" fromText="Angered" id="R75" relationship="occurs-while" toID="DI75" toText="No, I found a better way to humiliate myself." />
 <RELATION fromID="D76" fromText="Rubbing it in" id="R76" relationship="occurs-while" toID="DI76" toText="Ah, the drunken make-out." />
 <RELATION fromID="D77" fromText="Gives Jerry a look" id="R77" relationship="occurs-while" toID="DI77" toText="Do you know how embarrassing this is to someone in my position?" />
-<RELATION fromID="D75490" fromText="Confused" id="R75490" relationship="occurs-while" toID="DI75490" toText="What's your position?" />
-<RELATION fromID="D75491" fromText="Liking the idea" id="R75491" relationship="occurs-while" toID="DI75491" toText="Ohh.. right." />
-<RELATION fromID="D75492" fromText="Sarcastic" id="R75492" relationship="occurs-while" toID="DI75492" toText="Oh, bravo." />
-<RELATION fromID="D75493" fromText="Sarcastic" id="R75493" relationship="occurs-while" toID="DI75493" toText="Oh, hey. Can I fix you fellas some drinks and sandwiches?" />
-<RELATION fromID="D75494" fromText="Taking his offer seriously" id="R75494" relationship="occurs-while" toID="DI75494" toText="No, we've already eaten." />
-<RELATION fromID="D75495" fromText="Gesturing to dishes and silverware on the table" id="R75495" relationship="occurs-while" toID="DI75495" toText="But you can clear some of this stuff out of the way." />
-<RELATION fromID="D75496" fromText="Pointing at some papers on the table" id="R75496" relationship="occurs-while" toID="DI75496" toText="Jerry, check this out" />
-<RELATION fromID="D75497" fromText="Jokingly trying to be skeptical" id="R75497" relationship="occurs-while" toID="DI75497" toText="No, you're not." />
-<RELATION fromID="D75498" fromText="Still skeptical" id="R75498" relationship="occurs-while" toID="DI75498" toText="No, he doesn't." />
-<RELATION fromID="D75499" fromText="To Newman" id="R75499" relationship="occurs-while" toID="DI75499" toText="Well, I just assumed you would." />
-<RELATION fromID="D7500" fromText="Stopping his thought" id="R7500" relationship="occurs-while" toID="DI7500" toText="Da-da-da-da no." />
-<RELATION fromID="D7501" fromText="Extremely happy about Kramer and Newman's dilemma" id="R7501" relationship="occurs-while" toID="DI7501" toText="My, isn't this an awkward moment?" />
-<RELATION fromID="D7502" fromText="Brainstorming" id="R7502" relationship="occurs-while" toID="DI7502" toText="What about the homeless?" />
-<RELATION fromID="D7503" fromText="Explaining" id="R7503" relationship="occurs-while" toID="DI7503" toText="To pull the rickshaw." />
-<DIRECTION action="yes" description="none" id="D10212" span_end_char="46" span_end_line="52700" span_start_char="14" span_start_line="52700" spans="56~88" text="Pondering Kramer's plan out loud" />
-<DIRECTION action="no" description="manner" id="D10213" span_end_char="23" span_end_line="52702" span_start_char="14" span_start_line="52702" spans="279~288" text="Sarcastic" />
-<DIRECTION action="yes" description="none" id="D10214" span_end_char="35" span_end_line="52704" span_start_char="26" span_start_line="52704" spans="437~446" text="Sits down" />
-<DIRECTION action="no" description="none" id="D10215" span_end_char="40" span_end_line="52707" span_start_char="14" span_start_line="52707" spans="639~665" text="Shrugging his problems off" />
-<DIRECTION action="no" description="none" id="D10216" span_end_char="101" span_end_line="52708" span_start_char="67" span_start_line="52708" spans="825~859" text="Quickly amending what he just said" />
-<DIRECTION action="no" description="manner" id="D10217" span_end_char="25" span_end_line="52709" span_start_char="14" span_start_line="52709" spans="905~916" text="Being frank" />
-<DIRECTION action="no" description="manner" id="D10218" span_end_char="35" span_end_line="52712" span_start_char="11" span_start_line="52712" spans="1108~1132" text="Giving a courtesy lesson" />
-<DIRECTION action="no" description="none" id="D10219" span_end_char="41" span_end_line="52713" span_start_char="14" span_start_line="52713" spans="1185~1212" text="Showing that it's a problem" />
-<DIRECTION action="no" description="none" id="D1020" span_end_char="79" span_end_line="52718" span_start_char="30" span_start_line="52718" spans="1500~1549" text="Goes into a routine explaination for his stealing" />
-<DIRECTION action="no" description="manner" id="D1021" span_end_char="21" span_end_line="52719" span_start_char="13" span_start_line="52719" spans="1674~1682" text="Pleading" />
-<DIRECTION action="no" description="none" id="D102130" span_end_char="47" span_end_line="52721" span_start_char="13" span_start_line="52721" spans="1807~1841" text="Thinking he's stopped Leo's thefts" />
-<DIRECTION action="yes" description="none" id="D102131" span_end_char="54" span_end_line="52722" span_start_char="11" span_start_line="52722" spans="1881~1924" text="Yelling out to every one in the coffee shop" />
-<DIRECTION action="no" description="none" id="D102132" span_end_char="37" span_end_line="52724" span_start_char="15" span_start_line="52724" spans="2061~2083" text="Talking to a co-worker" />
-<DIRECTION action="yes" description="none" id="D102133" span_end_char="49" span_end_line="52727" span_start_char="15" span_start_line="52727" spans="2367~2401" text="Exits, closing the door behind her" />
-<DIRECTION action="yes" description="reference" id="D102134" span_end_char="41" span_end_line="52728" span_start_char="14" span_start_line="52728" spans="2448~2475" text="Pointing at the closed door" />
-<DIRECTION action="yes" description="none" id="D102135" span_end_char="33" span_end_line="52731" span_start_char="15" span_start_line="52731" spans="2607~2625" text="Starts to fake cry" />
-<DIRECTION action="yes" description="none" id="D102136" span_end_char="278" span_end_line="52733" span_start_char="220" span_start_line="52733" spans="2925~2983" text="One of the homeless men starts to wander off, walking away" />
-<DIRECTION action="no" description="none" id="D102137" span_end_char="47" span_end_line="52735" span_start_char="14" span_start_line="52735" spans="3197~3230" text="Continuing as if nothing happened" />
-<DIRECTION action="yes" description="none" id="D102138" span_end_char="36" span_end_line="52740" span_start_char="14" span_start_line="52740" spans="3547~3569" text="Writing on a clipboard" />
-<DIRECTION action="no" description="addressee" id="D102139" span_end_char="23" span_end_line="52741" span_start_char="15" span_start_line="52741" spans="3609~3617" text="To Rusty" />
-<DIRECTION action="no" description="addressee" id="D102140" span_end_char="23" span_end_line="52742" span_start_char="15" span_start_line="52742" spans="3706~3714" text="To Rusty" />
-<DIRECTION action="no" description="none" id="D102141" span_end_char="54" span_end_line="52743" span_start_char="14" span_start_line="52743" spans="3888~3928" text="Watching Rusty's pulling of the rickshaw" />
-<DIRECTION action="yes" description="addressee" id="D102142" span_end_char="35" span_end_line="52744" span_start_char="15" span_start_line="52744" spans="3982~4002" text="Yelling out to Rusty" />
-<DIRECTION action="yes" description="addressee" id="D102143" span_end_char="37" span_end_line="52748" span_start_char="23" span_start_line="52748" spans="4304~4318" text="Salutes Kramer" />
-<DIALOGUE id="DI10212" span_end_char="98" span_end_line="52700" span_start_char="48" span_start_line="52700" spans="90~140" text="They do have an intimate knowledge of the street.." />
-<DIALOGUE id="DI10213" span_end_char="80" span_end_line="52702" span_start_char="25" span_start_line="52702" spans="290~345" text="Now, that's the first sensible idea I've heard all day." />
-<DIALOGUE id="DI10214" span_end_char="24" span_end_line="52704" span_start_char="11" span_start_line="52704" spans="422~435" text="Jerry, hello!" />
-<DIALOGUE id="DI10215" span_end_char="115" span_end_line="52707" span_start_char="42" span_start_line="52707" spans="667~740" text="Yeah, yeah. But what about money? Are you strapped? Do you need a little?" />
-<DIALOGUE id="DI10216" span_end_char="115" span_end_line="52708" span_start_char="103" span_start_line="52708" spans="861~873" text="But I'm not." />
-<DIALOGUE id="DI10217" span_end_char="66" span_end_line="52709" span_start_char="27" span_start_line="52709" spans="918~957" text="Leo, I saw you in Brentano's yesterday." />
-<DIALOGUE id="DI10218" span_end_char="57" span_end_line="52712" span_start_char="37" span_start_line="52712" spans="1134~1154" text="You still say hello." />
-<DIALOGUE id="DI10219" span_end_char="64" span_end_line="52713" span_start_char="43" span_start_line="52713" spans="1214~1235" text="Leo, I saw you steal." />
-<DIALOGUE id="DI1020" span_end_char="135" span_end_line="52718" span_start_char="81" span_start_line="52718" spans="1551~1605" text="I'm an old man. I'm confused! I thought I paid for it." />
-<DIALOGUE id="DI1021" span_end_char="28" span_end_line="52719" span_start_char="23" span_start_line="52719" spans="1684~1689" text="Leo.." />
-<DIALOGUE id="DI102130" span_end_char="59" span_end_line="52721" span_start_char="49" span_start_line="52721" spans="1843~1853" text="Thank you." />
-<DIALOGUE id="DI102131" span_end_char="94" span_end_line="52722" span_start_char="56" span_start_line="52722" spans="1926~1964" text="Will somebody answer that damn phone?!" />
-<DIALOGUE id="DI102132" span_end_char="77" span_end_line="52724" span_start_char="39" span_start_line="52724" spans="2085~2123" text="Of course Zach and I have been dating." />
-<DIALOGUE id="DI102133" span_end_char="64" span_end_line="52727" span_start_char="51" span_start_line="52727" spans="2403~2416" text="Oh man. Ugh.." />
-<DIALOGUE id="DI102134" span_end_char="59" span_end_line="52728" span_start_char="43" span_start_line="52728" spans="2477~2493" text="Isn't that Zach?" />
-<DIALOGUE id="DI102135" span_end_char="52" span_end_line="52731" span_start_char="35" span_start_line="52731" spans="2627~2644" text="Yes. Oh, man! Oh!" />
-<DIALOGUE id="DI102136" span_end_char="409" span_end_line="52733" span_start_char="281" span_start_line="52733" spans="2986~3114" text="ow, I don't caer where you're from, or how you got here, or what happened to your homes. But you will have to be physically fit." />
-<DIALOGUE id="DI102137" span_end_char="108" span_end_line="52735" span_start_char="49" span_start_line="52735" spans="3232~3291" text="Because to pull rickshaws means more than just strong legs." />
-<DIALOGUE id="DI102138" span_end_char="44" span_end_line="52740" span_start_char="37" span_start_line="52740" spans="3570~3577" text=" Rusty." />
-<DIALOGUE id="DI102139" span_end_char="79" span_end_line="52741" span_start_char="25" span_start_line="52741" spans="3619~3673" text="You know, I once knew a horse named Rusty. No offence." />
-<DIALOGUE id="DI102140" span_end_char="75" span_end_line="52742" span_start_char="25" span_start_line="52742" spans="3716~3766" text="Alright, uh, take it down to the end of the block." />
-<DIALOGUE id="DI102141" span_end_char="76" span_end_line="52743" span_start_char="56" span_start_line="52743" spans="3930~3950" text="Giddy up! Good form." />
-<DIALOGUE id="DI102142" span_end_char="127" span_end_line="52744" span_start_char="37" span_start_line="52744" spans="4004~4094" text="Alright, pace yourself, 'Cause you're gonna have to do this all day for very little money." />
-<DIALOGUE id="DI102143" span_end_char="71" span_end_line="52748" span_start_char="39" span_start_line="52748" spans="4320~4352" text="I'll take the job. Potato salad!" />
-<RELATION fromID="DI102132" fromText="Of course Zach and I have been dating." id="R10212" relationship="occurs-while" toID="DI10212" toText="They do have an intimate knowledge of the street.." />
-<RELATION fromID="D10213" fromText="Sarcastic" id="R10213" relationship="occurs-while" toID="DI10213" toText="Now, that's the first sensible idea I've heard all day." />
-<RELATION fromID="D10214" fromText="Sits down" id="R10214" relationship="occurs-while" toID="DI10214" toText="Jerry, hello!" />
-<RELATION fromID="D10215" fromText="Shrugging his problems off" id="R10215" relationship="occurs-while" toID="DI10215" toText="Yeah, yeah. But what about money? Are you strapped? Do you need a little?" />
-<RELATION fromID="D10216" fromText="Quickly amending what he just said" id="R10216" relationship="occurs-while" toID="DI10216" toText="But I'm not." />
-<RELATION fromID="D10217" fromText="Being frank" id="R10217" relationship="occurs-while" toID="DI10217" toText="Leo, I saw you in Brentano's yesterday." />
-<RELATION fromID="D10218" fromText="Giving a courtesy lesson" id="R10218" relationship="occurs-while" toID="DI10218" toText="You still say hello." />
-<RELATION fromID="D10219" fromText="Showing that it's a problem" id="R10219" relationship="occurs-while" toID="DI10219" toText="Leo, I saw you steal." />
-<RELATION fromID="D1020" fromText="Goes into a routine explaination for his stealing" id="R1020" relationship="occurs-while" toID="DI1020" toText="I'm an old man. I'm confused! I thought I paid for it." />
-<RELATION fromID="D1021" fromText="Pleading" id="R1021" relationship="occurs-while" toID="DI1021" toText="Leo.." />
-<RELATION fromID="D102130" fromText="Thinking he's stopped Leo's thefts" id="R102130" relationship="occurs-while" toID="DI102130" toText="Thank you." />
-<RELATION fromID="D102131" fromText="Yelling out to every one in the coffee shop" id="R102131" relationship="occurs-while" toID="DI102131" toText="Will somebody answer that damn phone?!" />
-<RELATION fromID="D102132" fromText="Talking to a co-worker" id="R102132" relationship="occurs-while" toID="DI102132" toText="Of course Zach and I have been dating." />
-<RELATION fromID="D102133" fromText="Exits, closing the door behind her" id="R102133" relationship="occurs-while" toID="DI102133" toText="Oh man. Ugh.." />
-<RELATION fromID="D102134" fromText="Pointing at the closed door" id="R102134" relationship="occurs-while" toID="DI102134" toText="Isn't that Zach?" />
-<RELATION fromID="D102135" fromText="Starts to fake cry" id="R102135" relationship="next-dialogue" toID="DI102135" toText="Yes. Oh, man! Oh!" />
-<RELATION fromID="D102136" fromText="One of the homeless men starts to wander off, walking away" id="R102136" relationship="next-dialogue" toID="DI102136" toText="ow, I don't caer where you're from, or how you got here, or what happened to your homes. But you will have to be physically fit." />
-<RELATION fromID="D102137" fromText="Continuing as if nothing happened" id="R102137" relationship="occurs-while" toID="DI102137" toText="Because to pull rickshaws means more than just strong legs." />
-<RELATION fromID="D102138" fromText="Writing on a clipboard" id="R102138" relationship="occurs-while" toID="DI102138" toText=" Rusty." />
-<RELATION fromID="D102139" fromText="To Rusty" id="R102139" relationship="occurs-while" toID="DI102139" toText="You know, I once knew a horse named Rusty. No offence." />
-<RELATION fromID="D102140" fromText="To Rusty" id="R102140" relationship="occurs-while" toID="DI102140" toText="Alright, uh, take it down to the end of the block." />
-<RELATION fromID="D102141" fromText="Watching Rusty's pulling of the rickshaw" id="R102141" relationship="occurs-while" toID="DI102141" toText="Giddy up! Good form." />
-<RELATION fromID="D102142" fromText="Yelling out to Rusty" id="R102142" relationship="occurs-while" toID="DI102142" toText="Alright, pace yourself, 'Cause you're gonna have to do this all day for very little money." />
-<RELATION fromID="D102143" fromText="Salutes Kramer" id="R102143" relationship="occurs-while" toID="DI102143" toText="I'll take the job. Potato salad!" />
-<DIRECTION action="yes" description="none" id="D11716" span_end_char="23" span_end_line="52801" span_start_char="13" span_start_line="52801" spans="114~124" text="Getting up" />
+<RELATION fromID="D78" fromText="Confused" id="R78" relationship="occurs-while" toID="DI78" toText="What's your position?" />
+<RELATION fromID="D79" fromText="Liking the idea" id="R79" relationship="occurs-while" toID="DI79" toText="Ohh.. right." />
+<RELATION fromID="D80" fromText="Sarcastic" id="R80" relationship="occurs-while" toID="DI80" toText="Oh, bravo." />
+<RELATION fromID="D81" fromText="Sarcastic" id="R81" relationship="occurs-while" toID="DI81" toText="Oh, hey. Can I fix you fellas some drinks and sandwiches?" />
+<RELATION fromID="D82" fromText="Taking his offer seriously" id="R82" relationship="occurs-while" toID="DI82" toText="No, we've already eaten." />
+<RELATION fromID="D83" fromText="Gesturing to dishes and silverware on the table" id="R83" relationship="occurs-while" toID="DI83" toText="But you can clear some of this stuff out of the way." />
+<RELATION fromID="D84" fromText="Pointing at some papers on the table" id="R84" relationship="occurs-while" toID="DI84" toText="Jerry, check this out" />
+<RELATION fromID="D85" fromText="Jokingly trying to be skeptical" id="R85" relationship="occurs-while" toID="DI85" toText="No, you're not." />
+<RELATION fromID="D86" fromText="Still skeptical" id="R86" relationship="occurs-while" toID="DI86" toText="No, he doesn't." />
+<RELATION fromID="D87" fromText="To Newman" id="R87" relationship="occurs-while" toID="DI87" toText="Well, I just assumed you would." />
+<RELATION fromID="D88" fromText="Stopping his thought" id="R88" relationship="occurs-while" toID="DI88" toText="Da-da-da-da no." />
+<RELATION fromID="D89" fromText="Extremely happy about Kramer and Newman's dilemma" id="R89" relationship="occurs-while" toID="DI89" toText="My, isn't this an awkward moment?" />
+<RELATION fromID="D90" fromText="Brainstorming" id="R90" relationship="occurs-while" toID="DI90" toText="What about the homeless?" />
+<RELATION fromID="D91" fromText="Explaining" id="R91" relationship="occurs-while" toID="DI91" toText="To pull the rickshaw." />
+<DIRECTION action="yes" description="none" id="D92" span_end_char="46" span_end_line="52700" span_start_char="14" span_start_line="52700" spans="56~88" text="Pondering Kramer's plan out loud" />
+<DIRECTION action="no" description="manner" id="D93" span_end_char="23" span_end_line="52702" span_start_char="14" span_start_line="52702" spans="279~288" text="Sarcastic" />
+<DIRECTION action="yes" description="none" id="D94" span_end_char="35" span_end_line="52704" span_start_char="26" span_start_line="52704" spans="437~446" text="Sits down" />
+<DIRECTION action="no" description="none" id="D95" span_end_char="40" span_end_line="52707" span_start_char="14" span_start_line="52707" spans="639~665" text="Shrugging his problems off" />
+<DIRECTION action="no" description="none" id="D96" span_end_char="101" span_end_line="52708" span_start_char="67" span_start_line="52708" spans="825~859" text="Quickly amending what he just said" />
+<DIRECTION action="no" description="manner" id="D97" span_end_char="25" span_end_line="52709" span_start_char="14" span_start_line="52709" spans="905~916" text="Being frank" />
+<DIRECTION action="no" description="manner" id="D98" span_end_char="35" span_end_line="52712" span_start_char="11" span_start_line="52712" spans="1108~1132" text="Giving a courtesy lesson" />
+<DIRECTION action="no" description="none" id="D99" span_end_char="41" span_end_line="52713" span_start_char="14" span_start_line="52713" spans="1185~1212" text="Showing that it's a problem" />
+<DIRECTION action="no" description="none" id="D100" span_end_char="79" span_end_line="52718" span_start_char="30" span_start_line="52718" spans="1500~1549" text="Goes into a routine explaination for his stealing" />
+<DIRECTION action="no" description="manner" id="D101" span_end_char="21" span_end_line="52719" span_start_char="13" span_start_line="52719" spans="1674~1682" text="Pleading" />
+<DIRECTION action="no" description="none" id="D102" span_end_char="47" span_end_line="52721" span_start_char="13" span_start_line="52721" spans="1807~1841" text="Thinking he's stopped Leo's thefts" />
+<DIRECTION action="yes" description="none" id="D103" span_end_char="54" span_end_line="52722" span_start_char="11" span_start_line="52722" spans="1881~1924" text="Yelling out to every one in the coffee shop" />
+<DIRECTION action="no" description="none" id="D104" span_end_char="37" span_end_line="52724" span_start_char="15" span_start_line="52724" spans="2061~2083" text="Talking to a co-worker" />
+<DIRECTION action="yes" description="none" id="D105" span_end_char="49" span_end_line="52727" span_start_char="15" span_start_line="52727" spans="2367~2401" text="Exits, closing the door behind her" />
+<DIRECTION action="yes" description="reference" id="D106" span_end_char="41" span_end_line="52728" span_start_char="14" span_start_line="52728" spans="2448~2475" text="Pointing at the closed door" />
+<DIRECTION action="yes" description="none" id="D107" span_end_char="33" span_end_line="52731" span_start_char="15" span_start_line="52731" spans="2607~2625" text="Starts to fake cry" />
+<DIRECTION action="yes" description="none" id="D108" span_end_char="278" span_end_line="52733" span_start_char="220" span_start_line="52733" spans="2925~2983" text="One of the homeless men starts to wander off, walking away" />
+<DIRECTION action="no" description="none" id="D109" span_end_char="47" span_end_line="52735" span_start_char="14" span_start_line="52735" spans="3197~3230" text="Continuing as if nothing happened" />
+<DIRECTION action="yes" description="none" id="D110" span_end_char="36" span_end_line="52740" span_start_char="14" span_start_line="52740" spans="3547~3569" text="Writing on a clipboard" />
+<DIRECTION action="no" description="addressee" id="D111" span_end_char="23" span_end_line="52741" span_start_char="15" span_start_line="52741" spans="3609~3617" text="To Rusty" />
+<DIRECTION action="no" description="addressee" id="D112" span_end_char="23" span_end_line="52742" span_start_char="15" span_start_line="52742" spans="3706~3714" text="To Rusty" />
+<DIRECTION action="no" description="none" id="D113" span_end_char="54" span_end_line="52743" span_start_char="14" span_start_line="52743" spans="3888~3928" text="Watching Rusty's pulling of the rickshaw" />
+<DIRECTION action="yes" description="addressee" id="D114" span_end_char="35" span_end_line="52744" span_start_char="15" span_start_line="52744" spans="3982~4002" text="Yelling out to Rusty" />
+<DIRECTION action="yes" description="addressee" id="D115" span_end_char="37" span_end_line="52748" span_start_char="23" span_start_line="52748" spans="4304~4318" text="Salutes Kramer" />
+<DIALOGUE id="DI92" span_end_char="98" span_end_line="52700" span_start_char="48" span_start_line="52700" spans="90~140" text="They do have an intimate knowledge of the street.." />
+<DIALOGUE id="DI93" span_end_char="80" span_end_line="52702" span_start_char="25" span_start_line="52702" spans="290~345" text="Now, that's the first sensible idea I've heard all day." />
+<DIALOGUE id="DI94" span_end_char="24" span_end_line="52704" span_start_char="11" span_start_line="52704" spans="422~435" text="Jerry, hello!" />
+<DIALOGUE id="DI95" span_end_char="115" span_end_line="52707" span_start_char="42" span_start_line="52707" spans="667~740" text="Yeah, yeah. But what about money? Are you strapped? Do you need a little?" />
+<DIALOGUE id="DI96" span_end_char="115" span_end_line="52708" span_start_char="103" span_start_line="52708" spans="861~873" text="But I'm not." />
+<DIALOGUE id="DI97" span_end_char="66" span_end_line="52709" span_start_char="27" span_start_line="52709" spans="918~957" text="Leo, I saw you in Brentano's yesterday." />
+<DIALOGUE id="DI98" span_end_char="57" span_end_line="52712" span_start_char="37" span_start_line="52712" spans="1134~1154" text="You still say hello." />
+<DIALOGUE id="DI99" span_end_char="64" span_end_line="52713" span_start_char="43" span_start_line="52713" spans="1214~1235" text="Leo, I saw you steal." />
+<DIALOGUE id="DI100" span_end_char="135" span_end_line="52718" span_start_char="81" span_start_line="52718" spans="1551~1605" text="I'm an old man. I'm confused! I thought I paid for it." />
+<DIALOGUE id="DI101" span_end_char="28" span_end_line="52719" span_start_char="23" span_start_line="52719" spans="1684~1689" text="Leo.." />
+<DIALOGUE id="DI102" span_end_char="59" span_end_line="52721" span_start_char="49" span_start_line="52721" spans="1843~1853" text="Thank you." />
+<DIALOGUE id="DI103" span_end_char="94" span_end_line="52722" span_start_char="56" span_start_line="52722" spans="1926~1964" text="Will somebody answer that damn phone?!" />
+<DIALOGUE id="DI104" span_end_char="77" span_end_line="52724" span_start_char="39" span_start_line="52724" spans="2085~2123" text="Of course Zach and I have been dating." />
+<DIALOGUE id="DI105" span_end_char="64" span_end_line="52727" span_start_char="51" span_start_line="52727" spans="2403~2416" text="Oh man. Ugh.." />
+<DIALOGUE id="DI106" span_end_char="59" span_end_line="52728" span_start_char="43" span_start_line="52728" spans="2477~2493" text="Isn't that Zach?" />
+<DIALOGUE id="DI107" span_end_char="52" span_end_line="52731" span_start_char="35" span_start_line="52731" spans="2627~2644" text="Yes. Oh, man! Oh!" />
+<DIALOGUE id="DI108" span_end_char="409" span_end_line="52733" span_start_char="281" span_start_line="52733" spans="2986~3114" text="ow, I don't caer where you're from, or how you got here, or what happened to your homes. But you will have to be physically fit." />
+<DIALOGUE id="DI109" span_end_char="108" span_end_line="52735" span_start_char="49" span_start_line="52735" spans="3232~3291" text="Because to pull rickshaws means more than just strong legs." />
+<DIALOGUE id="DI110" span_end_char="44" span_end_line="52740" span_start_char="37" span_start_line="52740" spans="3570~3577" text=" Rusty." />
+<DIALOGUE id="DI111" span_end_char="79" span_end_line="52741" span_start_char="25" span_start_line="52741" spans="3619~3673" text="You know, I once knew a horse named Rusty. No offence." />
+<DIALOGUE id="DI112" span_end_char="75" span_end_line="52742" span_start_char="25" span_start_line="52742" spans="3716~3766" text="Alright, uh, take it down to the end of the block." />
+<DIALOGUE id="DI113" span_end_char="76" span_end_line="52743" span_start_char="56" span_start_line="52743" spans="3930~3950" text="Giddy up! Good form." />
+<DIALOGUE id="DI114" span_end_char="127" span_end_line="52744" span_start_char="37" span_start_line="52744" spans="4004~4094" text="Alright, pace yourself, 'Cause you're gonna have to do this all day for very little money." />
+<DIALOGUE id="DI115" span_end_char="71" span_end_line="52748" span_start_char="39" span_start_line="52748" spans="4320~4352" text="I'll take the job. Potato salad!" />
+<RELATION fromID="DI104" fromText="Of course Zach and I have been dating." id="R92" relationship="occurs-while" toID="DI92" toText="They do have an intimate knowledge of the street.." />
+<RELATION fromID="D93" fromText="Sarcastic" id="R93" relationship="occurs-while" toID="DI93" toText="Now, that's the first sensible idea I've heard all day." />
+<RELATION fromID="D94" fromText="Sits down" id="R94" relationship="occurs-while" toID="DI94" toText="Jerry, hello!" />
+<RELATION fromID="D95" fromText="Shrugging his problems off" id="R95" relationship="occurs-while" toID="DI95" toText="Yeah, yeah. But what about money? Are you strapped? Do you need a little?" />
+<RELATION fromID="D96" fromText="Quickly amending what he just said" id="R96" relationship="occurs-while" toID="DI96" toText="But I'm not." />
+<RELATION fromID="D97" fromText="Being frank" id="R97" relationship="occurs-while" toID="DI97" toText="Leo, I saw you in Brentano's yesterday." />
+<RELATION fromID="D98" fromText="Giving a courtesy lesson" id="R98" relationship="occurs-while" toID="DI98" toText="You still say hello." />
+<RELATION fromID="D99" fromText="Showing that it's a problem" id="R99" relationship="occurs-while" toID="DI99" toText="Leo, I saw you steal." />
+<RELATION fromID="D100" fromText="Goes into a routine explaination for his stealing" id="R100" relationship="occurs-while" toID="DI100" toText="I'm an old man. I'm confused! I thought I paid for it." />
+<RELATION fromID="D101" fromText="Pleading" id="R101" relationship="occurs-while" toID="DI101" toText="Leo.." />
+<RELATION fromID="D102" fromText="Thinking he's stopped Leo's thefts" id="R102" relationship="occurs-while" toID="DI102" toText="Thank you." />
+<RELATION fromID="D103" fromText="Yelling out to every one in the coffee shop" id="R103" relationship="occurs-while" toID="DI103" toText="Will somebody answer that damn phone?!" />
+<RELATION fromID="D104" fromText="Talking to a co-worker" id="R104" relationship="occurs-while" toID="DI104" toText="Of course Zach and I have been dating." />
+<RELATION fromID="D105" fromText="Exits, closing the door behind her" id="R105" relationship="occurs-while" toID="DI105" toText="Oh man. Ugh.." />
+<RELATION fromID="D106" fromText="Pointing at the closed door" id="R106" relationship="occurs-while" toID="DI106" toText="Isn't that Zach?" />
+<RELATION fromID="D107" fromText="Starts to fake cry" id="R107" relationship="next-dialogue" toID="DI107" toText="Yes. Oh, man! Oh!" />
+<RELATION fromID="D108" fromText="One of the homeless men starts to wander off, walking away" id="R108" relationship="next-dialogue" toID="DI108" toText="ow, I don't caer where you're from, or how you got here, or what happened to your homes. But you will have to be physically fit." />
+<RELATION fromID="D109" fromText="Continuing as if nothing happened" id="R109" relationship="occurs-while" toID="DI109" toText="Because to pull rickshaws means more than just strong legs." />
+<RELATION fromID="D110" fromText="Writing on a clipboard" id="R110" relationship="occurs-while" toID="DI110" toText=" Rusty." />
+<RELATION fromID="D111" fromText="To Rusty" id="R111" relationship="occurs-while" toID="DI111" toText="You know, I once knew a horse named Rusty. No offence." />
+<RELATION fromID="D112" fromText="To Rusty" id="R112" relationship="occurs-while" toID="DI112" toText="Alright, uh, take it down to the end of the block." />
+<RELATION fromID="D113" fromText="Watching Rusty's pulling of the rickshaw" id="R113" relationship="occurs-while" toID="DI113" toText="Giddy up! Good form." />
+<RELATION fromID="D114" fromText="Yelling out to Rusty" id="R114" relationship="occurs-while" toID="DI114" toText="Alright, pace yourself, 'Cause you're gonna have to do this all day for very little money." />
+<RELATION fromID="D115" fromText="Salutes Kramer" id="R115" relationship="occurs-while" toID="DI115" toText="I'll take the job. Potato salad!" />
+<DIRECTION action="yes" description="none" id="D116" span_end_char="23" span_end_line="52801" span_start_char="13" span_start_line="52801" spans="114~124" text="Getting up" />
 <DIRECTION action="no" description="manner" id="D117" span_end_char="17" span_end_line="52802" span_start_char="11" span_start_line="52802" spans="171~177" text="Bitter" />
 <DIRECTION action="no" description="none" id="D118" span_end_char="31" span_end_line="52803" span_start_char="14" span_start_line="52803" spans="216~233" text="Trying to explain" />
 <DIRECTION action="yes" description="none" id="D119" span_end_char="19" span_end_line="52804" span_start_char="12" span_start_line="52804" spans="319~326" text="Exiting" />
-<DIRECTION action="yes" description="none" id="D1270" span_end_char="40" span_end_line="52805" span_start_char="14" span_start_line="52805" spans="427~453" text="Following Leo out the door" />
-<DIRECTION action="yes" description="addressee" id="D1271" span_end_char="74" span_end_line="52806" span_start_char="54" span_start_line="52806" spans="551~571" text="Looking up at George" />
-<DIRECTION action="no" description="none" id="D1272" span_end_char="95" span_end_line="52810" span_start_char="28" span_start_line="52810" spans="853~920" text="He stops in his tracks when he sees Elaine looking at George's book" />
-<DIRECTION action="no" description="none" id="D1273" span_end_char="81" span_end_line="52811" span_start_char="15" span_start_line="52811" spans="986~1052" text="Wanting Elaine to take it off his hands, he tries to silence Jerry" />
-<DIRECTION action="yes" description="reference" id="D1274" span_end_char="21" span_end_line="52812" span_start_char="13" span_start_line="52812" spans="1104~1112" text="Pointing" />
-<DIRECTION action="no" description="manner" id="D1275" span_end_char="22" span_end_line="52813" span_start_char="14" span_start_line="52813" spans="1198~1206" text="Confused" />
-<DIRECTION action="yes" description="none" id="D1170" span_end_char="94" span_end_line="52816" span_start_char="15" span_start_line="52816" spans="1416~1495" text="Cutting Jerry off, she stands up, trying to get away from the book. Yelling out" />
-<DIRECTION action="no" description="none" id="D1172" span_end_char="72" span_end_line="52817" span_start_char="15" span_start_line="52817" spans="1637~1694" text="The damage has been done. He is slightly angered at Jerry" />
-<DIRECTION action="no" description="manner" id="D1173" span_end_char="35" span_end_line="52822" span_start_char="14" span_start_line="52822" spans="2023~2044" text="Faking a broken heart" />
-<DIRECTION action="no" description="manner" id="D1174" span_end_char="22" span_end_line="52824" span_start_char="14" span_start_line="52824" spans="2258~2266" text="Confused" />
-<DIRECTION action="no" description="manner" id="D1175" span_end_char="36" span_end_line="52826" span_start_char="26" span_start_line="52826" spans="2484~2494" text="Sacrcastic" />
-<DIRECTION action="no" description="manner" id="D1176" span_end_char="112" span_end_line="52829" span_start_char="104" span_start_line="52829" spans="3092~3100" text="Ordering" />
-<DIRECTION action="no" description="none" id="D1177" span_end_char="32" span_end_line="52831" span_start_char="17" span_start_line="52831" spans="3237~3252" text="Cutting her off" />
-<DIRECTION action="yes" description="none" id="D1178" span_end_char="192" span_end_line="52836" span_start_char="161" span_start_line="52836" spans="3817~3848" text="Turns to the right, yelling out" />
-<DIRECTION action="no" description="manner" id="D1179" span_end_char="24" span_end_line="52840" span_start_char="15" span_start_line="52840" spans="4025~4034" text="Sarcastic" />
-<DIRECTION action="yes" description="none" id="D1180" span_end_char="39" span_end_line="52843" span_start_char="12" span_start_line="52843" spans="4229~4256" text="Yelling out from off-camera" />
-<DIRECTION action="yes" description="none" id="D1181" span_end_char="56" span_end_line="52846" span_start_char="20" span_start_line="52846" spans="4425~4461" text="Zach vomits. Elaine yells out to him" />
-<DIRECTION action="yes" description="reference" id="D1183" span_end_char="109" span_end_line="52846" span_start_char="101" span_start_line="52846" spans="4506~4514" text="Pointing" />
-<DIRECTION action="yes" description="none" id="D1184" span_end_char="172" span_end_line="52846" span_start_char="129" span_start_line="52846" spans="4534~4577" text="He vomits again - this time into the bucket" />
-<DIRECTION action="no" description="addressee" id="D1185" span_end_char="208" span_end_line="52846" span_start_char="200" span_start_line="52846" spans="4605~4613" text="To Jerry" />
-<DIRECTION action="no" description="manner" id="D1186" span_end_char="19" span_end_line="52848" span_start_char="13" span_start_line="52848" spans="4715~4721" text="Scared" />
-<DIRECTION action="yes" description="none" id="D1187" span_end_char="202" span_end_line="52816" span_start_char="163" span_start_line="52816" spans="1564~1603" text="(Runs to the bathroom to wash her hands" />
-<DIRECTION action="yes" description="none" id="D1188" span_end_char="113" span_end_line="52831" span_start_char="100" span_start_line="52831" spans="3320~3333" text="Goes to leave" />
-<DIALOGUE id="DI1276716" span_end_char="42" span_end_line="52801" span_start_char="25" span_start_line="52801" spans="126~143" text="Uncle Leo. Hello!" />
-<DIALOGUE id="DI12767" span_end_char="24" span_end_line="52802" span_start_char="19" span_start_line="52802" spans="179~184" text="Jerry" />
-<DIALOGUE id="DI12768" span_end_char="87" span_end_line="52803" span_start_char="33" span_start_line="52803" spans="235~289" text="Uncle Leo, I'm sorry. I didn't know about your.. past." />
-<DIALOGUE id="DI12769" span_end_char="50" span_end_line="52804" span_start_char="21" span_start_line="52804" spans="328~357" text="You mean my crime of passion?" />
-<DIALOGUE id="DI1270" span_end_char="66" span_end_line="52805" span_start_char="42" span_start_line="52805" spans="455~479" text="Uncle Leo, wait! Hello?!" />
-<DIALOGUE id="DI1271" span_end_char="116" span_end_line="52806" span_start_char="76" span_start_line="52806" spans="573~613" text="Now, what is the problem with this book?" />
-<DIALOGUE id="DI1272" span_end_char="129" span_end_line="52810" span_start_char="97" span_start_line="52810" spans="922~954" text="What is that doing on the table?" />
-<DIALOGUE id="DI1273" span_end_char="102" span_end_line="52811" span_start_char="83" span_start_line="52811" spans="1054~1073" text="Jerry, simmer down." />
-<DIALOGUE id="DI1274" span_end_char="76" span_end_line="52812" span_start_char="23" span_start_line="52812" spans="1114~1167" text="I'm not eating anything in the vicinity of that book." />
-<DIALOGUE id="DI1275" span_end_char="53" span_end_line="52813" span_start_char="24" span_start_line="52813" spans="1208~1237" text="What is wrong with this book?" />
-<DIALOGUE id="DI127671" span_end_char="118" span_end_line="52817" span_start_char="74" span_start_line="52817" spans="1696~1740" text="May I ask, what do you read in the bathroom?" />
-<DIALOGUE id="DI127672" span_end_char="103" span_end_line="52822" span_start_char="37" span_start_line="52822" spans="2046~2112" text="Oh yes. I know all about his little performance in the break room." />
-<DIALOGUE id="DI127673" span_end_char="36" span_end_line="52824" span_start_char="24" span_start_line="52824" spans="2268~2280" text="Love newton?" />
-<DIALOGUE id="DI127674" span_end_char="73" span_end_line="52826" span_start_char="38" span_start_line="52826" spans="2496~2531" text="Well, it just keeps getting better!" />
-<DIALOGUE id="DI127675" span_end_char="142" span_end_line="52829" span_start_char="114" span_start_line="52829" spans="3102~3130" text="And you will be at his side." />
-<DIALOGUE id="DI127676" span_end_char="50" span_end_line="52831" span_start_char="34" span_start_line="52831" spans="3254~3270" text="No buts, Elaine." />
-<DIALOGUE id="DI127678" span_end_char="167" span_end_line="52831" span_start_char="115" span_start_line="52831" spans="3335~3387" text="Uh, P.S., the first twenty-four hours are the worst." />
-<DIALOGUE id="DI127679" span_end_char="217" span_end_line="52836" span_start_char="194" span_start_line="52836" spans="3850~3873" text="Answer that damn phone!" />
-<DIALOGUE id="DI127680" span_end_char="62" span_end_line="52840" span_start_char="26" span_start_line="52840" spans="4036~4072" text="Oh, that's nice. What are you up to?" />
-<DIALOGUE id="DI127681" span_end_char="64" span_end_line="52843" span_start_char="41" span_start_line="52843" spans="4258~4281" text="I'm burning up! Elaine!" />
-<DIALOGUE id="DI127682" span_end_char="94" span_end_line="52846" span_start_char="58" span_start_line="52846" spans="4463~4499" text="I told you, away from the curtains. " />
-<DIALOGUE id="DI127683" span_end_char="127" span_end_line="52846" span_start_char="111" span_start_line="52846" spans="4516~4532" text="Use your bucket." />
-<DIALOGUE id="DI127684" span_end_char="198" span_end_line="52846" span_start_char="174" span_start_line="52846" spans="4579~4603" text="There you go, that's it." />
-<DIALOGUE id="DI127685" span_end_char="236" span_end_line="52846" span_start_char="210" span_start_line="52846" spans="4615~4641" text="You know what? I gotta go." />
-<DIALOGUE id="DI127686" span_end_char="32" span_end_line="52848" span_start_char="21" span_start_line="52848" spans="4723~4734" text="Ah! Kramer!" />
-<DIALOGUE id="DI127687" span_end_char="162" span_end_line="52816" span_start_char="96" span_start_line="52816" spans="1497~1563" text="Alright! Everyone clear! Bio-hazard coming through! Clear! Clear!!" />
-<RELATION fromID="D11716" fromText="Getting up" id="R1287716" relationship="occurs-while" toID="DI1276716" toText="Uncle Leo. Hello!" />
-<RELATION fromID="D117" fromText="Bitter" id="R12877" relationship="occurs-while" toID="DI12767" toText="Jerry" />
-<RELATION fromID="D118" fromText="Trying to explain" id="R12878" relationship="occurs-while" toID="DI12768" toText="Uncle Leo, I'm sorry. I didn't know about your.. past." />
-<RELATION fromID="D119" fromText="Exiting" id="R12879" relationship="occurs-while" toID="DI12769" toText="You mean my crime of passion?" />
-<RELATION fromID="D1270" fromText="Following Leo out the door" id="R1280" relationship="occurs-while" toID="DI1270" toText="Uncle Leo, wait! Hello?!" />
-<RELATION fromID="D1271" fromText="Looking up at George" id="R1281" relationship="occurs-while" toID="DI1271" toText="Now, what is the problem with this book?" />
-<RELATION fromID="D1272" fromText="He stops in his tracks when he sees Elaine looking at George's book" id="R1282" relationship="occurs-while" toID="DI1272" toText="What is that doing on the table?" />
-<RELATION fromID="D1273" fromText="Wanting Elaine to take it off his hands, he tries to silence Jerry" id="R1283" relationship="occurs-while" toID="DI1273" toText="Jerry, simmer down." />
-<RELATION fromID="D1274" fromText="Pointing" id="R1284" relationship="occurs-while" toID="DI1274" toText="I'm not eating anything in the vicinity of that book." />
-<RELATION fromID="D1275" fromText="Confused" id="R1285" relationship="occurs-while" toID="DI1275" toText="What is wrong with this book?" />
-<RELATION fromID="D1170" fromText="Cutting Jerry off, she stands up, trying to get away from the book. Yelling out" id="R128770" relationship="occurs-while" toID="DI127687" toText="Alright! Everyone clear! Bio-hazard coming through! Clear! Clear!!" />
-<RELATION fromID="D1187" fromText="(Runs to the bathroom to wash her hands" id="R128771" relationship="next-dialogue" toID="DI127687" toText="Alright! Everyone clear! Bio-hazard coming through! Clear! Clear!!" />
-<RELATION fromID="D1172" fromText="The damage has been done. He is slightly angered at Jerry" id="R128772" relationship="occurs-while" toID="DI127671" toText="May I ask, what do you read in the bathroom?" />
-<RELATION fromID="D1173" fromText="Faking a broken heart" id="R128773" relationship="occurs-while" toID="DI127672" toText="Oh yes. I know all about his little performance in the break room." />
-<RELATION fromID="D1174" fromText="Confused" id="R128774" relationship="occurs-while" toID="DI127673" toText="Love newton?" />
-<RELATION fromID="D1175" fromText="Sacrcastic" id="R128775" relationship="occurs-while" toID="DI127674" toText="Well, it just keeps getting better!" />
-<RELATION fromID="D1176" fromText="Ordering" id="R128776" relationship="occurs-while" toID="DI127675" toText="And you will be at his side." />
-<RELATION fromID="D1177" fromText="Cutting her off" id="R128777" relationship="next-dialogue" toID="DI127676" toText="No buts, Elaine." />
-<RELATION fromID="D1188" fromText="Goes to leave" id="R128778" relationship="occurs-while" toID="DI127678" toText="Uh, P.S., the first twenty-four hours are the worst." />
-<RELATION fromID="D1178" fromText="Turns to the right, yelling out" id="R128779" relationship="occurs-while" toID="DI127679" toText="Answer that damn phone!" />
-<RELATION fromID="D1179" fromText="Sarcastic" id="R128780" relationship="occurs-while" toID="DI127680" toText="Oh, that's nice. What are you up to?" />
-<RELATION fromID="D1180" fromText="Yelling out from off-camera" id="R128781" relationship="occurs-while" toID="DI127681" toText="I'm burning up! Elaine!" />
-<RELATION fromID="D1185" fromText="To Jerry" id="R128782" relationship="occurs-while" toID="DI127685" toText="You know what? I gotta go." />
-<RELATION fromID="D1184" fromText="He vomits again - this time into the bucket" id="R128783" relationship="occurs-while" toID="DI127684" toText="There you go, that's it." />
-<RELATION fromID="D1183" fromText="Pointing" id="R128784" relationship="occurs-while" toID="DI127683" toText="Use your bucket." />
-<RELATION fromID="D1181" fromText="Zach vomits. Elaine yells out to him" id="R128785" relationship="occurs-while" toID="DI127682" toText="I told you, away from the curtains. " />
-<RELATION fromID="D1186" fromText="Scared" id="R128786" relationship="occurs-while" toID="DI127686" toText="Ah! Kramer!" />
-<DIRECTION action="no" description="none" id="D14443" span_end_char="27" span_end_line="53350" span_start_char="14" span_start_line="53350" spans="56~69" text="from bathroom" />
+<DIRECTION action="yes" description="none" id="D120" span_end_char="40" span_end_line="52805" span_start_char="14" span_start_line="52805" spans="427~453" text="Following Leo out the door" />
+<DIRECTION action="yes" description="addressee" id="D121" span_end_char="74" span_end_line="52806" span_start_char="54" span_start_line="52806" spans="551~571" text="Looking up at George" />
+<DIRECTION action="no" description="none" id="D122" span_end_char="95" span_end_line="52810" span_start_char="28" span_start_line="52810" spans="853~920" text="He stops in his tracks when he sees Elaine looking at George's book" />
+<DIRECTION action="no" description="none" id="D123" span_end_char="81" span_end_line="52811" span_start_char="15" span_start_line="52811" spans="986~1052" text="Wanting Elaine to take it off his hands, he tries to silence Jerry" />
+<DIRECTION action="yes" description="reference" id="D124" span_end_char="21" span_end_line="52812" span_start_char="13" span_start_line="52812" spans="1104~1112" text="Pointing" />
+<DIRECTION action="no" description="manner" id="D125" span_end_char="22" span_end_line="52813" span_start_char="14" span_start_line="52813" spans="1198~1206" text="Confused" />
+<DIRECTION action="yes" description="none" id="D126" span_end_char="94" span_end_line="52816" span_start_char="15" span_start_line="52816" spans="1416~1495" text="Cutting Jerry off, she stands up, trying to get away from the book. Yelling out" />
+<DIRECTION action="no" description="none" id="D127" span_end_char="72" span_end_line="52817" span_start_char="15" span_start_line="52817" spans="1637~1694" text="The damage has been done. He is slightly angered at Jerry" />
+<DIRECTION action="no" description="manner" id="D128" span_end_char="35" span_end_line="52822" span_start_char="14" span_start_line="52822" spans="2023~2044" text="Faking a broken heart" />
+<DIRECTION action="no" description="manner" id="D129" span_end_char="22" span_end_line="52824" span_start_char="14" span_start_line="52824" spans="2258~2266" text="Confused" />
+<DIRECTION action="no" description="manner" id="D130" span_end_char="36" span_end_line="52826" span_start_char="26" span_start_line="52826" spans="2484~2494" text="Sacrcastic" />
+<DIRECTION action="no" description="manner" id="D131" span_end_char="112" span_end_line="52829" span_start_char="104" span_start_line="52829" spans="3092~3100" text="Ordering" />
+<DIRECTION action="no" description="none" id="D132" span_end_char="32" span_end_line="52831" span_start_char="17" span_start_line="52831" spans="3237~3252" text="Cutting her off" />
+<DIRECTION action="yes" description="none" id="D133" span_end_char="192" span_end_line="52836" span_start_char="161" span_start_line="52836" spans="3817~3848" text="Turns to the right, yelling out" />
+<DIRECTION action="no" description="manner" id="D134" span_end_char="24" span_end_line="52840" span_start_char="15" span_start_line="52840" spans="4025~4034" text="Sarcastic" />
+<DIRECTION action="yes" description="none" id="D135" span_end_char="39" span_end_line="52843" span_start_char="12" span_start_line="52843" spans="4229~4256" text="Yelling out from off-camera" />
+<DIRECTION action="yes" description="none" id="D136" span_end_char="56" span_end_line="52846" span_start_char="20" span_start_line="52846" spans="4425~4461" text="Zach vomits. Elaine yells out to him" />
+<DIRECTION action="yes" description="reference" id="D137" span_end_char="109" span_end_line="52846" span_start_char="101" span_start_line="52846" spans="4506~4514" text="Pointing" />
+<DIRECTION action="yes" description="none" id="D138" span_end_char="172" span_end_line="52846" span_start_char="129" span_start_line="52846" spans="4534~4577" text="He vomits again - this time into the bucket" />
+<DIRECTION action="no" description="addressee" id="D139" span_end_char="208" span_end_line="52846" span_start_char="200" span_start_line="52846" spans="4605~4613" text="To Jerry" />
+<DIRECTION action="no" description="manner" id="D140" span_end_char="19" span_end_line="52848" span_start_char="13" span_start_line="52848" spans="4715~4721" text="Scared" />
+<DIRECTION action="yes" description="none" id="D141" span_end_char="202" span_end_line="52816" span_start_char="163" span_start_line="52816" spans="1564~1603" text="(Runs to the bathroom to wash her hands" />
+<DIRECTION action="yes" description="none" id="D142" span_end_char="113" span_end_line="52831" span_start_char="100" span_start_line="52831" spans="3320~3333" text="Goes to leave" />
+<DIALOGUE id="DI116" span_end_char="42" span_end_line="52801" span_start_char="25" span_start_line="52801" spans="126~143" text="Uncle Leo. Hello!" />
+<DIALOGUE id="DI117" span_end_char="24" span_end_line="52802" span_start_char="19" span_start_line="52802" spans="179~184" text="Jerry" />
+<DIALOGUE id="DI118" span_end_char="87" span_end_line="52803" span_start_char="33" span_start_line="52803" spans="235~289" text="Uncle Leo, I'm sorry. I didn't know about your.. past." />
+<DIALOGUE id="DI119" span_end_char="50" span_end_line="52804" span_start_char="21" span_start_line="52804" spans="328~357" text="You mean my crime of passion?" />
+<DIALOGUE id="DI120" span_end_char="66" span_end_line="52805" span_start_char="42" span_start_line="52805" spans="455~479" text="Uncle Leo, wait! Hello?!" />
+<DIALOGUE id="DI121" span_end_char="116" span_end_line="52806" span_start_char="76" span_start_line="52806" spans="573~613" text="Now, what is the problem with this book?" />
+<DIALOGUE id="DI122" span_end_char="129" span_end_line="52810" span_start_char="97" span_start_line="52810" spans="922~954" text="What is that doing on the table?" />
+<DIALOGUE id="DI123" span_end_char="102" span_end_line="52811" span_start_char="83" span_start_line="52811" spans="1054~1073" text="Jerry, simmer down." />
+<DIALOGUE id="DI124" span_end_char="76" span_end_line="52812" span_start_char="23" span_start_line="52812" spans="1114~1167" text="I'm not eating anything in the vicinity of that book." />
+<DIALOGUE id="DI125" span_end_char="53" span_end_line="52813" span_start_char="24" span_start_line="52813" spans="1208~1237" text="What is wrong with this book?" />
+<DIALOGUE id="DI126" span_end_char="118" span_end_line="52817" span_start_char="74" span_start_line="52817" spans="1696~1740" text="May I ask, what do you read in the bathroom?" />
+<DIALOGUE id="DI127" span_end_char="103" span_end_line="52822" span_start_char="37" span_start_line="52822" spans="2046~2112" text="Oh yes. I know all about his little performance in the break room." />
+<DIALOGUE id="DI128" span_end_char="36" span_end_line="52824" span_start_char="24" span_start_line="52824" spans="2268~2280" text="Love newton?" />
+<DIALOGUE id="DI129" span_end_char="73" span_end_line="52826" span_start_char="38" span_start_line="52826" spans="2496~2531" text="Well, it just keeps getting better!" />
+<DIALOGUE id="DI130" span_end_char="142" span_end_line="52829" span_start_char="114" span_start_line="52829" spans="3102~3130" text="And you will be at his side." />
+<DIALOGUE id="DI131" span_end_char="50" span_end_line="52831" span_start_char="34" span_start_line="52831" spans="3254~3270" text="No buts, Elaine." />
+<DIALOGUE id="DI132" span_end_char="167" span_end_line="52831" span_start_char="115" span_start_line="52831" spans="3335~3387" text="Uh, P.S., the first twenty-four hours are the worst." />
+<DIALOGUE id="DI133" span_end_char="217" span_end_line="52836" span_start_char="194" span_start_line="52836" spans="3850~3873" text="Answer that damn phone!" />
+<DIALOGUE id="DI134" span_end_char="62" span_end_line="52840" span_start_char="26" span_start_line="52840" spans="4036~4072" text="Oh, that's nice. What are you up to?" />
+<DIALOGUE id="DI135" span_end_char="64" span_end_line="52843" span_start_char="41" span_start_line="52843" spans="4258~4281" text="I'm burning up! Elaine!" />
+<DIALOGUE id="DI136" span_end_char="94" span_end_line="52846" span_start_char="58" span_start_line="52846" spans="4463~4499" text="I told you, away from the curtains. " />
+<DIALOGUE id="DI137" span_end_char="127" span_end_line="52846" span_start_char="111" span_start_line="52846" spans="4516~4532" text="Use your bucket." />
+<DIALOGUE id="DI138" span_end_char="198" span_end_line="52846" span_start_char="174" span_start_line="52846" spans="4579~4603" text="There you go, that's it." />
+<DIALOGUE id="DI139" span_end_char="236" span_end_line="52846" span_start_char="210" span_start_line="52846" spans="4615~4641" text="You know what? I gotta go." />
+<DIALOGUE id="DI140" span_end_char="32" span_end_line="52848" span_start_char="21" span_start_line="52848" spans="4723~4734" text="Ah! Kramer!" />
+<DIALOGUE id="DI141" span_end_char="162" span_end_line="52816" span_start_char="96" span_start_line="52816" spans="1497~1563" text="Alright! Everyone clear! Bio-hazard coming through! Clear! Clear!!" />
+<RELATION fromID="D116" fromText="Getting up" id="R116" relationship="occurs-while" toID="DI116" toText="Uncle Leo. Hello!" />
+<RELATION fromID="D117" fromText="Bitter" id="R117" relationship="occurs-while" toID="DI117" toText="Jerry" />
+<RELATION fromID="D118" fromText="Trying to explain" id="R118" relationship="occurs-while" toID="DI118" toText="Uncle Leo, I'm sorry. I didn't know about your.. past." />
+<RELATION fromID="D119" fromText="Exiting" id="R119" relationship="occurs-while" toID="DI119" toText="You mean my crime of passion?" />
+<RELATION fromID="D120" fromText="Following Leo out the door" id="R120" relationship="occurs-while" toID="DI120" toText="Uncle Leo, wait! Hello?!" />
+<RELATION fromID="D121" fromText="Looking up at George" id="R121" relationship="occurs-while" toID="DI121" toText="Now, what is the problem with this book?" />
+<RELATION fromID="D122" fromText="He stops in his tracks when he sees Elaine looking at George's book" id="R122" relationship="occurs-while" toID="DI122" toText="What is that doing on the table?" />
+<RELATION fromID="D123" fromText="Wanting Elaine to take it off his hands, he tries to silence Jerry" id="R123" relationship="occurs-while" toID="DI123" toText="Jerry, simmer down." />
+<RELATION fromID="D124" fromText="Pointing" id="R124" relationship="occurs-while" toID="DI124" toText="I'm not eating anything in the vicinity of that book." />
+<RELATION fromID="D125" fromText="Confused" id="R125" relationship="occurs-while" toID="DI125" toText="What is wrong with this book?" />
+<RELATION fromID="D126" fromText="Cutting Jerry off, she stands up, trying to get away from the book. Yelling out" id="R126" relationship="occurs-while" toID="DI141" toText="Alright! Everyone clear! Bio-hazard coming through! Clear! Clear!!" />
+<RELATION fromID="D141" fromText="(Runs to the bathroom to wash her hands" id="R127" relationship="next-dialogue" toID="DI141" toText="Alright! Everyone clear! Bio-hazard coming through! Clear! Clear!!" />
+<RELATION fromID="D127" fromText="The damage has been done. He is slightly angered at Jerry" id="R128" relationship="occurs-while" toID="DI126" toText="May I ask, what do you read in the bathroom?" />
+<RELATION fromID="D128" fromText="Faking a broken heart" id="R129" relationship="occurs-while" toID="DI127" toText="Oh yes. I know all about his little performance in the break room." />
+<RELATION fromID="D129" fromText="Confused" id="R130" relationship="occurs-while" toID="DI128" toText="Love newton?" />
+<RELATION fromID="D130" fromText="Sacrcastic" id="R131" relationship="occurs-while" toID="DI129" toText="Well, it just keeps getting better!" />
+<RELATION fromID="D131" fromText="Ordering" id="R132" relationship="occurs-while" toID="DI130" toText="And you will be at his side." />
+<RELATION fromID="D132" fromText="Cutting her off" id="R133" relationship="next-dialogue" toID="DI131" toText="No buts, Elaine." />
+<RELATION fromID="D142" fromText="Goes to leave" id="R134" relationship="occurs-while" toID="DI132" toText="Uh, P.S., the first twenty-four hours are the worst." />
+<RELATION fromID="D133" fromText="Turns to the right, yelling out" id="R135" relationship="occurs-while" toID="DI133" toText="Answer that damn phone!" />
+<RELATION fromID="D134" fromText="Sarcastic" id="R136" relationship="occurs-while" toID="DI134" toText="Oh, that's nice. What are you up to?" />
+<RELATION fromID="D135" fromText="Yelling out from off-camera" id="R137" relationship="occurs-while" toID="DI135" toText="I'm burning up! Elaine!" />
+<RELATION fromID="D139" fromText="To Jerry" id="R138" relationship="occurs-while" toID="DI139" toText="You know what? I gotta go." />
+<RELATION fromID="D138" fromText="He vomits again - this time into the bucket" id="R139" relationship="occurs-while" toID="DI138" toText="There you go, that's it." />
+<RELATION fromID="D137" fromText="Pointing" id="R140" relationship="occurs-while" toID="DI137" toText="Use your bucket." />
+<RELATION fromID="D136" fromText="Zach vomits. Elaine yells out to him" id="R141" relationship="occurs-while" toID="DI136" toText="I told you, away from the curtains. " />
+<RELATION fromID="D140" fromText="Scared" id="R142" relationship="occurs-while" toID="DI140" toText="Ah! Kramer!" />
+<DIRECTION action="no" description="none" id="D143" span_end_char="27" span_end_line="53350" span_start_char="14" span_start_line="53350" spans="56~69" text="from bathroom" />
 <DIRECTION action="no" description="none" id="D144" span_end_char="26" span_end_line="53358" span_start_char="14" span_start_line="53358" spans="649~661" text="from hallway" />
 <DIRECTION action="yes" description="none" id="D145" span_end_char="23" span_end_line="53379" span_start_char="14" span_start_line="53379" spans="2191~2200" text="sniffling" />
 <DIRECTION action="yes" description="none" id="D146" span_end_char="19" span_end_line="53383" span_start_char="11" span_start_line="53383" spans="2518~2526" text="chanting" />
-<DIALOGUE id="DI14342" span_end_char="51" span_end_line="53350" span_start_char="30" span_start_line="53350" spans="72~93" text="Hey, is that T-bone?!" />
+<DIALOGUE id="DI142" span_end_char="51" span_end_line="53350" span_start_char="30" span_start_line="53350" spans="72~93" text="Hey, is that T-bone?!" />
 <DIALOGUE id="DI143" span_end_char="56" span_end_line="53358" span_start_char="28" span_start_line="53358" spans="663~691" text="He's sleeping with his maid!" />
 <DIALOGUE id="DI144" span_end_char="40" span_end_line="53379" span_start_char="25" span_start_line="53379" spans="2202~2217" text="I'm not crying." />
 <DIALOGUE id="DI145" span_end_char="80" span_end_line="53383" span_start_char="21" span_start_line="53383" spans="2528~2587" text="Koko! Koko! Koko! Koko! Koko! Koko! Koko! Koko! Koko! Koko!" />
 <RELATION fromID="D146" fromText="chanting" id="R143" relationship="occurs-while" toID="DI145" toText="Koko! Koko! Koko! Koko! Koko! Koko! Koko! Koko! Koko! Koko!" />
 <RELATION fromID="D145" fromText="sniffling" id="R144" relationship="next-dialogue" toID="DI144" toText="I'm not crying." />
 <RELATION fromID="D144" fromText="from hallway" id="R145" relationship="occurs-while" toID="DI143" toText="He's sleeping with his maid!" />
-<RELATION fromID="D14443" fromText="from bathroom" id="R146" relationship="occurs-while" toID="DI14342" toText="Hey, is that T-bone?!" />
-<DIRECTION action="yes" description="reference" id="D14847" span_end_char="34" span_end_line="53010" span_start_char="19" span_start_line="53010" spans="572~587" text="points at booth" />
+<RELATION fromID="D143" fromText="from bathroom" id="R146" relationship="occurs-while" toID="DI142" toText="Hey, is that T-bone?!" />
+<DIRECTION action="yes" description="reference" id="D147" span_end_char="34" span_end_line="53010" span_start_char="19" span_start_line="53010" spans="572~587" text="points at booth" />
 <DIRECTION action="yes" description="none" id="D148" span_end_char="23" span_end_line="53047" span_start_char="16" span_start_line="53047" spans="3685~3692" text="singing" />
-<DIALOGUE id="DI14746" span_end_char="55" span_end_line="53010" span_start_char="36" span_start_line="53010" spans="589~608" text="How about this one?" />
+<DIALOGUE id="DI146" span_end_char="55" span_end_line="53010" span_start_char="36" span_start_line="53010" spans="589~608" text="How about this one?" />
 <DIALOGUE id="DI147" span_end_char="74" span_end_line="53047" span_start_char="26" span_start_line="53047" spans="3695~3743" text="Get well, get well soon we wish you to get well." />
-<RELATION fromID="D14847" fromText="points at booth" id="R14847" relationship="occurs-while" toID="DI14746" toText="How about this one?" />
+<RELATION fromID="D147" fromText="points at booth" id="R147" relationship="occurs-while" toID="DI146" toText="How about this one?" />
 <RELATION fromID="D148" fromText="singing" id="R148" relationship="occurs-while" toID="DI147" toText="Get well, get well soon we wish you to get well." />
-<DIRECTION action="yes" description="none" id="D15049" span_end_char="270" span_end_line="53542" span_start_char="265" span_start_line="53542" spans="3523~3528" text="sighs" />
+<DIRECTION action="yes" description="none" id="D149" span_end_char="270" span_end_line="53542" span_start_char="265" span_start_line="53542" spans="3523~3528" text="sighs" />
 <DIRECTION action="yes" description="none" id="D150" span_end_char="304" span_end_line="53542" span_start_char="296" span_start_line="53542" spans="3554~3562" text="coughing" />
-<DIALOGUE id="DI14948" span_end_char="294" span_end_line="53542" span_start_char="272" span_start_line="53542" spans="3530~3552" text="All right, here we go." />
+<DIALOGUE id="DI148" span_end_char="294" span_end_line="53542" span_start_char="272" span_start_line="53542" spans="3530~3552" text="All right, here we go." />
 <DIALOGUE id="DI149" span_end_char="333" span_end_line="53542" span_start_char="306" span_start_line="53542" spans="3564~3591" text="Gammy doesn't feel so good." />
-<RELATION fromID="D150" fromText="coughing" id="R15049" relationship="next-dialogue" toID="DI149" toText="Gammy doesn't feel so good." />
-<RELATION fromID="D15049" fromText="sighs" id="R150" relationship="next-dialogue" toID="DI14948" toText="All right, here we go." />
-<DIRECTION action="no" description="none" id="D15251" span_end_char="22" span_end_line="52985" span_start_char="14" span_start_line="52985" spans="2818~2826" text="thinking" />
+<RELATION fromID="D150" fromText="coughing" id="R149" relationship="next-dialogue" toID="DI149" toText="Gammy doesn't feel so good." />
+<RELATION fromID="D149" fromText="sighs" id="R150" relationship="next-dialogue" toID="DI148" toText="All right, here we go." />
+<DIRECTION action="no" description="none" id="D151" span_end_char="22" span_end_line="52985" span_start_char="14" span_start_line="52985" spans="2818~2826" text="thinking" />
 <DIRECTION action="yes" description="none" id="D152" span_end_char="22" span_end_line="52989" span_start_char="15" span_start_line="52989" spans="3167~3174" text="singing" />
 <DIRECTION action="yes" description="none" id="D153" span_end_char="21" span_end_line="52993" span_start_char="14" span_start_line="52993" spans="3697~3704" text="singing" />
-<DIALOGUE id="DI15150" span_end_char="124" span_end_line="52985" span_start_char="24" span_start_line="52985" spans="2828~2928" text="This pen smells really bad. So why do I keep smelling it? Is it too late for me to go to law school?" />
+<DIALOGUE id="DI150" span_end_char="124" span_end_line="52985" span_start_char="24" span_start_line="52985" spans="2828~2928" text="This pen smells really bad. So why do I keep smelling it? Is it too late for me to go to law school?" />
 <DIALOGUE id="DI151" span_end_char="69" span_end_line="52989" span_start_char="25" span_start_line="52989" spans="3177~3221" text="Get well get well soon, we wish you to get--" />
 <DIALOGUE id="DI152" span_end_char="49" span_end_line="52993" span_start_char="24" span_start_line="52993" spans="3707~3732" text="Get well, get well soon--" />
-<RELATION fromID="D153" fromText="singing" id="R15251" relationship="occurs-while" toID="DI152" toText="Get well, get well soon--" />
+<RELATION fromID="D153" fromText="singing" id="R151" relationship="occurs-while" toID="DI152" toText="Get well, get well soon--" />
 <RELATION fromID="D152" fromText="singing" id="R152" relationship="occurs-while" toID="DI151" toText="Get well get well soon, we wish you to get--" />
-<RELATION fromID="D15251" fromText="thinking" id="R153" relationship="occurs-while" toID="DI15150" toText="This pen smells really bad. So why do I keep smelling it? Is it too late for me to go to law school?" />
-<DIRECTION action="yes" description="none" id="D17109554" span_end_char="54" span_end_line="52751" span_start_char="16" span_start_line="52751" spans="129~167" text="Puts the book's code into the computer" />
-<DIRECTION action="no" description="none" id="D171095" span_end_char="22" span_end_line="52754" span_start_char="14" span_start_line="52754" spans="328~336" text="Confused" />
-<DIRECTION action="no" description="manner" id="D171096" span_end_char="23" span_end_line="52758" span_start_char="15" span_start_line="52758" spans="584~592" text="Outraged" />
-<DIRECTION action="yes" description="none" id="D171097" span_end_char="32" span_end_line="52758" span_start_char="25" span_start_line="52758" spans="594~601" text="Leaving" />
-<DIRECTION action="no" description="addressee" id="D171098" span_end_char="24" span_end_line="52759" span_start_char="14" span_start_line="52759" spans="697~707" text="To himself" />
-<DIRECTION action="yes" description="none" id="D171099" span_end_char="79" span_end_line="52759" span_start_char="49" span_start_line="52759" spans="732~762" text="Walks over to a security guard" />
-<DIRECTION action="yes" description="reference" id="D17100" span_end_char="22" span_end_line="52761" span_start_char="14" span_start_line="52761" spans="953~961" text="Pointing" />
-<DIRECTION action="no" description="reference" id="D17101" span_end_char="35" span_end_line="52762" span_start_char="13" span_start_line="52762" spans="1104~1126" text="Into his walkie-talkie" />
-<DIRECTION action="yes" description="none" id="D17102" span_end_char="125" span_end_line="52764" span_start_char="93" span_start_line="52764" spans="1361~1393" text="The Guard rushes tward Uncle Leo" />
-<DIRECTION action="no" description="addressee" id="D17103" span_end_char="21" span_end_line="52767" span_start_char="13" span_start_line="52767" spans="1551~1559" text="To Guard" />
-<DIRECTION action="no" description="none" id="D1710950" span_end_char="69" span_end_line="52769" span_start_char="13" span_start_line="52769" spans="1677~1733" text="Unsure of what to say - he remember's Leo's courtesy tip" />
-<DIRECTION action="yes" description="none" id="D1710951" span_end_char="21" span_end_line="52774" span_start_char="13" span_start_line="52774" spans="2032~2040" text="Scoffing" />
-<DIRECTION action="no" description="none" id="D1710952" span_end_char="30" span_end_line="52776" span_start_char="13" span_start_line="52776" spans="2152~2169" text="Not believeing it" />
-<DIRECTION action="no" description="manner" id="D1710953" span_end_char="21" span_end_line="52779" span_start_char="13" span_start_line="52779" spans="2380~2388" text="Confused" />
-<DIRECTION action="no" description="none" id="D1710954" span_end_char="35" span_end_line="52781" span_start_char="13" span_start_line="52781" spans="2495~2517" text="Shocked at his parents" />
-<DIRECTION action="yes" description="none" id="D1710955" span_end_char="46" span_end_line="52782" span_start_char="34" span_start_line="52782" spans="2591~2603" text="Jerry scoffs" />
-<DIRECTION action="yes" description="none" id="D1710956" span_end_char="61" span_end_line="52786" span_start_char="15" span_start_line="52786" spans="2860~2906" text="While washing his hands in Jerry's kithen sink" />
-<DIRECTION action="yes" description="none" id="D1710957" span_end_char="144" span_end_line="52786" span_start_char="131" span_start_line="52786" spans="2976~2989" text="Makes a noise" />
-<DIRECTION action="no" description="manner" id="D1710958" span_end_char="27" span_end_line="52787" span_start_char="14" span_start_line="52787" spans="3034~3047" text="Joking around" />
-<DIRECTION action="no" description="addressee" id="D1710959" span_end_char="24" span_end_line="52788" span_start_char="15" span_start_line="52788" spans="3189~3198" text="To Newman" />
-<DIRECTION action="yes" description="none" id="D1710960" span_end_char="23" span_end_line="52794" span_start_char="13" span_start_line="52794" spans="3862~3872" text="Butting in" />
-<DIRECTION action="no" description="none" id="D1710961" span_end_char="23" span_end_line="52795" span_start_char="14" span_start_line="52795" spans="3917~3926" text="Accepting" />
-<DIRECTION action="yes" description="addressee" id="D1710962" span_end_char="28" span_end_line="52799" span_start_char="13" span_start_line="52799" spans="4244~4259" text="Stern on George" />
-<DIALOGUE id="DI1698453" span_end_char="96" span_end_line="52751" span_start_char="56" span_start_line="52751" spans="169~209" text="I'm sorry, we can't take this book back." />
-<DIALOGUE id="DI16984" span_end_char="32" span_end_line="52754" span_start_char="24" span_start_line="52754" spans="338~346" text="Flagged?" />
-<DIALOGUE id="DI16985" span_end_char="96" span_end_line="52758" span_start_char="34" span_start_line="52758" spans="603~665" text="Well, you just lost a lot of business! Because I love to read!" />
-<DIALOGUE id="DI16986" span_end_char="47" span_end_line="52759" span_start_char="26" span_start_line="52759" spans="709~730" text="I don't believe this!" />
-<DIALOGUE id="DI16987" span_end_char="128" span_end_line="52759" span_start_char="81" span_start_line="52759" spans="764~811" text="Excuse me, I wonder if you could do me a favor?" />
-<DIALOGUE id="DI16988" span_end_char="56" span_end_line="52761" span_start_char="24" span_start_line="52761" spans="963~995" text="He's over there in the overcoat." />
-<DIALOGUE id="DI16989" span_end_char="67" span_end_line="52762" span_start_char="37" span_start_line="52762" spans="1128~1158" text="We have a 51-50 in paperbacks." />
-<DIALOGUE id="DI1690" span_end_char="140" span_end_line="52764" span_start_char="127" span_start_line="52764" spans="1395~1408" text="Swarm! Swarm!" />
-<DIALOGUE id="DI1691" span_end_char="54" span_end_line="52767" span_start_char="23" span_start_line="52767" spans="1561~1592" text="I just wanted you to scare him." />
-<DIALOGUE id="DI1692" span_end_char="77" span_end_line="52769" span_start_char="71" span_start_line="52769" spans="1735~1741" text="Hello?" />
-<DIALOGUE id="DI169840" span_end_char="30" span_end_line="52774" span_start_char="23" span_start_line="52774" spans="2042~2049" text="Prison." />
-<DIALOGUE id="DI169841" span_end_char="55" span_end_line="52776" span_start_char="32" span_start_line="52776" spans="2171~2194" text="Prior convictions? Leo?" />
-<DIALOGUE id="DI169842" span_end_char="43" span_end_line="52779" span_start_char="23" span_start_line="52779" spans="2390~2410" text="What does that mean?" />
-<DIALOGUE id="DI169843" span_end_char="58" span_end_line="52781" span_start_char="37" span_start_line="52781" spans="2519~2540" text="You're stealing too?!" />
-<DIALOGUE id="DI169844" span_end_char="77" span_end_line="52782" span_start_char="48" span_start_line="52782" spans="2605~2634" text="Well, they wear out so quick." />
-<DIALOGUE id="DI169845" span_end_char="88" span_end_line="52786" span_start_char="63" span_start_line="52786" spans="2908~2933" text="Well, the rickshaw's gone" />
-<DIALOGUE id="DI169846" span_end_char="156" span_end_line="52786" span_start_char="147" span_start_line="52786" spans="2992~3001" text="he bolted" />
-<DIALOGUE id="DI169847" span_end_char="136" span_end_line="52787" span_start_char="29" span_start_line="52787" spans="3049~3156" text="Well, you know, eighty-five percent of all homeless rickshaw businesses fail within the first three months." />
-<DIALOGUE id="DI169848" span_end_char="77" span_end_line="52788" span_start_char="26" span_start_line="52788" spans="3200~3251" text="See, we should've gotten some collateral from him.." />
-<DIALOGUE id="DI169849" span_end_char="37" span_end_line="52794" span_start_char="25" span_start_line="52794" spans="3874~3886" text="Tina Turner?" />
-<DIALOGUE id="DI169850" span_end_char="33" span_end_line="52795" span_start_char="25" span_start_line="52795" spans="3928~3936" text="Alright." />
-<DIALOGUE id="DI169851" span_end_char="45" span_end_line="52799" span_start_char="30" span_start_line="52799" spans="4261~4276" text="Not underpants." />
-<RELATION fromID="D17109554" fromText="Puts the book's code into the computer" id="R17109554" relationship="occurs-while" toID="DI1698453" toText="I'm sorry, we can't take this book back." />
-<RELATION fromID="D171095" fromText="Confused" id="R171095" relationship="occurs-while" toID="DI16984" toText="Flagged?" />
-<RELATION fromID="D171096" fromText="Outraged" id="R171096" relationship="occurs-while" toID="DI16985" toText="Well, you just lost a lot of business! Because I love to read!" />
-<RELATION fromID="D171097" fromText="Leaving" id="R171097" relationship="occurs-while" toID="DI16985" toText="Well, you just lost a lot of business! Because I love to read!" />
-<RELATION fromID="D171098" fromText="To himself" id="R171098" relationship="occurs-while" toID="DI16986" toText="I don't believe this!" />
-<RELATION fromID="D171099" fromText="Walks over to a security guard" id="R171099" relationship="next-dialogue" toID="DI16987" toText="Excuse me, I wonder if you could do me a favor?" />
-<RELATION fromID="D17100" fromText="Pointing" id="R17100" relationship="occurs-while" toID="DI16988" toText="He's over there in the overcoat." />
-<RELATION fromID="D17101" fromText="Into his walkie-talkie" id="R17101" relationship="occurs-while" toID="DI16989" toText="We have a 51-50 in paperbacks." />
-<RELATION fromID="D17102" fromText="The Guard rushes tward Uncle Leo" id="R17102" relationship="occurs-while" toID="DI1690" toText="Swarm! Swarm!" />
-<RELATION fromID="D17103" fromText="To Guard" id="R17103" relationship="occurs-while" toID="DI1691" toText="I just wanted you to scare him." />
-<RELATION fromID="D1710950" fromText="Unsure of what to say - he remember's Leo's courtesy tip" id="R1710950" relationship="occurs-while" toID="DI1692" toText="Hello?" />
-<RELATION fromID="D1710951" fromText="Scoffing" id="R1710951" relationship="next-dialogue" toID="DI169840" toText="Prison." />
-<RELATION fromID="D1710952" fromText="Not believeing it" id="R1710952" relationship="occurs-while" toID="DI169841" toText="Prior convictions? Leo?" />
-<RELATION fromID="D1710953" fromText="Confused" id="R1710953" relationship="occurs-while" toID="DI169842" toText="What does that mean?" />
-<RELATION fromID="D1710954" fromText="Shocked at his parents" id="R1710954" relationship="occurs-while" toID="DI169843" toText="You're stealing too?!" />
-<RELATION fromID="D1710955" fromText="Jerry scoffs" id="R1710955" relationship="occurs-while" toID="DI169844" toText="Well, they wear out so quick." />
-<RELATION fromID="D1710956" fromText="While washing his hands in Jerry's kithen sink" id="R1710956" relationship="occurs-while" toID="DI169845" toText="Well, the rickshaw's gone" />
-<RELATION fromID="D1710957" fromText="Makes a noise" id="R1710957" relationship="next-dialogue" toID="DI169846" toText="he bolted" />
-<RELATION fromID="D1710958" fromText="Joking around" id="R1710958" relationship="occurs-while" toID="DI169847" toText="Well, you know, eighty-five percent of all homeless rickshaw businesses fail within the first three months." />
-<RELATION fromID="D1710959" fromText="To Newman" id="R1710959" relationship="occurs-while" toID="DI169848" toText="See, we should've gotten some collateral from him.." />
-<RELATION fromID="D1710960" fromText="Butting in" id="R1710960" relationship="occurs-while" toID="DI169849" toText="Tina Turner?" />
-<RELATION fromID="D1710961" fromText="Accepting" id="R1710961" relationship="occurs-while" toID="DI169850" toText="Alright." />
-<RELATION fromID="D1710962" fromText="Stern on George" id="R1710962" relationship="occurs-while" toID="DI169851" toText="Not underpants." />
+<RELATION fromID="D151" fromText="thinking" id="R153" relationship="occurs-while" toID="DI150" toText="This pen smells really bad. So why do I keep smelling it? Is it too late for me to go to law school?" />
+<DIRECTION action="yes" description="none" id="D154" span_end_char="54" span_end_line="52751" span_start_char="16" span_start_line="52751" spans="129~167" text="Puts the book's code into the computer" />
+<DIRECTION action="no" description="none" id="D155" span_end_char="22" span_end_line="52754" span_start_char="14" span_start_line="52754" spans="328~336" text="Confused" />
+<DIRECTION action="no" description="manner" id="D156" span_end_char="23" span_end_line="52758" span_start_char="15" span_start_line="52758" spans="584~592" text="Outraged" />
+<DIRECTION action="yes" description="none" id="D157" span_end_char="32" span_end_line="52758" span_start_char="25" span_start_line="52758" spans="594~601" text="Leaving" />
+<DIRECTION action="no" description="addressee" id="D158" span_end_char="24" span_end_line="52759" span_start_char="14" span_start_line="52759" spans="697~707" text="To himself" />
+<DIRECTION action="yes" description="none" id="D159" span_end_char="79" span_end_line="52759" span_start_char="49" span_start_line="52759" spans="732~762" text="Walks over to a security guard" />
+<DIRECTION action="yes" description="reference" id="D160" span_end_char="22" span_end_line="52761" span_start_char="14" span_start_line="52761" spans="953~961" text="Pointing" />
+<DIRECTION action="no" description="reference" id="D161" span_end_char="35" span_end_line="52762" span_start_char="13" span_start_line="52762" spans="1104~1126" text="Into his walkie-talkie" />
+<DIRECTION action="yes" description="none" id="D162" span_end_char="125" span_end_line="52764" span_start_char="93" span_start_line="52764" spans="1361~1393" text="The Guard rushes tward Uncle Leo" />
+<DIRECTION action="no" description="addressee" id="D163" span_end_char="21" span_end_line="52767" span_start_char="13" span_start_line="52767" spans="1551~1559" text="To Guard" />
+<DIRECTION action="no" description="none" id="D164" span_end_char="69" span_end_line="52769" span_start_char="13" span_start_line="52769" spans="1677~1733" text="Unsure of what to say - he remember's Leo's courtesy tip" />
+<DIRECTION action="yes" description="none" id="D165" span_end_char="21" span_end_line="52774" span_start_char="13" span_start_line="52774" spans="2032~2040" text="Scoffing" />
+<DIRECTION action="no" description="none" id="D166" span_end_char="30" span_end_line="52776" span_start_char="13" span_start_line="52776" spans="2152~2169" text="Not believeing it" />
+<DIRECTION action="no" description="manner" id="D167" span_end_char="21" span_end_line="52779" span_start_char="13" span_start_line="52779" spans="2380~2388" text="Confused" />
+<DIRECTION action="no" description="none" id="D168" span_end_char="35" span_end_line="52781" span_start_char="13" span_start_line="52781" spans="2495~2517" text="Shocked at his parents" />
+<DIRECTION action="yes" description="none" id="D169" span_end_char="46" span_end_line="52782" span_start_char="34" span_start_line="52782" spans="2591~2603" text="Jerry scoffs" />
+<DIRECTION action="yes" description="none" id="D170" span_end_char="61" span_end_line="52786" span_start_char="15" span_start_line="52786" spans="2860~2906" text="While washing his hands in Jerry's kithen sink" />
+<DIRECTION action="yes" description="none" id="D171" span_end_char="144" span_end_line="52786" span_start_char="131" span_start_line="52786" spans="2976~2989" text="Makes a noise" />
+<DIRECTION action="no" description="manner" id="D172" span_end_char="27" span_end_line="52787" span_start_char="14" span_start_line="52787" spans="3034~3047" text="Joking around" />
+<DIRECTION action="no" description="addressee" id="D173" span_end_char="24" span_end_line="52788" span_start_char="15" span_start_line="52788" spans="3189~3198" text="To Newman" />
+<DIRECTION action="yes" description="none" id="D174" span_end_char="23" span_end_line="52794" span_start_char="13" span_start_line="52794" spans="3862~3872" text="Butting in" />
+<DIRECTION action="no" description="none" id="D175" span_end_char="23" span_end_line="52795" span_start_char="14" span_start_line="52795" spans="3917~3926" text="Accepting" />
+<DIRECTION action="yes" description="addressee" id="D176" span_end_char="28" span_end_line="52799" span_start_char="13" span_start_line="52799" spans="4244~4259" text="Stern on George" />
+<DIALOGUE id="DI153" span_end_char="96" span_end_line="52751" span_start_char="56" span_start_line="52751" spans="169~209" text="I'm sorry, we can't take this book back." />
+<DIALOGUE id="DI154" span_end_char="32" span_end_line="52754" span_start_char="24" span_start_line="52754" spans="338~346" text="Flagged?" />
+<DIALOGUE id="DI155" span_end_char="96" span_end_line="52758" span_start_char="34" span_start_line="52758" spans="603~665" text="Well, you just lost a lot of business! Because I love to read!" />
+<DIALOGUE id="DI156" span_end_char="47" span_end_line="52759" span_start_char="26" span_start_line="52759" spans="709~730" text="I don't believe this!" />
+<DIALOGUE id="DI157" span_end_char="128" span_end_line="52759" span_start_char="81" span_start_line="52759" spans="764~811" text="Excuse me, I wonder if you could do me a favor?" />
+<DIALOGUE id="DI158" span_end_char="56" span_end_line="52761" span_start_char="24" span_start_line="52761" spans="963~995" text="He's over there in the overcoat." />
+<DIALOGUE id="DI159" span_end_char="67" span_end_line="52762" span_start_char="37" span_start_line="52762" spans="1128~1158" text="We have a 51-50 in paperbacks." />
+<DIALOGUE id="DI160" span_end_char="140" span_end_line="52764" span_start_char="127" span_start_line="52764" spans="1395~1408" text="Swarm! Swarm!" />
+<DIALOGUE id="DI161" span_end_char="54" span_end_line="52767" span_start_char="23" span_start_line="52767" spans="1561~1592" text="I just wanted you to scare him." />
+<DIALOGUE id="DI162" span_end_char="77" span_end_line="52769" span_start_char="71" span_start_line="52769" spans="1735~1741" text="Hello?" />
+<DIALOGUE id="DI163" span_end_char="30" span_end_line="52774" span_start_char="23" span_start_line="52774" spans="2042~2049" text="Prison." />
+<DIALOGUE id="DI164" span_end_char="55" span_end_line="52776" span_start_char="32" span_start_line="52776" spans="2171~2194" text="Prior convictions? Leo?" />
+<DIALOGUE id="DI165" span_end_char="43" span_end_line="52779" span_start_char="23" span_start_line="52779" spans="2390~2410" text="What does that mean?" />
+<DIALOGUE id="DI166" span_end_char="58" span_end_line="52781" span_start_char="37" span_start_line="52781" spans="2519~2540" text="You're stealing too?!" />
+<DIALOGUE id="DI167" span_end_char="77" span_end_line="52782" span_start_char="48" span_start_line="52782" spans="2605~2634" text="Well, they wear out so quick." />
+<DIALOGUE id="DI168" span_end_char="88" span_end_line="52786" span_start_char="63" span_start_line="52786" spans="2908~2933" text="Well, the rickshaw's gone" />
+<DIALOGUE id="DI169" span_end_char="156" span_end_line="52786" span_start_char="147" span_start_line="52786" spans="2992~3001" text="he bolted" />
+<DIALOGUE id="DI170" span_end_char="136" span_end_line="52787" span_start_char="29" span_start_line="52787" spans="3049~3156" text="Well, you know, eighty-five percent of all homeless rickshaw businesses fail within the first three months." />
+<DIALOGUE id="DI171" span_end_char="77" span_end_line="52788" span_start_char="26" span_start_line="52788" spans="3200~3251" text="See, we should've gotten some collateral from him.." />
+<DIALOGUE id="DI172" span_end_char="37" span_end_line="52794" span_start_char="25" span_start_line="52794" spans="3874~3886" text="Tina Turner?" />
+<DIALOGUE id="DI173" span_end_char="33" span_end_line="52795" span_start_char="25" span_start_line="52795" spans="3928~3936" text="Alright." />
+<DIALOGUE id="DI174" span_end_char="45" span_end_line="52799" span_start_char="30" span_start_line="52799" spans="4261~4276" text="Not underpants." />
+<RELATION fromID="D154" fromText="Puts the book's code into the computer" id="R154" relationship="occurs-while" toID="DI153" toText="I'm sorry, we can't take this book back." />
+<RELATION fromID="D155" fromText="Confused" id="R155" relationship="occurs-while" toID="DI154" toText="Flagged?" />
+<RELATION fromID="D156" fromText="Outraged" id="R156" relationship="occurs-while" toID="DI155" toText="Well, you just lost a lot of business! Because I love to read!" />
+<RELATION fromID="D157" fromText="Leaving" id="R157" relationship="occurs-while" toID="DI155" toText="Well, you just lost a lot of business! Because I love to read!" />
+<RELATION fromID="D158" fromText="To himself" id="R158" relationship="occurs-while" toID="DI156" toText="I don't believe this!" />
+<RELATION fromID="D159" fromText="Walks over to a security guard" id="R159" relationship="next-dialogue" toID="DI157" toText="Excuse me, I wonder if you could do me a favor?" />
+<RELATION fromID="D160" fromText="Pointing" id="R160" relationship="occurs-while" toID="DI158" toText="He's over there in the overcoat." />
+<RELATION fromID="D161" fromText="Into his walkie-talkie" id="R161" relationship="occurs-while" toID="DI159" toText="We have a 51-50 in paperbacks." />
+<RELATION fromID="D162" fromText="The Guard rushes tward Uncle Leo" id="R162" relationship="occurs-while" toID="DI160" toText="Swarm! Swarm!" />
+<RELATION fromID="D163" fromText="To Guard" id="R163" relationship="occurs-while" toID="DI161" toText="I just wanted you to scare him." />
+<RELATION fromID="D164" fromText="Unsure of what to say - he remember's Leo's courtesy tip" id="R164" relationship="occurs-while" toID="DI162" toText="Hello?" />
+<RELATION fromID="D165" fromText="Scoffing" id="R165" relationship="next-dialogue" toID="DI163" toText="Prison." />
+<RELATION fromID="D166" fromText="Not believeing it" id="R166" relationship="occurs-while" toID="DI164" toText="Prior convictions? Leo?" />
+<RELATION fromID="D167" fromText="Confused" id="R167" relationship="occurs-while" toID="DI165" toText="What does that mean?" />
+<RELATION fromID="D168" fromText="Shocked at his parents" id="R168" relationship="occurs-while" toID="DI166" toText="You're stealing too?!" />
+<RELATION fromID="D169" fromText="Jerry scoffs" id="R169" relationship="occurs-while" toID="DI167" toText="Well, they wear out so quick." />
+<RELATION fromID="D170" fromText="While washing his hands in Jerry's kithen sink" id="R170" relationship="occurs-while" toID="DI168" toText="Well, the rickshaw's gone" />
+<RELATION fromID="D171" fromText="Makes a noise" id="R171" relationship="next-dialogue" toID="DI169" toText="he bolted" />
+<RELATION fromID="D172" fromText="Joking around" id="R172" relationship="occurs-while" toID="DI170" toText="Well, you know, eighty-five percent of all homeless rickshaw businesses fail within the first three months." />
+<RELATION fromID="D173" fromText="To Newman" id="R173" relationship="occurs-while" toID="DI171" toText="See, we should've gotten some collateral from him.." />
+<RELATION fromID="D174" fromText="Butting in" id="R174" relationship="occurs-while" toID="DI172" toText="Tina Turner?" />
+<RELATION fromID="D175" fromText="Accepting" id="R175" relationship="occurs-while" toID="DI173" toText="Alright." />
+<RELATION fromID="D176" fromText="Stern on George" id="R176" relationship="occurs-while" toID="DI174" toText="Not underpants." />
 <DIRECTION action="no" description="addressee" id="D177" span_end_char="22" span_end_line="53440" span_start_char="14" span_start_line="53440" spans="2453~2461" text="to Jerry" />
 <DIALOGUE id="DI175" span_end_char="105" span_end_line="53440" span_start_char="25" span_start_line="53440" spans="2464~2544" text="Well, I got a 212 number from this little old lady in my building-- Mrs. Krantz." />
 <RELATION fromID="D177" fromText="to Jerry" id="R177" relationship="occurs-while" toID="DI175" toText="Well, I got a 212 number from this little old lady in my building-- Mrs. Krantz." />
