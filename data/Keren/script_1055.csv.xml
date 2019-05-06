@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalDirections>
+<TEXT><![CDATA[,Character,Dialogue,EpisodeNo,SEID,Season
+52700,NEWMAN,(Pondering Kramer's plan out loud) They do have an intimate knowledge of the street..,17.0,S09E17,9.0
+52701,KRAMER,They're always walkin' around the city. Why not just strap something to them?!,17.0,S09E17,9.0
+52702,JERRY,"(Sarcastic) Now, that's the first sensible idea I've heard all day.",17.0,S09E17,9.0
+52703,[Setting,The Coffee shop],17.0,S09E17,9.0
+52704,LEO,"Jerry, hello! (Sits down)",17.0,S09E17,9.0
+52705,JERRY,"So, Leo, how's everything? You doin' Okay?",17.0,S09E17,9.0
+52706,LEO,I still have the ringing in the ears. Sounds like the phone.,17.0,S09E17,9.0
+52707,JERRY,"(Shrugging his problems off) Yeah, yeah. But what about money? Are you strapped? Do you need a little?",17.0,S09E17,9.0
+52708,LEO,"What, are you kidding? I should you loaning you money! (Quickly amending what he just said) But I'm not.",17.0,S09E17,9.0
+52709,JERRY,"(Being frank) Leo, I saw you in Brentano's yesterday.",17.0,S09E17,9.0
+52710,LEO,Why didn't ya say hello?,17.0,S09E17,9.0
+52711,JERRY,Because you were too busy stealing a book.,17.0,S09E17,9.0
+52712,LEO,(Giving a courtesy lesson) You still say hello.,17.0,S09E17,9.0
+52713,JERRY,"(Showing that it's a problem) Leo, I saw you steal.",17.0,S09E17,9.0
+52714,LEO,"Oh, they don't care. We all do it.",17.0,S09E17,9.0
+52715,JERRY,"Who, criminals?",17.0,S09E17,9.0
+52716,LEO,Senior citizens. No big deal.,17.0,S09E17,9.0
+52717,JERRY,You could get arrested.,17.0,S09E17,9.0
+52718,LEO,Arrested? Come on! (Goes into a routine explaination for his stealing) I'm an old man. I'm confused! I thought I paid for it. What's my name? Will you take me home?,17.0,S09E17,9.0
+52719,JERRY,(Pleading) Leo..,17.0,S09E17,9.0
+52720,LEO,"Alright, alright. Mr. Goody Two-Shoes. You made your point.",17.0,S09E17,9.0
+52721,JERRY,(Thinking he's stopped Leo's thefts) Thank you.,17.0,S09E17,9.0
+52722,LEO,(Yelling out to every one in the coffee shop) Will somebody answer that damn phone?!,17.0,S09E17,9.0
+52723,[Setting,Peterman office building hallway],17.0,S09E17,9.0
+52724,ELAINE,"(Talking to a co-worker) Of course Zach and I have been dating. What'd you think, I was the office skank?",17.0,S09E17,9.0
+52725,WALTER,Well..,17.0,S09E17,9.0
+52726,ELAINE,"""Well""? We've been dating for three months. Between you and me, and.. anyone else you want to tell.",17.0,S09E17,9.0
+52727,ELAINE,"(Exits, closing the door behind her) Oh man. Ugh..",17.0,S09E17,9.0
+52728,WALTER,(Pointing at the closed door) Isn't that Zach?,17.0,S09E17,9.0
+52729,ELAINE,Yeah.,17.0,S09E17,9.0
+52730,WALTER,Aren't you upset?,17.0,S09E17,9.0
+52731,ELAINE,"(Starts to fake cry) Yes. Oh, man! Oh!",17.0,S09E17,9.0
+52732,[Setting,NYC street],17.0,S09E17,9.0
+52733,KRAMER,"Alright, listen up. Now, you three have been hand-picked out of possibly dozens that applied. Now, what we're looking for are motivated, hard-working, homeless gentlemen like yourselves to pull rickshaws. (One of the homeless men starts to wander off, walking away) Now, I don't caer where you're from, or how you got here, or what happened to your homes. But you will have to be physically fit.",17.0,S09E17,9.0
+52734,HOMELESS MAN,The government!,17.0,S09E17,9.0
+52735,KRAMER,(Continuing as if nothing happened) Because to pull rickshaws means more than just strong legs. You're also going to need a well-toned upper body.,17.0,S09E17,9.0
+52736,NEWMAN,"Alright, who's first?",17.0,S09E17,9.0
+52737,KRMAER,Hey.,17.0,S09E17,9.0
+52738,NEWMAN,"Name, please.",17.0,S09E17,9.0
+52739,HOMELESS MAN,Rusty.,17.0,S09E17,9.0
+52740,NEWMAN,(Writing on a clipboard) Rusty.,17.0,S09E17,9.0
+52741,KRAMER,"(To Rusty) You know, I once knew a horse named Rusty. No offence.",17.0,S09E17,9.0
+52742,NEWMAN,"(To Rusty) Alright, uh, take it down to the end of the block. Make a controlled turn, and bring her back. Let's see what you've got! Ok? Ready, and go!",17.0,S09E17,9.0
+52743,KRAMER,(Watching Rusty's pulling of the rickshaw) Giddy up! Good form.,17.0,S09E17,9.0
+52744,NEWMAN,"(Yelling out to Rusty) Alright, pace yourself, 'Cause you're gonna have to do this all day for very little money.",17.0,S09E17,9.0
+52745,KRAMER,"Hey, what's he doin'?",17.0,S09E17,9.0
+52746,NEWMAN,I think he stealing our rickshaw!,17.0,S09E17,9.0
+52747,KRAMER,"Well, then, he's out!",17.0,S09E17,9.0
+52748,HOMELESS MAN 2,"(Salutes Kramer) I'll take the job. Potato salad!""",17.0,S09E17,9.0
+52749,[Setting,Bookstore],17.0,S09E17,9.0
+]]></TEXT>
+<TAGS>
+<DIRECTION id="D0" spans="56~88" text="Pondering Kramer&apos;s plan out loud" description="none" action="yes" />
+<DIRECTION id="D1" spans="279~288" text="Sarcastic" description="manner" action="no" />
+<DIRECTION id="D2" spans="437~446" text="Sits down" description="none" action="yes" />
+<DIRECTION id="D3" spans="639~665" text="Shrugging his problems off" description="none" action="no" />
+<DIRECTION id="D4" spans="825~859" text="Quickly amending what he just said" description="none" action="no" />
+<DIRECTION id="D5" spans="905~916" text="Being frank" description="manner" action="no" />
+<DIRECTION id="D6" spans="1108~1132" text="Giving a courtesy lesson" action="no" description="manner" />
+<DIRECTION id="D7" spans="1185~1212" text="Showing that it&apos;s a problem" description="none" action="no" />
+<DIRECTION id="D8" spans="1500~1549" text="Goes into a routine explaination for his stealing" description="none" action="no" />
+<DIRECTION id="D9" spans="1674~1682" text="Pleading" description="manner" action="no" />
+<DIRECTION id="D10" spans="1807~1841" text="Thinking he&apos;s stopped Leo&apos;s thefts" description="none" action="no" />
+<DIRECTION id="D11" spans="1881~1924" text="Yelling out to every one in the coffee shop" description="none" action="yes" />
+<DIRECTION id="D12" spans="2061~2083" text="Talking to a co-worker" description="none" action="no" />
+<DIRECTION id="D13" spans="2367~2401" text="Exits, closing the door behind her" description="none" action="yes" />
+<DIRECTION id="D14" spans="2448~2475" text="Pointing at the closed door" description="reference" action="yes" />
+<DIRECTION id="D15" spans="2607~2625" text="Starts to fake cry" description="none" action="yes" />
+<DIRECTION id="D16" spans="2925~2983" text="One of the homeless men starts to wander off, walking away" description="none" action="yes" />
+<DIRECTION id="D17" spans="3197~3230" text="Continuing as if nothing happened" description="none" action="no" />
+<DIRECTION id="D18" spans="3547~3569" text="Writing on a clipboard" description="none" action="yes" />
+<DIRECTION id="D19" spans="3609~3617" text="To Rusty" action="no" description="addressee" />
+<DIRECTION id="D20" spans="3706~3714" text="To Rusty" description="addressee" action="no" />
+<DIRECTION id="D21" spans="3888~3928" text="Watching Rusty&apos;s pulling of the rickshaw" description="none" action="no" />
+<DIRECTION id="D22" spans="3982~4002" text="Yelling out to Rusty" description="addressee" action="yes" />
+<DIRECTION id="D23" spans="4304~4318" text="Salutes Kramer" description="addressee" action="yes" />
+<DIALOGUE id="DI0" spans="90~140" text="They do have an intimate knowledge of the street.."  />
+<DIALOGUE id="DI1" spans="290~345" text="Now, that&apos;s the first sensible idea I&apos;ve heard all day."  />
+<DIALOGUE id="DI2" spans="422~435" text="Jerry, hello!"  />
+<DIALOGUE id="DI3" spans="667~740" text="Yeah, yeah. But what about money? Are you strapped? Do you need a little?"  />
+<DIALOGUE id="DI4" spans="861~873" text="But I&apos;m not."  />
+<DIALOGUE id="DI5" spans="918~957" text="Leo, I saw you in Brentano&apos;s yesterday."  />
+<DIALOGUE id="DI6" spans="1134~1154" text="You still say hello."  />
+<DIALOGUE id="DI7" spans="1214~1235" text="Leo, I saw you steal."  />
+<DIALOGUE id="DI8" spans="1551~1605" text="I&apos;m an old man. I&apos;m confused! I thought I paid for it."  />
+<DIALOGUE id="DI9" spans="1684~1689" text="Leo.."  />
+<DIALOGUE id="DI10" spans="1843~1853" text="Thank you."  />
+<DIALOGUE id="DI11" spans="1926~1964" text="Will somebody answer that damn phone?!"  />
+<DIALOGUE id="DI12" spans="2085~2123" text="Of course Zach and I have been dating."  />
+<DIALOGUE id="DI13" spans="2403~2416" text="Oh man. Ugh.."  />
+<DIALOGUE id="DI14" spans="2477~2493" text="Isn&apos;t that Zach?"  />
+<DIALOGUE id="DI15" spans="2627~2644" text="Yes. Oh, man! Oh!"  />
+<DIALOGUE id="DI16" spans="2986~3114" text="ow, I don&apos;t caer where you&apos;re from, or how you got here, or what happened to your homes. But you will have to be physically fit."  />
+<DIALOGUE id="DI17" spans="3232~3291" text="Because to pull rickshaws means more than just strong legs."  />
+<DIALOGUE id="DI18" spans="3570~3577" text=" Rusty."  />
+<DIALOGUE id="DI19" spans="3619~3673" text="You know, I once knew a horse named Rusty. No offence."  />
+<DIALOGUE id="DI20" spans="3716~3766" text="Alright, uh, take it down to the end of the block."  />
+<DIALOGUE id="DI21" spans="3930~3950" text="Giddy up! Good form."  />
+<DIALOGUE id="DI22" spans="4004~4094" text="Alright, pace yourself, &apos;Cause you&apos;re gonna have to do this all day for very little money."  />
+<DIALOGUE id="DI23" spans="4320~4352" text="I&apos;ll take the job. Potato salad!"  />
+<RELATION id="R0" fromID="DI12" fromText="Of course Zach and I have been dating." toID="DI0" toText="They do have an intimate knowledge of the street.." relationship="occurs-while" />
+<RELATION id="R1" fromID="D1" fromText="Sarcastic" toID="DI1" toText="Now, that&apos;s the first sensible idea I&apos;ve heard all day." relationship="occurs-while" />
+<RELATION id="R2" fromID="D2" fromText="Sits down" toID="DI2" toText="Jerry, hello!" relationship="occurs-while" />
+<RELATION id="R3" fromID="D3" fromText="Shrugging his problems off" toID="DI3" toText="Yeah, yeah. But what about money? Are you strapped? Do you need a little?" relationship="occurs-while" />
+<RELATION id="R4" fromID="D4" fromText="Quickly amending what he just said" toID="DI4" toText="But I&apos;m not." relationship="occurs-while" />
+<RELATION id="R5" fromID="D5" fromText="Being frank" toID="DI5" toText="Leo, I saw you in Brentano&apos;s yesterday." relationship="occurs-while" />
+<RELATION id="R6" fromID="D6" fromText="Giving a courtesy lesson" toID="DI6" toText="You still say hello." relationship="occurs-while" />
+<RELATION id="R7" fromID="D7" fromText="Showing that it&apos;s a problem" toID="DI7" toText="Leo, I saw you steal." relationship="occurs-while" />
+<RELATION id="R8" fromID="D8" fromText="Goes into a routine explaination for his stealing" toID="DI8" toText="I&apos;m an old man. I&apos;m confused! I thought I paid for it." relationship="occurs-while" />
+<RELATION id="R9" fromID="D9" fromText="Pleading" toID="DI9" toText="Leo.." relationship="occurs-while" />
+<RELATION id="R10" fromID="D10" fromText="Thinking he&apos;s stopped Leo&apos;s thefts" toID="DI10" toText="Thank you." relationship="occurs-while" />
+<RELATION id="R11" fromID="D11" fromText="Yelling out to every one in the coffee shop" toID="DI11" toText="Will somebody answer that damn phone?!" relationship="occurs-while" />
+<RELATION id="R12" fromID="D12" fromText="Talking to a co-worker" toID="DI12" toText="Of course Zach and I have been dating." relationship="occurs-while" />
+<RELATION id="R13" fromID="D13" fromText="Exits, closing the door behind her" toID="DI13" toText="Oh man. Ugh.." relationship="occurs-while" />
+<RELATION id="R14" fromID="D14" fromText="Pointing at the closed door" toID="DI14" toText="Isn&apos;t that Zach?" relationship="occurs-while" />
+<RELATION id="R15" fromID="D15" fromText="Starts to fake cry" toID="DI15" toText="Yes. Oh, man! Oh!" relationship="next-dialogue" />
+<RELATION id="R16" fromID="D16" fromText="One of the homeless men starts to wander off, walking away" toID="DI16" toText="ow, I don&apos;t caer where you&apos;re from, or how you got here, or what happened to your homes. But you will have to be physically fit." relationship="next-dialogue" />
+<RELATION id="R17" fromID="D17" fromText="Continuing as if nothing happened" toID="DI17" toText="Because to pull rickshaws means more than just strong legs." relationship="occurs-while" />
+<RELATION id="R18" fromID="D18" fromText="Writing on a clipboard" toID="DI18" toText=" Rusty." relationship="occurs-while" />
+<RELATION id="R19" fromID="D19" fromText="To Rusty" toID="DI19" toText="You know, I once knew a horse named Rusty. No offence." relationship="occurs-while" />
+<RELATION id="R20" fromID="D20" fromText="To Rusty" toID="DI20" toText="Alright, uh, take it down to the end of the block." relationship="occurs-while" />
+<RELATION id="R21" fromID="D21" fromText="Watching Rusty&apos;s pulling of the rickshaw" toID="DI21" toText="Giddy up! Good form." relationship="occurs-while" />
+<RELATION id="R22" fromID="D22" fromText="Yelling out to Rusty" toID="DI22" toText="Alright, pace yourself, &apos;Cause you&apos;re gonna have to do this all day for very little money." relationship="occurs-while" />
+<RELATION id="R23" fromID="D23" fromText="Salutes Kramer" toID="DI23" toText="I&apos;ll take the job. Potato salad!" relationship="occurs-while" />
+</TAGS>
+</TemporalDirections>

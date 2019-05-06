@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalDirections>
+<TEXT><![CDATA[89,KESSLER,Are you up?,1.0,S01E01,1.0
+90,JERRY,"(to Kessler) Yeah. (to the phone) Yeah, people do move. Have you ever seen the big trucks out on the street? Yeah, no problem.",1.0,S01E01,1.0
+91,KESSLER,"Boy, the Mets blew it tonight, huh?",1.0,S01E01,1.0
+92,JERRY,"(upset) Ohhhh, what are you doing? Kessler, its a tape! I taped the game, its one oclock in the morning! I avoided human contact all night to watch this.",1.0,S01E01,1.0
+93,KESSLER,"Hey, Im sorry, I- you know, I, I thought you knew. (takes two loaves of bread out of his pockets, and holds them out to Jerry.) You got any meat?",1.0,S01E01,1.0
+94,JERRY,"Meat? I dont, I dont know, go... hunt! (Kessler opens the refrigerator and sticks his head in.) Well what happened in the game anyway?",1.0,S01E01,1.0
+95,KESSLER,"(from the refrigerator) What happened? Well, they STUNK, thats what happened!",1.0,S01E01,1.0
+96,KESSLER,"You know, I almost wound up going to that game.",1.0,S01E01,1.0
+97,JERRY,(cynical) Yeah you almost went to the game. You havent been out of the building in ten years!,1.0,S01E01,1.0
+98,KESSLER,"Yeah. (Jerry sits down on the couch. Kessler walks over with his sandwich and looks at Jerry and uses expressions to ask Jerry to move the newspapers on the other side of the couch so he could site down. Kessler sits down next to him and starts turning over the pages of a magazine. Suddenly he spots an article he likes and tears it out. Jerry gives him a look as if to say, Do you mind?) Are you done with this?",1.0,S01E01,1.0
+]]></TEXT>
+<TAGS>
+<DIRECTION id="D0" spans="49~59" text="to Kessler" description="addressee" action="no" />
+<DIRECTION id="D1" spans="68~80" text="to the phone" description="addressee" action="no" />
+<DIRECTION id="D2" spans="266~271" text="upset" description="manner" action="no" />
+<DIRECTION id="D3" spans="499~572" text="takes two loaves of bread out of his pockets, and holds them out to Jerry" description="none" action="yes" />
+<DIRECTION id="D4" spans="659~712" text="Kessler opens the refrigerator and sticks his head in" description="none" action="yes" />
+<DIRECTION id="D5" spans="783~804" text="from the refrigerator" description="none" action="no" />
+<DIRECTION id="D6" spans="962~969" text="cynical" description="manner" action="yes" />
+<DIRECTION id="D7" spans="1089~1470" text="Jerry sits down on the couch. Kessler walks over with his sandwich and looks at Jerry and uses expressions to ask Jerry to move the newspapers on the other side of the couch so he could site down. Kessler sits down next to him and starts turning over the pages of a magazine. Suddenly he spots an article he likes and tears it out. Jerry gives him a look as if to say, Do you mind?" description="none" action="yes" />
+<DIALOGUE id="DI0" spans="61~65" text="Yeah"  />
+<DIALOGUE id="DI1" spans="82~102" text="Yeah, people do move"  />
+<DIALOGUE id="DI2" spans="273~298" text="Ohhhh, what are you doing"  />
+<DIALOGUE id="DI3" spans="575~591" text="You got any meat"  />
+<DIALOGUE id="DI4" spans="715~752" text="Well what happened in the game anyway"  />
+<DIALOGUE id="DI5" spans="806~819" text="What happened"  />
+<DIALOGUE id="DI6" spans="971~1003" text="Yeah you almost went to the game"  />
+<DIALOGUE id="DI7" spans="1472~1494" text="Are you done with this"  />
+<RELATION id="R0" fromID="D0" fromText="to Kessler" toID="DI0" toText="Yeah" relationship="occurs-while" />
+<RELATION id="R1" fromID="D1" fromText="to the phone" toID="DI1" toText="Yeah, people do move" relationship="occurs-while" />
+<RELATION id="R2" fromID="D2" fromText="upset" toID="DI2" toText="Ohhhh, what are you doing" relationship="occurs-while" />
+<RELATION id="R3" fromID="D3" fromText="takes two loaves of bread out of his pockets, and holds them out to Jerry" toID="DI3" toText="You got any meat" relationship="occurs-while" />
+<RELATION id="R4" fromID="D4" fromText="Kessler opens the refrigerator and sticks his head in" toID="DI4" toText="Well what happened in the game anyway" relationship="occurs-while" />
+<RELATION id="R5" fromID="D5" fromText="from the refrigerator" toID="DI5" toText="What happened" relationship="occurs-while" />
+<RELATION id="R6" fromID="D6" fromText="cynical" toID="DI6" toText="Yeah you almost went to the game" relationship="occurs-while" />
+<RELATION id="R7" fromID="D7" fromText="Jerry sits down on the couch. Kessler walks over with his sandwich and looks at Jerry and uses expressions to ask Jerry to move the newspapers on the other side of the couch so he could site down. Kessler sits down next to him and starts turning over the pages of a magazine. Suddenly he spots an article he likes and tears it out. Jerry gives him a look as if to say, Do you mind?" toID="DI7" toText="Are you done with this" relationship="next-dialogue" />
+</TAGS>
+</TemporalDirections>

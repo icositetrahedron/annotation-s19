@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalDirections>
+<TEXT><![CDATA[,Character,Dialogue,EpisodeNo,SEID,Season
+52900,KRAMER,"(Tired) Oh, I can't go on. I gotta take a break. (Sets the rickshaw down - taking a rest)",17.0,S09E17,9.0
+52901,NEWMAN,"Well, don't tarry. I'm behind schedule as it is.",17.0,S09E17,9.0
+52902,KRAMER,(Stretching) Oh..,17.0,S09E17,9.0
+52903,NEWMAN,(Scared) Boy.. Boy. Kramer!,17.0,S09E17,9.0
+52904,KRAMER,Woah! Wait!,17.0,S09E17,9.0
+52905,NEWMAN,Ahhh! Yaaaahhh!,17.0,S09E17,9.0
+52906,ZACH,"(Optimistic) Well, this is the first day of the rest of my life!",17.0,S09E17,9.0
+52907,NEWMAN,Waaaaahhhh!,17.0,S09E17,9.0
+52908,[Setting,Bookstore],17.0,S09E17,9.0
+52909,JERRY,George? What are you doin' here?,17.0,S09E17,9.0
+52910,GEORGE,I can't sell the book. It's been marked.,17.0,S09E17,9.0
+52911,JERRY,(Sarcasticly joking) It certainly has.,17.0,S09E17,9.0
+52912,GEORGE,"So, I'm gonna steal another one, and then return it. That way, everything is even.",17.0,S09E17,9.0
+52913,JERRY,"(Trying to straighten things out) You defile one book, steal another, ask for your money back - and to you that's even?",17.0,S09E17,9.0
+52914,GEORGE,I'm goin' in!,17.0,S09E17,9.0
+52915,MANAGER,Did you want to speak with the manager?,17.0,S09E17,9.0
+52916,JERRY,Yes. My Uncle Leo was cought shoplifing here the other day..,17.0,S09E17,9.0
+52917,MANAGER,"Yes, Uncle Leo. I remember him. I'm sorry, our policy is we prosecute all shoplifters.",17.0,S09E17,9.0
+52918,JERRY,"(Pleading) Oh, come on. He's just a lonely old man. All old people steal.",17.0,S09E17,9.0
+52919,MANAGER,"That's right. That's why we stopped carrying batteries. Look, I'll be honest with you, we've had a lot of trouble with theft lately - and my boss says I have to make an example to someone.",17.0,S09E17,9.0
+52920,JERRY,So it could be anyone?,17.0,S09E17,9.0
+52921,MANAGER,I.. guess. As long as we catch him in the act.,17.0,S09E17,9.0
+52922,JERRY,That guy! (Pointing at George) Swarm! Swarm!,17.0,S09E17,9.0
+52923,GEORGE,No! Jerry!,17.0,S09E17,9.0
+52924,ALL (singing),Happy birthday to you.,18.0,S09E18,9.0
+52925,WALTER,Thanks.,18.0,S09E18,9.0
+52926,FEMALE WORKER,"Elaine, cake?",18.0,S09E18,9.0
+52927,ELAINE,"Uh, no, thanks.",18.0,S09E18,9.0
+52928,FEMALE WORKER,It's Walter's special day.,18.0,S09E18,9.0
+52929,ELAINE,"You know, there are 200 people who work in this office. Every day is somebody's special day.",18.0,S09E18,9.0
+52930,MALE WORKER,Elaine! Where're you going? It's Walter's last day. We have to celebrate.,18.0,S09E18,9.0
+52931,ELAINE,It's his birthday and it's his last day?,18.0,S09E18,9.0
+52932,MALE WORKER,"This is other-Walter, from returns.",18.0,S09E18,9.0
+52933,OTHER-WALTER,"Hey, what's going on here?",18.0,S09E18,9.0
+52934,ALL,Surprise!,18.0,S09E18,9.0
+52935,OTHER-WALTER,Oh guys.,18.0,S09E18,9.0
+52936,OTHER-WALTER,"Elaine, it's my last day. Have a piece.",18.0,S09E18,9.0
+52937,ELAINE,"All right, pile it on.",18.0,S09E18,9.0
+52938,"ALL (singing, competing)",For he's a jolly good fellow...happy birthday to you...for he's a jolly good fellow...birthday to you...which nobody can deny...,18.0,S09E18,9.0
+52939,JERRY,What is so bad about having a little piece of cake?,18.0,S09E18,9.0
+52940,ELAINE,"It is the forced socializing. I mean, just because we work in the same office, why do we have to act like we're friends?",18.0,S09E18,9.0
+52941,JERRY,Why aren't you there now?,18.0,S09E18,9.0
+52942,ELAINE,"I had to take a sick day. I'm so sick of these people. By the way, I talked to Lisi, and tomorrow night's good for her.",18.0,S09E18,9.0
+52943,JERRY,"You know, I shouldn't go out with a friend of yours. I foresee messiness.",18.0,S09E18,9.0
+52944,ELAINE,"Yeah, you're better off sitting around here, reading comic books, and eating spaghetti at two in the morning..",18.0,S09E18,9.0
+52945,JERRY,"Hey, speaking of tomato sauce, you want to come with me and George to Mario's Pizza?",18.0,S09E18,9.0
+52946,ELAINE,Your old high school hangout? Why?,18.0,S09E18,9.0
+52947,JERRY,They're closing. We're going for one last slice.,18.0,S09E18,9.0
+52948,KRAMER,"Hey. All right. Hi. Check it out, official police caution tape. Look at that.",18.0,S09E18,9.0
+52949,KRAMER,"Uh-uh-uh. Step back, son, there's nothing to see here.",18.0,S09E18,9.0
+]]></TEXT>
+<TAGS>
+<DIRECTION id="D0" spans="57~62" text="Tired" description="manner" action="no" />
+<DIRECTION id="D1" spans="106~144" text="Sets the rickshaw down - taking a rest" description="none" action="yes" />
+<DIRECTION id="D3" spans="257~267" text="Stretching" action="yes" description="none" />
+<DIRECTION id="D4" spans="304~310" text="Scared" description="manner" action="no" />
+<DIRECTION id="D5" spans="446~456" text="Optimistic" description="manner" action="no" />
+<DIRECTION id="D6" spans="754~772" text="Sarcasticly joking" description="manner" action="yes" />
+<DIRECTION id="D7" spans="936~967" text="Trying to straighten things out" description="none" action="no" />
+<DIRECTION id="D8" spans="1407~1415" text="Pleading" description="manner" action="yes" />
+<DIRECTION id="D9" spans="1970~1977" text="singing" description="none" action="yes" />
+<DIRECTION id="D10" spans="2878~2896" text="singing, competing" description="none" action="yes" />
+<DIALOGUE id="DI1" spans="64~82" text="Oh, I can&apos;t go on."  />
+<DIALOGUE id="DI2" spans="83~104" text="I gotta take a break."  />
+<DIALOGUE id="DI3" spans="269~273" text="Oh.."  />
+<DIALOGUE id="DI4" spans="312~330" text="Boy.. Boy. Kramer!"  />
+<DIALOGUE id="DI5" spans="458~509" text="Well, this is the first day of the rest of my life!"  />
+<DIALOGUE id="DI6" spans="774~791" text="It certainly has."  />
+<DIALOGUE id="DI7" spans="969~1054" text="You defile one book, steal another, ask for your money back - and to you that&apos;s even?"  />
+<DIALOGUE id="DI8" spans="1417~1479" text="Oh, come on. He&apos;s just a lonely old man. All old people steal."  />
+<DIALOGUE id="DI9" spans="1979~2001" text="Happy birthday to you."  />
+<DIALOGUE id="DI10" spans="2899~3024" text="For he&apos;s a jolly good fellow...happy birthday to you...for he&apos;s a jolly good fellow...birthday to you...which nobody can deny"  />
+<RELATION id="R0" fromID="D0" fromText="Tired" toID="DI1" toText="Oh, I can&apos;t go on." relationship="occurs-while" />
+<RELATION id="R1" fromID="D1" fromText="Sets the rickshaw down - taking a rest" toID="DI2" toText="I gotta take a break." relationship="next-dialogue" />
+<RELATION id="R2" fromID="D3" fromText="Stretching" toID="DI3" toText="Oh.." relationship="occurs-while" />
+<RELATION id="R3" fromID="D4" fromText="Scared" toID="DI4" toText="Boy.. Boy. Kramer!" relationship="occurs-while" />
+<RELATION id="R4" fromID="D5" fromText="Optimistic" toID="DI5" toText="Well, this is the first day of the rest of my life!" relationship="occurs-while" />
+<RELATION id="R5" fromID="D6" fromText="Sarcasticly joking" toID="DI6" toText="It certainly has." relationship="occurs-while" />
+<RELATION id="R6" fromID="D7" fromText="Trying to straighten things out" toID="DI7" toText="You defile one book, steal another, ask for your money back - and to you that&apos;s even?" relationship="occurs-while" />
+<RELATION id="R7" fromID="D8" fromText="Pleading" toID="DI8" toText="Oh, come on. He&apos;s just a lonely old man. All old people steal." relationship="occurs-while" />
+<RELATION id="R8" fromID="D9" fromText="singing" toID="DI9" toText="Happy birthday to you." relationship="occurs-while" />
+<RELATION id="R9" fromID="D10" fromText="singing, competing" toID="DI10" toText="For he&apos;s a jolly good fellow...happy birthday to you...for he&apos;s a jolly good fellow...birthday to you...which nobody can deny" relationship="occurs-while" />
+</TAGS>
+</TemporalDirections>

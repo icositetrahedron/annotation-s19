@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalDirections>
+<TEXT><![CDATA[,Character,Dialogue,EpisodeNo,SEID,Season
+52750,GEORGE,"Yes, I, uh, I need to return this book.",17.0,S09E17,9.0
+52751,CASHIER,"(Puts the book's code into the computer) I'm sorry, we can't take this book back.",17.0,S09E17,9.0
+52752,GEORGE,Why not?,17.0,S09E17,9.0
+52753,CASHIER,It's been flagged.,17.0,S09E17,9.0
+52754,GEORGE,(Confused) Flagged?,17.0,S09E17,9.0
+52755,CASHIER,It's been in the bathroom.,17.0,S09E17,9.0
+52756,GEORGE,It says that on the computer?,17.0,S09E17,9.0
+52757,CASHIER,Please take it home. We don't want it near the other books.,17.0,S09E17,9.0
+52758,GEORGE,"(Outraged. Leaving) Well, you just lost a lot of business! Because I love to read!",17.0,S09E17,9.0
+52759,JERRY,"(To himself) I don't believe this! (Walks over to a security guard) Excuse me, I wonder if you could do me a favor? My uncle's having a little problem with shoplifting..",17.0,S09E17,9.0
+52760,GUARD,Mm-hmm. Where's your uncle?,17.0,S09E17,9.0
+52761,JERRY,"(Pointing) He's over there in the overcoat. If you could just kind of put a scare into him.. You know, set him straight..",17.0,S09E17,9.0
+52762,GAURD,(Into his walkie-talkie) We have a 51-50 in paperbacks. All units respond.,17.0,S09E17,9.0
+52763,JERRY,"'51-50'? That - that's just a scare, right?",17.0,S09E17,9.0
+52764,GUARD,"Sir, I'm gonna have to ask you to stand out of the way and let us handle this. (The Guard rushes tward Uncle Leo) Swarm! Swarm!",17.0,S09E17,9.0
+52765,LEO,What?! I'm an old man! I'm confused!,17.0,S09E17,9.0
+52766,GUARD,You're under arrest.,17.0,S09E17,9.0
+52767,JERRY,(To Guard) I just wanted you to scare him.,17.0,S09E17,9.0
+52768,LEO,"Jerry, you ratted me out?!",17.0,S09E17,9.0
+52769,JERRY,(Unsure of what to say - he remember's Leo's courtesy tip) Hello?,17.0,S09E17,9.0
+52770,LEO,Hello.,17.0,S09E17,9.0
+52771,[Setting,Jerry's apartment],17.0,S09E17,9.0
+52772,JERRY,"Mom, I didn't rat out Uncle Leo. I just wanted the guard to scare him straight.",17.0,S09E17,9.0
+52773,HELEN,"Jerry, he won't last a day in prison.",17.0,S09E17,9.0
+52774,JERRY,(Scoffing) Prison. I'm sure it's just a fine.,17.0,S09E17,9.0
+52775,MORTY,She's got priors.,17.0,S09E17,9.0
+52776,JERRY,(Not believeing it) Prior convictions? Leo?,17.0,S09E17,9.0
+52777,HELEN,It was a crime of passion. Leave it alone.,17.0,S09E17,9.0
+52778,MORTY,"Besides, it's not stealing if it's something you need.",17.0,S09E17,9.0
+52779,JERRY,(Confused) What does that mean?,17.0,S09E17,9.0
+52780,HELEN,Nobody pays for everyting.,17.0,S09E17,9.0
+52781,JERRY,(Shocked at his parents) You're stealing too?!,17.0,S09E17,9.0
+52782,MORTY,"Nothing. Batteries. (Jerry scoffs) Well, they wear out so quick.",17.0,S09E17,9.0
+52783,JERRY,"Mom, you too?",17.0,S09E17,9.0
+52784,HELEN,"Sometimes your father forgets, so I have to steal them.",17.0,S09E17,9.0
+52785,JERRY,"Alright, I'll talk to you later.",17.0,S09E17,9.0
+52786,KRAMER,"(While washing his hands in Jerry's kithen sink) Well, the rickshaw's gone. We strapped it to a homeless guy and he (Makes a noise), he bolted.",17.0,S09E17,9.0
+52787,JERRY,"(Joking around) Well, you know, eighty-five percent of all homeless rickshaw businesses fail within the first three months.",17.0,S09E17,9.0
+52788,KRAMER,"(To Newman) See, we should've gotten some collateral from him.. Like his bag of cans, or.. his other bag of cans.",17.0,S09E17,9.0
+52789,NEWMAN,"We gotta find that rickshaw. You check the sewers and dumpsters. I'll hit the soup kitchens, bakeries, and smorgasbords.",17.0,S09E17,9.0
+52790,JERRY,To the Idiotmobile!,17.0,S09E17,9.0
+52791,[Setting,The Coffee shop],17.0,S09E17,9.0
+52792,JERRY,"So, even though you're not really going out with this guy, he's cheating on you?",17.0,S09E17,9.0
+52793,ELAINE,"That is correct. But here's the beauty part - now I stand up for myself by telling everybody I'm dumping his sorry ass, and I'm the office-",17.0,S09E17,9.0
+52794,JERRY,(Butting in) Tina Turner?,17.0,S09E17,9.0
+52795,ELAINE,(Accepting) Alright.,17.0,S09E17,9.0
+52796,GEORGE,"Well, I've to every Brentano's. This thing's flagged in every database in town!",17.0,S09E17,9.0
+52797,JERRY,Is it so horrible to have to keep a book?,17.0,S09E17,9.0
+52798,GEORGE,I don't understand what the big deal is. They let you try on pants.,17.0,S09E17,9.0
+52799,JERRY,(Stern on George) Not underpants.,17.0,S09E17,9.0
+]]></TEXT>
+<TAGS>
+<DIRECTION id="D0" spans="129~167" text="Puts the book&apos;s code into the computer" description="none" action="yes" />
+<DIRECTION id="D1" spans="328~336" text="Confused" description="none" action="no" />
+<DIRECTION id="D2" spans="584~592" text="Outraged" description="manner" action="no" />
+<DIRECTION id="D3" spans="594~601" text="Leaving" description="none" action="yes" />
+<DIRECTION id="D4" spans="697~707" text="To himself" description="addressee" action="no" />
+<DIRECTION id="D5" spans="732~762" text="Walks over to a security guard" description="none" action="yes" />
+<DIRECTION id="D6" spans="953~961" text="Pointing" description="reference" action="yes" />
+<DIRECTION id="D7" spans="1104~1126" text="Into his walkie-talkie" action="no" description="reference" />
+<DIRECTION id="D8" spans="1361~1393" text="The Guard rushes tward Uncle Leo" description="none" action="yes" />
+<DIRECTION id="D9" spans="1551~1559" text="To Guard" description="addressee" action="no" />
+<DIRECTION id="D10" spans="1677~1733" text="Unsure of what to say - he remember&apos;s Leo&apos;s courtesy tip" description="none" action="no" />
+<DIRECTION id="D11" spans="2032~2040" text="Scoffing" description="none" action="yes" />
+<DIRECTION id="D12" spans="2152~2169" text="Not believeing it" description="none" action="no" />
+<DIRECTION id="D13" spans="2380~2388" text="Confused" description="manner" action="no" />
+<DIRECTION id="D14" spans="2495~2517" text="Shocked at his parents" description="none" action="no" />
+<DIRECTION id="D15" spans="2591~2603" text="Jerry scoffs" description="none" action="yes" />
+<DIRECTION id="D16" spans="2860~2906" text="While washing his hands in Jerry&apos;s kithen sink" description="none" action="yes" />
+<DIRECTION id="D17" spans="2976~2989" text="Makes a noise" description="none" action="yes" />
+<DIRECTION id="D18" spans="3034~3047" text="Joking around" description="manner" action="no" />
+<DIRECTION id="D19" spans="3189~3198" text="To Newman" description="addressee" action="no" />
+<DIRECTION id="D20" spans="3862~3872" text="Butting in" description="none" action="yes" />
+<DIRECTION id="D21" spans="3917~3926" text="Accepting" description="none" action="no" />
+<DIRECTION id="D22" spans="4244~4259" text="Stern on George" description="addressee" action="yes" />
+<DIALOGUE id="DI0" spans="169~209" text="I&apos;m sorry, we can&apos;t take this book back."  />
+<DIALOGUE id="DI1" spans="338~346" text="Flagged?"  />
+<DIALOGUE id="DI2" spans="603~665" text="Well, you just lost a lot of business! Because I love to read!"  />
+<DIALOGUE id="DI3" spans="709~730" text="I don&apos;t believe this!"  />
+<DIALOGUE id="DI4" spans="764~811" text="Excuse me, I wonder if you could do me a favor?"  />
+<DIALOGUE id="DI5" spans="963~995" text="He&apos;s over there in the overcoat."  />
+<DIALOGUE id="DI6" spans="1128~1158" text="We have a 51-50 in paperbacks."  />
+<DIALOGUE id="DI7" spans="1395~1408" text="Swarm! Swarm!"  />
+<DIALOGUE id="DI8" spans="1561~1592" text="I just wanted you to scare him."  />
+<DIALOGUE id="DI9" spans="1735~1741" text="Hello?"  />
+<DIALOGUE id="DI10" spans="2042~2049" text="Prison."  />
+<DIALOGUE id="DI11" spans="2171~2194" text="Prior convictions? Leo?"  />
+<DIALOGUE id="DI12" spans="2390~2410" text="What does that mean?"  />
+<DIALOGUE id="DI13" spans="2519~2540" text="You&apos;re stealing too?!"  />
+<DIALOGUE id="DI14" spans="2605~2634" text="Well, they wear out so quick."  />
+<DIALOGUE id="DI15" spans="2908~2933" text="Well, the rickshaw&apos;s gone"  />
+<DIALOGUE id="DI16" spans="2992~3001" text="he bolted"  />
+<DIALOGUE id="DI17" spans="3049~3156" text="Well, you know, eighty-five percent of all homeless rickshaw businesses fail within the first three months."  />
+<DIALOGUE id="DI18" spans="3200~3251" text="See, we should&apos;ve gotten some collateral from him.."  />
+<DIALOGUE id="DI19" spans="3874~3886" text="Tina Turner?"  />
+<DIALOGUE id="DI20" spans="3928~3936" text="Alright."  />
+<DIALOGUE id="DI21" spans="4261~4276" text="Not underpants."  />
+<RELATION id="R0" fromID="D0" fromText="Puts the book&apos;s code into the computer" toID="DI0" toText="I&apos;m sorry, we can&apos;t take this book back." relationship="occurs-while" />
+<RELATION id="R1" fromID="D1" fromText="Confused" toID="DI1" toText="Flagged?" relationship="occurs-while" />
+<RELATION id="R2" fromID="D2" fromText="Outraged" toID="DI2" toText="Well, you just lost a lot of business! Because I love to read!" relationship="occurs-while" />
+<RELATION id="R3" fromID="D3" fromText="Leaving" toID="DI2" toText="Well, you just lost a lot of business! Because I love to read!" relationship="occurs-while" />
+<RELATION id="R4" fromID="D4" fromText="To himself" toID="DI3" toText="I don&apos;t believe this!" relationship="occurs-while" />
+<RELATION id="R5" fromID="D5" fromText="Walks over to a security guard" toID="DI4" toText="Excuse me, I wonder if you could do me a favor?" relationship="next-dialogue" />
+<RELATION id="R6" fromID="D6" fromText="Pointing" toID="DI5" toText="He&apos;s over there in the overcoat." relationship="occurs-while" />
+<RELATION id="R7" fromID="D7" fromText="Into his walkie-talkie" toID="DI6" toText="We have a 51-50 in paperbacks." relationship="occurs-while" />
+<RELATION id="R8" fromID="D8" fromText="The Guard rushes tward Uncle Leo" toID="DI7" toText="Swarm! Swarm!" relationship="occurs-while" />
+<RELATION id="R9" fromID="D9" fromText="To Guard" toID="DI8" toText="I just wanted you to scare him." relationship="occurs-while" />
+<RELATION id="R10" fromID="D10" fromText="Unsure of what to say - he remember&apos;s Leo&apos;s courtesy tip" toID="DI9" toText="Hello?" relationship="occurs-while" />
+<RELATION id="R11" fromID="D11" fromText="Scoffing" toID="DI10" toText="Prison." relationship="next-dialogue" />
+<RELATION id="R12" fromID="D12" fromText="Not believeing it" toID="DI11" toText="Prior convictions? Leo?" relationship="occurs-while" />
+<RELATION id="R13" fromID="D13" fromText="Confused" toID="DI12" toText="What does that mean?" relationship="occurs-while" />
+<RELATION id="R14" fromID="D14" fromText="Shocked at his parents" toID="DI13" toText="You&apos;re stealing too?!" relationship="occurs-while" />
+<RELATION id="R15" fromID="D15" fromText="Jerry scoffs" toID="DI14" toText="Well, they wear out so quick." relationship="occurs-while" />
+<RELATION id="R16" fromID="D16" fromText="While washing his hands in Jerry&apos;s kithen sink" toID="DI15" toText="Well, the rickshaw&apos;s gone" relationship="occurs-while" />
+<RELATION id="R17" fromID="D17" fromText="Makes a noise" toID="DI16" toText="he bolted" relationship="next-dialogue" />
+<RELATION id="R18" fromID="D18" fromText="Joking around" toID="DI17" toText="Well, you know, eighty-five percent of all homeless rickshaw businesses fail within the first three months." relationship="occurs-while" />
+<RELATION id="R19" fromID="D19" fromText="To Newman" toID="DI18" toText="See, we should&apos;ve gotten some collateral from him.." relationship="occurs-while" />
+<RELATION id="R20" fromID="D20" fromText="Butting in" toID="DI19" toText="Tina Turner?" relationship="occurs-while" />
+<RELATION id="R21" fromID="D21" fromText="Accepting" toID="DI20" toText="Alright." relationship="occurs-while" />
+<RELATION id="R22" fromID="D22" fromText="Stern on George" toID="DI21" toText="Not underpants." relationship="occurs-while" />
+</TAGS>
+</TemporalDirections>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalDirections>
+<TEXT><![CDATA[309,JERRY,I was listening!,1.0,S01E01,1.0
+310,ELAINE,No! You couldnt wait to get back to your little... conversation.,1.0,S01E01,1.0
+311,JERRY,"No, you were talking about the, the um, the dream you had.",1.0,S01E01,1.0
+312,ELAINE,Uh-huh...,1.0,S01E01,1.0
+313,JERRY,"Where you had, uh, wooden teeth.",1.0,S01E01,1.0
+314,ELAINE,"No! No! You had wooden teeth! You had wooden teeth! I didnt have wooden teeth, you did!",1.0,S01E01,1.0
+315,JERRY,"All right, so I had wooden teeth, so what?",1.0,S01E01,1.0
+316,ELAINE,So nothing! Nothing. (annoyed sigh),1.0,S01E01,1.0
+317,JERRY,"Apparently Plato, who came up with the concept of the platonic relationship, was pretty excited about it. He named it after himself. He said, Yeah, I got this new thing Platonic. My idea, my name, callin it after myself. What I do is, I go out with the girls, I talk with them- dont do anything, and go right home. Whatd you think? I think its going to be big! I bet you there were other guys in history that tried to get relationships named after them, but it didnt work. Yknow, I bet you there were guys who tried to do it, just went, Uh, Hi, uh my names Rico. Would you like to go to bed immediately? Hey, its a Riconic relationship.",1.0,S01E01,1.0
+318,JERRY,Hey!,1.0,S01E01,1.0
+]]></TEXT>
+<TAGS>
+<DIRECTION id="D0" spans="534~546" text="annoyed sigh" description="manner" action="yes" />
+<DIALOGUE id="DI0" spans="512~532" text="So nothing! Nothing."  />
+<RELATION id="R0" fromID="D0" fromText="annoyed sigh" toID="DI0" toText="So nothing! Nothing." relationship="next-dialogue" />
+</TAGS>
+</TemporalDirections>

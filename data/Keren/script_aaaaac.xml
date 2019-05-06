@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalDirections>
+<TEXT><![CDATA[19,GEORGE,Ha.,1.0,S01E01,1.0
+20,JERRY,"(looks in the creamer) Theres no milk in here, what...",1.0,S01E01,1.0
+21,GEORGE,"Wait wait wait, what is she... (takes the milk can from Jerry and puts it on the table) What is she like?",1.0,S01E01,1.0
+22,JERRY,"Oh, shes really great. I mean, shes got like a real warmth about her and shes really bright and really pretty and uh... the conversation though, I mean, it was... talking with her is like talking with you, but, you know, obviously much better.",1.0,S01E01,1.0
+23,GEORGE,"(smiling) So, you know, what, what happened?",1.0,S01E01,1.0
+24,JERRY,"Oh, nothing happened, you know, but is was great.",1.0,S01E01,1.0
+25,GEORGE,"Oh, nothing happened, but it was...",1.0,S01E01,1.0
+26,JERRY,Yeah.,1.0,S01E01,1.0
+27,GEORGE,This is great!,1.0,S01E01,1.0
+28,JERRY,Yeah.,1.0,S01E01,1.0
+]]></TEXT>
+<TAGS>
+<DIRECTION id="D0" spans="40~60" text="looks in the creamer" description="reference" action="yes" />
+<DIRECTION id="D1" spans="153~207" text="takes the milk can from Jerry and puts it on the table" description="none" action="yes" />
+<DIRECTION id="D2" spans="525~532" text="smiling" description="manner" action="no" />
+<DIALOGUE id="DI0" spans="62~93" text="Theres no milk in here, what..."  />
+<DIALOGUE id="DI1" spans="121~151" text="Wait wait wait, what is she..."  />
+<DIALOGUE id="DI2" spans="209~225" text="What is she like"  />
+<DIALOGUE id="DI3" spans="534~567" text="So, you know, what, what happened"  />
+<RELATION id="R0" fromID="D0" fromText="looks in the creamer" toID="DI0" toText="Theres no milk in here, what..." relationship="occurs-while" />
+<RELATION id="R1" toID="DI1" toText="Wait wait wait, what is she..." fromID="D1" fromText="takes the milk can from Jerry and puts it on the table" relationship="occurs-while" />
+<RELATION id="R2" fromID="D1" fromText="takes the milk can from Jerry and puts it on the table" toID="DI2" toText="What is she like" relationship="occurs-while" />
+<RELATION id="R3" fromID="D2" fromText="smiling" toID="DI3" toText="So, you know, what, what happened" relationship="occurs-while" />
+</TAGS>
+</TemporalDirections>

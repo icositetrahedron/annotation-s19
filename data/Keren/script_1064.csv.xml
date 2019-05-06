@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalDirections>
+<TEXT><![CDATA[,Character,Dialogue,EpisodeNo,SEID,Season
+53150,JERRY,You are not dumb. Don't say that..,18.0,S09E18,9.0
+53151,JERRY,These beans are pretty good.,18.0,S09E18,9.0
+53152,LISI,20 minutes.,18.0,S09E18,9.0
+53153,JERRY,"Well, I'm sorry I'm not Brad. I'm me!",18.0,S09E18,9.0
+53154,JERRY,Nice to meet ya!,18.0,S09E18,9.0
+53155,LISI,"Boy, did your mother do a number on you.",18.0,S09E18,9.0
+53156,LISI,Fine. So it's over.,18.0,S09E18,9.0
+53157,JERRY,"Oh, thank god. Why is it dark out? What time is it?",18.0,S09E18,9.0
+53158,LISI,930.,18.0,S09E18,9.0
+53159,JERRY,We've been breaking up for 10 hours?,18.0,S09E18,9.0
+53160,LISI,"Good-bye, Jerry.",18.0,S09E18,9.0
+53161,JERRY,"Lopper. You know, Lisi, maybe we should give this a little more time. See how it looks in the light of day.",18.0,S09E18,9.0
+53162,LISI,Out!,18.0,S09E18,9.0
+53163,JERRY,Lopper.,18.0,S09E18,9.0
+53164,JERRY,"Lisi, Lisi. Let me in! We can work this out. I was wrong, you were right. I'll do anything!",18.0,S09E18,9.0
+53165,GEORGE,"Jerry, you came for the big moment.",18.0,S09E18,9.0
+53166,JERRY,No. I'm waiting for...,18.0,S09E18,9.0
+53167,GEORGE,"Ha ha. Everything's timed out to perfection, Jerry. Slippery Pete's got the Frogger running on battery power, the truck will be there any minute, and Kramer's taped out the loading zone.",18.0,S09E18,9.0
+53168,JERRY,Oh. Sounds great.,18.0,S09E18,9.0
+53169,GEORGE,"Yeah, yeah. You gotta come over tonight. We can play.",18.0,S09E18,9.0
+53170,JERRY,"Oh, I can't. I'm busy. I'm going away on a long weekend.",18.0,S09E18,9.0
+53171,GEORGE,Where?,18.0,S09E18,9.0
+53172,LISI,"Look what I found. I got one for you, too.",18.0,S09E18,9.0
+53173,JERRY,"Great. Uh, you know what? Why don't you put it in the car so I don't toss it in that dumpster?",18.0,S09E18,9.0
+53174,LISI,"Ha ha. Ok. I'll meet thee in front of your place, 15 minutes.",18.0,S09E18,9.0
+53175,JERRY,"A long, long weekend.",18.0,S09E18,9.0
+53176,GEORGE,I hear thee.,18.0,S09E18,9.0
+53177,PETERMAN,"Elaine! Excellent. I'd like you to meet a friend of mine, Irwin Lubeck.",18.0,S09E18,9.0
+53178,ELAINE,"Oh, hello.",18.0,S09E18,9.0
+53179,LUBECK,Charmed.,18.0,S09E18,9.0
+53180,PETERMAN,"All right, brace yourself, Lubeck. You are about to be launched via pastry back to the wedding of one of the most dashing and romantic Nazi sympathizers of the entire British Royal family.",18.0,S09E18,9.0
+53181,ELAINE,I guess I'll just--,18.0,S09E18,9.0
+53182,PETERMAN,"Oh, no Elaine, stay. Lubeck here is the world's foremost appraiser of vintage pastry.",18.0,S09E18,9.0
+53183,PETERMAN,"All right, Lubeck. How much is she worth?",18.0,S09E18,9.0
+53184,LUBECK,I'd say about 219.,18.0,S09E18,9.0
+53185,PETERMAN,"Ha ha ha ha ha!$219,000! Lubeck, you glorious titwillow. You just made me a profit of $190,000.",18.0,S09E18,9.0
+53186,LUBECK,"No, $2.19. It's an Entenmann's.",18.0,S09E18,9.0
+53187,PETERMAN,Do they have a castle at Windsor?,18.0,S09E18,9.0
+53188,LUBECK,No. They have a display case at the end of the aisle.,18.0,S09E18,9.0
+53189,PETERMAN,"Oh, good lord.",18.0,S09E18,9.0
+53190,LUBECK,"You all right, Peterman? You look ill.",18.0,S09E18,9.0
+53191,ELAINE (singing),"Get well, get well soon, we want you to get well. Get well, get well soon we want you to get well.",18.0,S09E18,9.0
+53192,GEORGE,What are you guys doing?,18.0,S09E18,9.0
+53193,SHLOMO,Eat the fly. Eat the fly. Got him!,18.0,S09E18,9.0
+53194,GEORGE,You idiots. You're gonna wear down the battery.,18.0,S09E18,9.0
+53195,SLIPPERY PETE,"The batteries are fine. We've got...oh, god. only 3 minutes left.",18.0,S09E18,9.0
+53196,GEORGE,Quick. Get this thing back in the pizzeria,18.0,S09E18,9.0
+53197,KRAMER,"George, they closed up.",18.0,S09E18,9.0
+53198,GEORGE,I need an outlet!,18.0,S09E18,9.0
+53199,SLIPPERY PETE,A what?,18.0,S09E18,9.0
+]]></TEXT>
+<TAGS>
+<DIRECTION id="D0" spans="3126~3133" text="singing" description="none" action="yes" />
+<DIALOGUE id="DI0" spans="3136~3234" text="Get well, get well soon, we want you to get well. Get well, get well soon we want you to get well."  />
+<RELATION id="R0" fromID="D0" fromText="singing" toID="DI0" toText="Get well, get well soon, we want you to get well. Get well, get well soon we want you to get well." relationship="occurs-while" />
+</TAGS>
+</TemporalDirections>

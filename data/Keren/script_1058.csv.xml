@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalDirections>
+<TEXT><![CDATA[,Character,Dialogue,EpisodeNo,SEID,Season
+52850,JERRY,Get out of here!,17.0,S09E17,9.0
+52851,NEWMAN,(From outside the room) Kramer? Kramer? (Enters Jerry's bedroom) There you are.,17.0,S09E17,9.0
+52852,JERRY,Will everybody please leave?!,17.0,S09E17,9.0
+52853,NEWMAN,I just heard that a postman spotted a rickshaw down in Battery Park.,17.0,S09E17,9.0
+52854,KRAMER,Our rickshaw?,17.0,S09E17,9.0
+52855,NEWMAN,It's entirely possible.,17.0,S09E17,9.0
+52856,JERRY,I want everyone out!,17.0,S09E17,9.0
+52857,KRAMER,(Exiting the bedroom with Newman) Let's talk in Jerry's kitchen. I'll make some cocoa.,17.0,S09E17,9.0
+52858,NEWMAN,(To Jerry) Good night.,17.0,S09E17,9.0
+52859,JERRY,"(Bitter) Good night, Newman.",17.0,S09E17,9.0
+52860,[Setting,Park],17.0,S09E17,9.0
+52861,NEWMAN,There it is!,17.0,S09E17,9.0
+52862,KRAMER,Rusty!,17.0,S09E17,9.0
+52863,RUSTY,"Oh, there you are. Oh, do I get the job?",17.0,S09E17,9.0
+52864,KRAMER,"(Sarcastic) Yeah, yeah. We'll get back to you. (Pulling the rickshaw with Newman) Let's get this baby home.",17.0,S09E17,9.0
+52865,NEWMAN,Uh..,17.0,S09E17,9.0
+52866,KRAMER,What?,17.0,S09E17,9.0
+52867,NEWMAN,"You know, when you think about it, it's kind of silly for us both to pull this thing all t he way back uptown. I mean, after all, it is a conveyance.",17.0,S09E17,9.0
+52868,KRAMER,"Yes, that's true.",17.0,S09E17,9.0
+52869,NEWMAN,"So, which one of us is gonna pull?",17.0,S09E17,9.0
+52870,KRAMER,"Well, there's only one way to settle this. (Starts pointing back and forth between Newman and him with each word of the rhyme) One spot, two spot, zig, zag, tear, pop-die, pennygot, tennyum, tear, harum, scare 'em, rip 'em, tear 'em, tay, taw, toe..",17.0,S09E17,9.0
+52871,NEWMAN,(Realizing he won) Yeah.,17.0,S09E17,9.0
+52872,KRAMER,"Best two out of three? (Starts the pointing and the rhyme again) One spot, two spot..",17.0,S09E17,9.0
+52873,NEMWAN,"Hey, boy. Smooth it out up there. Too much jostling!",17.0,S09E17,9.0
+52874,[Setting,A homeless charity center],17.0,S09E17,9.0
+52875,REBECCA,"(Gesturing tward the book) So, you want to donate this to charity?",17.0,S09E17,9.0
+52876,GEORGE,"Well, I assume there's some sort of write-off.",17.0,S09E17,9.0
+52877,REBECCA,What's the value of the book?,17.0,S09E17,9.0
+52878,GEORGE,"Uh, about two hundred dollars, Miss DeMooney.",17.0,S09E17,9.0
+52879,REBECCA,(Correcting. Stern) It's DeMornay. Rebecca DeMornay.,17.0,S09E17,9.0
+52880,GEORGE,Oh.,17.0,S09E17,9.0
+52881,REBECCA,"(Opens the cover of the book) Oh, wait a second. (Certain) This book has been in the bathroom.",17.0,S09E17,9.0
+52882,GEORGE,(Nervous) Wh-what are you talking about? That - that's rediculous.,17.0,S09E17,9.0
+52883,REBECCA,"It's been flagged. I know. I used to work in a Brentano's. Mister, we're trying to help the homeless heare - it's bad enough that we have some nut out there trying to strap 'em to a rickshaw!",17.0,S09E17,9.0
+52884,GEORGE,"(Desperate to get rid of the book) Alright, I, I'll just take fifty. Do - do we have a deal?",17.0,S09E17,9.0
+52885,REBECCA,"Yeah, and here it is You get your toilet book out of here, and I won't jump over this counter and punch you in the brain!",17.0,S09E17,9.0
+52886,GEORGE,I could take it in merchandise..,17.0,S09E17,9.0
+52887,REBECCA,(Threatening to hit him) Here I come..,17.0,S09E17,9.0
+52888,[Setting,Bookstore],17.0,S09E17,9.0
+52889,ELAINE,"So, this book'll tell me how to get puke out of cashmere?",17.0,S09E17,9.0
+52890,CASHIER,Yeah.,17.0,S09E17,9.0
+52891,ELAINE,Great.,17.0,S09E17,9.0
+52892,JERRY,"(To Elaine) So, the worst is over?",17.0,S09E17,9.0
+52893,ELAINE,"Yeah. Now I can break up with him. He's clean, and I'm the office hero.",17.0,S09E17,9.0
+52894,JERRY,Seems like you're better at fake relationships than real ones.,17.0,S09E17,9.0
+52895,ELAIEN,"Yeah, huh. I even got an idea out of it. the Detox Poncho.",17.0,S09E17,9.0
+52896,ELAINE,(Leaving Jerry) See ya.,17.0,S09E17,9.0
+52897,JERRY,"(To cashier) I'd like to speak with the manager, please.",17.0,S09E17,9.0
+52898,[Setting,NYC Street],17.0,S09E17,9.0
+52899,NEWMAN,"Mind your pace, Boy. Chop, chop!",17.0,S09E17,9.0
+]]></TEXT>
+<TAGS>
+<DIRECTION id="D0" spans="101~122" text="From outside the room" description="none" action="no" />
+<DIRECTION id="D1" spans="141~163" text="Enters Jerry&apos;s bedroom" description="none" action="yes" />
+<DIRECTION id="D2" spans="511~542" text="Exiting the bedroom with Newman" description="none" action="yes" />
+<DIRECTION id="D3" spans="627~635" text="To Jerry" description="addressee" action="no" />
+<DIRECTION id="D4" spans="679~685" text="Bitter" description="manner" action="no" />
+<DIRECTION id="D5" spans="925~934" text="Sarcastic" description="manner" action="no" />
+<DIRECTION id="D6" spans="972~1004" text="Pulling the rickshaw with Newman" description="none" action="yes" />
+<DIRECTION id="D7" spans="1472~1553" text="Starts pointing back and forth between Newman and him with each word of the rhyme" description="none" action="yes" />
+<DIRECTION id="D8" spans="1709~1725" text="Realizing he won" description="none" action="no" />
+<DIRECTION id="D10" spans="1787~1826" text="Starts the pointing and the rhyme again" description="none" action="yes" />
+<DIRECTION id="D11" spans="2024~2048" text="Gesturing tward the book" description="reference" action="yes" />
+<DIRECTION id="D12" spans="2337~2354" text="Correcting. Stern" description="manner" action="no" />
+<DIRECTION id="D13" spans="2454~2481" text="Opens the cover of the book" description="none" action="yes" />
+<DIRECTION id="D14" spans="2503~2510" text="Certain" description="manner" action="no" />
+<DIRECTION id="D15" spans="2579~2586" text="Nervous" action="no" description="manner" />
+<DIRECTION id="D16" spans="2900~2932" text="Desperate to get rid of the book" action="no" description="manner" />
+<DIRECTION id="D17" spans="3240~3262" text="Threatening to hit him" description="none" action="yes" />
+<DIRECTION id="D18" spans="3511~3520" text="To Elaine" description="addressee" action="no" />
+<DIRECTION id="D19" spans="3860~3873" text="Leaving Jerry" action="yes" description="none" />
+<DIRECTION id="D20" spans="3913~3923" text="To cashier" description="addressee" action="no" />
+<DIALOGUE id="DI0" spans="124~139" text="Kramer? Kramer?"  />
+<DIALOGUE id="DI1" spans="165~179" text="There you are."  />
+<DIALOGUE id="DI2" spans="544~574" text="Let&apos;s talk in Jerry&apos;s kitchen."  />
+<DIALOGUE id="DI3" spans="637~648" text="Good night."  />
+<DIALOGUE id="DI4" spans="687~706" text="Good night, Newman."  />
+<DIALOGUE id="DI5" spans="936~947" text="Yeah, yeah."  />
+<DIALOGUE id="DI6" spans="1006~1031" text="Let&apos;s get this baby home."  />
+<DIALOGUE id="DI7" spans="1555~1677" text="One spot, two spot, zig, zag, tear, pop-die, pennygot, tennyum, tear, harum, scare &apos;em, rip &apos;em, tear &apos;em, tay, taw, toe.."  />
+<DIALOGUE id="DI8" spans="1727~1732" text="Yeah."  />
+<DIALOGUE id="DI9" spans="1827~1848" text=" One spot, two spot.."  />
+<DIALOGUE id="DI10" spans="2050~2089" text="So, you want to donate this to charity?"  />
+<DIALOGUE id="DI11" spans="2356~2388" text="It&apos;s DeMornay. Rebecca DeMornay."  />
+<DIALOGUE id="DI12" spans="2483~2501" text="Oh, wait a second."  />
+<DIALOGUE id="DI13" spans="2512~2547" text="This book has been in the bathroom."  />
+<DIALOGUE id="DI14" spans="2588~2644" text="Wh-what are you talking about? That - that&apos;s rediculous."  />
+<DIALOGUE id="DI15" spans="2934~2967" text="Alright, I, I&apos;ll just take fifty."  />
+<DIALOGUE id="DI16" spans="3264~3277" text="Here I come.."  />
+<DIALOGUE id="DI17" spans="3522~3544" text="So, the worst is over?"  />
+<DIALOGUE id="DI18" spans="3875~3882" text="See ya."  />
+<DIALOGUE id="DI19" spans="3925~3968" text="I&apos;d like to speak with the manager, please."  />
+<RELATION id="R0" fromID="D0" fromText="From outside the room" toID="DI0" toText="Kramer? Kramer?" relationship="occurs-while" />
+<RELATION id="R1" fromID="D1" fromText="Enters Jerry&apos;s bedroom" toID="DI1" toText="There you are." relationship="next-dialogue" />
+<RELATION id="R2" fromID="D2" fromText="Exiting the bedroom with Newman" toID="DI2" toText="Let&apos;s talk in Jerry&apos;s kitchen." relationship="occurs-while" />
+<RELATION id="R3" fromID="D3" fromText="To Jerry" toID="DI3" toText="Good night." relationship="occurs-while" />
+<RELATION id="R4" fromID="D4" fromText="Bitter" toID="DI4" toText="Good night, Newman." relationship="occurs-while" />
+<RELATION id="R5" fromID="D5" fromText="Sarcastic" toID="DI5" toText="Yeah, yeah." relationship="occurs-while" />
+<RELATION id="R6" fromID="D6" fromText="Pulling the rickshaw with Newman" toID="DI6" toText="Let&apos;s get this baby home." relationship="occurs-while" />
+<RELATION id="R7" fromID="D7" fromText="Starts pointing back and forth between Newman and him with each word of the rhyme" toID="DI7" toText="One spot, two spot, zig, zag, tear, pop-die, pennygot, tennyum, tear, harum, scare &apos;em, rip &apos;em, tear &apos;em, tay, taw, toe.." relationship="occurs-while" />
+<RELATION id="R8" fromID="D8" fromText="Realizing he won" toID="DI8" toText="Yeah." relationship="next-dialogue" />
+<RELATION id="R9" fromID="D10" fromText="Starts the pointing and the rhyme again" toID="DI9" toText=" One spot, two spot.." relationship="occurs-while" />
+<RELATION id="R10" fromID="D11" fromText="Gesturing tward the book" toID="DI10" toText="So, you want to donate this to charity?" relationship="occurs-while" />
+<RELATION id="R11" fromID="D12" fromText="Correcting. Stern" toID="DI11" toText="It&apos;s DeMornay. Rebecca DeMornay." relationship="occurs-while" />
+<RELATION id="R12" fromID="D13" fromText="Opens the cover of the book" toID="DI12" toText="Oh, wait a second." relationship="next-dialogue" />
+<RELATION id="R13" fromID="D14" fromText="Certain" toID="DI13" toText="This book has been in the bathroom." relationship="occurs-while" />
+<RELATION id="R14" fromID="D15" fromText="Nervous" toID="DI14" toText="Wh-what are you talking about? That - that&apos;s rediculous." relationship="occurs-while" />
+<RELATION id="R15" fromID="D16" fromText="Desperate to get rid of the book" toID="DI15" toText="Alright, I, I&apos;ll just take fifty." relationship="occurs-while" />
+<RELATION id="R16" fromID="D17" fromText="Threatening to hit him" toID="DI16" toText="Here I come.." relationship="occurs-while" />
+<RELATION id="R17" fromID="D18" fromText="To Elaine" toID="DI17" toText="So, the worst is over?" relationship="occurs-while" />
+<RELATION id="R18" fromID="D19" fromText="Leaving Jerry" toID="DI18" toText="See ya." relationship="occurs-while" />
+<RELATION id="R19" fromID="D20" fromText="To cashier" toID="DI19" toText="I&apos;d like to speak with the manager, please." relationship="occurs-while" />
+</TAGS>
+</TemporalDirections>

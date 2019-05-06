@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalDirections>
+<TEXT><![CDATA[,Character,Dialogue,EpisodeNo,SEID,Season
+53400,CINDY,"Hi, Kramer.",19.0,S09E19,9.0
+53401,CINDY,"Thanks, Jerry. Bye.",19.0,S09E19,9.0
+53402,KRAMER,"Well, what's the matter?",19.0,S09E19,9.0
+53403,JERRY,What did I just pay for?,19.0,S09E19,9.0
+53404,KRAMER,Uh-oh. You're a john.,19.0,S09E19,9.0
+53405,JERRY,Koko?,19.0,S09E19,9.0
+53406,GEORGE,Koko.,19.0,S09E19,9.0
+53407,JERRY,"Well, it's probably the most intelligent ape there is.",19.0,S09E19,9.0
+53408,GEORGE,"Yeah. So, how's Cindy the maid?",19.0,S09E19,9.0
+53409,JERRY,"Well, everything's goin' great except, basically, I'm payin' for sex.",19.0,S09E19,9.0
+53410,GEORGE,"Tell me about it. I went out with this girl last week. First I had to pay for dinner, then--",19.0,S09E19,9.0
+53411,JERRY,"No, George. She's coming over and not cleaning. It's like I'm seein' a prostitute.",19.0,S09E19,9.0
+53412,GEORGE,How much you pay this maid?,19.0,S09E19,9.0
+53413,JERRY,40.,19.0,S09E19,9.0
+53414,GEORGE,"40? I'm payin' 60 to my maid. She doesn't do laundry and I'm gettin' nothin'. All right. Once she pinched my ass, but I don't know what that was.",19.0,S09E19,9.0
+53415,JERRY,I don't know what this is.,19.0,S09E19,9.0
+53416,KRAMER,"Hey, hey, hey. Look at that.",19.0,S09E19,9.0
+53417,JERRY,Ooh.,19.0,S09E19,9.0
+53418,KRAMER,"Jerry, you wouldn't believe what it's like down there. Taxicab drivers are insane. You know, everybody is in a hurry.",19.0,S09E19,9.0
+53419,GEORGE,I can't eat with you leanin' over like this. Just look straight forward.,19.0,S09E19,9.0
+53420,KRAMER,"Well, now I can't see Jerry.",19.0,S09E19,9.0
+53421,JERRY,I look about the same.,19.0,S09E19,9.0
+53422,GEORGE,What?,19.0,S09E19,9.0
+53423,JERRY,I was talking to him.,19.0,S09E19,9.0
+53424,KRAMER,What?,19.0,S09E19,9.0
+53425,JERRY,Never mind.,19.0,S09E19,9.0
+53426,KRAMER,Come on. What'd he say?,19.0,S09E19,9.0
+53427,GEORGE,Never mind.,19.0,S09E19,9.0
+53428,KRAMER,"Jerry, come on. What'd you say?",19.0,S09E19,9.0
+53429,JERRY,What?,19.0,S09E19,9.0
+53430,KRAMER,Come on. Where'd you go?,19.0,S09E19,9.0
+53431,JERRY,Go back.,19.0,S09E19,9.0
+53432,KRAMER,Eh! Come on. What did you say?,19.0,S09E19,9.0
+53433,JERRY,"I said, never mind.",19.0,S09E19,9.0
+53434,KRAMER,"Yeah. I know that. Uh, uh.",19.0,S09E19,9.0
+53435,JERRY,I hate the counter.,19.0,S09E19,9.0
+53436,ELAINE,Hey.,19.0,S09E19,9.0
+53437,JERRY,Hey.,19.0,S09E19,9.0
+53438,ELAINE,I hate the counter.,19.0,S09E19,9.0
+53439,KRAMER,Who's that?,19.0,S09E19,9.0
+53440,ELAINE (to Jerry),"Well, I got a 212 number from this little old lady in my building-- Mrs. Krantz.",19.0,S09E19,9.0
+53441,JERRY,"Oh, she didn't mind?",19.0,S09E19,9.0
+53442,ELAINE,No. She died.,19.0,S09E19,9.0
+53443,JERRY,"Hey, that's great.",19.0,S09E19,9.0
+53444,GEORGE,What happened to Mrs. Krantz?,19.0,S09E19,9.0
+53445,JERRY,Elaine got a new number because she died.,19.0,S09E19,9.0
+53446,KRAMER,Newman died?,19.0,S09E19,9.0
+53447,ELAINE,What did he say?,19.0,S09E19,9.0
+53448,JERRY,Some new kind of pie.,19.0,S09E19,9.0
+53449,GEORGE,I'll try a piece.,19.0,S09E19,9.0
+]]></TEXT>
+<TAGS>
+<DIRECTION id="D0" spans="2453~2461" text="to Jerry" description="addressee" action="no" />
+<DIALOGUE id="DI0" spans="2464~2544" text="Well, I got a 212 number from this little old lady in my building-- Mrs. Krantz."  />
+<RELATION id="R0" fromID="D0" fromText="to Jerry" toID="DI0" toText="Well, I got a 212 number from this little old lady in my building-- Mrs. Krantz." relationship="occurs-while" />
+</TAGS>
+</TemporalDirections>

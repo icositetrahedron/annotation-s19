@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalDirections>
+<TEXT><![CDATA[39,GEORGE,"All right, all right, I didnt want to tell you this. You wanna know why she called you?",1.0,S01E01,1.0
+40,JERRY,Yes!,1.0,S01E01,1.0
+41,GEORGE,"Youre a back-up, youre a second-line, a just-in-case, a B-plan, a contingency!",1.0,S01E01,1.0
+42,JERRY,"Oh, I get it, this is about the button.",1.0,S01E01,1.0
+43,GEORGE,"Claire, Claire, youre a woman, right?",1.0,S01E01,1.0
+44,CLAIRE,"What gave it away, George?",1.0,S01E01,1.0
+45,GEORGE,"Uhm...Id like to ask you...ask you to analyze a hypothetical phone call, you know, from a female point of view.",1.0,S01E01,1.0
+46,GEORGE,"(to Claire) Now, a woman calls me, all right?",1.0,S01E01,1.0
+47,CLAIE,Uh huh.,1.0,S01E01,1.0
+48,GEORGE,She says she has to come to New York on business...,1.0,S01E01,1.0
+]]></TEXT>
+<TAGS>
+<DIRECTION id="D0" spans="586~595" text="to Claire" description="addressee" action="no" />
+<DIALOGUE id="DI0" spans="597~629" text="Now, a woman calls me, all right"  />
+<RELATION id="R0" toID="DI0" toText="Now, a woman calls me, all right" fromID="D0" fromText="to Claire" relationship="occurs-while" />
+</TAGS>
+</TemporalDirections>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalDirections>
+<TEXT><![CDATA[289,JERRY,"How do you like that? (tries to turn away again; thinking)Can I turn now? Is this over? No, I cant, I cant. Im stuck.",1.0,S01E01,1.0
+290,ELAINE,(noticing Jerry not wanting to listen; annoyed) Jerry? Are you listening to me?,1.0,S01E01,1.0
+291,JERRY,"Yes, I heard you.",1.0,S01E01,1.0
+292,PAMELA,"Elaine, whats the name of that jewelry store you took me to that time?",1.0,S01E01,1.0
+293,JERRY,"(thinking) Thank you, Pamela! (turns to talk to Vanessa; to Vanessa) So, youre a lawyer...",1.0,S01E01,1.0
+294,VANESSA,"Sagman, Bennet, Robbins, Oppenheim and Taft.",1.0,S01E01,1.0
+295,JERRY,"(thinking) Sagman, Bennet, Robbins, Oppenheim and Taft. Sagman, Bennet, Robbins, Oppenheim and Taft... (to Vanessa) Of course, they handled my tattoo removal lawsuit.",1.0,S01E01,1.0
+296,VANESSA,"Oh, that was you?",1.0,S01E01,1.0
+297,JERRY,"Imagine, spelling Mom with two Os.",1.0,S01E01,1.0
+298,VANESSA,Very funny! What do you do?,1.0,S01E01,1.0
+]]></TEXT>
+<TAGS>
+<DIRECTION id="D0" spans="34~58" text="tries to turn away again" description="none" action="no" />
+<DIRECTION id="D1" spans="60~68" text="thinking" description="none" action="no" />
+<DIRECTION id="D2" spans="157~193" text="noticing Jerry not wanting to listen" action="no" description="none" />
+<DIRECTION id="D3" spans="195~202" text="annoyed" description="manner" action="no" />
+<DIRECTION id="D4" spans="407~415" text="thinking" description="none" action="no" />
+<DIRECTION id="D5" spans="437~461" text="turns to talk to Vanessa" description="addressee" action="yes" />
+<DIRECTION id="D6" spans="463~473" text="to Vanessa" description="addressee" action="no" />
+<DIRECTION id="D7" spans="599~607" text="thinking" description="none" action="no" />
+<DIRECTION id="D8" spans="702~712" text="to Vanessa" description="addressee" action="no" />
+<DIALOGUE id="DI0" spans="11~32" text="How do you like that?"  />
+<DIALOGUE id="DI1" spans="69~98" text="Can I turn now? Is this over?"  />
+<DIALOGUE id="DI2" spans="204~235" text="Jerry? Are you listening to me?"  />
+<DIALOGUE id="DI3" spans="417~435" text="Thank you, Pamela!"  />
+<DIALOGUE id="DI4" spans="475~496" text="So, youre a lawyer..."  />
+<DIALOGUE id="DI5" spans="609~700" text="Sagman, Bennet, Robbins, Oppenheim and Taft. Sagman, Bennet, Robbins, Oppenheim and Taft..."  />
+<DIALOGUE id="DI6" spans="714~764" text="Of course, they handled my tattoo removal lawsuit."  />
+<RELATION id="R0" fromID="D0" fromText="tries to turn away again" toID="DI0" toText="How do you like that?" relationship="occurs-while" />
+<RELATION id="R1" fromID="D1" fromText="thinking" toID="DI1" toText="Can I turn now? Is this over?" relationship="occurs-while" />
+<RELATION id="R2" fromID="D2" fromText="noticing Jerry not wanting to listen" toID="DI2" toText="Jerry? Are you listening to me?" relationship="next-dialogue" />
+<RELATION id="R3" fromID="D3" fromText="annoyed" toID="DI2" toText="Jerry? Are you listening to me?" relationship="occurs-while" />
+<RELATION id="R4" fromID="D4" fromText="thinking" toID="DI3" toText="Thank you, Pamela!" relationship="occurs-while" />
+<RELATION id="R5" fromID="D5" fromText="turns to talk to Vanessa" toID="DI4" toText="So, youre a lawyer..." relationship="next-dialogue" />
+<RELATION id="R6" fromID="D6" fromText="to Vanessa" toID="DI4" toText="So, youre a lawyer..." relationship="occurs-while" />
+<RELATION id="R7" fromID="D7" fromText="thinking" toID="DI5" toText="Sagman, Bennet, Robbins, Oppenheim and Taft. Sagman, Bennet, Robbins, Oppenheim and Taft..." relationship="occurs-while" />
+<RELATION id="R8" fromID="D8" fromText="to Vanessa" toID="DI6" toText="Of course, they handled my tattoo removal lawsuit." relationship="occurs-while" />
+</TAGS>
+</TemporalDirections>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalDirections>
+<TEXT><![CDATA[139,KESSLER,Why even give her an option for?,1.0,S01E01,1.0
+140,KESSLER,"(to George, pointing at the mattress) Its unbelievable.",1.0,S01E01,1.0
+141,GEORGE,Yeah.,1.0,S01E01,1.0
+142,KESSLER,Hows the real estate-business?,1.0,S01E01,1.0
+143,GEORGE,"(feeling awkward) Its uh, not bad, its comin along. Why? Did you need something.",1.0,S01E01,1.0
+144,KRAMER,Do you handle any of that commercial...real estate?,1.0,S01E01,1.0
+145,GEORGE,"Well, I might be getting into that.",1.0,S01E01,1.0
+146,KESSLER,(slaps George on the arm) You keep me posted!,1.0,S01E01,1.0
+147,GEORGE,"Im aware of you. (to Jerry) All right, lets go (opens the bathroom door) Lets go!",1.0,S01E01,1.0
+148,JERRY,"The dating world is not a fun world...its a pressure world, its a world of tension, its a world of pain...and you know, if a woman comes over to my house, I gotta get that bathroom ready, cause she needs things. Women need equipment. I dont know what they need. I know I dont have it, I know that- You know what they need, women seem to need a lot of cotton-balls. This is the one Im- always has been one of the amazing things to me...I have no cotton-balls, were all human beings, what is the story? Ive never had one...I never bought one, I never needed one, Ive never been in a situation, when I thought to myself I could use a cotton-ball right now. I can certainly get out of this mess. Women need them and they dont need one or two, they need thousands of them, they need bags, theyre like peat moss bags, have you ever seen these giant bags? Theyre huge and two days later, theyre out, theyre gone, the, the bag is empty, where are the cotton-balls, ladies? What are you doin with them? The only time I ever see em is in the bottom of your little waste basket, theres two or three, that look like theyve been through some horrible experience... tortured, interrogated, I dont know what happened to them. I once went out with a girl whos left a little zip-lock-baggy of cotton-balls over at my house. I dont know what to do with them, I took them out, I put them on my kitchen floor like little tumbleweeds. I thought maybe the cockroaches would see it, figure this is a dead town. Lets move on. The dating world is a world of pressure. Lets face it a date is a job interview that lasts all night. The only difference between a date and a job interview is not many job interviews is there a chance youll end up naked at the end of it. You know? Well, Bill, the boss thinks youre the man for the position, why dont you strip down and meet some of the people youll be workin with?",1.0,S01E01,1.0
+]]></TEXT>
+<TAGS>
+<DIRECTION id="D0" spans="74~83" text="to George" description="addressee" action="no" />
+<DIRECTION id="D1" spans="85~109" text="pointing at the mattress" description="reference" action="yes" />
+<DIRECTION id="D2" spans="248~263" text="feeling awkward" description="manner" action="no" />
+<DIRECTION id="D3" spans="499~522" text="slaps George on the arm" description="none" action="yes" />
+<DIRECTION id="D4" spans="589~597" text="to Jerry" description="addressee" action="no" />
+<DIRECTION id="D5" spans="619~642" text="opens the bathroom door" description="none" action="yes" />
+<DIALOGUE id="DI0" spans="111~127" text="Its unbelievable"  />
+<DIALOGUE id="DI1" spans="265~297" text="Its uh, not bad, its comin along"  />
+<DIALOGUE id="DI2" spans="524~542" text="You keep me posted"  />
+<DIALOGUE id="DI3" spans="599~617" text="All right, lets go"  />
+<DIALOGUE id="DI4" spans="644~651" text="Lets go"  />
+<RELATION id="R0" fromID="D0" fromText="to George" toID="DI0" toText="Its unbelievable" relationship="occurs-while" />
+<RELATION id="R1" fromID="D1" fromText="pointing at the mattress" toID="DI0" toText="Its unbelievable" relationship="occurs-while" />
+<RELATION id="R2" fromID="D2" fromText="feeling awkward" toID="DI1" toText="Its uh, not bad, its comin along" relationship="occurs-while" />
+<RELATION id="R3" fromID="D3" fromText="slaps George on the arm" toID="DI2" toText="You keep me posted" relationship="occurs-while" />
+<RELATION id="R4" fromID="D4" fromText="to Jerry" toID="DI3" toText="All right, lets go" relationship="occurs-while" />
+<RELATION id="R5" fromID="D5" fromText="opens the bathroom door" toID="DI4" toText="Lets go" relationship="occurs-while" />
+</TAGS>
+</TemporalDirections>

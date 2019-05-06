@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalDirections>
+<TEXT><![CDATA[29,GEORGE,"So, you know, she calls and says she wants to go out with you tomorrow night? God bless! Devil you!",1.0,S01E01,1.0
+30,JERRY,"Yeah, well...not exactly. I mean, she said, you know, she called this morning and said she had to come in for a seminar and maybe well get together.",1.0,S01E01,1.0
+31,GEORGE,"(whistles disapprovingly) Ho ho ho, Had to? Had to come in?",1.0,S01E01,1.0
+32,JERRY,"Yeah, but...",1.0,S01E01,1.0
+33,GEORGE,Had to come in and maybe well get together? Had to and maybe?,1.0,S01E01,1.0
+34,JERRY,Yeah!,1.0,S01E01,1.0
+35,GEORGE,"No...no...no, I hate to tell you this. Youre not gonna see this woman.",1.0,S01E01,1.0
+36,JERRY,"What, are you serious...why, why did she call?",1.0,S01E01,1.0
+37,GEORGE,"How do I know, maybe, you know, maybe she wanted to be polite.",1.0,S01E01,1.0
+38,JERRY,To be polite? You are insane!,1.0,S01E01,1.0
+]]></TEXT>
+<TAGS>
+<DIRECTION id="D0" spans="314~337" text="whistles disapprovingly" description="none" action="yes" />
+<DIALOGUE id="DI0" spans="339~355" text="Ho ho ho, Had to"  />
+<RELATION id="R0" toID="DI0" toText="Ho ho ho, Had to" fromID="D0" fromText="whistles disapprovingly" relationship="next-dialogue" />
+</TAGS>
+</TemporalDirections>

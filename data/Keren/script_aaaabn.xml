@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalDirections>
+<TEXT><![CDATA[389,JERRY,"What, theres something wrong with Loni Anderson? (pause) Hey listen, thanks again for running over here. I appreciate it.",1.0,S01E01,1.0
+390,GEORGE,"Yeah, sure. I was showing a condo on 48th street. Besides, you think I wanna miss this? (chuckles)",1.0,S01E01,1.0
+391,JERRY,Im a little nervous.,1.0,S01E01,1.0
+392,GEORGE,"Yeah, me too...",1.0,S01E01,1.0
+393,JERRY,"If I see her, what do I say that Im doing here in the building?",1.0,S01E01,1.0
+394,GEORGE,You came to see me. I work in the building.,1.0,S01E01,1.0
+395,JERRY,What do you do?,1.0,S01E01,1.0
+396,GEORGE,Im an architect.,1.0,S01E01,1.0
+397,JERRY,Youre an architect?,1.0,S01E01,1.0
+398,GEORGE,Im not?,1.0,S01E01,1.0
+]]></TEXT>
+<TAGS>
+<DIRECTION id="D0" spans="250~258" text="chuckles" description="none" action="yes" />
+<DIRECTION id="D1" spans="61~66" text="pause" description="manner" action="yes" />
+<DIALOGUE id="DI0" spans="173~248" text="I was showing a condo on 48th street. Besides, you think I wanna miss this?"  />
+<DIALOGUE id="DI1" spans="68~115" text="Hey listen, thanks again for running over here."  />
+<RELATION id="R0" fromID="D1" fromText="pause" toID="DI1" toText="Hey listen, thanks again for running over here." relationship="next-dialogue" />
+<RELATION id="R1" fromID="D0" fromText="chuckles" toID="DI0" toText="I was showing a condo on 48th street. Besides, you think I wanna miss this?" relationship="next-dialogue" />
+</TAGS>
+</TemporalDirections>

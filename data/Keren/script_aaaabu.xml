@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalDirections>
+<TEXT><![CDATA[459,JERRY,Hi.,1.0,S01E01,1.0
+460,MORTY,"(cleaning his shoes) Good evening, Mr. Kramer!",1.0,S01E01,1.0
+461,KRAMER,Hey Morty! (to Jerry) Salad dressing?,1.0,S01E01,1.0
+462,JERRY,Look.,1.0,S01E01,1.0
+463,HELEN,Quo. Is that a word?,1.0,S01E01,1.0
+464,JERRY,Maybe!,1.0,S01E01,1.0
+465,HELEN,Will you challenge it?,1.0,S01E01,1.0
+466,JERRY,"Ma, you cant look up words in the dictionary! (to Morty) Dad, shes cheating!",1.0,S01E01,1.0
+467,KRAMER,Quo? Thats not a word.,1.0,S01E01,1.0
+468,HELEN,(to Jerry) Youre such a stickler...,1.0,S01E01,1.0
+]]></TEXT>
+<TAGS>
+<DIRECTION id="D0" spans="41~59" text="cleaning his shoes" description="none" action="yes" />
+<DIRECTION id="D1" spans="126~134" text="to Jerry" description="addressee" action="no" />
+<DIRECTION id="D2" spans="382~390" text="to Morty" description="addressee" action="no" />
+<DIRECTION id="D3" spans="488~496" text="to Jerry" description="addressee" action="no" />
+<DIALOGUE id="DI0" spans="61~86" text="Good evening, Mr. Kramer!"  />
+<DIALOGUE id="DI1" spans="136~151" text="Salad dressing?"  />
+<DIALOGUE id="DI2" spans="392~411" text="Dad, shes cheating!"  />
+<DIALOGUE id="DI3" spans="498~522" text="Youre such a stickler..."  />
+<RELATION id="R0" fromID="D3" fromText="to Jerry" toID="DI3" toText="Youre such a stickler..." relationship="occurs-while" />
+<RELATION id="R1" fromID="D2" fromText="to Morty" toID="DI2" toText="Dad, shes cheating!" relationship="occurs-while" />
+<RELATION id="R2" fromID="D1" fromText="to Jerry" toID="DI1" toText="Salad dressing?" relationship="occurs-while" />
+<RELATION id="R3" fromID="D0" fromText="cleaning his shoes" toID="DI0" toText="Good evening, Mr. Kramer!" relationship="occurs-while" />
+</TAGS>
+</TemporalDirections>

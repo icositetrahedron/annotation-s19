@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalDirections>
+<TEXT><![CDATA[,Character,Dialogue,EpisodeNo,SEID,Season
+53350,KRAMER (from bathroom),"Hey, is that T-bone?!",19.0,S09E19,9.0
+53351,JERRY,No! There's no T-bone!,19.0,S09E19,9.0
+53352,KRAMER,"Well, why no T-bone?!",19.0,S09E19,9.0
+53353,JERRY,Why no T-bone?,19.0,S09E19,9.0
+53354,GEORGE,'Cause Neil Watkins from accounting is T-bone!,19.0,S09E19,9.0
+53355,KRAMER,"Oh, yeah I'm back. Hey, you wanna play cards over the phone?",19.0,S09E19,9.0
+53356,KRAMER,"Oh, hey, uh, listen, Jerry, uh, laundry's pilin' up there. You might want to tell your girlfriend. Mmm. Yeah.",19.0,S09E19,9.0
+53357,GEORGE,Your girlfriend is doin' your laundry?,19.0,S09E19,9.0
+53358,KRAMER (from hallway),He's sleeping with his maid!,19.0,S09E19,9.0
+53359,GEORGE,You're sleepin' with the maid?,19.0,S09E19,9.0
+53360,JERRY,Yes.,19.0,S09E19,9.0
+53361,GEORGE,I've done that. Did you ever eat an ostrich burger?,19.0,S09E19,9.0
+53362,JERRY,No.,19.0,S09E19,9.0
+53363,MAN,You're probably one of those women who doesn't like to give out her number.,19.0,S09E19,9.0
+53364,ELAINE,"No, I'm not. Here you go.",19.0,S09E19,9.0
+53365,MAN,646?,19.0,S09E19,9.0
+53366,ELAINE,It's a new area code.,19.0,S09E19,9.0
+53367,MAN,What area? New Jersey?,19.0,S09E19,9.0
+53368,ELAINE,"No, no. It's right here in the city. It's the same as 212. They just multiplied it by 3, and then they added one to the middle number. It's the same.",19.0,S09E19,9.0
+53369,MAN,Do I have to dial a one first?,19.0,S09E19,9.0
+53370,MAN,I'm really kinda seein' somebody.,19.0,S09E19,9.0
+53371,ELAINE,"Yeah? Well, so am I!",19.0,S09E19,9.0
+53372,GEORGE,"Excuse me. Can I talk to you for a second there, Watkins?",19.0,S09E19,9.0
+53373,WATKINS,It's T-bone.,19.0,S09E19,9.0
+53374,GEORGE,The thing is...I'm supposed to be T-bone.,19.0,S09E19,9.0
+53375,WATKINS,Heh heh. You're not a T-bone. You're a perfect George.,19.0,S09E19,9.0
+53376,GEORGE,"What? Now, you listen to me!",19.0,S09E19,9.0
+53377,KRUGER,"Hey, look at George. He's givin' it to T-bone. He's jumpin' up and down like some kind of monkey. Hey, what was the name of that monkey that could read sign language?",19.0,S09E19,9.0
+53378,WATKINS,"All right, you can have T-bone. Stop crying.",19.0,S09E19,9.0
+53379,GEORGE (sniffling),I'm not crying. And I shouldn't have said that about your wife. Please accept my apologies.,19.0,S09E19,9.0
+53380,GEORGE,"Ok, everybody, uh...I have an announcement to make. From now on, I will be known as-",19.0,S09E19,9.0
+53381,KRUGER,Koko the monkey.,19.0,S09E19,9.0
+53382,GEORGE,What?,19.0,S09E19,9.0
+53383,ALL (chanting),Koko! Koko! Koko! Koko! Koko! Koko! Koko! Koko! Koko! Koko!,19.0,S09E19,9.0
+53384,MAN,Thank you both for being here.,19.0,S09E19,9.0
+53385,EALINE,"Um, excuse me. I live in the building. Did something happen to Mrs. Krantz?",19.0,S09E19,9.0
+53386,MAN,She passed.,19.0,S09E19,9.0
+53387,ELAINE,"Oh, I'm so sorry.",19.0,S09E19,9.0
+53388,MAN,Thank you.,19.0,S09E19,9.0
+53389,ELAINE,A quick question-- did she by any chance have a 212 phone number?,19.0,S09E19,9.0
+53390,CINDY,"I can't find my earring. Oh, here it is.",19.0,S09E19,9.0
+53391,KRAMER,"Hey, listen, can I borrow your suitcases?",19.0,S09E19,9.0
+53392,JERRY,Yeah. It's in your closet.,19.0,S09E19,9.0
+53393,KRAMER,"No, no, no. I looked.",19.0,S09E19,9.0
+53394,JERRY,They're behind my skis and my tennis racket.,19.0,S09E19,9.0
+53395,KRAMER,"Thanks, buddy.",19.0,S09E19,9.0
+53396,JERRY,Where you goin'?,19.0,S09E19,9.0
+53397,KRAMER,"Huh? Well, I'm gettin' out of town. I'm gonna visit Madeline for the weekend. You know, this place is lookin' kinda messy. What happened to Cindy?",19.0,S09E19,9.0
+53398,JERRY,"Well, she's here. She just didn't get around to it.",19.0,S09E19,9.0
+53399,KRAMER,Oh.,19.0,S09E19,9.0
+]]></TEXT>
+<TAGS>
+<DIRECTION id="D0" spans="56~69" text="from bathroom" description="none" action="no" />
+<DIRECTION id="D1" spans="649~661" text="from hallway" description="none" action="no" />
+<DIRECTION id="D2" spans="2191~2200" text="sniffling" description="none" action="yes" />
+<DIRECTION id="D3" spans="2518~2526" text="chanting" description="none" action="yes" />
+<DIALOGUE id="DI0" spans="72~93" text="Hey, is that T-bone?!"  />
+<DIALOGUE id="DI1" spans="663~691" text="He&apos;s sleeping with his maid!"  />
+<DIALOGUE id="DI2" spans="2202~2217" text="I&apos;m not crying."  />
+<DIALOGUE id="DI3" spans="2528~2587" text="Koko! Koko! Koko! Koko! Koko! Koko! Koko! Koko! Koko! Koko!"  />
+<RELATION id="R1" fromID="D3" fromText="chanting" toID="DI3" toText="Koko! Koko! Koko! Koko! Koko! Koko! Koko! Koko! Koko! Koko!" relationship="occurs-while" />
+<RELATION id="R2" fromID="D2" fromText="sniffling" toID="DI2" toText="I&apos;m not crying." relationship="next-dialogue" />
+<RELATION id="R3" fromID="D1" fromText="from hallway" toID="DI1" toText="He&apos;s sleeping with his maid!" relationship="occurs-while" />
+<RELATION id="R4" fromID="D0" fromText="from bathroom" toID="DI0" toText="Hey, is that T-bone?!" relationship="occurs-while" />
+</TAGS>
+</TemporalDirections>

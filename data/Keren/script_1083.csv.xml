@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalDirections>
+<TEXT><![CDATA[,Character,Dialogue,EpisodeNo,SEID,Season
+54100,JERRY,Anywhere.,23.0,S09E23,9.0
+54101,ELAINE,Why are they doing this?,23.0,S09E23,9.0
+54102,JERRY,I think they want to make it up to us cause they let this thing sit on their shelf for five years.,23.0,S09E23,9.0
+54103,ELAINE,This is all very exciting.,23.0,S09E23,9.0
+54104,GEORGE,So? Where are we going?,23.0,S09E23,9.0
+54105,KRAMER,I say Japan.,23.0,S09E23,9.0
+54106,ELAINE,Why Japan?,23.0,S09E23,9.0
+54107,KRAMER,"Oh - geishas - they cater to your every whim. They're shy at first, but they're quite skilled at conversation. They can discuss anything from world affairs to the fine art of fishing - or baking.",23.0,S09E23,9.0
+54108,ELAINE,Oh - I got it - how about Russia?,23.0,S09E23,9.0
+54109,JERRY,"Russia, it's so bleak.",23.0,S09E23,9.0
+54110,ELAINE,It's not bleak - it's springtime.,23.0,S09E23,9.0
+54111,JERRY,It's still bleak.,23.0,S09E23,9.0
+54112,ELAINE,You can't be bleak in spring.,23.0,S09E23,9.0
+54113,JERRY,You can be bleak in spring.,23.0,S09E23,9.0
+54114,GEORGE,"If you're bleak, you're bleak.",23.0,S09E23,9.0
+54115,ELAINE,What about Switzerland?,23.0,S09E23,9.0
+54116,KRAMER,"Oh - Switzerland - the Von Trapp family, huh?",23.0,S09E23,9.0
+54117,GEORGE,It's a bit hilly - no?,23.0,S09E23,9.0
+54118,ELAINE,You're not going to do any walking.,23.0,S09E23,9.0
+54119,GEORGE,What if I want to walk around a little?,23.0,S09E23,9.0
+54120,ELAINE,So then you'll walk down the hill and we'll pick you up.,23.0,S09E23,9.0
+54121,GEORGE,What if I'm at the bottom?,23.0,S09E23,9.0
+54122,ELAINE,"All right! You know what, just forget it!",23.0,S09E23,9.0
+54123,JERRY,"Alright - come on - come on now, people. Let's face it, we're not all going to agree on anything. Why don't we all just go to Paris?",23.0,S09E23,9.0
+54124,ELAINE,I'll go to Paris.,23.0,S09E23,9.0
+54125,GEORGE,Me too.,23.0,S09E23,9.0
+54126,KRAMER,Oh yeah - oui oui.,23.0,S09E23,9.0
+54127,JERRY,"So that's it - it's settled, we're going to Paris.",23.0,S09E23,9.0
+54128,GROUP,Yeah!,23.0,S09E23,9.0
+54129,ELAINE,Hey. NBC limo is downstairs - beep beep beep. {NBC tune} I'm just going to call Jill one more time before we go.,23.0,S09E23,9.0
+54130,JERRY,"Wait, you can't make a call like that on your way out. You can't rush that conversation.",23.0,S09E23,9.0
+54131,ELAINE,"Well, I can't call from the limo. Can I call from the plane?",23.0,S09E23,9.0
+54132,JERRY,"First you make a cell-phone walk-and-talk, then she loses a call-waiting face-off, now you're talking about a plane call?",23.0,S09E23,9.0
+54133,ELAINE,"All right, I'll just have to call her from Paris.",23.0,S09E23,9.0
+54134,NEWMAN,"Hello, Jerry.",23.0,S09E23,9.0
+54135,JERRY,"Hello, Newman. What gives?",23.0,S09E23,9.0
+54136,NEWMAN,I was speaking earlier with Kramer and he mentioned something about a private jet to Paris?,23.0,S09E23,9.0
+54137,JERRY,"Yeah, that's right.",23.0,S09E23,9.0
+54138,NEWMAN,"Well, I hear it's quite beautiful there this time of year, and of course you know I'm one-quarter French.",23.0,S09E23,9.0
+54139,JERRY,Really.,23.0,S09E23,9.0
+54140,NEWMAN,"Oh yes, in fact I still have family there. This probably won't interest you, but I have a cousin there who's suffering very badly. She's lost all use of her muscles. She can only communicate by blinking. I would so love to see her - bring a ray of sunshine into her tragic life. But alas, I can't afford it, for I am, as you know, but a simple postal worker.",23.0,S09E23,9.0
+54141,JERRY,That's a shame.,23.0,S09E23,9.0
+54142,NEWMAN,Take me! Take me!,23.0,S09E23,9.0
+54143,JERRY,"Oh, forget it. Pull yourself together. You're making me sick. Be a man!",23.0,S09E23,9.0
+54144,NEWMAN,"All right! But hear me and hear me well - The day will come. Oh yes, mark my words, Seinfeld - your day of reckoning is coming. When an evil wind will blow through your little playworld, and wipe that smug smile off your face. And I'll be there, in all my glory, watching - watching as it all comes crumbling down.",23.0,S09E23,9.0
+54145,CAPTAIN,"Ah, Jerry?",23.0,S09E23,9.0
+54146,JERRY,Yeah.,23.0,S09E23,9.0
+54147,CAPTAIN,"I'm Captain Maddox this is my co-pilot, Kurt Adams. Ready to go to Paris?",23.0,S09E23,9.0
+54148,JERRY,All set. We'll just grab the bags.,23.0,S09E23,9.0
+54149,CAPTAIN,Don't worry about that. We'll take care of them for you.,23.0,S09E23,9.0
+]]></TEXT>
+<TAGS>
+<DIRECTION id="D0" spans="2082~2090" text="NBC tune" description="none" action="yes" />
+<DIALOGUE id="DI0" spans="2040~2080" text="NBC limo is downstairs - beep beep beep."  />
+<RELATION id="R0" fromID="D0" fromText="NBC tune" toID="DI0" toText="NBC limo is downstairs - beep beep beep." relationship="occurs-while" />
+</TAGS>
+</TemporalDirections>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalDirections>
+<TEXT><![CDATA[479,MORTY,"So, what are you? Afraid of her?",1.0,S01E01,1.0
+480,JERRY,Yes. Yes I am! (to Helen) What else did she say on the phone?,1.0,S01E01,1.0
+481,HELEN,Whatever I wrote down.,1.0,S01E01,1.0
+482,JERRY,"Yeah, but what was the tone in her voice? How did she sound?",1.0,S01E01,1.0
+483,HELEN,"Who am I, Rich Little?",1.0,S01E01,1.0
+484,MORTY,"Well, she cant be too mad. Shes still coming to the wedding.",1.0,S01E01,1.0
+485,JERRY,"Yeah, but now Im nervous.",1.0,S01E01,1.0
+486,HELEN,"Oh, stop it.",1.0,S01E01,1.0
+487,JERRY,Quone?,1.0,S01E01,1.0
+488,HELEN,...30...31...,1.0,S01E01,1.0
+]]></TEXT>
+<TAGS>
+<DIRECTION id="D0" spans="86~94" text="to Helen" description="addressee" action="no" />
+<DIALOGUE id="DI0" spans="96~131" text="What else did she say on the phone?"  />
+<RELATION id="R0" fromID="D0" fromText="to Helen" toID="DI0" toText="What else did she say on the phone?" relationship="occurs-while" />
+</TAGS>
+</TemporalDirections>

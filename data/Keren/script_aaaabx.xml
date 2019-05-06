@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalDirections>
+<TEXT><![CDATA[489,JERRY,"Quone? No, Im afraid that Im going to have to challenge that.",1.0,S01E01,1.0
+490,HELEN,...32...,1.0,S01E01,1.0
+491,KRAMER,"No, you dont have to challenge that. Thats a word. Thats a definite word.",1.0,S01E01,1.0
+492,JERRY,I am challenging.,1.0,S01E01,1.0
+493,KRAMER,Quone. To quone something.,1.0,S01E01,1.0
+494,JERRY,Uh-huh.,1.0,S01E01,1.0
+495,HELEN,Im not playing with you anymore.,1.0,S01E01,1.0
+496,MORTY,Quones not a word.,1.0,S01E01,1.0
+497,JERRY,No good. Sorry. There it is. Get it off.,1.0,S01E01,1.0
+498,HELEN,(to Kramer) Why did you make me put that down?,1.0,S01E01,1.0
+]]></TEXT>
+<TAGS>
+<DIRECTION id="D0" spans="533~542" text="to Kramer" description="addressee" action="no" />
+<DIALOGUE id="DI0" spans="544~578" text="Why did you make me put that down?"  />
+<RELATION id="R0" fromID="D0" fromText="to Kramer" toID="DI0" toText="Why did you make me put that down?" relationship="occurs-while" />
+</TAGS>
+</TemporalDirections>

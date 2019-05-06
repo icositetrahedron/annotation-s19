@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalDirections>
+<TEXT><![CDATA[399,JERRY,I dont see architecture comin from you.,1.0,S01E01,1.0
+400,GEORGE,(somewhat annoyed) I suppose you could be an architect.,1.0,S01E01,1.0
+401,JERRY,I never said that I was the architect. Just somethin else.,1.0,S01E01,1.0
+402,GEORGE,"All right, shes not even gonna ask, if we see her, which is remote.",1.0,S01E01,1.0
+403,JERRY,"Well whaddaya want me to say, that I just wandered in here?",1.0,S01E01,1.0
+404,GEORGE,Were having lunch with a friend. He works in the building.,1.0,S01E01,1.0
+405,JERRY,What is his name?,1.0,S01E01,1.0
+406,GEORGE,Bert... Har... bin... son. Bert Har-bin-son.,1.0,S01E01,1.0
+407,JERRY,Bert Harbinson? It sounds made up.,1.0,S01E01,1.0
+408,GEORGE,"No good? All right, uh how about Art... Cor.....",1.0,S01E01,1.0
+]]></TEXT>
+<TAGS>
+<DIRECTION id="D0" spans="77~93" text="somewhat annoyed" description="manner" action="no" />
+<DIALOGUE id="DI0" spans="95~131" text="I suppose you could be an architect."  />
+<RELATION id="R0" fromID="D0" fromText="somewhat annoyed" toID="DI0" toText="I suppose you could be an architect." relationship="occurs-while" />
+</TAGS>
+</TemporalDirections>

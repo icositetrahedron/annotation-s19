@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalDirections>
+<TEXT><![CDATA[,Character,Dialogue,EpisodeNo,SEID,Season
+53750,JERRY,'Cause that's what's gonna happen.,20.0,S09E20,9.0
+53751,KRAMER,Wow. He's givin' you a mustache. Where is this guy?,20.0,S09E20,9.0
+53752,GEORGE,Don't look around. Don't look around. That's what he wants.,20.0,S09E20,9.0
+53753,ELAINE,"All right. Well, I'll see ya. Hey, George, I think there's a sniper lookin' to pop ya.",20.0,S09E20,9.0
+53754,GEORGE,"This thing can't hurt me, can it? I mean, it is a laser. What if it hits my eye?",20.0,S09E20,9.0
+53755,JERRY,I don't know.,20.0,S09E20,9.0
+53756,GEORGE,"I can't be blind, Jerry The blind are courageous.",20.0,S09E20,9.0
+53757,KRAMER,"You'll be fine as long as it doesn't hit you right in the pupil, 'Cause then the whole ball will go up like the Death Star. Tchoo! I gotta go find a bathroom.",20.0,S09E20,9.0
+53758,JERRY,"Hold it, George. Don't move. It's right between your eyes.",20.0,S09E20,9.0
+53759,GEORGE,"Oh, my god.",20.0,S09E20,9.0
+53760,JERRY,"Hey, there's the soda guy.",20.0,S09E20,9.0
+53761,LAMAR,"Hey, jackass! Get me a diet Dr. Pepper!",20.0,S09E20,9.0
+53762,JERRY (exasperated),All right!,20.0,S09E20,9.0
+53763,OLDER MAN,"Hey, hey, hey!",20.0,S09E20,9.0
+53764,OLDER WOMAN,Wha--ow!,20.0,S09E20,9.0
+53765,ELAINE,"Oh, this is nuts! I can't get across anywhere!",20.0,S09E20,9.0
+53766,OLDER MAN,"Well, none of us can! We're trapped!",20.0,S09E20,9.0
+53767,OLDER WOMAN,Ow!,20.0,S09E20,9.0
+53768,ELAINE,"Hey! Hey, everyone. This way. I think we can get out through here.",20.0,S09E20,9.0
+53769,OLDER MAN,"Oh, I don't know if that's such a good idea.",20.0,S09E20,9.0
+53770,ELAINE,"Look! No one knows how long this parade is gonna last! They are a very festive people. All I know is that it's Sunday night, and I have got to unwind! Now who's with me?!",20.0,S09E20,9.0
+53771,OLDER WOMAN,Father?,20.0,S09E20,9.0
+53772,PRIEST,None of us saw the nylon flap. That might mean something.,20.0,S09E20,9.0
+53773,PREGNANT WOMAN,"Oh, all right, all right!",20.0,S09E20,9.0
+53774,ELAINE,All right! Come on. Come on. Let's go. Let's go.,20.0,S09E20,9.0
+53775,BUSINESS MAN,But it's dark!,20.0,S09E20,9.0
+53776,ELAINE,Get in there!,20.0,S09E20,9.0
+53777,KRAMER,"Yes, uh, I'm interested in the apartment.",20.0,S09E20,9.0
+53778,SALES WOMAN,"Yes! Come in, come in.",20.0,S09E20,9.0
+53779,KRAMER,Ok.,20.0,S09E20,9.0
+53780,SALES WOMAN,I'm Christine Nyhart.,20.0,S09E20,9.0
+53781,KRAMER,Oh. Delicious to meet you.,20.0,S09E20,9.0
+53782,SALES WOMAN,Did the broker send you over?,20.0,S09E20,9.0
+53783,KRAMER,"Uh, yes, most likely, yes. I'm, uh, H.E. Pennypacker. I'm a wealthy industrialist and philanthropist and, uh, a bicyclist. And, um, yes, I'm looking for a place where I can settle down with my, uh, peculiar habits, and, uh, the women that I frequent with. (sniffing wall) Mmm. Mombassa, hmm?",20.0,S09E20,9.0
+53784,SALES WOMAN,The asking price is $1.5 million.,20.0,S09E20,9.0
+53785,KRAMER,"Oh, I spend that much on after shave. Yes, I buy and sell men like myself every day. Now, I assume that there's a waterfall grotto?",20.0,S09E20,9.0
+53786,SALES WOMAN,No.,20.0,S09E20,9.0
+53787,KRAMER,How about a bathroom?,20.0,S09E20,9.0
+53788,SALES WOMAN,It has 4.,20.0,S09E20,9.0
+53789,KRAMER,"Yes, and where would the absolute nearest one be?",20.0,S09E20,9.0
+53790,SALES WOMAN,Just down the hall.,20.0,S09E20,9.0
+53791,KRAMER,"Oh, thank you.",20.0,S09E20,9.0
+53792,ELAINE,"Oh, don't worry. We'll get you home to your husband real soon.",20.0,S09E20,9.0
+53793,PREGNANT WOMAN,I'm not married.,20.0,S09E20,9.0
+53794,ELAINE,"Well, I, for one, really respect that.",20.0,S09E20,9.0
+53795,PREGNANT WOMAN,"Oh, thank you.",20.0,S09E20,9.0
+53796,ELAINE (whispering),Hey! Guess who's not married.,20.0,S09E20,9.0
+53797,OLDER MAN,Is the boyfriend still in the picture?,20.0,S09E20,9.0
+53798,ELAINE,"Come on, father, you can make it.",20.0,S09E20,9.0
+53799,PRIEST,"No, I can't. I've got a bad hip. Go on without me.",20.0,S09E20,9.0
+]]></TEXT>
+<TAGS>
+<DIRECTION id="D0" spans="1090~1101" text="exasperated" description="manner" action="no" />
+<DIRECTION id="D1" spans="3648~3658" text="whispering" description="manner" action="yes" />
+<DIRECTION id="D2" spans="2765~2778" text="sniffing wall" description="none" action="yes" />
+<DIALOGUE id="DI0" spans="1103~1113" text="All right!"  />
+<DIALOGUE id="DI1" spans="2780~2799" text="Mmm. Mombassa, hmm?"  />
+<DIALOGUE id="DI2" spans="3660~3689" text="Hey! Guess who&apos;s not married."  />
+<RELATION id="R0" fromID="D2" fromText="sniffing wall" toID="DI1" toText="Mmm. Mombassa, hmm?" relationship="next-dialogue" />
+<RELATION id="R1" fromID="D1" fromText="whispering" toID="DI2" toText="Hey! Guess who&apos;s not married." relationship="occurs-while" />
+<RELATION id="R2" fromID="D0" fromText="exasperated" toID="DI0" toText="All right!" relationship="occurs-while" />
+</TAGS>
+</TemporalDirections>

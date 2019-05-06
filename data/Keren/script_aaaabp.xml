@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalDirections>
+<TEXT><![CDATA[409,JERRY,Art Cor...,1.0,S01E01,1.0
+410,GEORGE,...velay.,1.0,S01E01,1.0
+411,JERRY,Corvelay?,1.0,S01E01,1.0
+412,GEORGE,"Yeah, right.",1.0,S01E01,1.0
+413,JERRY,"Well, what does he do?",1.0,S01E01,1.0
+414,GEORGE,Hes an importer.,1.0,S01E01,1.0
+415,JERRY,"Just imports, no exports?",1.0,S01E01,1.0
+416,GEORGE,"(annoyed) Hes an importer/exporter, okay? (beat) Elaine ever call you back?",1.0,S01E01,1.0
+417,JERRY,"No, I guess shes still mad.",1.0,S01E01,1.0
+418,GEORGE,"I dont understand, you never talk to her about other women?",1.0,S01E01,1.0
+]]></TEXT>
+<TAGS>
+<DIRECTION id="D0" spans="307~314" text="annoyed" description="manner" action="no" />
+<DIRECTION id="D1" spans="349~353" text="beat" description="none" action="yes" />
+<DIALOGUE id="DI1" spans="316~347" text="Hes an importer/exporter, okay?"  />
+<DIALOGUE id="DI2" spans="355~381" text="Elaine ever call you back?"  />
+<RELATION id="R0" fromID="D1" fromText="beat" toID="DI2" toText="Elaine ever call you back?" relationship="occurs-while" />
+<RELATION id="R1" fromID="D0" fromText="annoyed" toID="DI1" toText="Hes an importer/exporter, okay?" relationship="next-dialogue" />
+</TAGS>
+</TemporalDirections>

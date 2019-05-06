@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalDirections>
+<TEXT><![CDATA[429,GEORGE,Nice to meet you.,1.0,S01E01,1.0
+430,JERRY,"Ah, Sagman, Bennet, Robbins, Oppenheim and Taft.",1.0,S01E01,1.0
+431,VANESSA,"Thats right! Yea, whatre you doing here?",1.0,S01E01,1.0
+432,JERRY,"Oh, were meeting a friend of ours for lunch. He works here in the building.",1.0,S01E01,1.0
+433,GEORGE,"Yeah, Art Vandelay.",1.0,S01E01,1.0
+434,VANESSA,Really? Which company?,1.0,S01E01,1.0
+435,JERRY & George,(turning to each other) I dont know. Hes an importer.,1.0,S01E01,1.0
+436,VANESSA,Importer?,1.0,S01E01,1.0
+437,GEORGE,...And exporter.,1.0,S01E01,1.0
+438,JERRY,Hes an importer/exporter.,1.0,S01E01,1.0
+]]></TEXT>
+<TAGS>
+<DIRECTION id="D0" spans="411~432" text="turning to each other" description="none" action="yes" />
+<DIALOGUE id="DI0" spans="434~463" text="I dont know. Hes an importer."  />
+<RELATION id="R0" fromID="D0" fromText="turning to each other" toID="DI0" toText="I dont know. Hes an importer." relationship="occurs-while" />
+</TAGS>
+</TemporalDirections>

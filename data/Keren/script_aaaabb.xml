@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalDirections>
+<TEXT><![CDATA[269,JERRY,(thinking) Uh-oh... What do we have here?,1.0,S01E01,1.0
+270,VANESSA,Why dont you relax and take your jacket off?,1.0,S01E01,1.0
+271,JERRY,"Oh, I cant. Uh, I have a tendency to get chilly.",1.0,S01E01,1.0
+272,VANESSA,How masculine.,1.0,S01E01,1.0
+273,JERRY,"Plus Im wearing short sleeves, I dont want to expose my tattoos. (Vanessa smiles; thinking) Shes unbelievable!",1.0,S01E01,1.0
+274,ROGER,"(to Vanessa) Hey, this guy says he knows Bricker.",1.0,S01E01,1.0
+275,VANESSA,"Oh, you know Bricker! From where?",1.0,S01E01,1.0
+276,JERRY,"(thinking) Whats going on here? Gotta be her boyfriend, shes too good to be alone. Whats the difference, I cant maneouver anyway with Elaine next to me.",1.0,S01E01,1.0
+277,VANESSA,(to Jerry) How do you know Pamela?,1.0,S01E01,1.0
+278,JERRY,"Uh, friend of a friend. And you?",1.0,S01E01,1.0
+]]></TEXT>
+<TAGS>
+<DIRECTION id="D0" spans="11~19" text="thinking" action="no" description="none" />
+<DIRECTION id="D1" spans="334~348" text="Vanessa smiles" description="none" action="yes" />
+<DIRECTION id="D2" spans="350~358" text="thinking" action="no" description="none" />
+<DIRECTION id="D3" spans="407~417" text="to Vanessa" description="addressee" action="no" />
+<DIRECTION id="D4" spans="547~555" text="thinking" description="none" action="no" />
+<DIRECTION id="D5" spans="728~736" text="to Jerry" description="addressee" action="no" />
+<DIALOGUE id="DI0" spans="21~26" text="Uh-oh"  />
+<DIALOGUE id="DI1" spans="268~331" text="Plus Im wearing short sleeves, I dont want to expose my tattoos"  />
+<DIALOGUE id="DI2" spans="360~377" text="Shes unbelievable"  />
+<DIALOGUE id="DI3" spans="419~454" text="Hey, this guy says he knows Bricker"  />
+<DIALOGUE id="DI4" spans="557~576" text="Whats going on here"  />
+<DIALOGUE id="DI5" spans="738~760" text="How do you know Pamela"  />
+<RELATION id="R0" fromID="D0" fromText="thinking" toID="DI0" toText="Uh-oh" relationship="occurs-while" />
+<RELATION id="R1" fromID="D1" fromText="Vanessa smiles" toID="DI1" toText="Plus Im wearing short sleeves, I dont want to expose my tattoos" relationship="occurs-while" />
+<RELATION id="R2" fromID="D2" fromText="thinking" toID="DI2" toText="Shes unbelievable" relationship="occurs-while" />
+<RELATION id="R3" fromID="D3" fromText="to Vanessa" toID="DI3" toText="Hey, this guy says he knows Bricker" relationship="occurs-while" />
+<RELATION id="R4" fromID="D4" fromText="thinking" toID="DI4" toText="Whats going on here" relationship="occurs-while" />
+<RELATION id="R5" fromID="D5" fromText="to Jerry" toID="DI5" toText="How do you know Pamela" relationship="occurs-while" />
+</TAGS>
+</TemporalDirections>

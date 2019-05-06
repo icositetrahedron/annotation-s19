@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalDirections>
+<TEXT><![CDATA[,Character,Dialogue,EpisodeNo,SEID,Season
+53200,GEORGE,Holes! I need holes!,18.0,S09E18,9.0
+53201,KRAMER,The pharmacy's still open.,18.0,S09E18,9.0
+53202,GEORGE,"All right. Kramer, you block off traffic. You to go sweet-talk the pharmacist.",18.0,S09E18,9.0
+53203,SLIPPERY PETE (to George),You owe me a quarter.,18.0,S09E18,9.0
+53204,GEORGE (to Jerry),"Slippery Pete. Kramer, hurry up!",18.0,S09E18,9.0
+53205,KRAMER,Ahh! I'm out! No tape left!,18.0,S09E18,9.0
+53206,JERRY,"Well, come on George, I'll help you push it across.",18.0,S09E18,9.0
+53207,GEORGE,Wait a minute. This looks familiar. This reminds me of something. I can do this.,18.0,S09E18,9.0
+53208,JERRY,By yourself?,18.0,S09E18,9.0
+53209,GEORGE,"Jerry, I've been preparing for this moment my entire life.",18.0,S09E18,9.0
+53210,SHLOMO,He looks like a Frog.,18.0,S09E18,9.0
+53211,SLIPPERY PETE,So do you.,18.0,S09E18,9.0
+53212,JERRY,Game over.,18.0,S09E18,9.0
+53213,ELAINE,"Mr. Peterman, you wanted to see me, sir?",18.0,S09E18,9.0
+53214,PETERMAN,"Elaine, up until a moment ago, I was convinced that I was on the receiving end of one of the oldest baker's grift in the books--The Entenmann's shim-sham.",18.0,S09E18,9.0
+53215,ELAINE,Ohh...,18.0,S09E18,9.0
+53216,PETERMAN,Until I remembered the videotape surveillance system that I installed to catch other-Walter using my latrine. But it also caught this.,18.0,S09E18,9.0
+53217,EALINE,"Mr. Peterman, I, uh...",18.0,S09E18,9.0
+53218,PETERMAN,"Elaine, I have a question for you. Is the item still...with you?",18.0,S09E18,9.0
+53219,ELAINE,Um...as far as I know.,18.0,S09E18,9.0
+53220,PETERMAN,Do you know what happens to a butter-based frosting after six decades in a poorly ventilated English basement?,18.0,S09E18,9.0
+53221,ELAINE,"Uh, I guess I hadn't--",18.0,S09E18,9.0
+53222,PETERMAN,"Well, I have a feeling that what you are about to go through is punishment enough. Dismissed.",18.0,S09E18,9.0
+53223,JERRY (to waitress),Cup of tea with lemon.,19.0,S09E19,9.0
+53224,GEORGE,What happened to your voice?,19.0,S09E19,9.0
+53225,JERRY,I was screamin' at hecklers all night. The last time I open for a rodeo.,19.0,S09E19,9.0
+53226,GEORGE,"Well, Jerry, I been thinkin'. I've gotten as far as I can go with George Costanza.",19.0,S09E19,9.0
+53227,JERRY,Is this the suicide talk or the nickname talk?,19.0,S09E19,9.0
+53228,GEORGE,"The nickname. George. What is that? It's nothing. It's got no snap, no zip. I need a nickname that makes people light up.",19.0,S09E19,9.0
+53229,JERRY,You mean like...Liza!,19.0,S09E19,9.0
+53230,GEORGE,But I was thinking...T-bone.,19.0,S09E19,9.0
+53231,JERRY,"But there's no ""t"" in your name. What about G-bone?",19.0,S09E19,9.0
+53232,GEORGE,There's no G-bone.,19.0,S09E19,9.0
+53233,JERRY,There's a g-spot.,19.0,S09E19,9.0
+53234,GEORGE,That's a myth.,19.0,S09E19,9.0
+53235,JERRY,"T-bone, the ladies are gonna love ya.",19.0,S09E19,9.0
+53236,ELAINE,Why did they hire you for a rodeo?,19.0,S09E19,9.0
+53237,JERRY,They heard I opened for Kenny Rogers once.,19.0,S09E19,9.0
+53238,ELAINE,Didn't he throw you off a bus in the middle of Alabama or--,19.0,S09E19,9.0
+53239,JERRY,"Oh, I had that comin' to me.",19.0,S09E19,9.0
+53240,ELAINE,"You know, Kenny Rogers has a-",19.0,S09E19,9.0
+53241,ELAINE (whispering),Why did you get a maid?,19.0,S09E19,9.0
+53242,JERRY,You don't have to whisper. She knows she's a maid.,19.0,S09E19,9.0
+53243,ELAINE,Where did you get her?,19.0,S09E19,9.0
+53244,JERRY,I hired her from a service!,19.0,S09E19,9.0
+53245,MAID,All done.,19.0,S09E19,9.0
+53246,JERRY,Thank you. Nice job.,19.0,S09E19,9.0
+53247,MAID,Is this mine?,19.0,S09E19,9.0
+53248,JERRY,Yeah.,19.0,S09E19,9.0
+53249,JERRY,What?,19.0,S09E19,9.0
+]]></TEXT>
+<TAGS>
+<DIRECTION id="D0" spans="279~288" text="to George" description="addressee" action="no" />
+<DIRECTION id="D1" spans="342~350" text="to Jerry" description="addressee" action="no" />
+<DIRECTION id="D2" spans="1922~1933" text="to waitress" description="addressee" action="no" />
+<DIRECTION id="D3" spans="3231~3241" text="whispering" description="manner" action="yes" />
+<DIALOGUE id="DI0" spans="290~311" text="You owe me a quarter."  />
+<DIALOGUE id="DI1" spans="353~385" text="Slippery Pete. Kramer, hurry up!"  />
+<DIALOGUE id="DI2" spans="1935~1957" text="Cup of tea with lemon."  />
+<DIALOGUE id="DI3" spans="3243~3266" text="Why did you get a maid?"  />
+<RELATION id="R0" fromID="D3" fromText="whispering" toID="DI3" toText="Why did you get a maid?" relationship="occurs-while" />
+<RELATION id="R1" fromID="D2" fromText="to waitress" toID="DI2" toText="Cup of tea with lemon." relationship="occurs-while" />
+<RELATION id="R2" fromID="D1" fromText="to Jerry" toID="DI1" toText="Slippery Pete. Kramer, hurry up!" relationship="occurs-while" />
+<RELATION id="R3" fromID="D0" fromText="to George" toID="DI0" toText="You owe me a quarter." relationship="occurs-while" />
+</TAGS>
+</TemporalDirections>

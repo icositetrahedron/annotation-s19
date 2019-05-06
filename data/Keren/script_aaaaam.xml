@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalDirections>
+<TEXT><![CDATA[119,GEORGE,A decent hotel-room...,1.0,S01E01,1.0
+120,JERRY,"Yeah, a decent hotel-room, would it be terribly inconvenient if she stayed at my place.",1.0,S01E01,1.0
+121,GEORGE,"You cant be serious. This is New York city. There must be eleven million decent hotel rooms! Whatta you need? A flag? (waving his handkerchief) This is the signal, Jerry, this is the signal!",1.0,S01E01,1.0
+122,JERRY,"(cynical) This is the signal? Thank you, Mr. Signal. Where were you yesterday?",1.0,S01E01,1.0
+123,GEORGE,I think I was affected by the caffeine.,1.0,S01E01,1.0
+124,GEORGE,"Ho, ho, ho, good dog, good dog...",1.0,S01E01,1.0
+125,KESSLER,"Hey, he really likes you, George.",1.0,S01E01,1.0
+126,GEORGE,"Well, thats flattering.",1.0,S01E01,1.0
+127,KESSLER,"Oh, hes gettin a drink of water. (pointing to the mattress) Is this for that girl?",1.0,S01E01,1.0
+128,JERRY,Yeah.,1.0,S01E01,1.0
+]]></TEXT>
+<TAGS>
+<DIRECTION id="D0" spans="295~318" text="waving his handkerchief" action="yes" description="none" />
+<DIRECTION id="D1" spans="395~402" text="cynical" description="manner" action="no" />
+<DIRECTION id="D2" spans="779~803" text="pointing to the mattress" description="reference" action="yes" />
+<DIALOGUE id="DI0" spans="286~292" text="A flag"  />
+<DIALOGUE id="DI1" spans="404~422" text="This is the signal"  />
+<DIALOGUE id="DI2" spans="805~826" text="Is this for that girl"  />
+<RELATION id="R0" fromID="D0" fromText="waving his handkerchief" toID="DI0" toText="A flag" relationship="occurs-while" />
+<RELATION id="R1" fromID="D1" fromText="cynical" toID="DI1" toText="This is the signal" relationship="occurs-while" />
+<RELATION id="R2" fromID="D2" fromText="pointing to the mattress" toID="DI2" toText="Is this for that girl" relationship="occurs-while" />
+</TAGS>
+</TemporalDirections>

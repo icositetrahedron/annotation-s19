@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalDirections>
+<TEXT><![CDATA[219,ELAINE,"Oh, lovely.",1.0,S01E01,1.0
+220,JERRY,Yeah.,1.0,S01E01,1.0
+221,ELAINE,What do you think their parents think?,1.0,S01E01,1.0
+222,JERRY,"So, uh, whats your son doing now, Dr. Stevens? Oh, hes a public fornicator. Yes, hes a fine boy...",1.0,S01E01,1.0
+223,ELAINE,Yknow what? This would be a really funny gift for Pamelas birthday.,1.0,S01E01,1.0
+224,JERRY,Pamela? Do I know her?,1.0,S01E01,1.0
+225,ELAINE,"Yeah, you met her when we were going out.",1.0,S01E01,1.0
+226,JERRY,"Oh yeah, right...",1.0,S01E01,1.0
+227,ELAINE,"You have no idea who Im talking about, do you?",1.0,S01E01,1.0
+228,JERRY,(quickly) No.,1.0,S01E01,1.0
+]]></TEXT>
+<TAGS>
+<DIRECTION id="D0" spans="605~612" text="quickly" description="manner" action="no" />
+<DIALOGUE id="DI0" spans="614~616" text="No"  />
+<RELATION id="R0" fromID="D0" fromText="quickly" toID="DI0" toText="No" relationship="occurs-while" />
+</TAGS>
+</TemporalDirections>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalDirections>
+<TEXT><![CDATA[,Character,Dialogue,EpisodeNo,SEID,Season
+53050,PETERMAN,"We missed you at the get well party. Poor old Walt has a polyp in the duodenum. It's benign, but--ooh--still a bastard. Oh, Elaine, can you keep a secret?",18.0,S09E18,9.0
+53051,ELAINE,"No, sir, I can't.",18.0,S09E18,9.0
+53052,PETERMAN,"Inside that small college boy minifridge is my latest acquisition. A slice of cake from the wedding of King Edward VIII to Wallis Simpson, circa 1937, price--$29,000.",18.0,S09E18,9.0
+53053,JERRY,"Well Lisi, that was another-",18.0,S09E18,9.0
+53054,LISI,Lovely evening.,18.0,S09E18,9.0
+53055,JERRY,Really bad meal. I was thinking maybe we should--,18.0,S09E18,9.0
+53056,LISI,Go for a hansom cab ride?,18.0,S09E18,9.0
+53057,JERRY,Call it a night. I'll walk you home. Where do you live?,18.0,S09E18,9.0
+53058,LISI,"84th street, right off Riverside Park.",18.0,S09E18,9.0
+53059,JERRY,Riverside Park.,18.0,S09E18,9.0
+53060,LISI,I thought we were going--,18.0,S09E18,9.0
+53061,JERRY,Back to my place. That's right.,18.0,S09E18,9.0
+53062,GEORGE,So you slept with her?,18.0,S09E18,9.0
+53063,JERRY,"She lives right off Riverside Park. I was scared of the Lopper, So I let her stay over.",18.0,S09E18,9.0
+53064,GEORGE,And you automatically sleep with her?,18.0,S09E18,9.0
+53065,JERRY,"Well, I just wanted to make out a little, but she kind of--",18.0,S09E18,9.0
+53066,GEORGE,Finished your thought.,18.0,S09E18,9.0
+53067,ELAINE,Guess what I ate.,18.0,S09E18,9.0
+53068,GEORGE,An ostrich burger.,18.0,S09E18,9.0
+53069,ELAINE,"No. A $29,000 piece of cake. Peterman got it at The Duke Of Windsor auction. It was the most romantic thing I've ever eaten.",18.0,S09E18,9.0
+53070,JERRY,How'd it taste?,18.0,S09E18,9.0
+53071,ELAINE,A little stale.,18.0,S09E18,9.0
+53072,JERRY,Yeah.,18.0,S09E18,9.0
+53073,GEORGE (nudges Elaine with his elbow),"So, uh are you sleeping with Peterman?",18.0,S09E18,9.0
+53074,ELAINE (nudges George with her elbow),"No. He doesn't know I ate it. In fact, he almost caught me. I have to sneak back in and even it out.",18.0,S09E18,9.0
+53075,GEORGE,"You know, they say ostrich has less fat, but you eat more of it.",18.0,S09E18,9.0
+53076,ELAINE,"Hey, so I talked to Lisi and she has got a big surprise for you. She's planning a weekend trip to Pennsylvania Dutch country.",18.0,S09E18,9.0
+53077,JERRY,"Pennsylvania Dutch country? Oh, that's the serious relationship weekend place.",18.0,S09E18,9.0
+53078,ELAINE,What is going on with you two?,18.0,S09E18,9.0
+53079,JERRY,"Well, I think by sleeping with her, I may have sent her the wrong message.",18.0,S09E18,9.0
+53080,GEORGE,What's that?,18.0,S09E18,9.0
+53081,ELAINE,400 sugar fix.,18.0,S09E18,9.0
+53082,JERRY,"Well, I'm calling this off right now.",18.0,S09E18,9.0
+53083,ELAINE,"No, no. You are way past the phone call breakup stage.",18.0,S09E18,9.0
+53084,JERRY,"Well, I'm not going over there. That's where the Lopper is.",18.0,S09E18,9.0
+53085,ELAINE,Oh...it's daylight. It won't take you that long. Just make a clean break.,18.0,S09E18,9.0
+53086,ELAINE,Just a little off the side...,18.0,S09E18,9.0
+53087,ELAINE,"Well, no point in wasting $1,200.",18.0,S09E18,9.0
+53088,ELAINE (thinking),"Oh, commander, isn't the wedding marvelous? More cake? Oh, I shouldn't. I mustn't. Ah, what the hell?",18.0,S09E18,9.0
+53089,GEORGE,"Now, each of you is here because you're the best at what you do.",18.0,S09E18,9.0
+53090,GEORGE,"Slippery Pete, Kramer tells me you are one hell of a rogue electrician. And shlomo, you're the best truck driver.",18.0,S09E18,9.0
+53091,SHLOMO,I don't know If I'm the best.,18.0,S09E18,9.0
+53092,GEORGE,Oh...you're very good.,18.0,S09E18,9.0
+53093,SHLOMO,"Let's say ""good.""",18.0,S09E18,9.0
+53094,GEORGE,"Ok. Good. And Kramer, you're in charge of taping off the loading zone.",18.0,S09E18,9.0
+53095,KRAMER,Lock and load.,18.0,S09E18,9.0
+53096,SLIPPERY PETE,"You think you can handle that, numb nuts?",18.0,S09E18,9.0
+53097,KRAMER,"All right, all right, come on, now.",18.0,S09E18,9.0
+53098,SLIPPERY PETE,That was my mail-order bride.,18.0,S09E18,9.0
+53099,KRAMER,"Hey, you weren't home, so I signed for her.",18.0,S09E18,9.0
+]]></TEXT>
+<TAGS>
+<DIRECTION id="D0" spans="1788~1816" text="nudges Elaine with his elbow" description="addressee" action="yes" />
+<DIRECTION id="D1" spans="1889~1917" text="nudges George with her elbow" description="addressee" action="yes" />
+<DIRECTION id="D2" spans="3136~3144" text="thinking" description="none" action="no" />
+<DIALOGUE id="DI0" spans="1819~1857" text="So, uh are you sleeping with Peterman?"  />
+<DIALOGUE id="DI1" spans="1920~1949" text="No. He doesn&apos;t know I ate it."  />
+<DIALOGUE id="DI2" spans="3147~3229" text="Oh, commander, isn&apos;t the wedding marvelous? More cake? Oh, I shouldn&apos;t. I mustn&apos;t."  />
+<RELATION id="R0" fromID="DI2" fromText="Oh, commander, isn&apos;t the wedding marvelous? More cake? Oh, I shouldn&apos;t. I mustn&apos;t." toID="DI0" toText="So, uh are you sleeping with Peterman?" relationship="occurs-while" />
+<RELATION id="R1" fromID="D1" fromText="nudges George with her elbow" toID="DI1" toText="No. He doesn&apos;t know I ate it." relationship="occurs-while" />
+<RELATION id="R2" fromID="D2" fromText="thinking" toID="DI2" toText="Oh, commander, isn&apos;t the wedding marvelous? More cake? Oh, I shouldn&apos;t. I mustn&apos;t." relationship="occurs-while" />
+</TAGS>
+</TemporalDirections>

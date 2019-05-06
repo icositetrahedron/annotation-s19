@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalDirections>
+<TEXT><![CDATA[59,CLAIRE,"(to Jerry) Dont worry, I gave him a little caffeine. Hell perk up.",1.0,S01E01,1.0
+60,GEORGE,"(panicking) Right, I knew I felt something!",1.0,S01E01,1.0
+61,GEORGE,Jerry? I have to tell you something. This is the dullest moment Ive ever experienced.,1.0,S01E01,1.0
+62,JERRY,"Well, look at this guy. Look, hes got everything, hes got detergents, sprays, fabric softeners.  This is not his first load.",1.0,S01E01,1.0
+63,GEORGE,"I need a break, Jerry, you know. I gotta get out of the city. I feel so cramped...",1.0,S01E01,1.0
+64,JERRY,And you didnt even hear how she sounded.,1.0,S01E01,1.0
+65,GEORGE,What?!,1.0,S01E01,1.0
+66,JERRY,Laura.,1.0,S01E01,1.0
+67,GEORGE,I cant believe- (falls on his knees) WE ALREADY DISCUSSED THIS!,1.0,S01E01,1.0
+68,JERRY,"Yeah, but how could you be so sure?",1.0,S01E01,1.0
+]]></TEXT>
+<TAGS>
+<DIRECTION id="D0" spans="12~20" text="to Jerry" description="addressee" action="no" />
+<DIRECTION id="D1" spans="106~115" text="panicking" description="manner" action="no" />
+<DIRECTION id="D2" spans="692~710" text="falls on his knees" description="none" action="yes" />
+<DIALOGUE id="DI0" spans="22~62" text="Dont worry, I gave him a little caffeine"  />
+<DIALOGUE id="DI1" spans="117~147" text="Right, I knew I felt something"  />
+<DIALOGUE id="DI2" spans="712~737" text="WE ALREADY DISCUSSED THIS"  />
+<RELATION id="R0" toID="DI0" toText="Dont worry, I gave him a little caffeine" fromID="D0" fromText="to Jerry" relationship="occurs-while" />
+<RELATION id="R1" fromID="D1" fromText="panicking" toID="DI1" toText="Right, I knew I felt something" relationship="occurs-while" />
+<RELATION id="R2" fromID="D2" fromText="falls on his knees" toID="DI2" toText="WE ALREADY DISCUSSED THIS" relationship="occurs-while" />
+</TAGS>
+</TemporalDirections>

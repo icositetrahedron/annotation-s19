@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalDirections>
+<TEXT><![CDATA[,Character,Dialogue,EpisodeNo,SEID,Season
+52600,KRAMER,"...I didn't say that, no.",16.0,S09E16,9.0
+52601,MICKEY,"You gave me gonorrhea, you didn't even tell me!",16.0,S09E16,9.0
+52602,KRAMER,"Well, I'm sorry. I gave you gonorrhea because I thought you'd have fun with it.",16.0,S09E16,9.0
+52603,JERRY,"Hey, hey! I'm with someone.",16.0,S09E16,9.0
+52604,KRAMER,Oh. Hello.,16.0,S09E16,9.0
+52605,SOPHIE,"No, I understand. This could be a tough thing to deal with. The important thing is that you have a partner who's supportive.",16.0,S09E16,9.0
+52606,KRAMER,(to Mickey) You know? She's right.,16.0,S09E16,9.0
+52607,SOPHIE,"Unfortunately, I didn't have a partner. I got gonorrhea from a tractor.",16.0,S09E16,9.0
+52608,JERRY,You got gonorrhea from a tractor?? And you call *that* your tractor story??,16.0,S09E16,9.0
+52609,KRAMER,You can't get it from that.,16.0,S09E16,9.0
+52610,SOPHIE,But I did. My boyfriend said I got gonorrhea from riding the tractor in my bathing suit.,16.0,S09E16,9.0
+52611,JERRY,"(walking out) Alright, that's it for me. You've been great. Goodnight everybody.",16.0,S09E16,9.0
+52612,GEORGE,Would you mind helping me out with some of this stuff?!?,16.0,S09E16,9.0
+52613,KRUGER,You seem like you've got a pretty good handle on it.,16.0,S09E16,9.0
+52614,GEORGE,"No! I don't! Don't you even care? This is your company! It's your name on the outside of the building! Speaking of which, the 'R' fell off and all it says now is K-uger!",16.0,S09E16,9.0
+52615,KRUGER,"K-uger, that sounds like one of those old-time car horns, huh? K-uger! K-uger!",16.0,S09E16,9.0
+52616,GEORGE,"Huh-ho! Oh! You are too much, Mr. Kruger! Too much!",16.0,S09E16,9.0
+52617,KRUGER,"(getting up to leave) Thank you George, you've been great. That's it for me.",16.0,S09E16,9.0
+52618,GEORGE,"Oh no, you're not going out on a high note with me Mr. Kruger!",16.0,S09E16,9.0
+52619,KRUGER,It's K-uger!,16.0,S09E16,9.0
+52620,GEORGE,No! No!,16.0,S09E16,9.0
+52621,KRUGER,Goodnight everybody!,16.0,S09E16,9.0
+52622,Dedication,"In memory of our friend, Lloyd Bridges.",16.0,S09E16,9.0
+52623,[Setting,Bookstore],17.0,S09E17,9.0
+52624,GEORGE,I read somewhere that this Brentano's is the place to meet girls in New York.,17.0,S09E17,9.0
+52625,JERRY,"First it was the health club, then the supermarket, now the bookstore. They could put it anywhere they want, no one's meetin' anybody.",17.0,S09E17,9.0
+52626,KRAMER,"Jerry, look at all these pagodas, huh? I gotta get over to Hong Kong before it all goes back to China..",17.0,S09E17,9.0
+52627,JERRY,(Sarcastic) You better hurry.,17.0,S09E17,9.0
+52628,GEORGE,I'm gonna hit the head.,17.0,S09E17,9.0
+52629,KRAMER,"Oh, boy, look at this. Hong Kong's outlawed the rickshaw. See, I always thought those would be perfect for New York.",17.0,S09E17,9.0
+52630,JERRY,(Sarcastic) Yes. The city needs more slow-moving wicker vehicles.,17.0,S09E17,9.0
+52631,KRAMER,"Hmm, Elaine's been to Hong Kong. I should give her a call.",17.0,S09E17,9.0
+52632,JERRY,She's at that annual Peterman party tonight. You know the one she danced at last year?,17.0,S09E17,9.0
+52633,KRAMER,"(Remembering) No, that wasn't dancing.",17.0,S09E17,9.0
+52634,JERRY,"(Pointing) Hey, there's Leo.",17.0,S09E17,9.0
+52635,KRAMER,Oh? Who's Leo?,17.0,S09E17,9.0
+52636,JERRY,Uncle Leo.,17.0,S09E17,9.0
+52637,KRAMER,"Oh, yeah. Right. Uncle, Leo. Forgot his first name..",17.0,S09E17,9.0
+52638,JERRY,Did I just see that?!,17.0,S09E17,9.0
+52639,KRAMER,"(To Jerry) Well, that ougta keep you busy for a few days, huh?",17.0,S09E17,9.0
+52640,[Setting,The Annual Peterman Party],17.0,S09E17,9.0
+52641,WALTER,"(Joking around with her) So, Elaine.. are you going to dance this year?",17.0,S09E17,9.0
+52642,ELAINE,Maybe.. All over your face!,17.0,S09E17,9.0
+52643,WAITER,"If you do dance, the cooks want to know - so they can be brought out of the kitchen. They missed it last year.",17.0,S09E17,9.0
+52644,PETERMAN,"My friends, a toast. As the wolly-haired Melanasians of Papua, New Guinea once said, (Makes a series of clicking and popping sounds. The music starts up) All right! Who's dancing? (No one makes a gesture that they intend to dance) No one? Alright, I'll just have to get things started. (Grabs a female employee, and starts dancing with her. The crowd is impressed)",17.0,S09E17,9.0
+52645,ZACH,"Hi, I'm Zach.",17.0,S09E17,9.0
+52646,ELAINE,"Hi, I'm miserable. (They both laugh)",17.0,S09E17,9.0
+52647,[Setting,Bookstore],17.0,S09E17,9.0
+52648,MANAGER,"Excuse me, Sir. What are you doing?",17.0,S09E17,9.0
+52649,GEORGE,(Acting innocent) I'm all set.,17.0,S09E17,9.0
+]]></TEXT>
+<TAGS>
+<DIRECTION id="D0" spans="557~566" text="to Mickey" description="addressee" action="no" />
+<DIRECTION id="D1" spans="1003~1014" text="walking out" description="none" action="yes" />
+<DIRECTION id="D2" spans="1677~1696" text="getting up to leave" description="none" action="yes" />
+<DIRECTION id="D3" spans="2530~2539" text="Sarcastic" description="manner" action="no" />
+<DIRECTION id="D4" spans="2789~2798" text="Sarcastic" description="manner" action="no" />
+<DIRECTION id="D5" spans="3090~3101" text="Remembering" description="none" action="no" />
+<DIRECTION id="D6" spans="3159~3167" text="Pointing" description="reference" action="yes" />
+<DIRECTION id="D7" spans="3436~3444" text="To Jerry" description="addressee" action="no" />
+<DIRECTION id="D8" spans="3588~3610" text="Joking around with her" description="none" action="no" />
+<DIRECTION id="D9" spans="3977~4023" text="Makes a series of clicking and popping sounds." description="none" action="yes" />
+<DIRECTION id="D10" spans="4072~4120" text="No one makes a gesture that they intend to dance" description="none" action="no" />
+<DIRECTION id="D11" spans="4178~4254" text="Grabs a female employee, and starts dancing with her. The crowd is impressed" description="none" action="yes" />
+<DIRECTION id="D12" spans="4350~4365" text="They both laugh" description="none" action="yes" />
+<DIRECTION id="D13" spans="4508~4523" text="Acting innocent" description="manner" action="no" />
+<DIALOGUE id="DI0" spans="568~590" text="You know? She&apos;s right."  />
+<DIALOGUE id="DI1" spans="1016~1082" text="Alright, that&apos;s it for me. You&apos;ve been great. Goodnight everybody."  />
+<DIALOGUE id="DI2" spans="1698~1752" text="Thank you George, you&apos;ve been great. That&apos;s it for me."  />
+<DIALOGUE id="DI3" spans="2541~2558" text="You better hurry."  />
+<DIALOGUE id="DI4" spans="2800~2853" text="Yes. The city needs more slow-moving wicker vehicles."  />
+<DIALOGUE id="DI5" spans="3103~3127" text="No, that wasn&apos;t dancing."  />
+<DIALOGUE id="DI6" spans="3169~3186" text="Hey, there&apos;s Leo."  />
+<DIALOGUE id="DI7" spans="3446~3497" text="Well, that ougta keep you busy for a few days, huh?"  />
+<DIALOGUE id="DI8" spans="3612~3658" text="So, Elaine.. are you going to dance this year?"  />
+<DIALOGUE id="DI9" spans="3912~3975" text="As the wolly-haired Melanasians of Papua, New Guinea once said,"  />
+<DIALOGUE id="DI10" spans="4056~4070" text="Who&apos;s dancing?"  />
+<DIALOGUE id="DI11" spans="4122~4176" text="No one? Alright, I&apos;ll just have to get things started."  />
+<DIALOGUE id="DI12" spans="4330~4348" text="Hi, I&apos;m miserable."  />
+<DIALOGUE id="DI13" spans="4525~4537" text="I&apos;m all set."  />
+<RELATION id="R0" fromID="D0" fromText="to Mickey" toID="DI0" toText="You know? She&apos;s right." relationship="occurs-while" />
+<RELATION id="R1" fromID="D1" fromText="walking out" toID="DI1" toText="Alright, that&apos;s it for me. You&apos;ve been great. Goodnight everybody." relationship="occurs-while" />
+<RELATION id="R2" fromID="D2" fromText="getting up to leave" toID="DI2" toText="Thank you George, you&apos;ve been great. That&apos;s it for me." relationship="occurs-while" />
+<RELATION id="R3" fromID="D3" fromText="Sarcastic" toID="DI3" toText="You better hurry." relationship="occurs-while" />
+<RELATION id="R4" fromID="D4" fromText="Sarcastic" toID="DI4" toText="Yes. The city needs more slow-moving wicker vehicles." relationship="occurs-while" />
+<RELATION id="R5" fromID="D5" fromText="Remembering" toID="DI5" toText="No, that wasn&apos;t dancing." relationship="occurs-while" />
+<RELATION id="R6" fromID="D6" fromText="Pointing" toID="DI6" toText="Hey, there&apos;s Leo." relationship="occurs-while" />
+<RELATION id="R7" fromID="D7" fromText="To Jerry" toID="DI7" toText="Well, that ougta keep you busy for a few days, huh?" relationship="occurs-while" />
+<RELATION id="R8" fromID="D8" fromText="Joking around with her" toID="DI8" toText="So, Elaine.. are you going to dance this year?" relationship="occurs-while" />
+<RELATION id="R9" fromID="D9" fromText="Makes a series of clicking and popping sounds." toID="DI9" toText="As the wolly-haired Melanasians of Papua, New Guinea once said," relationship="next-dialogue" />
+<RELATION id="R10" fromID="D10" fromText="No one makes a gesture that they intend to dance" toID="DI10" toText="Who&apos;s dancing?" relationship="next-dialogue" />
+<RELATION id="R11" fromID="D11" fromText="Grabs a female employee, and starts dancing with her. The crowd is impressed" toID="DI11" toText="No one? Alright, I&apos;ll just have to get things started." relationship="next-dialogue" />
+<RELATION id="R12" fromID="D12" fromText="They both laugh" toID="DI12" toText="Hi, I&apos;m miserable." relationship="next-dialogue" />
+<RELATION id="R13" fromID="D13" fromText="Acting innocent" toID="DI13" toText="I&apos;m all set." relationship="occurs-while" />
+</TAGS>
+</TemporalDirections>

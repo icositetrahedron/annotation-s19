@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalDirections>
+<TEXT><![CDATA[229,ELAINE,"Blonde hair, remember? Glasses? (pause) Have you totally blocked out the entire time we were a couple?",1.0,S01E01,1.0
+230,JERRY,(a lightbulb goes on in his head) Riverside Drive.,1.0,S01E01,1.0
+231,ELAINE,"Right! In fact... No, never mind...",1.0,S01E01,1.0
+232,JERRY,"Well, what is it?",1.0,S01E01,1.0
+233,ELAINE,"Well, a bunch of people are getting together tomorrow night at some bar for her birthday, but... (Jerry turns in disgust) you dont want to go to... that... no.",1.0,S01E01,1.0
+234,JERRY,"Wait a second, wait a second. We could work out a little deal here.",1.0,S01E01,1.0
+235,ELAINE,What little deal?,1.0,S01E01,1.0
+236,JERRY,"I will go to that, if you go with me to a little family wedding I have on Saturday.",1.0,S01E01,1.0
+237,ELAINE,"A wedding? Have you lost it, man?",1.0,S01E01,1.0
+238,JERRY,"Yknow, my parents are coming in for this...",1.0,S01E01,1.0
+]]></TEXT>
+<TAGS>
+<DIRECTION id="D0" spans="45~50" text="pause" description="none" action="yes" />
+<DIRECTION id="D1" spans="142~173" text="a lightbulb goes on in his head" description="none" action="no" />
+<DIRECTION id="D2" spans="426~448" text="Jerry turns in disgust" description="manner" action="yes" />
+<DIALOGUE id="DI0" spans="35~42" text="Glasses"  />
+<DIALOGUE id="DI1" spans="175~190" text="Riverside Drive"  />
+<DIALOGUE id="DI2" spans="450~486" text="you dont want to go to... that... no"  />
+<DIALOGUE id="DI3" spans="328~424" text="Well, a bunch of people are getting together tomorrow night at some bar for her birthday, but..."  />
+<RELATION id="R0" fromID="D0" fromText="pause" toID="DI0" toText="Glasses" relationship="next-dialogue" />
+<RELATION id="R1" fromID="D1" fromText="a lightbulb goes on in his head" toID="DI1" toText="Riverside Drive" relationship="next-dialogue" />
+<RELATION id="R2" fromID="D2" fromText="Jerry turns in disgust" toID="DI2" toText="you dont want to go to... that... no" relationship="occurs-while" />
+<RELATION id="R3" fromID="D2" fromText="Jerry turns in disgust" toID="DI3" toText="Well, a bunch of people are getting together tomorrow night at some bar for her birthday, but..." relationship="occurs-while" />
+</TAGS>
+</TemporalDirections>

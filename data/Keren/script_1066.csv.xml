@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalDirections>
+<TEXT><![CDATA[,Character,Dialogue,EpisodeNo,SEID,Season
+53250,ELAINE,"Come on, Jerry. You didn't notice?",19.0,S09E19,9.0
+53251,JERRY,Notice what? She's not really even a maid.,19.0,S09E19,9.0
+53252,ELAINE,Oh.,19.0,S09E19,9.0
+53253,JERRY,"She wants to be an actress...or a, uh, model...or a dancer...or a...news woman.",19.0,S09E19,9.0
+53254,ELAINE,Uh-huh. News woman. Yeah.,19.0,S09E19,9.0
+53255,KRAMER,"Hey. Well, bad news, boys. My life is over. My girlfriend's movin' away.",19.0,S09E19,9.0
+53256,JERRY,You have a girlfriend?,19.0,S09E19,9.0
+53257,KRAMER,"Jerry, where have you been?",19.0,S09E19,9.0
+53258,JERRY,At a rodeo. Where's she moving?,19.0,S09E19,9.0
+53259,KRAMER,Downtown.,19.0,S09E19,9.0
+53260,ELAINE,Downtown New York?,19.0,S09E19,9.0
+53261,KRAMER,Yeah. I don't know if I can handle one of these long-distance relationships.,19.0,S09E19,9.0
+53262,JERRY,It's like 10 minutes by subway.,19.0,S09E19,9.0
+53263,KRAMER,I don't know.,19.0,S09E19,9.0
+53264,KRAMER,"Oh! Jeez! Well, you've got a maid. It's a whole different world downtown-- different Gap, different Tower Records, and she's a 646.",19.0,S09E19,9.0
+53265,ELAINE,What? What is that?,19.0,S09E19,9.0
+53266,JERRY,"That's the new area code. They've run out of 242s, so all the new numbers are 646.",19.0,S09E19,9.0
+53267,ELAINE,I was a 718 when I first moved here. I cried every night.,19.0,S09E19,9.0
+53268,KRAMER,"Listen. Heads up, Elaine. I'm gonna have to stop by later and pick up a fax.",19.0,S09E19,9.0
+53269,ELAINE,At work?,19.0,S09E19,9.0
+53270,KRAMER,No. At your apartment.,19.0,S09E19,9.0
+53271,ELAINE,I don't have a fax machine.,19.0,S09E19,9.0
+53272,JERRY,Here we go.,19.0,S09E19,9.0
+53273,KRAMER,"Well, now what are we gonna do? (to Jerry) See? This is why you should get a fax and a Xerox.",19.0,S09E19,9.0
+53274,JERRY,And a dead bolt.,19.0,S09E19,9.0
+53275,ELAINE,Then maybe you have a fax machine.,19.0,S09E19,9.0
+53276,KRAMER,You just blew my mind.,19.0,S09E19,9.0
+53277,KRUGER,Let's order lunch.,19.0,S09E19,9.0
+53278,KRUGER,"Mary, I will have a chef's salad.",19.0,S09E19,9.0
+53279,MALE WORKER,Turkey sandwich.,19.0,S09E19,9.0
+53280,GEORGE,T-bone steak.,19.0,S09E19,9.0
+53281,KRUGER,For lunch?,19.0,S09E19,9.0
+53282,GEORGE,"Well, I am just a T-bone kinda guy. Love that T-bone. In fact, you might as well call me--",19.0,S09E19,9.0
+53283,WATKINS,"That sounds good. I'll have one, too.",19.0,S09E19,9.0
+53284,KRUGER,"Watkins, you're havin' a T-bone?",19.0,S09E19,9.0
+53285,WATKINS,I love 'em.,19.0,S09E19,9.0
+53286,KRUGER,"Well, then we should call you T-bone.",19.0,S09E19,9.0
+53287,GEORGE,"Uh, no. No, we shouldn't.",19.0,S09E19,9.0
+53288,KRUGER,T-bone!,19.0,S09E19,9.0
+53289,ALL (chanting),T-bone! T-bone! T-bone! T-bone! T-bone! T-bone! T-bone! T-bone!,19.0,S09E19,9.0
+53290,ELAINE,Hello?,19.0,S09E19,9.0
+53291,ELAINE,What?,19.0,S09E19,9.0
+53292,MACHINE,You have 57 messages. Message one...,19.0,S09E19,9.0
+53293,MACHINE,Message two...,19.0,S09E19,9.0
+53294,MACHINE,Message three...,19.0,S09E19,9.0
+53295,GEORGE,"Hey, it's George. Listen, I-",19.0,S09E19,9.0
+53296,MACHINE,Message four...,19.0,S09E19,9.0
+53297,EALINE,Hello?,19.0,S09E19,9.0
+53298,ELAINE,Aah!,19.0,S09E19,9.0
+53299,JERRY,"Well Cindy, the place looks great.",19.0,S09E19,9.0
+]]></TEXT>
+<TAGS>
+<DIRECTION id="D0" spans="1701~1709" text="to Jerry" description="addressee" action="no" />
+<DIRECTION id="D1" spans="2659~2667" text="chanting" description="none" action="yes" />
+<DIALOGUE id="DI0" spans="1711~1761" text="See? This is why you should get a fax and a Xerox."  />
+<DIALOGUE id="DI1" spans="2669~2732" text="T-bone! T-bone! T-bone! T-bone! T-bone! T-bone! T-bone! T-bone!"  />
+<RELATION id="R0" fromID="D1" fromText="chanting" toID="DI1" toText="T-bone! T-bone! T-bone! T-bone! T-bone! T-bone! T-bone! T-bone!" relationship="occurs-while" />
+<RELATION id="R1" fromID="D0" fromText="to Jerry" toID="DI0" toText="See? This is why you should get a fax and a Xerox." relationship="occurs-while" />
+</TAGS>
+</TemporalDirections>

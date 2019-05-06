@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalDirections>
+<TEXT><![CDATA[179,JERRY,This is Laura.,1.0,S01E01,1.0
+180,GEORGE,"Laura, sure.",1.0,S01E01,1.0
+181,JERRY,(to Laura) I cant believe youre here.,1.0,S01E01,1.0
+182,GEORGE & JERRY,"Ooh yeah, the bags, sure.",1.0,S01E01,1.0
+183,LAURA,"Oh, thank you.",1.0,S01E01,1.0
+184,JERRY,"(aside, to George) Now that was an interesting greeting, did you notice that, George?",1.0,S01E01,1.0
+185,GEORGE,"Yes, the surprise blindfold greeting. That wasnt in the manual, I dont know.",1.0,S01E01,1.0
+186,JERRY,"So uh, what do you think?",1.0,S01E01,1.0
+187,LAURA,"Ooohhh, wow! This place isnt so bad.",1.0,S01E01,1.0
+188,JERRY,"Yeah, it kind a motivates me to work on the road. So uh, make yourself at home. (Laura sits down on the couch, takes off her shoes and opens some buttons of her shirt.) So uh, can I get you anything? Uuhhh, bread, water...salad-dressing?",1.0,S01E01,1.0
+]]></TEXT>
+<TAGS>
+<DIRECTION id="D0" spans="92~100" text="to Laura" action="no" description="addressee" />
+<DIRECTION id="D1" spans="260~265" text="aside" description="manner" action="no" />
+<DIRECTION id="D2" spans="267~276" text="to George" description="addressee" action="no" />
+<DIRECTION id="D3" spans="675~760" text="Laura sits down on the couch, takes off her shoes and opens some buttons of her shirt" description="none" action="yes" />
+<DIALOGUE id="DI0" spans="102~127" text="I cant believe youre here"  />
+<DIALOGUE id="DI1" spans="278~343" text="Now that was an interesting greeting, did you notice that, George"  />
+<DIALOGUE id="DI2" spans="763~792" text="So uh, can I get you anything"  />
+<RELATION id="R0" fromID="D0" fromText="to Laura" toID="DI0" toText="I cant believe youre here" relationship="occurs-while" />
+<RELATION id="R1" fromID="D1" fromText="aside" toID="DI1" toText="Now that was an interesting greeting, did you notice that, George" relationship="occurs-while" />
+<RELATION id="R2" fromID="D2" fromText="to George" toID="DI1" toText="Now that was an interesting greeting, did you notice that, George" relationship="occurs-while" />
+<RELATION id="R3" fromID="D3" fromText="Laura sits down on the couch, takes off her shoes and opens some buttons of her shirt" toID="DI2" toText="So uh, can I get you anything" relationship="occurs-while" />
+</TAGS>
+</TemporalDirections>

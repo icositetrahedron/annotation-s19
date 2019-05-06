@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalDirections>
+<TEXT><![CDATA[299,JERRY,Comedian.,1.0,S01E01,1.0
+300,VANESSA,Really? That explains it.,1.0,S01E01,1.0
+301,JERRY,"(thinking; quickly) Sagman, Bennet, Robbins, Oppenheim and Taft. Sagman, Bennet, Robbins, Oppenheim and Taft.",1.0,S01E01,1.0
+302,ROGER,Are you ready?,1.0,S01E01,1.0
+303,VANESSA,We gotta run. Happy birthday!,1.0,S01E01,1.0
+304,JERRY,"(thinking) I cant believe it. I got nothing! I dont even know her name! Sagman, Bennet, Robbins, Oppenheim and Taft. Sagman, Bennet, Robbins, Oppen... Sagman... Sag...",1.0,S01E01,1.0
+305,JERRY,"That wasnt so bad, really.",1.0,S01E01,1.0
+306,ELAINE,"Yknow, um, you could use a little work on your manners.",1.0,S01E01,1.0
+307,JERRY,Why? What did I do?,1.0,S01E01,1.0
+308,ELAINE,"Wel-Well, I just dont appreciate these little courtesy responses, like Im selling you aluminum siding.",1.0,S01E01,1.0
+]]></TEXT>
+<TAGS>
+<DIRECTION id="D0" spans="100~108" text="thinking" description="none" action="no" />
+<DIRECTION id="D1" spans="110~117" text="quickly" description="manner" action="no" />
+<DIRECTION id="D2" spans="334~342" text="thinking" description="none" action="no" />
+<DIALOGUE id="DI0" spans="119~208" text="Sagman, Bennet, Robbins, Oppenheim and Taft. Sagman, Bennet, Robbins, Oppenheim and Taft."  />
+<DIALOGUE id="DI1" spans="344~362" text="I cant believe it."  />
+<RELATION id="R0" fromID="D0" fromText="thinking" toID="DI0" toText="Sagman, Bennet, Robbins, Oppenheim and Taft. Sagman, Bennet, Robbins, Oppenheim and Taft." relationship="occurs-while" />
+<RELATION id="R1" fromID="D1" fromText="quickly" toID="DI0" toText="Sagman, Bennet, Robbins, Oppenheim and Taft. Sagman, Bennet, Robbins, Oppenheim and Taft." relationship="occurs-while" />
+<RELATION id="R2" fromID="D2" fromText="thinking" toID="DI1" toText="I cant believe it." relationship="occurs-while" />
+</TAGS>
+</TemporalDirections>

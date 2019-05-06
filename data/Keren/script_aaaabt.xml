@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalDirections>
+<TEXT><![CDATA[449,GEORGE,"Ill just, uh, get a paper...",1.0,S01E01,1.0
+450,JERRY,"So, um, do you date uh immature men?",1.0,S01E01,1.0
+451,VANESSA,Almost exclusively...,1.0,S01E01,1.0
+452,HELEN,Bum bum bum bum... I have no letters... Bum bum bum bum...,1.0,S01E01,1.0
+453,JERRY,"(annoyed) Ma, will you go already?",1.0,S01E01,1.0
+454,HELEN,Bum bum bum bum...,1.0,S01E01,1.0
+455,JERRY,What are you doing?!,1.0,S01E01,1.0
+456,HELEN,"Wait, I just want to see something.",1.0,S01E01,1.0
+457,JERRY,"You cant look in there, were playing!",1.0,S01E01,1.0
+458,KRAMER,Hi.,1.0,S01E01,1.0
+]]></TEXT>
+<TAGS>
+<DIRECTION id="D0" spans="266~273" text="annoyed" description="manner" action="no" />
+<DIALOGUE id="DI0" spans="275~299" text="Ma, will you go already?"  />
+<RELATION id="R0" fromID="D0" fromText="annoyed" toID="DI0" toText="Ma, will you go already?" relationship="occurs-while" />
+</TAGS>
+</TemporalDirections>

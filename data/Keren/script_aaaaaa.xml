@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalDirections>
+<TEXT><![CDATA[,Character,Dialogue,EpisodeNo,SEID,Season
+0,JERRY,"Do you know what this is all about? Do you know, why were here? To be out, this is out...and out is one of the single most enjoyable experiences of life. People...did you ever hear people talking about We should go out? This is what theyre talking about...this whole thing, were all out now, no one is home. Not one person here is home, were all out! There are people tryin to find us, they dont know where we are. (on an imaginary phone) Did you ring?, I cant find him. Where did he go? He didnt tell me where he was going. He must have gone out. You wanna go out you get ready, you pick out the clothes, right? You take the shower, you get all ready, get the cash, get your friends, the car, the spot, the reservation...Then youre standing around, whatta you do? You go We gotta be getting back. Once youre out, you wanna get back! You wanna go to sleep, you wanna get up, you wanna go out again tomorrow, right? Where ever you are in life, its my feeling, youve gotta go.",1.0,S01E01,1.0
+1,JERRY,"(pointing at Georges shirt) See, to me, that button is in the worst possible spot. The second button literally makes or breaks the shirt, look at it. Its too high! Its in no-mans-land. You look like you live with your mother.",1.0,S01E01,1.0
+2,GEORGE,Are you through?,1.0,S01E01,1.0
+3,JERRY,"You do of course try on, when you buy?",1.0,S01E01,1.0
+4,GEORGE,"Yes, it was purple, I liked it, I dont actually recall considering the buttons.",1.0,S01E01,1.0
+5,JERRY,"Oh, you dont recall?",1.0,S01E01,1.0
+6,GEORGE,"(on an imaginary microphone) Uh, no, not at this time.",1.0,S01E01,1.0
+7,JERRY,"Well, senator, Id just like to know, what you knew and when you knew it.",1.0,S01E01,1.0
+8,CLAIRE,Mr. Seinfeld. Mr. Costanza.,1.0,S01E01,1.0
+]]></TEXT>
+<TAGS>
+<DIRECTION id="D0" spans="467~488" text="on an imaginary phone" description="manner" action="yes" />
+<DIRECTION id="D1" spans="1052~1077" text="pointing at Georges shirt" description="reference" action="yes" />
+<DIRECTION id="D2" spans="1561~1587" text="on an imaginary microphone" description="manner" action="yes" />
+<DIALOGUE id="DI0" spans="490~502" text="Did you ring"  />
+<DIALOGUE id="DI1" spans="1079~1132" text="See, to me, that button is in the worst possible spot"  />
+<DIALOGUE id="DI2" spans="1589~1613" text="Uh, no, not at this time"  />
+<RELATION id="R0" fromID="D0" fromText="on an imaginary phone" toID="DI0" toText="Did you ring" relationship="occurs-while" />
+<RELATION id="R1" fromID="D1" fromText="pointing at Georges shirt" toID="DI1" toText="See, to me, that button is in the worst possible spot" relationship="occurs-while" />
+<RELATION id="R2" fromID="D2" fromText="on an imaginary microphone" toID="DI2" toText="Uh, no, not at this time" relationship="occurs-while" />
+</TAGS>
+</TemporalDirections>

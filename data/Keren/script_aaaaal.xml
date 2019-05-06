@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalDirections>
+<TEXT><![CDATA[109,JERRY,"Hello...Oh, hi, Laura.",1.0,S01E01,1.0
+110,KESSLER,"Oh, give me it...let me talk to her.",1.0,S01E01,1.0
+111,JERRY,"(to the phone) No believe me, Im always up at this hour. How are you?... Great... Sure... What time does the plane get in?... I got my friend George to take me...",1.0,S01E01,1.0
+112,KESSLER,(to the TV) SLIDE! Wow!,1.0,S01E01,1.0
+113,JERRY,"No, its, its just my neighbour... Um... Yeah, I got it. (Jerry takes a pencil and a cereal box to write on.) Ten-fifteen... No, dont be silly, go ahead and ask... Yeah, sure... Okay, great, no no, its no trouble at all... Ill see you tomorrow... Great, bye. (He hangs up the phone; to Kessler) I dont believe it. That was her. She wants to stay here!",1.0,S01E01,1.0
+114,JERRY,"If my father was moving this hed had to have a cigarette in his mouth the whole way. (as his father) 'Have you got your end?...Your ends got to come down first, easy now, drop it down...drop it down, your ends got to come down.'",1.0,S01E01,1.0
+115,GEORGE,"You know, I cant believe youre bringin in an extra bed for woman that wants to sleep with you. Why dont you bring in an extra guy too?",1.0,S01E01,1.0
+116,JERRY,"Look, its a very awkward situation. I dont wanna be presumptuous.",1.0,S01E01,1.0
+117,GEORGE,"All right, all right, one more time, one more time! What was the exact phrasing of the request?",1.0,S01E01,1.0
+118,JERRY,"All right, she said she couldnt find a decent hotel room...",1.0,S01E01,1.0
+]]></TEXT>
+<TAGS>
+<DIRECTION id="D0" spans="128~140" text="to the phone" description="addressee" action="no" />
+<DIRECTION id="D1" spans="319~328" text="to the TV" description="reference" action="no" />
+<DIRECTION id="D2" spans="425~474" text="Jerry takes a pencil and a cereal box to write on" description="none" action="yes" />
+<DIRECTION id="D3" spans="627~648" text="He hangs up the phone" description="none" action="yes" />
+<DIRECTION id="D4" spans="650~660" text="to Kessler" description="addressee" action="no" />
+<DIRECTION id="D5" spans="832~845" text="as his father" description="manner" action="no" />
+<DIALOGUE id="DI0" spans="142~289" text="No believe me, Im always up at this hour. How are you?... Great... Sure... What time does the plane get in?... I got my friend George to take me..."  />
+<DIALOGUE id="DI1" spans="330~341" text="SLIDE! Wow!"  />
+<DIALOGUE id="DI2" spans="408~422" text="Yeah, I got it"  />
+<DIALOGUE id="DI3" spans="477~488" text="Ten-fifteen"  />
+<DIALOGUE id="DI4" spans="614~624" text="Great, bye"  />
+<DIALOGUE id="DI5" spans="662~679" text="I dont believe it"  />
+<DIALOGUE id="DI6" spans="746~829" text="If my father was moving this hed had to have a cigarette in his mouth the whole way"  />
+<RELATION id="R0" fromID="D0" fromText="to the phone" toID="DI0" toText="No believe me, Im always up at this hour. How are you?... Great... Sure... What time does the plane get in?... I got my friend George to take me..." relationship="occurs-while" />
+<RELATION id="R1" fromID="D1" fromText="to the TV" toID="DI1" toText="SLIDE! Wow!" relationship="occurs-while" />
+<RELATION id="R2" fromID="D2" fromText="Jerry takes a pencil and a cereal box to write on" toID="DI2" toText="Yeah, I got it" relationship="occurs-while" />
+<RELATION id="R3" fromID="D2" fromText="Jerry takes a pencil and a cereal box to write on" toID="DI3" toText="Ten-fifteen" relationship="occurs-while" />
+<RELATION id="R4" fromID="D3" fromText="He hangs up the phone" toID="DI4" toText="Great, bye" relationship="next-dialogue" />
+<RELATION id="R5" fromID="D4" fromText="to Kessler" toID="DI5" toText="I dont believe it" relationship="occurs-while" />
+<RELATION id="R6" fromID="D5" fromText="as his father" toID="DI6" toText="If my father was moving this hed had to have a cigarette in his mouth the whole way" relationship="occurs-while" />
+</TAGS>
+</TemporalDirections>

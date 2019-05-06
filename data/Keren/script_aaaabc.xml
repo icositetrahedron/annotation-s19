@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalDirections>
+<TEXT><![CDATA[279,VANESSA,We went to law school together.,1.0,S01E01,1.0
+280,ELAINE,"(interrupting Jerry's conversation) Oh, Jerry!",1.0,S01E01,1.0
+281,JERRY,"(turning to Elaine; thinking) Oh no, not now.",1.0,S01E01,1.0
+282,ELAINE,I had this dream last night and you were in it.,1.0,S01E01,1.0
+283,JERRY,"Oh really? (tries turning away in the hopes Elaine gets the hint; thinking) Oh God, I gotta get out of this.",1.0,S01E01,1.0
+284,ELAINE,"You were you, but, you werent you...",1.0,S01E01,1.0
+285,JERRY,"No kidding. (thinking) Why is this happening? Please, make her stop!",1.0,S01E01,1.0
+286,ELAINE,"I think, I think we were in my house where I grew up, and you were standing there, you were looking out the window...",1.0,S01E01,1.0
+287,JERRY,(thinking) This is brutal.,1.0,S01E01,1.0
+288,ELAINE,You turned around and you had these wooden teeth.,1.0,S01E01,1.0
+]]></TEXT>
+<TAGS>
+<DIRECTION id="D0" spans="72~105" text="interrupting Jerry&apos;s conversation" description="none" action="yes" />
+<DIRECTION id="D1" spans="146~163" text="turning to Elaine" description="none" action="yes" />
+<DIRECTION id="D2" spans="165~173" text="thinking" action="no" description="none" />
+<DIRECTION id="D3" spans="304~356" text="tries turning away in the hopes Elaine gets the hint" action="no" description="none" />
+<DIRECTION id="D4" spans="358~366" text="thinking" action="no" description="none" />
+<DIRECTION id="D5" spans="506~514" text="thinking" action="no" description="none" />
+<DIRECTION id="D6" spans="735~743" text="thinking" action="no" description="none" />
+<DIALOGUE id="DI0" spans="107~117" text="Oh, Jerry!"  />
+<DIALOGUE id="DI1" spans="175~190" text="Oh no, not now."  />
+<DIALOGUE id="DI2" spans="292~302" text="Oh really?"  />
+<DIALOGUE id="DI3" spans="368~400" text="Oh God, I gotta get out of this."  />
+<DIALOGUE id="DI4" spans="516~538" text="Why is this happening?"  />
+<DIALOGUE id="DI5" spans="745~760" text="This is brutal."  />
+<RELATION id="R0" fromID="D0" fromText="interrupting Jerry&apos;s conversation" toID="DI0" toText="Oh, Jerry!" relationship="occurs-while" />
+<RELATION id="R1" fromID="D1" fromText="turning to Elaine" toID="DI0" toText="Oh, Jerry!" relationship="occurs-while" />
+<RELATION id="R2" fromID="D2" fromText="thinking" toID="DI1" toText="Oh no, not now." relationship="occurs-while" />
+<RELATION id="R3" fromID="D3" fromText="tries turning away in the hopes Elaine gets the hint" toID="DI2" toText="Oh really?" relationship="occurs-while" />
+<RELATION id="R4" toID="DI3" toText="Oh God, I gotta get out of this." fromID="D4" fromText="thinking" relationship="occurs-while" />
+<RELATION id="R5" fromID="D5" fromText="thinking" toID="DI4" toText="Why is this happening?" relationship="occurs-while" />
+<RELATION id="R6" fromID="D6" fromText="thinking" toID="DI5" toText="This is brutal." relationship="occurs-while" />
+</TAGS>
+</TemporalDirections>

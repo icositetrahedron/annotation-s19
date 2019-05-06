@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalDirections>
+<TEXT><![CDATA[,Character,Dialogue,EpisodeNo,SEID,Season
+53300,CINDY,"Thanks Jerry, gotta run.",19.0,S09E19,9.0
+53301,JERRY,"Ok, I'll see ya.",19.0,S09E19,9.0
+53302,CINDY,"Hi, Elaine.",19.0,S09E19,9.0
+53303,ELAINE,All right! You're foolin' around with your maid. That is a wise decision.,19.0,S09E19,9.0
+53304,JERRY,"Elaine, do you think I would go willy-nilly into a situation so obviously fraught with potential complications?",19.0,S09E19,9.0
+53305,ELAINE,You are paying a woman to come to your house and sleep with you.,19.0,S09E19,9.0
+53306,JERRY,No. I pay her to clean. The rest is--,19.0,S09E19,9.0
+53307,ELAINE,What? A health plan?,19.0,S09E19,9.0
+53308,JERRY,"I was going to say, ""Being a good host.""",19.0,S09E19,9.0
+53309,ELAINE,Oh-ho-ho. Oh.,19.0,S09E19,9.0
+53310,JERRY,"But the point is we have our personal relationship, and we have our work relationship. They're separate and, I think, some what sophisticated.",19.0,S09E19,9.0
+53311,ELAINE,So you consider this a relationship?,19.0,S09E19,9.0
+53312,JERRY,"Yes, I do.",19.0,S09E19,9.0
+53313,ELAINE,Oh. Have you been out?,19.0,S09E19,9.0
+53314,JERRY,"Yes, we have.",19.0,S09E19,9.0
+53315,ELAINE,Where did you go?,19.0,S09E19,9.0
+53316,JERRY,The store.,19.0,S09E19,9.0
+53317,ELAINE,Mm! To get what?,19.0,S09E19,9.0
+53318,JERRY,Stuff.,19.0,S09E19,9.0
+53319,ELAINE,Cleaning supplies?,19.0,S09E19,9.0
+53320,JERRY,And gum.,19.0,S09E19,9.0
+53321,ELAINE,"Oh. Well, there's nothin' more sophisticated than diddlin' the maid and then chewin' some gum.",19.0,S09E19,9.0
+53322,JERRY,She's not a maid. She might be a news woman!,19.0,S09E19,9.0
+53323,KRAMER,"Hey. Well, I just saw Madeline off. Yeah. She's in a cab and--nguh nguh nguh--on her way. I miss her already.",19.0,S09E19,9.0
+53324,ELAINE,"Hey, Kramer, what was it you were having faxed to my house every 30 seconds?",19.0,S09E19,9.0
+53325,KRAMER,"Well, I signed up for a food delivery service, Now We're Cookin'. That's a play on words. You know, they're faxing me the menus from some restaurants.",19.0,S09E19,9.0
+53326,ELAINE,Which ones?,19.0,S09E19,9.0
+53327,KRAMER,"Well, all of them. It's the deluxe package.",19.0,S09E19,9.0
+53328,ELAINE,So this is never gonna stop?,19.0,S09E19,9.0
+53329,KRAMER,"Well, it better not. Paid for the whole year. So, should I pick those up later?",19.0,S09E19,9.0
+53330,ELAINE,You can pick 'em up right now.,19.0,S09E19,9.0
+53331,KRAMER,Ah!,19.0,S09E19,9.0
+53332,ELAINE (thinking),I wonder if anyone knows he's here. If he just disappeared...would anybody notice?,19.0,S09E19,9.0
+53333,PHONE MAN,"All right, miss Benes, all finished. Here's your new number.",19.0,S09E19,9.0
+53334,ELAINE,Ahem. 646? What is this?,19.0,S09E19,9.0
+53335,PHONE MAN,That's your new area code.,19.0,S09E19,9.0
+53336,ELAINE,I thought 646 was just for new numbers.,19.0,S09E19,9.0
+53337,PHONE MAN,This is a new number.,19.0,S09E19,9.0
+53338,ELAINE,"No, no, no, no. It's not a new number. It's--it's--it's just a changed number. See? It's not different. It's the same, just...changed.",19.0,S09E19,9.0
+53339,PHONE MAN,"Look, I work for the phone company. I've had a lot of experience with semantics, so don't try to lure me into some maze of circular logic.",19.0,S09E19,9.0
+53340,ELAINE,"You know, I could've killed you, and no one would've known.",19.0,S09E19,9.0
+53341,PHONE MAN,"I could've killed you, and no one would've known.",19.0,S09E19,9.0
+53342,JERRY,"Kramer, you're still on the phone?",19.0,S09E19,9.0
+53343,KRAMER,"Madeline and I are watching Quincy together. Jerry, you know this comes on at the same time here as it does there?",19.0,S09E19,9.0
+53344,JERRY,Really? It's Tuesday here. What day is it there?,19.0,S09E19,9.0
+53345,KRAMER (into phone),"Jerry's teasing. Uh-oh! Commercial. Oh, you going to the bathroom? Yeah. I'll go, too.",19.0,S09E19,9.0
+53346,JERRY,Madeline stays here.,19.0,S09E19,9.0
+53347,JERRY,"Hey, T-bone!",19.0,S09E19,9.0
+53348,GEORGE,No. No T-bone.,19.0,S09E19,9.0
+53349,JERRY,No T-bone?,19.0,S09E19,9.0
+]]></TEXT>
+<TAGS>
+<DIRECTION id="D0" spans="2407~2415" text="thinking" description="none" action="no" />
+<DIRECTION id="D1" spans="3663~3673" text="into phone" action="no" description="addressee" />
+<DIALOGUE id="DI0" spans="2417~2452" text="I wonder if anyone knows he&apos;s here."  />
+<DIALOGUE id="DI1" spans="3676~3762" text="Jerry&apos;s teasing. Uh-oh! Commercial. Oh, you going to the bathroom? Yeah. I&apos;ll go, too."  />
+<RELATION id="R0" fromID="D0" fromText="thinking" toID="DI0" toText="I wonder if anyone knows he&apos;s here." relationship="occurs-while" />
+<RELATION id="R1" fromID="D1" fromText="into phone" toID="DI1" toText="Jerry&apos;s teasing. Uh-oh! Commercial. Oh, you going to the bathroom? Yeah. I&apos;ll go, too." relationship="occurs-while" />
+</TAGS>
+</TemporalDirections>

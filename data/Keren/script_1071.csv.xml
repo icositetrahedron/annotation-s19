@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalDirections>
+<TEXT><![CDATA[,Character,Dialogue,EpisodeNo,SEID,Season
+53500,ELAINE,"No. You got the wrong number, kid.",19.0,S09E19,9.0
+53501,BOY,"Gammy Krantz, it's your grandson Bobby. Why haven't you called?",19.0,S09E19,9.0
+53502,ELAINE,Oh...nuts.,19.0,S09E19,9.0
+53503,BOY,Do you hate me 'cause of my lazy eye?,19.0,S09E19,9.0
+53504,ELAINE,No. It's just that I've been kind of buried over here.,19.0,S09E19,9.0
+53505,JERRY,So the kid doesn't know his grandmother is dead? G-5?,19.0,S09E19,9.0
+53506,ELAINE,Hit. No. I guess his parents didn't want to tell him. B-2?,19.0,S09E19,9.0
+53507,JERRY,Miss.,19.0,S09E19,9.0
+53508,ELAINE,He called 6 times yesterday. What a nightmare it must be to have a real family.,19.0,S09E19,9.0
+53509,JERRY,I wouldn't worry about it. B-6?,19.0,S09E19,9.0
+53510,ELAINE,Hit. Uhh...you sank my submarine.,19.0,S09E19,9.0
+53511,JERRY,Elaine...,19.0,S09E19,9.0
+53512,JERRY,Hello?,19.0,S09E19,9.0
+53513,COMPUTER VOICE,You have a collect call from--,19.0,S09E19,9.0
+53514,KRAMER,"Hey, buddy, don't say no!",19.0,S09E19,9.0
+53515,JERRY,I accept.,19.0,S09E19,9.0
+53516,KRAMER,"I went down to Madeline's. I told her, ""You gotta move, or it's over.""",19.0,S09E19,9.0
+53517,JERRY,"Well, what happened?",19.0,S09E19,9.0
+53518,KRAMER,"I think it's over. We had a big fight, she threw me out, I started walkin', and now I'm lost downtown! I don't have any money. I don't recognize anybody. I miss home, and I don't even know how to get there.",19.0,S09E19,9.0
+53519,JERRY,What's around you?,19.0,S09E19,9.0
+53520,KRAMER,I'm lookin' at Ray's Pizza. You know where that is?,19.0,S09E19,9.0
+53521,JERRY,Is it Famous Ray's?,19.0,S09E19,9.0
+53522,KRAMER,No. It's Original Ray's.,19.0,S09E19,9.0
+53523,JERRY,Famous Original Ray's?,19.0,S09E19,9.0
+53524,KRAMER,"It's just Original, Jerry!",19.0,S09E19,9.0
+53525,JERRY,"Well, what street are you on?",19.0,S09E19,9.0
+53526,KRAMER,"Hey, I'm on first and first. How can the same street intersect with itself? I must be at the nexus of the universe.",19.0,S09E19,9.0
+53527,JERRY,"Just wait there. I'll pick you up, and, Kramer, stay alive no matter what occurs, I will find you!",19.0,S09E19,9.0
+53528,KRAMER,Aah!,19.0,S09E19,9.0
+53529,MAN,You Steinfeld?,19.0,S09E19,9.0
+53530,JERRY,Yeah.,19.0,S09E19,9.0
+53531,MAN,My name is Maxwell. I'm from Maid To Order. It's a pun. I sent one of my girls over to your place.,19.0,S09E19,9.0
+53532,JERRY,Cindy.,19.0,S09E19,9.0
+53533,MAN,She says she had a little problem with you. You didn't pay.,19.0,S09E19,9.0
+53534,JERRY,"You know, she didn't really do what she was supposed to do.",19.0,S09E19,9.0
+53535,MAN,"Oh, yeah? She told me what you like. You're a little sickie, aren't you? Disinfectant on the blinds, vacuuming the counter--",19.0,S09E19,9.0
+53536,JERRY,"Hey, come on. Come on. I gotta live around here.",19.0,S09E19,9.0
+53537,MAN,You know what I do to people who stiff me on a job?,19.0,S09E19,9.0
+53538,JERRY,What?,19.0,S09E19,9.0
+53539,MAN,"Well, it kinda depends on the situation, but if I don't get my money from you, I'm gonna get it from her.",19.0,S09E19,9.0
+53540,JERRY,I don't want to make trouble. You want the money? Here.,19.0,S09E19,9.0
+53541,MAN,"Hey! Wait, wait, wait! Whoa! Give it to the girl. I'm an independent contractor. Tax purposes.",19.0,S09E19,9.0
+53542,ELAINE,"Bobby, you gotta stop calling your Gammy. Why? Because sometimes you call very early in the morning when Gammy has been out late the night before and sometimes when Gammy's not alone. Your parents still haven't said anything to you about your Gammy? (sighs) All right, here we go. (coughing) Gammy doesn't feel so good. I think Gammy might be dying. Yep. Yep. Ok. Good-bye, Bobby. Don't call anymore. I'm dead now. Gotta go.",19.0,S09E19,9.0
+53543,BOBBY,9-1-1.,19.0,S09E19,9.0
+53544,JERRY,"Nexus of the universe. Hey, Cindy. Cindy.",19.0,S09E19,9.0
+53545,CINDY,What do you want?,19.0,S09E19,9.0
+53546,JERRY,Here. I got your money.,19.0,S09E19,9.0
+53547,CINDY,I don't want any money from you.,19.0,S09E19,9.0
+53548,JERRY,Come on. Take it. It's money. Let me give it to ya.,19.0,S09E19,9.0
+53549,POLICE,"Looking for a good time, sir? You wanna step out of the car, sickie?",19.0,S09E19,9.0
+]]></TEXT>
+<TAGS>
+<DIRECTION id="D0" spans="3523~3528" text="sighs" description="none" action="yes" />
+<DIRECTION id="D1" spans="3554~3562" text="coughing" description="none" action="yes" />
+<DIALOGUE id="DI0" spans="3530~3552" text="All right, here we go."  />
+<DIALOGUE id="DI1" spans="3564~3591" text="Gammy doesn&apos;t feel so good."  />
+<RELATION id="R0" fromID="D1" fromText="coughing" toID="DI1" toText="Gammy doesn&apos;t feel so good." relationship="next-dialogue" />
+<RELATION id="R1" fromID="D0" fromText="sighs" toID="DI0" toText="All right, here we go." relationship="next-dialogue" />
+</TAGS>
+</TemporalDirections>

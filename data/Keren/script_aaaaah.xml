@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalDirections>
+<TEXT><![CDATA[69,GEORGE,"Cause its signals, Jerry, its signals! (snapping his fingers) Dont you- all right. Did she even ask you, what you were doin tomorrow night, if you were busy?",1.0,S01E01,1.0
+70,JERRY,No.,1.0,S01E01,1.0
+71,GEORGE,She calls you today and she doesnt make a plan for tomorrow? What is that? Its Saturday night!,1.0,S01E01,1.0
+72,JERRY,Yeah.,1.0,S01E01,1.0
+73,GEORGE,"What is that? Its ridiculous! You dont even know what hotel shes staying at, you cant call her. Thats a signal, Jerry, thats a signal! (snaps his fingers) Signal!",1.0,S01E01,1.0
+74,JERRY,Maybe youre right.,1.0,S01E01,1.0
+75,GEORGE,Maybe Im right? Of course Im right.,1.0,S01E01,1.0
+76,JERRY,"This is insane. You know, I dont even know where shes staying! She, shes not gonna call me, this is unbelievable.",1.0,S01E01,1.0
+77,GEORGE,"I know, I know. Listen, your stuff has to be done by now, why dont you just see if its dry?",1.0,S01E01,1.0
+78,JERRY,"No no no, dont interrupt the cycle. The machine is working, it, it knows what its doing. Just let it finish.",1.0,S01E01,1.0
+]]></TEXT>
+<TAGS>
+<DIRECTION id="D0" spans="51~71" text="snapping his fingers" description="manner" action="yes" />
+<DIRECTION id="D1" spans="510~527" text="snaps his fingers" description="manner" action="yes" />
+<DIALOGUE id="DI1" spans="11~48" text="Cause its signals, Jerry, its signals"  />
+<DIALOGUE id="DI2" spans="470~507" text="Thats a signal, Jerry, thats a signal"  />
+<DIALOGUE id="DI3" spans="529~535" text="Signal"  />
+<RELATION id="R0" fromID="D0" fromText="snapping his fingers" toID="DI1" toText="Cause its signals, Jerry, its signals" relationship="occurs-while" />
+<RELATION id="R1" fromID="D1" fromText="snaps his fingers" toID="DI2" toText="Thats a signal, Jerry, thats a signal" relationship="occurs-while" />
+<RELATION id="R2" fromID="D1" fromText="snaps his fingers" toID="DI3" toText="Signal" relationship="occurs-while" />
+</TAGS>
+</TemporalDirections>

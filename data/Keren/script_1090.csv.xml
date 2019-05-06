@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalDirections>
+<TEXT><![CDATA[,Character,Dialogue,EpisodeNo,SEID,Season
+54450,SIDRA,"We were in the sauna, making chit-chat.",23.0,S09E23,9.0
+54451,SIDRA,"You know, I've seen you around the club. My name's Sidra. This is Marcie.",23.0,S09E23,9.0
+54452,ELAINE,"Oh, hi, I'm Elaine.",23.0,S09E23,9.0
+54453,HOYT,"So, she pretended to trip, and she fell into your breasts?",23.0,S09E23,9.0
+54454,SIDRA,Yes.,23.0,S09E23,9.0
+54455,HOYT,Why would she do something like that?,23.0,S09E23,9.0
+54456,SIDRA,Because he sent her in there to find out if they were real.,23.0,S09E23,9.0
+54457,[New Witness,"Joe Bookman, library cop]",23.0,S09E23,9.0
+54458,HOYT,State your name.,23.0,S09E23,9.0
+54459,BOOKMAN,"Bookman, Joe Bookman.",23.0,S09E23,9.0
+54460,HOYT,And what's your occupation?,23.0,S09E23,9.0
+54461,BOOKMAN,I'm a library cop.,23.0,S09E23,9.0
+54462,HOYT,What does a library cop do?,23.0,S09E23,9.0
+54463,BOOKMAN,We chase down library delinquents.,23.0,S09E23,9.0
+54464,HOYT,Anyone in this room ever delinquent?,23.0,S09E23,9.0
+54465,BOOKMAN,"Yeah, he was. Right over there - Seinfeld.",23.0,S09E23,9.0
+54466,HOYT,How long was his book overdue?,23.0,S09E23,9.0
+54467,BOOKMAN,25 years. We don't call them delinquent after that long.,23.0,S09E23,9.0
+54468,HOYT,What do you call them?,23.0,S09E23,9.0
+54469,BOOKMAN,Criminals.,23.0,S09E23,9.0
+54470,[New Witness,George's old girlfriend],23.0,S09E23,9.0
+54471,HOYT,So you and Mr. Costanza were dating.,23.0,S09E23,9.0
+54472,WOMAN,Yes.,23.0,S09E23,9.0
+54473,HOYT,And then what happened?,23.0,S09E23,9.0
+54474,WOMAN,"Well, I invited him to attend my son's birthday party and -",23.0,S09E23,9.0
+54475,GEORGE,Fire! Get out of the way!,23.0,S09E23,9.0
+54476,[New Witness,parking lot security guard],23.0,S09E23,9.0
+54477,GUARD,"At the time, I was employed as a security guard in the parking lot at the Garden Valley Shopping Mall.",23.0,S09E23,9.0
+54478,JERRY,Why would I do it unless I was in mortal danger? I know it's against the law.,23.0,S09E23,9.0
+54479,GUARD,I don't know.,23.0,S09E23,9.0
+54480,JERRY,Because I could get uromycitisis poisoning and die - that's why.,23.0,S09E23,9.0
+54481,HOYT,Uromycitisis! I wonder if they're having any trouble controlling themselves during this trial? Perhaps these two hooligans would like to have a pee party right here in the courtroom!,23.0,S09E23,9.0
+54482,CHILES,"Objection, Your Honor! This is completely inappropriate! My clients' medical condition is not on trial here! I refer you to the Disability Act of 1990.",23.0,S09E23,9.0
+54483,VANDELAY,"Sit down, Mr. Chiles.",23.0,S09E23,9.0
+54484,[New Witness,Police Detective],23.0,S09E23,9.0
+54485,HOYT,"Alright, Detective, then what happened?",23.0,S09E23,9.0
+54486,DETECTIVE,We got a tip that a lot of prostitutes had been turning tricks in the parking lot.,23.0,S09E23,9.0
+54487,PROSTITUTE,You just cost me some money.,23.0,S09E23,9.0
+54488,KRAMER,"Cool it, lady. Cool it. Cool it, lady. Cool it.",23.0,S09E23,9.0
+54489,POLICE,Police officers - freeze right there!,23.0,S09E23,9.0
+54490,HOYT,"So Cosmo Kramer was, in fact, a pimp.",23.0,S09E23,9.0
+54491,[Witness,"the low-talker from ""The Puffy Shirt""]",23.0,S09E23,9.0
+54492,HOYT,So you asked Mr. Seinfeld if he would wear your puffy shirt on the Today Show?,23.0,S09E23,9.0
+54493,LOW-TALKER,(Mumbles),23.0,S09E23,9.0
+54494,HOYT,Excuse me?,23.0,S09E23,9.0
+54495,CHILES,"Uh, excuse me, Your Honor, but what is the point of this testimony? This woman's a low-talker. I can't hear a word she's saying. So either get some other kind of microphone up there, or let's move on.",23.0,S09E23,9.0
+54496,[New Witness,George Steinbrenner],23.0,S09E23,9.0
+54497,HOYT,Call George Steinbrenner to the stand.,23.0,S09E23,9.0
+54498,BAILIFF,Call George Steinbrenner.,23.0,S09E23,9.0
+54499,HOYT,So George Costanza came to work for you in May of 1994?,23.0,S09E23,9.0
+]]></TEXT>
+<TAGS>
+<DIRECTION id="D0" spans="3249~3256" text="Mumbles" description="none" action="yes" />
+<DIALOGUE id="DI0" spans="3285~3295" text="Excuse me?"  />
+<RELATION id="R0" fromID="D0" fromText="Mumbles" toID="DI0" toText="Excuse me?" relationship="next-dialogue" />
+</TAGS>
+</TemporalDirections>

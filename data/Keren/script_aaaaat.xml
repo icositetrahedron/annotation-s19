@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalDirections>
+<TEXT><![CDATA[189,LAURA,"(laughs) Actually, um, do you have any wine?",1.0,S01E01,1.0
+190,JERRY,"Uh, yeah, I think I do.",1.0,S01E01,1.0
+191,LAURA,"(referring to a lamp) Oh, do you mind if I turn this down?",1.0,S01E01,1.0
+192,JERRY,"Uh, no, yeah, go right ahead.",1.0,S01E01,1.0
+193,LAURA,"Uh, Jerry, uh, I was wandering, would it be possible  and if its not, fine  for me to stay here tomorrow night too?",1.0,S01E01,1.0
+194,JERRY,"Uh, yeah, yeah, sure, why dont you stay? Yeah, uhm...What is your, what is your schedule for tomorrow? Are you, are you doin anything?",1.0,S01E01,1.0
+195,LAURA,"No, Id love to do something. Uh, I have my seminar in the morning, then after that Im right open.",1.0,S01E01,1.0
+196,JERRY,Really? What would you like to do?,1.0,S01E01,1.0
+197,LAURA,"Well... now I know this sounds touristy, but Id just love to go on one of those five-hour boat rides around Manhattan.",1.0,S01E01,1.0
+198,JERRY,"(unenthusiastic) Yeah, we could do that...why not, why not. (pouring the wine) Im just, Im really glad youre here.",1.0,S01E01,1.0
+]]></TEXT>
+<TAGS>
+<DIRECTION id="D0" spans="12~18" text="laughs" description="none" action="yes" />
+<DIRECTION id="D1" spans="135~154" text="referring to a lamp" description="reference" action="yes" />
+<DIRECTION id="D2" spans="914~928" text="unenthusiastic" description="manner" action="no" />
+<DIRECTION id="D3" spans="974~990" text="pouring the wine" description="none" action="yes" />
+<DIALOGUE id="DI0" spans="20~54" text="Actually, um, do you have any wine"  />
+<DIALOGUE id="DI1" spans="156~191" text="Oh, do you mind if I turn this down"  />
+<DIALOGUE id="DI2" spans="930~952" text="Yeah, we could do that"  />
+<DIALOGUE id="DI3" spans="992~1026" text="Im just, Im really glad youre here"  />
+<RELATION id="R0" fromID="D0" fromText="laughs" toID="DI0" toText="Actually, um, do you have any wine" relationship="next-dialogue" />
+<RELATION id="R1" fromID="D1" fromText="referring to a lamp" toID="DI1" toText="Oh, do you mind if I turn this down" relationship="occurs-while" />
+<RELATION id="R2" fromID="D2" fromText="unenthusiastic" toID="DI2" toText="Yeah, we could do that" relationship="occurs-while" />
+<RELATION id="R3" fromID="D3" fromText="pouring the wine" toID="DI3" toText="Im just, Im really glad youre here" relationship="occurs-while" />
+</TAGS>
+</TemporalDirections>

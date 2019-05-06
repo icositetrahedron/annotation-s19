@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalDirections>
+<TEXT><![CDATA[209,JERRY,Me too!,1.0,S01E01,1.0
+210,JERRY,"I swear, I have absolutely no idea what women are thinking. I dont get it, okay? I, I, I admit, I, Im not getting the signals. I am not getting it! Women, theyre so subtle, their little...everything they do is subtle. Men are not subtle, we are obvious. Women know what men want, men know what men want, what do we want? We want women, thats it! Its the only thing we know for sure, it really is. We want women. How do we get them? Oh, we dont know bout that, we dont know. The next step after that we have no idea. This is why you see men honking car-horns, yelling from construction sites. These are the best ideas weve had so far. The car-horn honk, is that a beauty? Have you seen men doing this? What is this? The man is in the car, the woman walks by the front of the car, he honks. E-eeehh, eehhh, eehhh! This man is out of ideas. How does it...? E-e-e-eeeehhhh! I dont think she likes me. The amazing thing is, that we still get women, dont we? Men, I mean, men are with women. You see men with women. How are men getting women, many people wonder. Let me tell you a little bit about our organization. Wherever women are, we have a man working on the situation right now. Now, he may not be our best man, okay, we have a lot of areas to cover, but someone from our staff is on the scene. Thats why, I think, men get frustrated, when we see women reading articles, like Where to meet men? Were here, we are everywhere. Were honking our horns to serve you better.",1.0,S01E01,1.0
+211,JERRY,"So, Im on line at the supermarket. Two women in front of me. One of them, her total was eight dollars, the other three dollars. They both of course choose to pay by the use of the...",1.0,S01E01,1.0
+212,AUDIENCE,Cheque.,1.0,S01E01,1.0
+213,JERRY,"Cheque. Now, the fact is, if its a woman in front of you thats writing the cheque, you will not be waiting long. I have noticed that women are very fast with cheques, yknow, cause they write out so many cheques. The keys, they can never find in their purse, they dont know where that is, but the cheque book they got that. They never fumble for the cheque book. The cheque book comes out of a holster (Jerry draws imaginary book from a holster.) Who do I make it out to? Theres my ID. Theres something about a cheque that, to a man, is not masculine. I dont know exactly what it is. I think to a man, a cheque is like a note from your mother that says, I dont have any money, but if youll contact these people, Im sure theyll stick up for me... If you just trust me this one time- I dont have any money but I have these. I wrote on these. Is this of any value at all?",1.0,S01E01,1.0
+214,JERRY,Whats that one?,1.0,S01E01,1.0
+215,ELAINE,Coccoon II The Return. I guess they didnt like it up there.,1.0,S01E01,1.0
+216,JERRY,"Maybe they came back for Chinese food. Yknow Maureen Stapleton, if she gets a craving, shes probably screamin at those aliens, I gotta have a lo mein!",1.0,S01E01,1.0
+217,ELAINE,"Okay, whatre we doing here? I have seen everything.",1.0,S01E01,1.0
+218,JERRY,Oh yeah? I dont believe youve seen... this.,1.0,S01E01,1.0
+]]></TEXT>
+<TAGS>
+<DIRECTION id="D0" spans="2189~2230" text="Jerry draws imaginary book from a holster" description="none" action="yes" />
+<DIALOGUE id="DI0" spans="2149~2187" text="The cheque book comes out of a holster"  />
+<RELATION id="R0" fromID="D0" fromText="Jerry draws imaginary book from a holster" toID="DI0" toText="The cheque book comes out of a holster" relationship="occurs-while" />
+</TAGS>
+</TemporalDirections>

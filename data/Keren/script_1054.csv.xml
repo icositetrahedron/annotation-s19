@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalDirections>
+<TEXT><![CDATA[,Character,Dialogue,EpisodeNo,SEID,Season
+52650,MANAGER,(Pointing) Did you take that book with you into the bathroom?,17.0,S09E17,9.0
+52651,GEORGE,(Not sure what the answer should be) What do you want to hear?,17.0,S09E17,9.0
+52652,[Setting,The Coffee shop],17.0,S09E17,9.0
+52653,GEORGE,"They made me buy it.. A hundred bucks this thing cost me. (Gesturing to the book) How dare they?! I got news for you, if it wasn't for the toilet, there would be no books.",17.0,S09E17,9.0
+52654,JERRY,(Sarcastic) Yeah. I understand Guttenberg used to spend a lot of time in there.,17.0,S09E17,9.0
+52655,GEORGE,"They're selling coffee, bran muffins.. you're surrounded by reading material. It's entrapment!",17.0,S09E17,9.0
+52656,JERRY,(Reading the cover of the book George was forced to buy) 'French Impressionist Paintings'?,17.0,S09E17,9.0
+52657,GEORGE,I find the soothing pastorial images very conduc-,17.0,S09E17,9.0
+52658,JERRY,(Cutting him off) Thank you very much.,17.0,S09E17,9.0
+52659,GEORGE,"Well, I'm gonna go back there later and return it when there's different people working.. You want to catch a movie?",17.0,S09E17,9.0
+52660,JERRY,I can't. I'm meeting Uncle Leo. I saw him shoplifting at the bookstore.,17.0,S09E17,9.0
+52661,GEORGE,"(Praising Leo's stealing) Alright, Leo! Stickin' it to the man!",17.0,S09E17,9.0
+52662,JERRY,Sleeping in the caragain?,17.0,S09E17,9.0
+52663,ELAINE,Cocktail flu.,17.0,S09E17,9.0
+52664,JERRY,"(Remembering) Oh, right. The big party..",17.0,S09E17,9.0
+52665,GEORGE,"You, uh, didn't dance again, did you?",17.0,S09E17,9.0
+52666,ELAINE,"(Angered) No, I found a better way to humiliate myself. There was this guy, and we had a few too many..",17.0,S09E17,9.0
+52667,GEORGE,You went home with him?,17.0,S09E17,9.0
+52668,ELAINE,Worse. We made out at the table like our plane was going down!,17.0,S09E17,9.0
+52669,JERRY,"(Rubbing it in) Ah, the drunken make-out. An office classic. Did you end up xeroxing anything?",17.0,S09E17,9.0
+52670,ELAINE,(Gives Jerry a look) Do you know how embarrassing this is to someone in my position?,17.0,S09E17,9.0
+52671,JERRY,(Confused) What's your position?,17.0,S09E17,9.0
+52672,ELAINE,I am an associate.,17.0,S09E17,9.0
+52673,GEORGE,"Hey, me too.",17.0,S09E17,9.0
+52674,WAITRESS,"Yeah, me too.",17.0,S09E17,9.0
+52675,ELAINE,Oh God. Why did I do this? Now I'm the office skank.,17.0,S09E17,9.0
+52676,GEORGE,"Well, unless you tell everybody you're dating.",17.0,S09E17,9.0
+52677,ELAINE,"(Liking the idea) Ohh.. right. Cause if we're dating, what everyone saw was just a beautiful moment between two lovers.",17.0,S09E17,9.0
+52678,JERRY,(Jokingly rubbing it in) As opposed to a spirited bout of Skanko-Roman wrestling.,17.0,S09E17,9.0
+52679,ELAINE,"(Sarcastic) Oh, bravo.",17.0,S09E17,9.0
+52680,[Setting,Jerry's apartment],17.0,S09E17,9.0
+52681,JERRY,"(Sarcastic) Oh, hey. Can I fix you fellas some drinks and sandwiches?",17.0,S09E17,9.0
+52682,KRAMER,"(Taking his offer seriously) No, we've already eaten.",17.0,S09E17,9.0
+52683,NEWMAN,(Gesturing to dishes and silverware on the table) But you can clear some of this stuff out of the way.,17.0,S09E17,9.0
+52684,KRAMER,"Jerry, check this out. (Pointing at some papers on the table) Remember my idea about rickshaws in New Youk? Well, we're gonna make it happen!",17.0,S09E17,9.0
+52685,JERRY,"(Jokingly trying to be skeptical) No, you're not.",17.0,S09E17,9.0
+52686,KRAMER,"Newman, he knows a guy in the Hong Kong post office..",17.0,S09E17,9.0
+52687,JERRY,"(Still skeptical) No, he doesn't.",17.0,S09E17,9.0
+52688,NEWMAN,He's shipping us a rickshaw. It can't miss!,17.0,S09E17,9.0
+52689,JERRY,"Yes, it can.",17.0,S09E17,9.0
+52690,KRAMER,"We'll start out with one, and they when it catches on, we're gonna have a whole fleet!",17.0,S09E17,9.0
+52691,NEWMAN,It's the romance of the Handsome Cab without the guilt or dander of the equine.,17.0,S09E17,9.0
+52692,JERRY,"So, who's gonna pull this thing?",17.0,S09E17,9.0
+52693,KRAMER,"(To Newman) Well, I just assumed you would.",17.0,S09E17,9.0
+52694,NEWMAN,"Yeah, but I though-",17.0,S09E17,9.0
+52695,KRAMER,(Stopping his thought) Da-da-da-da no.,17.0,S09E17,9.0
+52696,JERRY,"(Extremely happy about Kramer and Newman's dilemma) My, isn't this an awkward moment?",17.0,S09E17,9.0
+52697,KRAMER,(Brainstorming) What about the homeless?,17.0,S09E17,9.0
+52698,NEWMAN,Can't we worry about them later?,17.0,S09E17,9.0
+52699,KRAMER,(Explaining) To pull the rickshaw.,17.0,S09E17,9.0
+]]></TEXT>
+<TAGS>
+<DIRECTION id="D0" spans="57~65" text="Pointing" description="reference" action="yes" />
+<DIRECTION id="D1" spans="148~182" text="Not sure what the answer should be" description="none" action="no" />
+<DIRECTION id="D2" spans="347~368" text="Gesturing to the book" description="reference" action="yes" />
+<DIRECTION id="D3" spans="490~499" text="Sarcastic" description="manner" action="no" />
+<DIRECTION id="D4" spans="724~778" text="Reading the cover of the book George was forced to buy" description="none" action="yes" />
+<DIRECTION id="D5" spans="922~937" text="Cutting him off" description="none" action="yes" />
+<DIRECTION id="D6" spans="1430~1441" text="Remembering" description="none" action="no" />
+<DIRECTION id="D7" spans="1571~1578" text="Angered" description="manner" action="no" />
+<DIRECTION id="D8" spans="1850~1863" text="Rubbing it in" description="none" action="yes" />
+<DIRECTION id="D9" spans="1975~1993" text="Gives Jerry a look" description="none" action="yes" />
+<DIRECTION id="D10" spans="2088~2096" text="Confused" description="manner" action="no" />
+<DIRECTION id="D11" spans="2450~2465" text="Liking the idea" description="none" action="no" />
+<DIRECTION id="D12" spans="2711~2720" text="Sarcastic" description="manner" action="no" />
+<DIRECTION id="D13" spans="2814~2823" text="Sarcastic" description="manner" action="no" />
+<DIRECTION id="D14" spans="2915~2941" text="Taking his offer seriously" description="none" action="no" />
+<DIRECTION id="D15" spans="2999~3046" text="Gesturing to dishes and silverware on the table" action="yes" description="reference" />
+<DIRECTION id="D16" spans="3155~3191" text="Pointing at some papers on the table" description="reference" action="yes" />
+<DIRECTION id="D17" spans="3304~3335" text="Jokingly trying to be skeptical" description="manner" action="no" />
+<DIRECTION id="D18" spans="3469~3484" text="Still skeptical" description="manner" action="no" />
+<DIRECTION id="D19" spans="3940~3949" text="To Newman" description="addressee" action="no" />
+<DIRECTION id="D20" spans="4065~4085" text="Stopping his thought" description="none" action="no" />
+<DIRECTION id="D21" spans="4133~4182" text="Extremely happy about Kramer and Newman&apos;s dilemma" description="manner" action="no" />
+<DIRECTION id="D22" spans="4249~4262" text="Brainstorming" description="none" action="no" />
+<DIRECTION id="D23" spans="4381~4391" text="Explaining" description="none" action="no" />
+<DIALOGUE id="DI0" spans="66~117" text=" Did you take that book with you into the bathroom?"  />
+<DIALOGUE id="DI1" spans="184~209" text="What do you want to hear?"  />
+<DIALOGUE id="DI2" spans="370~385" text="How dare they?!"  />
+<DIALOGUE id="DI3" spans="501~568" text="Yeah. I understand Guttenberg used to spend a lot of time in there."  />
+<DIALOGUE id="DI4" spans="780~813" text="&apos;French Impressionist Paintings&apos;?"  />
+<DIALOGUE id="DI5" spans="939~959" text="Thank you very much."  />
+<DIALOGUE id="DI6" spans="1443~1469" text="Oh, right. The big party.."  />
+<DIALOGUE id="DI7" spans="1580~1625" text="No, I found a better way to humiliate myself."  />
+<DIALOGUE id="DI8" spans="1865~1890" text="Ah, the drunken make-out."  />
+<DIALOGUE id="DI9" spans="1995~2058" text="Do you know how embarrassing this is to someone in my position?"  />
+<DIALOGUE id="DI10" spans="2098~2119" text="What&apos;s your position?"  />
+<DIALOGUE id="DI11" spans="2467~2479" text="Ohh.. right."  />
+<DIALOGUE id="DI12" spans="2722~2732" text="Oh, bravo."  />
+<DIALOGUE id="DI13" spans="2825~2882" text="Oh, hey. Can I fix you fellas some drinks and sandwiches?"  />
+<DIALOGUE id="DI14" spans="2943~2967" text="No, we&apos;ve already eaten."  />
+<DIALOGUE id="DI15" spans="3048~3100" text="But you can clear some of this stuff out of the way."  />
+<DIALOGUE id="DI16" spans="3131~3152" text="Jerry, check this out"  />
+<DIALOGUE id="DI17" spans="3337~3352" text="No, you&apos;re not."  />
+<DIALOGUE id="DI18" spans="3486~3501" text="No, he doesn&apos;t."  />
+<DIALOGUE id="DI19" spans="3951~3982" text="Well, I just assumed you would."  />
+<DIALOGUE id="DI20" spans="4087~4102" text="Da-da-da-da no."  />
+<DIALOGUE id="DI21" spans="4184~4217" text="My, isn&apos;t this an awkward moment?"  />
+<DIALOGUE id="DI22" spans="4264~4288" text="What about the homeless?"  />
+<DIALOGUE id="DI23" spans="4393~4414" text="To pull the rickshaw."  />
+<RELATION id="R0" fromID="D0" fromText="Pointing" toID="DI0" toText=" Did you take that book with you into the bathroom?" relationship="occurs-while" />
+<RELATION id="R1" fromID="D1" fromText="Not sure what the answer should be" toID="DI1" toText="What do you want to hear?" relationship="occurs-while" />
+<RELATION id="R2" fromID="D2" fromText="Gesturing to the book" toID="DI2" toText="How dare they?!" relationship="occurs-while" />
+<RELATION id="R3" fromID="D3" fromText="Sarcastic" toID="DI3" toText="Yeah. I understand Guttenberg used to spend a lot of time in there." relationship="occurs-while" />
+<RELATION id="R4" fromID="D4" fromText="Reading the cover of the book George was forced to buy" toID="DI4" toText="&apos;French Impressionist Paintings&apos;?" relationship="occurs-while" />
+<RELATION id="R5" fromID="D5" fromText="Cutting him off" toID="DI5" toText="Thank you very much." relationship="occurs-while" />
+<RELATION id="R6" fromID="D6" fromText="Remembering" toID="DI6" toText="Oh, right. The big party.." relationship="occurs-while" />
+<RELATION id="R7" fromID="D7" fromText="Angered" toID="DI7" toText="No, I found a better way to humiliate myself." relationship="occurs-while" />
+<RELATION id="R8" fromID="D8" fromText="Rubbing it in" toID="DI8" toText="Ah, the drunken make-out." relationship="occurs-while" />
+<RELATION id="R9" fromID="D9" fromText="Gives Jerry a look" toID="DI9" toText="Do you know how embarrassing this is to someone in my position?" relationship="occurs-while" />
+<RELATION id="R10" fromID="D10" fromText="Confused" toID="DI10" toText="What&apos;s your position?" relationship="occurs-while" />
+<RELATION id="R11" fromID="D11" fromText="Liking the idea" toID="DI11" toText="Ohh.. right." relationship="occurs-while" />
+<RELATION id="R12" fromID="D12" fromText="Sarcastic" toID="DI12" toText="Oh, bravo." relationship="occurs-while" />
+<RELATION id="R13" fromID="D13" fromText="Sarcastic" toID="DI13" toText="Oh, hey. Can I fix you fellas some drinks and sandwiches?" relationship="occurs-while" />
+<RELATION id="R14" fromID="D14" fromText="Taking his offer seriously" toID="DI14" toText="No, we&apos;ve already eaten." relationship="occurs-while" />
+<RELATION id="R15" fromID="D15" fromText="Gesturing to dishes and silverware on the table" toID="DI15" toText="But you can clear some of this stuff out of the way." relationship="occurs-while" />
+<RELATION id="R16" fromID="D16" fromText="Pointing at some papers on the table" toID="DI16" toText="Jerry, check this out" relationship="occurs-while" />
+<RELATION id="R17" fromID="D17" fromText="Jokingly trying to be skeptical" toID="DI17" toText="No, you&apos;re not." relationship="occurs-while" />
+<RELATION id="R18" fromID="D18" fromText="Still skeptical" toID="DI18" toText="No, he doesn&apos;t." relationship="occurs-while" />
+<RELATION id="R19" fromID="D19" fromText="To Newman" toID="DI19" toText="Well, I just assumed you would." relationship="occurs-while" />
+<RELATION id="R20" fromID="D20" fromText="Stopping his thought" toID="DI20" toText="Da-da-da-da no." relationship="occurs-while" />
+<RELATION id="R21" fromID="D21" fromText="Extremely happy about Kramer and Newman&apos;s dilemma" toID="DI21" toText="My, isn&apos;t this an awkward moment?" relationship="occurs-while" />
+<RELATION id="R22" fromID="D22" fromText="Brainstorming" toID="DI22" toText="What about the homeless?" relationship="occurs-while" />
+<RELATION id="R23" fromID="D23" fromText="Explaining" toID="DI23" toText="To pull the rickshaw." relationship="occurs-while" />
+</TAGS>
+</TemporalDirections>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalDirections>
+<TEXT><![CDATA[259,PAMELA,"(shakes Jerry's hand) Yes, we met.",1.0,S01E01,1.0
+260,JERRY,"Hi, happy birthday.",1.0,S01E01,1.0
+261,PAMELA,"Thanks, ah, everybody, this is Elaine and Jerry.",1.0,S01E01,1.0
+262,"GUESTS, JERRY & ELAINE",Hi,1.0,S01E01,1.0
+263,JERRY,I didnt bring anything.,1.0,S01E01,1.0
+264,PAMELA,"Uh, I put you two right here.",1.0,S01E01,1.0
+265,JERRY,"Oh, Okay (turns to rest of table) Im sorry, I didnt know what to bring, nobody told me.",1.0,S01E01,1.0
+266,VANESSA,How big a tip do you think itd take to get him to stop?,1.0,S01E01,1.0
+267,JERRY,Im in for five...,1.0,S01E01,1.0
+268,VANESSA,Ill supply the hat.,1.0,S01E01,1.0
+]]></TEXT>
+<TAGS>
+<DIRECTION id="D0" spans="13~32" text="shakes Jerry&apos;s hand" description="none" action="yes" />
+<DIRECTION id="D1" spans="362~384" text="turns to rest of table" description="none" action="yes" />
+<DIALOGUE id="DI0" spans="34~45" text="Yes, we met"  />
+<DIALOGUE id="DI1" spans="386~438" text="Im sorry, I didnt know what to bring, nobody told me"  />
+<RELATION id="R0" fromID="D0" fromText="shakes Jerry&apos;s hand" toID="DI0" toText="Yes, we met" relationship="occurs-while" />
+<RELATION id="R1" fromID="D1" fromText="turns to rest of table" toID="DI1" toText="Im sorry, I didnt know what to bring, nobody told me" relationship="occurs-while" />
+</TAGS>
+</TemporalDirections>

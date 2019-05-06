@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalDirections>
+<TEXT><![CDATA[,Character,Dialogue,EpisodeNo,SEID,Season
+52950,JERRY,Where did you get this?,18.0,S09E18,9.0
+52951,KRAMER,"Well, I got it from my cop buddy Doug.",18.0,S09E18,9.0
+52952,JERRY,You sure have a lot of friends. How come I never see any of these people?,18.0,S09E18,9.0
+52953,KRAMER,They want to know why they never see you.,18.0,S09E18,9.0
+52954,KRAMER,I'm gonna eat that later.,18.0,S09E18,9.0
+52955,JERRY,So they just gave you this?,18.0,S09E18,9.0
+52956,KRAMER,"Oh no, no,. no. I had to fish around in the evidence room for it. You know, they're all preoccupied, trying to hunt down this new psycho-serial killer, the Lopper. All right, I'll see ya.",18.0,S09E18,9.0
+52957,ELAINE,"Wait a minute, wait a minute. Who is the Lopper?",18.0,S09E18,9.0
+52958,KRAMER,"Oh, it's no big deal. It's just some guy who's been running around Riverside park-pffff. You know, cutting people's heads off.",18.0,S09E18,9.0
+52959,JERRY,How come I haven't read about this?,18.0,S09E18,9.0
+52960,KRAMER,"Well, you know, the police, they've been having some internal dissension about the name.",18.0,S09E18,9.0
+52961,ELAINE,Really? What're the other titles?,18.0,S09E18,9.0
+52962,KRAMER,"Uh, Headso...uh...The Denogginizer...Son of dad.",18.0,S09E18,9.0
+52963,JERRY,Son of dad?,18.0,S09E18,9.0
+52964,KRAMER,Yeah. That was my suggestion. It's sort of a catchall.,18.0,S09E18,9.0
+52965,GEORGE,Mario's Pizza.,18.0,S09E18,9.0
+52966,GEORGE,"Just as she was. Hey, Mario! Remember us?",18.0,S09E18,9.0
+52967,MARIO,No.,18.0,S09E18,9.0
+52968,JERRY,We used to come in every day.,18.0,S09E18,9.0
+52969,MARIO,So where ya been? We're tanking here.,18.0,S09E18,9.0
+52970,GEORGE,We'll have 2 slices and 2 grape sodas.,18.0,S09E18,9.0
+52971,MARIO,"Oh, thanks. That'll save us.",18.0,S09E18,9.0
+52972,JERRY,"All right, make it the large sodas.",18.0,S09E18,9.0
+52973,GEORGE,"Hey, Jerry, remember Frogger? I used to be so into this game. Gettin' that frog across the street was my entire life.",18.0,S09E18,9.0
+52974,JERRY,"Yeah. And then you went on to...Well, it's a good game.",18.0,S09E18,9.0
+52975,GEORGE,Double jump! Eat the fly! Eat it!,18.0,S09E18,9.0
+52976,BOY,Thanks a lot.,18.0,S09E18,9.0
+52977,GEORGE,"Ah, beat it, punk.",18.0,S09E18,9.0
+52978,JERRY,"Hey, look at the high score--""G.L.C."" George Louis Costanza. That's not you, is it?",18.0,S09E18,9.0
+52979,GEORGE,"Yes! 860,000. I can't believe it's still standing. No one has beaten me in like 10 years.",18.0,S09E18,9.0
+52980,JERRY,I remember that night.,18.0,S09E18,9.0
+52981,GEORGE,The perfect combination of Mountain Dew and mozzarella...just the right amount of grease on the joy stick...,18.0,S09E18,9.0
+52982,MARIO,Here's your pizza pea brains.,18.0,S09E18,9.0
+52983,JERRY,I think I remember why we stopped coming here.,18.0,S09E18,9.0
+52984,GEORGE,Yeah.,18.0,S09E18,9.0
+52985,ELAINE (thinking),This pen smells really bad. So why do I keep smelling it? Is it too late for me to go to law school?,18.0,S09E18,9.0
+52986,ELAINE,What is this?,18.0,S09E18,9.0
+52987,MALE WORKER,"You were out sick yesterday, so we got you a get-well cake.",18.0,S09E18,9.0
+52988,FEMALE WORKER,It's carrot. It's good for you.,18.0,S09E18,9.0
+52989,WORKERS (singing),"Get well get well soon, we wish you to get--",18.0,S09E18,9.0
+52990,ELAINE,"Stop it! That's not even a song! I mean, now we're celebrating a sick day?",18.0,S09E18,9.0
+52991,MALE WORKER,I think it's nice.,18.0,S09E18,9.0
+52992,ELAINE,"What? What is nice? Trying to fill the void in your life with flour and sugar and egg and vanilla? I mean, we are all unhappy. Do we have to be fat, too? Not you Becky, I know you have a slow metabolism. I don't want one more piece of cake in my office!",18.0,S09E18,9.0
+52993,WORKER (singing),"Get well, get well soon--",18.0,S09E18,9.0
+52994,MALE WORKER,It's not happening.,18.0,S09E18,9.0
+52995,BECKY,Can we still it eat?,18.0,S09E18,9.0
+52996,JERRY,"I'll tell you Lisi, I never expected that movie to--",18.0,S09E18,9.0
+52997,LISI,End under water?,18.0,S09E18,9.0
+52998,JERRY,"Be that long. I mean, most action movies are--",18.0,S09E18,9.0
+52999,LISI,So much more violent.,18.0,S09E18,9.0
+]]></TEXT>
+<TAGS>
+<DIRECTION id="D0" spans="2818~2826" text="thinking" description="none" action="no" />
+<DIRECTION id="D1" spans="3167~3174" text="singing" description="none" action="yes" />
+<DIRECTION id="D2" spans="3697~3704" text="singing" description="none" action="yes" />
+<DIALOGUE id="DI0" spans="2828~2928" text="This pen smells really bad. So why do I keep smelling it? Is it too late for me to go to law school?"  />
+<DIALOGUE id="DI1" spans="3177~3221" text="Get well get well soon, we wish you to get--"  />
+<DIALOGUE id="DI2" spans="3707~3732" text="Get well, get well soon--"  />
+<RELATION id="R0" fromID="D2" fromText="singing" toID="DI2" toText="Get well, get well soon--" relationship="occurs-while" />
+<RELATION id="R1" fromID="D1" fromText="singing" toID="DI1" toText="Get well get well soon, we wish you to get--" relationship="occurs-while" />
+<RELATION id="R2" fromID="D0" fromText="thinking" toID="DI0" toText="This pen smells really bad. So why do I keep smelling it? Is it too late for me to go to law school?" relationship="occurs-while" />
+</TAGS>
+</TemporalDirections>

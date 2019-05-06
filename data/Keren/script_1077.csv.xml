@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalDirections>
+<TEXT><![CDATA[,Character,Dialogue,EpisodeNo,SEID,Season
+53800,ELAINE,No! I won't!,20.0,S09E20,9.0
+53801,PRIEST,Leave me! you must.,20.0,S09E20,9.0
+53802,ELAINE,All right. Take it easy.,20.0,S09E20,9.0
+53803,ELAINE,"All right, we can move faster without father o'gimpy.",20.0,S09E20,9.0
+53804,PRIEST,I heard that!,20.0,S09E20,9.0
+53805,LAMAR,"You know, I don't think I've ever seen a man driving a Saab convertible. Still haven't.",20.0,S09E20,9.0
+53806,JERRY (sarcastically),Ho ho!,20.0,S09E20,9.0
+53807,JERRY,"What seems to be the problem, officer?",20.0,S09E20,9.0
+53808,GEORGE,"They're for protection, Jerry. Can you tell where I'm lookin'?",20.0,S09E20,9.0
+53809,JERRY,At me?,20.0,S09E20,9.0
+53810,GEORGE,No.,20.0,S09E20,9.0
+53811,JERRY,Oh. It's back.,20.0,S09E20,9.0
+53812,GEORGE,"Bring it on, baby",20.0,S09E20,9.0
+53813,JERRY,What if it gets in the side?,20.0,S09E20,9.0
+53814,GEORGE,The side?,20.0,S09E20,9.0
+53815,JERRY,"Yeah. Wouldn't it just bounce back and forth between your cornea and the mirror, faster and faster, getting more and more intense, until finally-",20.0,S09E20,9.0
+53816,GEORGE,All right!,20.0,S09E20,9.0
+53817,JERRY,Oh. It's in your eye now.,20.0,S09E20,9.0
+53818,KRAMER,"Hola, Jerry! I'm into this Puerto Rican day! The sights! The sounds! The hot, spicy flavor of it all! It's caliente, Jerry!",20.0,S09E20,9.0
+53819,JERRY,"Kramer, the Mets have got men on base!",20.0,S09E20,9.0
+53820,KRAMER,"Yeah, I know! I was watchin' the game.",20.0,S09E20,9.0
+53821,JERRY,You were watchin'? Where?,20.0,S09E20,9.0
+53822,JERRY,"Oh, that was a strike! Did you see that?!",20.0,S09E20,9.0
+53823,SALES WOMAN,"Would you like to see the rest of the apartment, Mister, um--",20.0,S09E20,9.0
+53824,JERRY,"Eh...Varnsen. Kel Varnsen. Actually, this room intrigues me. Why is it called the TV room?",20.0,S09E20,9.0
+53825,SALES WOMAN,"Well, it's--",20.0,S09E20,9.0
+53826,JERRY,Balk?! How was that a balk?! You have any snacks?,20.0,S09E20,9.0
+53827,SALES WOMAN,"Mr. Varnsen, if you like the apartment, I should tell you I've also had some interest from a wealthy industrialist.",20.0,S09E20,9.0
+53828,JERRY,Not Pennypacker!,20.0,S09E20,9.0
+53829,SALES WOMAN,You know him?,20.0,S09E20,9.0
+53830,JERRY,"I wish I didn't. Brace yourself, madam, for an all-out bidding war. But this time, advantage Varnsen!",20.0,S09E20,9.0
+53831,GEORGE,"Wait a second. I think I see where that laser guy is. No! Don't look! Don't look. Oh, yeah, that's him. Ok. I'm gonna sneak up on him. Now the hunted becomes the hunter.",20.0,S09E20,9.0
+53832,ELAINE,We should be able to get across right through here!,20.0,S09E20,9.0
+53833,OLDER WOMAN,It's a dead end!,20.0,S09E20,9.0
+53834,ELAINE,"Oh, no! I thought--",20.0,S09E20,9.0
+53835,BUSINESS MAN,You thought?! We're gonna die in the dark! I knew it! I knew it! We're gonna die!,20.0,S09E20,9.0
+53836,ELAINE,Get a hold of yourself!,20.0,S09E20,9.0
+53837,PREGNANT WOMAN,"Oh, come on!",20.0,S09E20,9.0
+53838,ELAINE,Sorry. Somebody...help us!,20.0,S09E20,9.0
+53839,MAN,!Mira! !Mira! Stacy Keach!,20.0,S09E20,9.0
+53840,ELAINE,We're down here! Help!,20.0,S09E20,9.0
+53841,MAN,There's people down there! Hold on!,20.0,S09E20,9.0
+53842,ELAINE,Let us out. There's an unmarried pregnant woman down here.,20.0,S09E20,9.0
+53843,PREGNANT WOMAN,Don't judge me!,20.0,S09E20,9.0
+53844,ELAINE,Help us up so we can cross the street?,20.0,S09E20,9.0
+53845,POLICE OFFICER,"Nah, nah, You can't cross here. There's a parade.",20.0,S09E20,9.0
+53846,ELAINE,But we've come so far. We just want to unwind.,20.0,S09E20,9.0
+53847,POLICE OFFICER,"Hey, what can I tell ya?",20.0,S09E20,9.0
+53848,BUSINESS MAN,Wanna make out some more?,20.0,S09E20,9.0
+53849,ELAINE,"Oh, god! Let us out!",20.0,S09E20,9.0
+]]></TEXT>
+<TAGS>
+<DIRECTION id="D0" spans="446~459" text="sarcastically" description="manner" action="no" />
+<DIALOGUE id="DI0" spans="461~467" text="Ho ho!"  />
+<RELATION id="R0" fromID="D0" fromText="sarcastically" toID="DI0" toText="Ho ho!" relationship="occurs-while" />
+</TAGS>
+</TemporalDirections>

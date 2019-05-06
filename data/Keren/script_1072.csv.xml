@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalDirections>
+<TEXT><![CDATA[,Character,Dialogue,EpisodeNo,SEID,Season
+53550,JERRY,"Well, this is all very sophisticated.",19.0,S09E19,9.0
+53551,FIREMAN,"All right, hang on, Gammy! You're gonna make it!",19.0,S09E19,9.0
+53552,ELAINE,Aah!,19.0,S09E19,9.0
+53553,MAXWELL,"Hey, you look a little lost. You from around here?",19.0,S09E19,9.0
+53554,KRAMER,"Uh, no.",19.0,S09E19,9.0
+53555,MAXWELL,You know where you're going?,19.0,S09E19,9.0
+53556,KRAMER,"Not really. My friend was supposed to pick me up, but I don't know where he is.",19.0,S09E19,9.0
+53557,MAXWELL,Doesn't sound like much of a friend. You got any money?,19.0,S09E19,9.0
+53558,KRAMER,"Uh, no.",19.0,S09E19,9.0
+53559,MAXWELL,You wanna make some?,19.0,S09E19,9.0
+53560,KRAMER,Ok.,19.0,S09E19,9.0
+53561,MAXWELL,Do you know how to use a mop wringer?,19.0,S09E19,9.0
+53562,KRAMER,"Yeah, yeah.",19.0,S09E19,9.0
+53563,MAXWELL,Why don't you get in the car?,19.0,S09E19,9.0
+53564,KRAMER,Hi. Ahh...these are soft seats.,19.0,S09E19,9.0
+53565,KRUGER,"Hey, Koko, Who's this?",19.0,S09E19,9.0
+53566,GEORGE,"This is our new Vice-president of Acquisitions, sir.",19.0,S09E19,9.0
+53567,KRUGER,"So you're just hiring new people now? That's your job, to hire people?",19.0,S09E19,9.0
+53568,GEORGE,Yes?,19.0,S09E19,9.0
+53569,KRUGER,"Ok, good enough for me, Koko.",19.0,S09E19,9.0
+53570,KRUGER,"Ahem. Now, what's your name?",19.0,S09E19,9.0
+53571,COCO,My name is Coco. Coco Higgins.,19.0,S09E19,9.0
+53572,GEORGE,Coco?,19.0,S09E19,9.0
+53573,KRUGER,We can't have 2 Cocos. So I guess you're back to being George.,19.0,S09E19,9.0
+53574,GEORGE,"Well, it was a hell of a ride.",19.0,S09E19,9.0
+53575,KRUGER,"All right, the Grace building. There's a big stain on the front. How do we get it off?",19.0,S09E19,9.0
+53576,COCO,"When I was a little girl in Jamaica, my Gammy taught me to take a wet rag and in a circ--",19.0,S09E19,9.0
+53577,GEORGE,"Ah, excuse me, Vice-president Coco, no one cares about your Gammy.",19.0,S09E19,9.0
+53578,COCO,What did you say about my Gammy?,19.0,S09E19,9.0
+53579,GEORGE,Forget Gammy.,19.0,S09E19,9.0
+53580,KRUGER,Who's Gammy?,19.0,S09E19,9.0
+53581,GEORGE,There's no Gammy.,19.0,S09E19,9.0
+53582,KRUGER,Maybe there should be a Gammy.,19.0,S09E19,9.0
+53583,GEORGE,"Oh, no.",19.0,S09E19,9.0
+53584,KRUGER,George.,19.0,S09E19,9.0
+53585,ALL (chanting),Gammy! Gammy! Gammy! Gammy! Gammy! Gammy! Gammy!,19.0,S09E19,9.0
+53586,GEORGE,Gammy's gettin' upset!,19.0,S09E19,9.0
+53587,GEORGE,"Man, I'm starving.",20.0,S09E20,9.0
+53588,ELAINE,How can you be hungry after what you ate at that Mets game?,20.0,S09E20,9.0
+53589,GEORGE,Because ballpark food doesn't count as real food.,20.0,S09E20,9.0
+53590,JERRY,Right. It's just an activity. It's like that paddle with the ball and the rubber band.,20.0,S09E20,9.0
+53591,KRAMER,"You know, my friend Bob Saccamano made a fortune off of those. See he came up with the idea for the rubber band. Before that, people would just hit the ball, and it would fly away.",20.0,S09E20,9.0
+53592,JERRY,I can't believe you all made me leave before the end of the game.,20.0,S09E20,9.0
+53593,ELAINE,"Oh, come on, Jerry. It was 9 to nothing. We were getting shellacked.",20.0,S09E20,9.0
+53594,GEORGE,Those nachos are killing me.,20.0,S09E20,9.0
+53595,ELAINE,I thought you were hungry.,20.0,S09E20,9.0
+53596,GEORGE,It's complicated.,20.0,S09E20,9.0
+53597,KRAMER,"Come on, Jerry, you're going to miss the exit.",20.0,S09E20,9.0
+53598,JERRY,Keep your shirt on. I got it.,20.0,S09E20,9.0
+53599,ELAINE,Watch out for that maroon Golf.,20.0,S09E20,9.0
+]]></TEXT>
+<TAGS>
+<DIRECTION id="D0" spans="2274~2282" text="chanting" description="manner" action="yes" />
+<DIALOGUE id="DI0" spans="2284~2332" text="Gammy! Gammy! Gammy! Gammy! Gammy! Gammy! Gammy!"  />
+<RELATION id="R0" fromID="D0" fromText="chanting" toID="DI0" toText="Gammy! Gammy! Gammy! Gammy! Gammy! Gammy! Gammy!" relationship="occurs-while" />
+</TAGS>
+</TemporalDirections>

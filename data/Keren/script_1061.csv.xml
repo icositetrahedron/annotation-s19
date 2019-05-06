@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalDirections>
+<TEXT><![CDATA[,Character,Dialogue,EpisodeNo,SEID,Season
+53000,JERRY,Not as long.,18.0,S09E18,9.0
+53001,LISI,"Well, I should probably--",18.0,S09E18,9.0
+53002,JERRY,Get going.,18.0,S09E18,9.0
+53003,LISI,Yeah.,18.0,S09E18,9.0
+53004,JERRY,"Well, it was nice meeting you. I'm sure I'll see you--",18.0,S09E18,9.0
+53005,LISI,Eight tomorrow?,18.0,S09E18,9.0
+53006,JERRY,"Actually, that's--",18.0,S09E18,9.0
+53007,LISI,What you were thinking.,18.0,S09E18,9.0
+53008,JERRY,Right.,18.0,S09E18,9.0
+53009,GEORGE,"Oh! Here you are. Ha ha...You, uh, you want to--",18.0,S09E18,9.0
+53010,JERRY,Sure. (points at booth) How about this one?,18.0,S09E18,9.0
+53011,GEORGE,"Well, I'm doing it, Jerry. I'm buying the Frogger machine. Now the torch will burn forever.",18.0,S09E18,9.0
+53012,JERRY,"Fabulous. See, now you're really do something.",18.0,S09E18,9.0
+53013,GEORGE,"So, you want to come down to Mario's Pizza with me and help me pick up the Frogger?",18.0,S09E18,9.0
+53014,JERRY,"Hey, how you gonna keep the machine plugged in while you move it?",18.0,S09E18,9.0
+53015,GEORGE,What?,18.0,S09E18,9.0
+53016,JERRY,"Once you unplug the machine, all the scores will be erased.",18.0,S09E18,9.0
+53017,GEORGE,You're right. Why must there always be a problem? You'd think just once I could get a break. God knows I earned it with that score!,18.0,S09E18,9.0
+53018,KRAMER,"Well, more bad news Jerry.",18.0,S09E18,9.0
+53019,KRAMER,"You know the police, they found another victim of the Lopper in Riverside Park. I saw the photo, and it looked a lot like you.",18.0,S09E18,9.0
+53020,JERRY,"Oh, come on. There's a lot of people walking around the city that look like me.",18.0,S09E18,9.0
+53021,KRAMER,Not as many as there used to be.,18.0,S09E18,9.0
+53022,GEORGE,"No. I need a guy that can rig a Frogger machine so that I can move it without losing power, 'cause I have the high score. H-hello?",18.0,S09E18,9.0
+53023,KRAMER,"You know, George, you're not gonna find an electrician like that in the yellow pages. Now, I know just the guy who can do this.",18.0,S09E18,9.0
+53024,JERRY,Another friend?,18.0,S09E18,9.0
+53025,KRAMER,"Oh, no, no, no. This guy is no friend. In fact, we don't even get along.",18.0,S09E18,9.0
+53026,GEORGE,"Well, is he good, Kramer?",18.0,S09E18,9.0
+53027,KRAMER,"Oh, he's the best...and the worst.",18.0,S09E18,9.0
+53028,GEORGE,"Kramer, listen to me. I'm never gonna have a child. If I lose this Frogger high score, that's it for me.",18.0,S09E18,9.0
+53029,KRAMER,"Believe me George, you can count on Slippery Pete.",18.0,S09E18,9.0
+53030,GEORGE,Slippery Pete?,18.0,S09E18,9.0
+53031,KRAMER,"Yeah, I don't care for the name, either. In fact, that's one of the things that we argue about.",18.0,S09E18,9.0
+53032,GEORGE,"All right, I'm gonna find a guy with a truck. GLC must live on!",18.0,S09E18,9.0
+53033,JERRY,Come on.,18.0,S09E18,9.0
+53034,KRAMER,Dng-ga-gng-ga-wt.,18.0,S09E18,9.0
+53035,JERRY,Hello?,18.0,S09E18,9.0
+53036,ELAINE,So how's it going with my friend?,18.0,S09E18,9.0
+53037,JERRY,She's a sentence finisher. It's like dating Mad Libs.,18.0,S09E18,9.0
+53038,JERRY,What is that?,18.0,S09E18,9.0
+53039,ELAINE,"Oh, it's a cake party. It's the third one today. I didn't realize how hooked I got on that 400 sugar rush.",18.0,S09E18,9.0
+53040,JERRY,So join in.,18.0,S09E18,9.0
+53041,ELAINE,I can't. I denounced them. Maybe I'll go raid Peterman's fridge. He's always got a truffle or something in there.,18.0,S09E18,9.0
+53042,JERRY,All right.,18.0,S09E18,9.0
+53043,JERRY,"Hey, wh-what--",18.0,S09E18,9.0
+53044,KRAMER,Yeah. I dropped an egg. Be careful.,18.0,S09E18,9.0
+53045,ELAINE,Anybody here? Peterboy?,18.0,S09E18,9.0
+53046,ELAINE,"Ooh, it's a cake walk.",18.0,S09E18,9.0
+53047,PETERMAN (singing),"Get well, get well soon we wish you to get well.",18.0,S09E18,9.0
+53048,PETERMAN,"Ha ha ha ha...Oh, what a stirring little anthem of wellness.",18.0,S09E18,9.0
+53049,ELAINE,"Mr. Peterman, um--",18.0,S09E18,9.0
+]]></TEXT>
+<TAGS>
+<DIRECTION id="D0" spans="572~587" text="points at booth" description="reference" action="yes" />
+<DIRECTION id="D1" spans="3685~3692" text="singing" description="none" action="yes" />
+<DIALOGUE id="DI0" spans="589~608" text="How about this one?"  />
+<DIALOGUE id="DI1" spans="3695~3743" text="Get well, get well soon we wish you to get well."  />
+<RELATION id="R0" fromID="D0" fromText="points at booth" toID="DI0" toText="How about this one?" relationship="occurs-while" />
+<RELATION id="R1" fromID="D1" fromText="singing" toID="DI1" toText="Get well, get well soon we wish you to get well." relationship="occurs-while" />
+</TAGS>
+</TemporalDirections>

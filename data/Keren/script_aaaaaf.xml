@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalDirections>
+<TEXT><![CDATA[49,JERRY,Oh you are beautiful!,1.0,S01E01,1.0
+50,GEORGE,"...and, and maybe shell see me when she gets there, does this woman intend to spend time with me?",1.0,S01E01,1.0
+51,CLAIRE,"Id have to say, uuhh, no.",1.0,S01E01,1.0
+52,(George shows his note-block to Jerry; it says very largely,NO.),1.0,S01E01,1.0
+53,CLAIRE,To be polite.,1.0,S01E01,1.0
+54,GEORGE,To be polite. I rest my case.,1.0,S01E01,1.0
+55,JERRY,"Good. Did you have fun? You have no idea, what youre talking about, now, come on, come with me. (stands up) I gotta go get my stuff out of the dryer anyway.",1.0,S01E01,1.0
+56,GEORGE,Im not gonna watch you do laundry.,1.0,S01E01,1.0
+57,JERRY,"Oh, come on, be a come-with guy.",1.0,S01E01,1.0
+58,GEORGE,"Come on, Im tired.",1.0,S01E01,1.0
+]]></TEXT>
+<TAGS>
+<DIRECTION id="D0" spans="228~290" text="George shows his note-block to Jerry; it says very largely,NO." description="reference" action="yes" />
+<DIRECTION id="D1" spans="508~517" text="stands up" description="none" action="yes" />
+<DIALOGUE id="DI0" spans="182~206" text="Id have to say, uuhh, no"  />
+<DIALOGUE id="DI1" spans="518~566" text=" I gotta go get my stuff out of the dryer anyway"  />
+<RELATION id="R0" toID="DI0" toText="Id have to say, uuhh, no" fromID="D0" fromText="George shows his note-block to Jerry; it says very largely,NO." relationship="occurs-while" />
+<RELATION id="R1" toID="DI1" toText=" I gotta go get my stuff out of the dryer anyway" fromID="D1" fromText="stands up" relationship="occurs-while" />
+</TAGS>
+</TemporalDirections>

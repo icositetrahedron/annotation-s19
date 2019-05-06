@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalDirections>
+<TEXT><![CDATA[439,GEORGE,"(clears his throat) Im, uh, Im an architect.",1.0,S01E01,1.0
+440,VANESSA,Really. What do you design?,1.0,S01E01,1.0
+441,GEORGE,"Uh, railroads, uh...",1.0,S01E01,1.0
+442,VANESSA,I thought engineers do that.,1.0,S01E01,1.0
+443,GEORGE,They can...,1.0,S01E01,1.0
+444,JERRY,Yknow Im sorry you had to leave so early the other night.,1.0,S01E01,1.0
+445,VANESSA,"Oh, me too. My cousin had to go back to Boston.",1.0,S01E01,1.0
+446,JERRY,"Oh, that guy was your cousin! (walking in front of George so he gets the picture to leave)",1.0,S01E01,1.0
+447,VANESSA,"Yeah, and that woman was your...",1.0,S01E01,1.0
+448,JERRY,Friend!,1.0,S01E01,1.0
+]]></TEXT>
+<TAGS>
+<DIRECTION id="D0" spans="13~30" text="clears his throat" description="none" action="yes" />
+<DIRECTION id="D1" spans="473~531" text="walking in front of George so he gets the picture to leave" description="none" action="yes" />
+<DIALOGUE id="DI0" spans="32~56" text="Im, uh, Im an architect."  />
+<DIALOGUE id="DI1" spans="442~471" text="Oh, that guy was your cousin!"  />
+<RELATION id="R0" fromID="D1" fromText="walking in front of George so he gets the picture to leave" toID="DI1" toText="Oh, that guy was your cousin!" relationship="occurs-while" />
+<RELATION id="R1" fromID="D0" fromText="clears his throat" toID="DI0" toText="Im, uh, Im an architect." relationship="next-dialogue" />
+</TAGS>
+</TemporalDirections>

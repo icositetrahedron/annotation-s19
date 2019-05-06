@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalDirections>
+<TEXT><![CDATA[199,JERRY,"(answering) Yeah, hello...yes...yes, she is, hold on. (to Laura) Um, its for you.",1.0,S01E01,1.0
+200,LAURA,"(to the phone) Hello?... Hi!... No no it was great, right on time... No, I, Im gonna stay here tomorrow...yes, yes its fine... No, were goin on a boat ride... Dont be silly... Im not gonna have this conversation... Look, Ill call you tomorrow... Okay, bye. (She hangs up the phone.) Never get engaged.",1.0,S01E01,1.0
+201,JERRY,(not excited) Youre engaged?,1.0,S01E01,1.0
+202,LAURA,"You, you really have no idea what its like until you actually do it. And Im on this emotional roller coaster.",1.0,S01E01,1.0
+203,JERRY,Youre engaged?,1.0,S01E01,1.0
+204,LAURA,"You know, I cant believe it myself sometimes. You have to start thinking in terms of we. Ugh, its a very stressful situation.",1.0,S01E01,1.0
+205,JERRY,(matter-of-factly) Youre engaged.,1.0,S01E01,1.0
+206,LAURA,"Yeah, yeah, hes a great guy...",1.0,S01E01,1.0
+207,JERRY,Yeah.,1.0,S01E01,1.0
+208,LAURA,"Youd really like him, you know, I cant wait to get on that boat.",1.0,S01E01,1.0
+]]></TEXT>
+<TAGS>
+<DIRECTION id="D0" spans="12~21" text="answering" description="manner" action="yes" />
+<DIRECTION id="D1" spans="66~74" text="to Laura" description="addressee" action="no" />
+<DIRECTION id="D2" spans="121~133" text="to the phone" description="addressee" action="no" />
+<DIRECTION id="D3" spans="378~400" text="She hangs up the phone" description="none" action="yes" />
+<DIRECTION id="D4" spans="449~460" text="not excited" description="manner" action="no" />
+<DIRECTION id="D5" spans="833~849" text="matter-of-factly" description="manner" action="no" />
+<DIALOGUE id="DI0" spans="23~63" text="Yeah, hello...yes...yes, she is, hold on"  />
+<DIALOGUE id="DI1" spans="76~91" text="Um, its for you"  />
+<DIALOGUE id="DI2" spans="135~375" text="Hello?... Hi!... No no it was great, right on time... No, I, Im gonna stay here tomorrow...yes, yes its fine... No, were goin on a boat ride... Dont be silly... Im not gonna have this conversation... Look, Ill call you tomorrow... Okay, bye"  />
+<DIALOGUE id="DI3" spans="403~420" text="Never get engaged"  />
+<DIALOGUE id="DI4" spans="462~475" text="Youre engaged"  />
+<DIALOGUE id="DI5" spans="851~864" text="Youre engaged"  />
+<RELATION id="R0" fromID="D0" fromText="answering" toID="DI0" toText="Yeah, hello...yes...yes, she is, hold on" relationship="occurs-while" />
+<RELATION id="R1" fromID="D1" fromText="to Laura" toID="DI1" toText="Um, its for you" relationship="occurs-while" />
+<RELATION id="R2" fromID="D2" fromText="to the phone" toID="DI2" toText="Hello?... Hi!... No no it was great, right on time... No, I, Im gonna stay here tomorrow...yes, yes its fine... No, were goin on a boat ride... Dont be silly... Im not gonna have this conversation... Look, Ill call you tomorrow... Okay, bye" relationship="occurs-while" />
+<RELATION id="R3" fromID="D3" fromText="She hangs up the phone" toID="DI3" toText="Never get engaged" relationship="next-dialogue" />
+<RELATION id="R4" fromID="D4" fromText="not excited" toID="DI4" toText="Youre engaged" relationship="occurs-while" />
+<RELATION id="R5" fromID="D5" fromText="matter-of-factly" toID="DI5" toText="Youre engaged" relationship="occurs-while" />
+</TAGS>
+</TemporalDirections>

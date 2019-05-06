@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalDirections>
+<TEXT><![CDATA[349,HELEN & MORTY,"Oh, well...",1.0,S01E01,1.0
+350,JERRY,And there was a little problem with the physical chemistry.,1.0,S01E01,1.0
+351,HELEN,"Well, I think shes a very attractive girl.",1.0,S01E01,1.0
+352,JERRY,"Oh, she is, she absolutely is.",1.0,S01E01,1.0
+353,HELEN,I can see if there was a weight problem...,1.0,S01E01,1.0
+354,JERRY,"No, its not that. It wasnt all one-sided.",1.0,S01E01,1.0
+355,HELEN,"You know, you cant be so particular. Nobodys perfect.",1.0,S01E01,1.0
+356,JERRY,"I know, I know...",1.0,S01E01,1.0
+357,MORTY,"Yknow Jerry, its a good thing I wasnt so particular.",1.0,S01E01,1.0
+358,HELEN,"(hits Morty) Idiot. (to Jerry) So whore you looking for, Sophia Loren?",1.0,S01E01,1.0
+]]></TEXT>
+<TAGS>
+<DIRECTION id="D1" spans="615~625" text="hits Morty" description="none" action="yes" />
+<DIRECTION id="D2" spans="635~643" text="to Jerry" description="addressee" action="no" />
+<DIALOGUE id="DI0" spans="627~632" text="Idiot"  />
+<DIALOGUE id="DI1" spans="645~684" text="So whore you looking for, Sophia Loren?"  />
+<RELATION id="R0" fromID="D2" fromText="to Jerry" toID="DI1" toText="So whore you looking for, Sophia Loren?" relationship="occurs-while" />
+<RELATION id="R1" fromID="D1" fromText="hits Morty" toID="DI0" toText="Idiot" relationship="occurs-while" />
+</TAGS>
+</TemporalDirections>

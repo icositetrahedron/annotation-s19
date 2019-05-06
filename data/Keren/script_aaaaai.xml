@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalDirections>
+<TEXT><![CDATA[79,GEORGE,Youre gonna overdry it.,1.0,S01E01,1.0
+80,JERRY,"You, you cant overdry.",1.0,S01E01,1.0
+81,GEORGE,Why not?,1.0,S01E01,1.0
+82,JERRY,"Same as you cant overwet. You see, once something is wet, its wet. Same thing with death. Like once you die youre dead, right? Lets say you drop dead and I shoot you. Youre not gonna die again, youre already dead. You cant overdie, you cant overdry.",1.0,S01E01,1.0
+83,GEORGE,(to the other laundry patrons) Any questions?,1.0,S01E01,1.0
+84,JERRY,How could she not tell me where she was staying?,1.0,S01E01,1.0
+85,GEORGE,Look at that. Theyre done!,1.0,S01E01,1.0
+86,JERRY,"Laundry day is the only exciting day in the life of clothes. It is...yknow, think about it. The washing machine is the nightclub of clothes. You know, its dark, theres bubbles happening, theyre all kinda dancing around in there- shirt grabs the underwear, Cmon babe, lets go. You come by, you open up the lid and theyll- (stiffens up, as the clothes) Socks are the most amazing article of clothing. They hate their lives, theyre in the shoes with stinky feet, the boring drawers. The dryer is their only chance to escape and they all know it. They knew a escape from the dryer. They plan it in the hamper the night before, Tomorrow, the dryer, Im goin. You wait here! The dryer door swings open and the sock is waiting up against the side wall. He hopes you dont see him and then he goes down the road. They get buttons sewn on their faces, join a puppet show. So theyre showing me on television the detergent for getting out bloodstains. Is this a violent image to anybody? Bloodstains? I mean, come on, you got a T-shirt with bloodstains all over it, maybe laundry isnt your biggest problem right now. You gotta get the harpoon out your chest first.",1.0,S01E01,1.0
+87,JERRY,"(answering, quickly) If you know what happened in the Met game, dont say anything, I taped it, hello. Yeah, no, Im sorry, you have the wrong number. Yeah, no",1.0,S01E01,1.0
+88,JERRY,(to the door) Yeah?,1.0,S01E01,1.0
+]]></TEXT>
+<TAGS>
+<DIRECTION id="D0" spans="419~447" text="to the other laundry patrons" description="addressee" action="no" />
+<DIRECTION id="D1" spans="1793~1802" text="answering" description="none" action="yes" />
+<DIRECTION id="D2" spans="1804~1811" text="quickly" description="manner" action="no" />
+<DIRECTION id="D3" spans="1976~1987" text="to the door" description="addressee" action="no" />
+<DIALOGUE id="DI0" spans="449~462" text="Any questions"  />
+<DIALOGUE id="DI1" spans="1813~1892" text="If you know what happened in the Met game, dont say anything, I taped it, hello"  />
+<DIALOGUE id="DI2" spans="1989~1993" text="Yeah"  />
+<RELATION id="R0" fromID="D0" fromText="to the other laundry patrons" toID="DI0" toText="Any questions" relationship="occurs-while" />
+<RELATION id="R1" fromID="D1" fromText="answering" toID="DI1" toText="If you know what happened in the Met game, dont say anything, I taped it, hello" relationship="occurs-while" />
+<RELATION id="R2" fromID="D2" fromText="quickly" toID="DI1" toText="If you know what happened in the Met game, dont say anything, I taped it, hello" relationship="occurs-while" />
+<RELATION id="R3" fromID="D3" fromText="to the door" toID="DI2" toText="Yeah" relationship="occurs-while" />
+</TAGS>
+</TemporalDirections>

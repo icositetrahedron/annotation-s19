@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalDirections>
+<TEXT><![CDATA[419,JERRY,Never. (The elevator door opens.) Wait a second. Thats her. On the right.,1.0,S01E01,1.0
+420,GEORGE,(anxious) I forgot who I am! Who am I?!,1.0,S01E01,1.0
+421,JERRY,Youre you. Were having lunch with Art Corvelay.,1.0,S01E01,1.0
+422,GEORGE,Vandelay!,1.0,S01E01,1.0
+423,JERRY,Corvelay!,1.0,S01E01,1.0
+424,GEORGE,Let me be the architect! I can do it!,1.0,S01E01,1.0
+425,JERRY,"Hey, hey. uh Pamelas birthday party, didnt I see you there? Jerry.",1.0,S01E01,1.0
+426,VANESSA,Sure! Hi!,1.0,S01E01,1.0
+427,JERRY,"Uh, this is George. (reaches for her name) Im sorry...",1.0,S01E01,1.0
+428,VANESSA,Vanessa.,1.0,S01E01,1.0
+]]></TEXT>
+<TAGS>
+<DIRECTION id="D0" spans="18~42" text="The elevator door opens." description="none" action="no" />
+<DIRECTION id="D1" spans="111~118" text="anxious" description="manner" action="no" />
+<DIRECTION id="D2" spans="536~556" text="reaches for her name" description="none" action="no" />
+<DIALOGUE id="DI0" spans="44~82" text="Wait a second. Thats her. On the right"  />
+<DIALOGUE id="DI1" spans="120~149" text="I forgot who I am! Who am I?!"  />
+<DIALOGUE id="DI2" spans="558~569" text="Im sorry..."  />
+<RELATION id="R0" fromID="D2" fromText="reaches for her name" toID="DI2" toText="Im sorry..." relationship="next-dialogue" />
+<RELATION id="R1" fromID="D1" fromText="anxious" toID="DI1" toText="I forgot who I am! Who am I?!" relationship="occurs-while" />
+<RELATION id="R2" fromID="D0" fromText="The elevator door opens." toID="DI0" toText="Wait a second. Thats her. On the right" relationship="next-dialogue" />
+</TAGS>
+</TemporalDirections>
