@@ -1,3 +1,5 @@
+import re
+from csv import reader
 from collections import defaultdict
 from nltk.metrics.agreement import AnnotationTask
 import xml.etree.ElementTree as ET
@@ -19,6 +21,28 @@ def get_tagged_lines(filenames):
             tagged_lines_count[line] += 1
     return tagged_lines_count
 
+def normalize_line_char(line_num, char_num, text):
+    #print(line_num, char_num)
+    line = list(filter(lambda L: int(L[0])==int(line_num), text))[0]
+    char_init = len(line[0]) + 1
+    parts1 = re.split(r"[()]", line[1])
+    parts2 = re.split(r"[()]", line[2])
+    part = -1
+    part_start_char = 0
+    for i in range(len(parts1)):
+        part_end_char = part_start_char + len(parts1[i])
+        modified_char_num = int(char_num) - char_init
+        if part_start_char <= modified_char_num and modified_char_num <= part_end_char:
+            part = i
+        part_start_char = part_end_char + 1
+    part_start_char += 1
+    for i in range(len(parts2)):
+        part_end_char = part_start_char + len(parts2[i])
+        modified_char_num = int(char_num) - char_init
+        if part_start_char <= modified_char_num and modified_char_num <= part_end_char:
+            part = len(parts1) + i
+        part_start_char = part_end_char + 1
+    return "{}.{}".format(line_num, part)
 
 def xml_to_triples(filename, tag_filter):
     id_to_location = {}
@@ -30,14 +54,16 @@ def xml_to_triples(filename, tag_filter):
     annotator_id = filename.split("/")[-1].split(".")[0]
     main = ET.parse(filename).getroot().find("TemporalDirections")
     if main is not None:
+        try:
+            text = list(filter(lambda L: len(L) == 6 and len(L[0].split())!=0,
+                               reader(main.find("TEXT").text.split("\n"))))
+        except:
+            text = None
         tags = main.find("TAGS")
-        if tags is not None:
+        if tags is not None and text is not None:
             for tag in sorted(tags, key=lambda t: t.tag):
                 if tag.tag != "RELATION" and tag_filter(tag):
-                    location = "{}.{}~{}.{}".format(tag.attrib["span_start_line"],
-                                                    tag.attrib["span_start_char"],
-                                                    tag.attrib["span_end_line"],
-                                                    tag.attrib["span_end_char"])
+                    location = normalize_line_char(tag.attrib["span_start_line"], tag.attrib["span_start_char"], text)
                     id_to_location[tag.attrib["id"]] = location
                     if tag.tag == "DIRECTION":
                         try:
