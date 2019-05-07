@@ -1,7 +1,26 @@
+from collections import defaultdict
 from nltk.metrics.agreement import AnnotationTask
 import xml.etree.ElementTree as ET
 
-def xml_to_triples(filename):
+def get_tagged_lines(filenames):
+    id_to_location = {}
+    tagged_lines_count = defaultdict(int)
+
+    for filename in filenames:
+        tagged_lines = set([])
+        main = ET.parse(filename).getroot().find("TemporalDirections")
+        if main is not None:
+            tags = main.find("TAGS")
+            if tags is not None:
+                for tag in filter(lambda t: t.tag != "RELATION", tags):
+                    tagged_lines.add(tag.attrib["span_start_line"])
+                    tagged_lines.add(tag.attrib["span_end_line"])
+        for line in tagged_lines:
+            tagged_lines_count[line] += 1
+    return tagged_lines_count
+
+
+def xml_to_triples(filename, tag_filter):
     id_to_location = {}
     description_triples = []
     action_triples = []
@@ -14,7 +33,7 @@ def xml_to_triples(filename):
         tags = main.find("TAGS")
         if tags is not None:
             for tag in sorted(tags, key=lambda t: t.tag):
-                if tag.tag != "RELATION":
+                if tag.tag != "RELATION" and tag_filter(tag):
                     location = "{}.{}~{}.{}".format(tag.attrib["span_start_line"],
                                                     tag.attrib["span_start_char"],
                                                     tag.attrib["span_end_line"],
@@ -37,23 +56,30 @@ def xml_to_triples(filename):
     return (description_triples, action_triples, relation_triples)
 
 def xmls_to_triples(filenames):
+    total_annotators = len(filenames)
     description_triples = []
     action_triples = []
     relation_triples = []
+    tagged_lines_count = get_tagged_lines(filenames)
+    def tag_filter(tag):
+        tagged_start_line_count = tagged_lines_count[tag.attrib["span_start_line"]]
+        tagged_end_line_count = tagged_lines_count[tag.attrib["span_end_line"]]
+        return tagged_start_line_count == total_annotators and tagged_end_line_count == total_annotators
     for filename in filenames:
-        triples = xml_to_triples(filename)
+        triples = xml_to_triples(filename, tag_filter)
         description_triples.extend(triples[0])
         action_triples.extend(triples[1])
         relation_triples.extend(triples[2])
     return (description_triples, action_triples, relation_triples)
 
-triples = xmls_to_triples(["xml_by_annotater/emily.xml",
-                           "xml_by_annotater/keren.xml",
-                           "xml_by_annotater/kristen.xml",
-                           "xml_by_annotater/jingdi.xml"])
+filenames = ["xml_by_annotater/keren.xml",
+             "xml_by_annotater/kristen.xml",
+             "xml_by_annotater/jingdi.xml"]
 
-print(triples[0])
-task = AnnotationTask(data=triples[0])
-print(task.C)
-print(task.kappa())
-print(task.alpha())
+triples = xmls_to_triples(filenames)
+
+for n in range(3):
+    task = AnnotationTask(data=triples[n])
+    print(task.C)
+    print("kappa:", task.multi_kappa())
+    print("alpha:", task.alpha())
