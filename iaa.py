@@ -116,4 +116,9 @@ filenames = ["xml_by_annotater/keren.xml",
 
 triples = xmls_to_triples(filenames)
 
-print(triples[2])
+
+for n in range(3):
+    task = AnnotationTask(data=triples[n])
+    print(task.C)
+    print("kappa:", task.multi_kappa())
+    print("alpha:", task.alpha())
