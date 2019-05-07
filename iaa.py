@@ -56,12 +56,15 @@ def xml_to_triples(filename, tag_filter):
     return (description_triples, action_triples, relation_triples)
 
 def xmls_to_triples(filenames):
+    total_annotators = len(filenames)
     description_triples = []
     action_triples = []
     relation_triples = []
-    tagged_lines = get_tagged_lines(filenames)
+    tagged_lines_count = get_tagged_lines(filenames)
     def tag_filter(tag):
-        return tagged_lines[tag.attrib["span_start_line"]] == 3 and tagged_lines[tag.attrib["span_end_line"]] == 3
+        tagged_start_line_count = tagged_lines[tag.attrib["span_start_line"]]
+        tagged_end_line_count = tagged_lines[tag.attrib["span_end_line"]]
+        return tagged_start_line_count == total_annotators and tagged_end_line_count == 3
     for filename in filenames:
         triples = xml_to_triples(filename, tag_filter)
         description_triples.extend(triples[0])
@@ -75,7 +78,6 @@ filenames = ["xml_by_annotater/keren.xml",
 
 triples = xmls_to_triples(filenames)
 
-print(triples[0])
 task = AnnotationTask(data=triples[0])
 print(task.C)
 print(task.multi_kappa())
