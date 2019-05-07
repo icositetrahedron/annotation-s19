@@ -109,6 +109,7 @@ def xmls_to_triples(filenames):
     action_triples = []
     relation_triples = []
     tagged_lines_count = get_tagged_lines(filenames)
+    tagged_ids_by_annotator = []
     def tag_filter(tag):
         tagged_start_line_count = tagged_lines_count[tag.attrib["span_start_line"]]
         tagged_end_line_count = tagged_lines_count[tag.attrib["span_end_line"]]
@@ -118,7 +119,8 @@ def xmls_to_triples(filenames):
         description_triples.extend(triples[0])
         action_triples.extend(triples[1])
         relation_triples.extend(triples[2])
-    return (remove_untagged(description_triples, triples[3]), remove_untagged(action_triples, triples[3]), relation_triples)
+        tagged_ids_by_annotator.append(triples[3])
+    return (remove_untagged(description_triples, tagged_ids_by_annotator), remove_untagged(action_triples, tagged_ids_by_annotator), relation_triples)
 
 filenames = ["xml_by_annotater/keren.xml",
              "xml_by_annotater/kristen.xml",
