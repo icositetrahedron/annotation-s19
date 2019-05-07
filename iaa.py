@@ -21,12 +21,15 @@ def get_tagged_lines(filenames):
             tagged_lines_count[line] += 1
     return tagged_lines_count
 
+def line_as_parts(line):
+    char_init = len(line[0]) + 1
+    return (re.split(r"[()]", line[1]), re.split(r"[()]", line[2]))
+
 def normalize_line_char(line_num, char_num, text):
     #print(line_num, char_num)
     line = list(filter(lambda L: int(L[0])==int(line_num), text))[0]
     char_init = len(line[0]) + 1
-    parts1 = re.split(r"[()]", line[1])
-    parts2 = re.split(r"[()]", line[2])
+    (parts1, parts2) = line_as_parts(line)
     part = -1
     part_start_char = 0
     for i in range(len(parts1)):
@@ -50,6 +53,7 @@ def xml_to_triples(filename, tag_filter):
     action_triples = []
     relation_triples = []
     malformed_tags = []
+    tagged_ids = set([])
 
     annotator_id = filename.split("/")[-1].split(".")[0]
     main = ET.parse(filename).getroot().find("TemporalDirections")
@@ -67,8 +71,9 @@ def xml_to_triples(filename, tag_filter):
                     id_to_location[tag.attrib["id"]] = location
                     if tag.tag == "DIRECTION":
                         try:
-                            description_triples.append([annotator_id, location, tag.attrib["description"]])
-                            action_triples.append([annotator_id, location, tag.attrib["action"]])
+                            description_triples.append((annotator_id, location, tag.attrib["description"]))
+                            action_triples.append((annotator_id, location, tag.attrib["action"]))
+                            tagged_ids.add(location)
                         except:
                             malformed_tags.append(tag)
                 else:
@@ -76,9 +81,16 @@ def xml_to_triples(filename, tag_filter):
                         fromLocation = id_to_location[tag.attrib["fromID"]]
                         toLocation = id_to_location[tag.attrib["toID"]]
                         location = "{}-{}".format(fromLocation, toLocation)
-                        relation_triples.append([annotator_id, location, tag.attrib["relationship"]])
+                        relation_triples.append((annotator_id, location, tag.attrib["relationship"]))
                     except:
                         malformed_tags.append(tag)
+            for line in text:
+                parts = line_as_parts(line)
+                parts = parts[0] + parts[1]
+                for part in parts:
+                    if "{}.{}".format(line, part) not in tagged_ids:
+                        description_triples.append((annotator_id, location, "untagged"))
+                        action_triples.append((annotator_id, location, "untagged"))
     return (description_triples, action_triples, relation_triples)
 
 def xmls_to_triples(filenames):
@@ -104,8 +116,4 @@ filenames = ["xml_by_annotater/keren.xml",
 
 triples = xmls_to_triples(filenames)
 
-for n in range(3):
-    task = AnnotationTask(data=triples[n])
-    print(task.C)
-    print("kappa:", task.multi_kappa())
-    print("alpha:", task.alpha())
+print(triples[2])
