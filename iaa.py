@@ -64,7 +64,7 @@ def xmls_to_triples(filenames):
     def tag_filter(tag):
         tagged_start_line_count = tagged_lines_count[tag.attrib["span_start_line"]]
         tagged_end_line_count = tagged_lines_count[tag.attrib["span_end_line"]]
-        return tagged_start_line_count == total_annotators and tagged_end_line_count == 3
+        return tagged_start_line_count == total_annotators and tagged_end_line_count == total_annotators
     for filename in filenames:
         triples = xml_to_triples(filename, tag_filter)
         description_triples.extend(triples[0])
