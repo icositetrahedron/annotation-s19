@@ -54,6 +54,7 @@ def xml_to_triples(filename, tag_filter):
     relation_triples = []
     malformed_tags = []
     tagged_ids = set([])
+    untagged_ids = set([])
 
     annotator_id = filename.split("/")[-1].split(".")[0]
     main = ET.parse(filename).getroot().find("TemporalDirections")
@@ -91,7 +92,16 @@ def xml_to_triples(filename, tag_filter):
                     if "{}.{}".format(line, part) not in tagged_ids:
                         description_triples.append((annotator_id, location, "untagged"))
                         action_triples.append((annotator_id, location, "untagged"))
-    return (description_triples, action_triples, relation_triples)
+    return (description_triples, action_triples, relation_triples, tagged_ids)
+
+def remove_untagged(triples, tagged_ids_by_annotator):
+    def in_some_annotation(triple):
+        location = triple[1]
+        for tagged_ids in tagged_ids_by_annotator:
+            if location in tagged_ids:
+                return True
+        return False
+    return list(filter(in_some_annotation, triples))
 
 def xmls_to_triples(filenames):
     total_annotators = len(filenames)
@@ -108,7 +118,7 @@ def xmls_to_triples(filenames):
         description_triples.extend(triples[0])
         action_triples.extend(triples[1])
         relation_triples.extend(triples[2])
-    return (description_triples, action_triples, relation_triples)
+    return (remove_untagged(description_triples, triples[3]), remove_untagged(action_triples, triples[3]), relation_triples)
 
 filenames = ["xml_by_annotater/keren.xml",
              "xml_by_annotater/kristen.xml",
