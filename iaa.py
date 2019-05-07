@@ -72,9 +72,10 @@ def xml_to_triples(filename, tag_filter):
                     id_to_location[tag.attrib["id"]] = location
                     if tag.tag == "DIRECTION":
                         try:
-                            description_triples.append((annotator_id, location, tag.attrib["description"]))
-                            action_triples.append((annotator_id, location, tag.attrib["action"]))
-                            tagged_ids.add(location)
+                            if location not in tagged_ids:
+                                description_triples.append((annotator_id, location, tag.attrib["description"]))
+                                action_triples.append((annotator_id, location, tag.attrib["action"]))
+                                tagged_ids.add(location)
                         except:
                             malformed_tags.append(tag)
                 else:
