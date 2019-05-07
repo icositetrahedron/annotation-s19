@@ -89,8 +89,9 @@ def xml_to_triples(filename, tag_filter):
             for line in text:
                 parts = line_as_parts(line)
                 parts = parts[0] + parts[1]
-                for part in parts:
-                    if "{}.{}".format(line, part) not in tagged_ids:
+                for part in range(1, len(parts)):
+                    location = "{}.{}".format(line, part)
+                    if location not in tagged_ids:
                         description_triples.append((annotator_id, location, "untagged"))
                         action_triples.append((annotator_id, location, "untagged"))
     return (description_triples, action_triples, relation_triples, tagged_ids)
