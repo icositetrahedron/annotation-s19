@@ -81,5 +81,5 @@ triples = xmls_to_triples(filenames)
 for n in range(3):
     task = AnnotationTask(data=triples[n])
     print(task.C)
-    print(task.multi_kappa())
-    print(task.alpha())
+    print("kappa:", task.multi_kappa())
+    print("alpha:", task.alpha())
