@@ -46,6 +46,8 @@ filenames = ["xml_by_annotater/keren.xml",
              "xml_by_annotater/kristen.xml",
              "xml_by_annotater/jingdi.xml"]
 
+(description_gold, action_gold, relation_gold) = xml_to_data("itsgoldjerry.xml")
+
 (description_data, action_data, relation_data) = ([], [], [])
 for filename in filenames:
     data = xml_to_data(filename)
@@ -58,11 +60,23 @@ for filename in filenames:
 (train_set, test_set) = split_data(data_as_features(description_data))
 classifier = nltk.NaiveBayesClassifier.train(train_set)
 print("description:", nltk.classify.accuracy(classifier, test_set))
+gold = [label for (text, label) in description_gold]
+test = [classifier.classify(features) for (features, label) in data_as_features(description_gold)]
+cm = nltk.ConfusionMatrix(gold, test)
+print(cm.pretty_format(sort_by_count=True, show_percents=True, truncate=9))
 
 (train_set, test_set) = split_data(data_as_features(action_data))
 classifier = nltk.NaiveBayesClassifier.train(train_set)
 print("action:", nltk.classify.accuracy(classifier, test_set))
+gold = [label for (text, label) in action_gold]
+test = [classifier.classify(features) for (features, label) in data_as_features(action_gold)]
+cm = nltk.ConfusionMatrix(gold, test)
+print(cm.pretty_format(sort_by_count=True, show_percents=True, truncate=9))
 
 (train_set, test_set) = split_data(data_as_features(relation_data))
 classifier = nltk.NaiveBayesClassifier.train(train_set)
 print("relation:", nltk.classify.accuracy(classifier, test_set))
+gold = [label for (text, label) in relation_gold]
+test = [classifier.classify(features) for (features, label) in data_as_features(relation_gold)]
+cm = nltk.ConfusionMatrix(gold, test)
+print(cm.pretty_format(sort_by_count=True, show_percents=True, truncate=9))
